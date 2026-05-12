@@ -7,12 +7,30 @@ const SOURCES = {
 let list;
 let progressFill;
 
+const BG_KEY = "bg-annotated";
+
+function applyBg(annotated) {
+  document.body.classList.toggle("bg-annotated", annotated);
+}
+
+function initBgToggle() {
+  applyBg(localStorage.getItem(BG_KEY) === "1");
+  const btn = document.getElementById("bg-toggle");
+  if (!btn) return;
+  btn.addEventListener("click", () => {
+    const next = !document.body.classList.contains("bg-annotated");
+    applyBg(next);
+    localStorage.setItem(BG_KEY, next ? "1" : "0");
+  });
+}
+
 function init() {
   list = document.getElementById("book-list");
   progressFill = document.querySelector(
     "#scroll-progress .progress-bar-filled",
   );
   list.addEventListener("scroll", onListScroll, { passive: true });
+  initBgToggle();
   render();
 }
 

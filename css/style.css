@@ -11,6 +11,45 @@ body {
   align-items: center;
 }
 
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url("../static/annonated.jpg") no-repeat center center;
+  background-size: cover;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  pointer-events: none;
+  z-index: -1;
+}
+
+body.bg-annotated::before {
+  opacity: 0.5;
+}
+
+.bg-toggle {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 10;
+  padding: 6px 12px;
+  font-family: inherit;
+  font-size: 0.8em;
+  color: var(--progress-bar-color);
+  background: rgba(0, 0, 0, 0.55);
+  border: 1px solid var(--progress-bar-color);
+  border-radius: 4px;
+  cursor: pointer;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+
+.bg-toggle:hover {
+  background: var(--progress-bar-color);
+  color: black;
+}
+
 .container {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4));
   padding: 2em;
@@ -23,6 +62,15 @@ body {
   text-align: center;
   overflow: hidden;
   transition: height 0.3s ease;
+}
+
+.description {
+  margin: 0 0 10px;
+  font-size: 1.2em;
+  font-style: italic;
+  font-family:
+    "Brush Script MT", "Snell Roundhand", "Lucida Handwriting", cursive;
+  color: #a09d9d;
 }
 
 .heading {
@@ -82,13 +130,12 @@ blockquote::after {
 
 .list {
   text-align: left;
-  max-height: 400px;
+  height: 40vh;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
   gap: 12px;
   padding: 30px;
-  height: 70%;
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
@@ -197,8 +244,14 @@ p {
     padding: 1em;
     border-radius: 4px;
     height: 100vh;
+    height: 100svh;
     display: flex;
     flex-direction: column;
+    transition: none;
+  }
+
+  .container > :not(.list) {
+    flex-shrink: 0;
   }
 
   .heading {
@@ -216,31 +269,19 @@ p {
     margin: 0.5em 0;
   }
 
-  .terminal-menu li {
-    display: inline-block;
-    z-index: 2;
-  }
-
   .terminal-menu a {
-    z-index: 2;
-  }
-  .terminal-menu a::after {
-    display: block;
-    z-index: 1;
-    position: absolute;
-    height: 0px;
-    width: 100%;
-    top: -20%;
-    background-color: var(--progress-bar-color);
-    margin-top: 4px;
-    opacity: 0.2;
-    transition: height 0.3s ease;
+    padding: 4px 10px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
   }
 
-  .terminal-menu a:hover::after,
-  .terminal-menu a:target::after {
-    height: 100%;
-    /* margin-top: 4px; */
+  .terminal-menu a::after {
+    display: none;
+  }
+
+  .terminal-menu a:hover,
+  .terminal-menu a:target {
+    background-color: rgba(76, 175, 80, 0.2);
   }
 
   .list {
