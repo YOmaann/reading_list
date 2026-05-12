@@ -2,8 +2,8 @@
   --progress-bar-color: #4caf50;
 }
 body {
-  height: 100vh;
-  width: 100vw;
+  min-height: 100vh;
+  margin: 0;
   background: url("../static/background.webp") no-repeat center center fixed;
   background-size: cover;
   display: flex;
@@ -12,12 +12,14 @@ body {
 }
 
 .container {
-  background-color: rgba(0, 0, 0, 0.4);
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4));
   padding: 2em;
   border-radius: 6px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   color: green;
-  width: 800px;
+  width: 100%;
+  max-width: 800px;
+  box-sizing: border-box;
   text-align: center;
   overflow: hidden;
   transition: height 0.3s ease;
@@ -103,11 +105,21 @@ blockquote::after {
   animation: fade-in-up 0.35s ease both;
 }
 
-#book-list > :nth-child(2) { animation-delay: 0.05s; }
-#book-list > :nth-child(3) { animation-delay: 0.1s; }
-#book-list > :nth-child(4) { animation-delay: 0.15s; }
-#book-list > :nth-child(5) { animation-delay: 0.2s; }
-#book-list > :nth-child(n+6) { animation-delay: 0.25s; }
+#book-list > :nth-child(2) {
+  animation-delay: 0.05s;
+}
+#book-list > :nth-child(3) {
+  animation-delay: 0.1s;
+}
+#book-list > :nth-child(4) {
+  animation-delay: 0.15s;
+}
+#book-list > :nth-child(5) {
+  animation-delay: 0.2s;
+}
+#book-list > :nth-child(n + 6) {
+  animation-delay: 0.25s;
+}
 
 @keyframes fade-in-up {
   from {
@@ -145,7 +157,9 @@ blockquote::after {
   text-align: center;
   border: 2px solid transparent;
   border-radius: 6px;
-  transition: border-color 0.2s ease, transform 0.2s ease;
+  transition:
+    border-color 0.2s ease,
+    transform 0.2s ease;
 }
 
 .art-tile:hover {
@@ -170,4 +184,113 @@ blockquote::after {
 
 p {
   --font-color: #a09d9d;
+}
+
+@media (max-width: 768px) {
+  body {
+    align-items: flex-start;
+    background-attachment: scroll;
+  }
+
+  .container {
+    margin: 12px;
+    padding: 1em;
+    border-radius: 4px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .heading {
+    font-size: 1.1em;
+    display: block;
+    text-align: center;
+  }
+
+  .terminal-menu ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px 16px;
+    padding: 0;
+    margin: 0.5em 0;
+  }
+
+  .terminal-menu li {
+    display: inline-block;
+    z-index: 2;
+  }
+
+  .terminal-menu a {
+    z-index: 2;
+  }
+  .terminal-menu a::after {
+    display: block;
+    z-index: 1;
+    position: absolute;
+    height: 0px;
+    width: 100%;
+    top: -20%;
+    background-color: var(--progress-bar-color);
+    margin-top: 4px;
+    opacity: 0.2;
+    transition: height 0.3s ease;
+  }
+
+  .terminal-menu a:hover::after,
+  .terminal-menu a:target::after {
+    height: 100%;
+    /* margin-top: 4px; */
+  }
+
+  .list {
+    padding: 40px 4px;
+    max-height: none;
+    height: auto;
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    gap: 16px;
+  }
+
+  blockquote {
+    padding-left: 1.2em !important;
+    padding-right: 0.6em !important;
+  }
+
+  blockquote::after {
+    left: 0.3em !important;
+  }
+
+  blockquote p {
+    font-size: 0.8em;
+  }
+
+  .list.is-art {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+
+  .art-tile {
+    padding: 6px;
+  }
+
+  .art-tile img {
+    height: 120px;
+  }
+
+  .art-tile figcaption {
+    font-size: 0.8em;
+  }
+}
+
+@media (max-width: 400px) {
+  .list.is-art {
+    grid-template-columns: 1fr;
+  }
+
+  .art-tile img {
+    height: 200px;
+  }
 }
