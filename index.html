@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>My Reading List</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/terminal.css@0.7.4/dist/terminal.min.css"
+    />
+
+    <script src="js/main.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="logo terminal-prompt heading">
+        <span>My Reading List</span>
+      </div>
+      <nav class="terminal-menu">
+        <ul>
+          <li><a href="#links" id="links">#Links</a></li>
+          <li><a href="#present" id="present">#Books</a></li>
+          <li><a href="#art" id="art">#Art</a></li>
+        </ul>
+      </nav>
+      <div class="progress-bar" id="scroll-progress">
+        <div class="progress-bar-filled" style="width: 0%"></div>
+      </div>
+      <div id="book-list" class="list"></div>
+    </div>
+  </body>
+</html>

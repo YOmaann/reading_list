@@ -1,0 +1,169 @@
+:root {
+  --progress-bar-color: #4caf50;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+  background: url("/static/background.webp") no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 2em;
+  border-radius: 6px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  color: green;
+  width: 800px;
+  text-align: center;
+  overflow: hidden;
+  transition: height 0.3s ease;
+}
+
+.heading {
+  display: inline;
+  text-align: left;
+  width: auto;
+  font-size: 1.4em;
+}
+
+.terminal-menu a {
+  position: relative;
+  display: inline-block;
+}
+
+.terminal-menu a::after {
+  content: "";
+  display: block;
+  width: 0;
+  background-color: var(--progress-bar-color);
+  height: 2px;
+  margin-top: 4px;
+  transition: width 0.3s ease;
+}
+
+.terminal-menu a:target::after,
+.terminal-menu a:hover::after {
+  width: 100%;
+}
+.heading h1 {
+  margin: 0;
+}
+
+blockquote {
+  margin: 20px 0;
+  padding-left: 2em !important;
+  padding-right: 1em !important;
+  text-align: justify;
+  --font-color: #a09d9d;
+}
+
+blockquote::after {
+  left: 1em !important;
+}
+
+#scroll-progress {
+  margin: 0 0 12px;
+  height: 4px;
+  border-radius: 2px;
+  background-color: rgba(76, 175, 80, 0.15);
+}
+
+#scroll-progress .progress-bar-filled {
+  height: 100%;
+  background-color: var(--progress-bar-color);
+  transition: width 0.1s linear;
+}
+
+.list {
+  text-align: left;
+  max-height: 400px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 30px;
+  height: 70%;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+#book-list::-webkit-scrollbar {
+  display: none;
+}
+
+#book-list .terminal-card {
+  margin: 0;
+}
+
+#book-list > * {
+  animation: fade-in-up 0.35s ease both;
+}
+
+#book-list > :nth-child(2) { animation-delay: 0.05s; }
+#book-list > :nth-child(3) { animation-delay: 0.1s; }
+#book-list > :nth-child(4) { animation-delay: 0.15s; }
+#book-list > :nth-child(5) { animation-delay: 0.2s; }
+#book-list > :nth-child(n+6) { animation-delay: 0.25s; }
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.end-smile {
+  text-align: center;
+  margin: 16px 0 4px;
+  font-weight: 600;
+  color: white;
+  font-style: italic;
+}
+
+.list.is-art {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  flex-direction: initial;
+}
+
+.list.is-art .end-smile {
+  grid-column: 1 / -1;
+}
+
+.art-tile {
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  border: 2px solid transparent;
+  border-radius: 6px;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.art-tile:hover {
+  border-color: var(--progress-bar-color);
+  transform: translateY(-2px);
+}
+
+.art-tile img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  display: block;
+  border-radius: 4px;
+}
+
+.art-tile figcaption {
+  color: white;
+  text-align: center;
+  margin-top: 6px;
+  font-size: 0.9em;
+}
