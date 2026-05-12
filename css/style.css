@@ -169,5 +169,5 @@ blockquote::after {
 }
 
 p {
-  color: white;
+  --font-color: #a09d9d;
 }
