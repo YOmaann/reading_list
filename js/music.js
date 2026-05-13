@@ -33,13 +33,13 @@ function setSlidingText(container, text) {
 }
 
 window.addEventListener("load", async () => {
-  const playlists = await fetch("/static/json/playlist.json").then((res) =>
+  const playlists = await fetch("static/json/playlist.json").then((res) =>
     res.json(),
   );
 
   const pl =
     playlists.playlists[Math.floor(Math.random() * playlists.playlists.length)];
-  const tracks = await fetch(`/static/json/${pl.file}`)
+  const tracks = await fetch(`static/json/${pl.file}`)
     .then((res) => res.json())
     .then((data) => data.tracks);
 
