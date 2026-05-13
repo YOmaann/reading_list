@@ -9,10 +9,14 @@
   },
   {
     "name": "my favourite song",
-    "url": "https://www.youtube.com/watch?v=dxqYteRpk2Y"
+    "url": "https://www.youtube.com/watch?v=pzsDf7nmkPg&list=RDpzsDf7nmkPg&start_radio=1"
   },
   {
     "name": "poetry i wrote in my high school years",
     "url": "https://allpoetry.com/luckyfur"
+  },
+  {
+    "name": "emacs cheatsheet",
+    "url": "https://quasar-clerk-0b9.notion.site/emacs-cheat-sheet-18bae93d210a805ea8d1d21674a2f002"
   }
 ]
