@@ -1,0 +1,296 @@
+{
+  "id": "4dcnh2hfjbzwHDtsouowNo",
+  "name": "fooling sets",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:4dcnh2hfjbzwHDtsouowNo",
+  "external_url": "https://open.spotify.com/playlist/4dcnh2hfjbzwHDtsouowNo",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c3cd05e19be29dd480eca760",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 7,
+  "tracks": [
+    {
+      "id": "5TTGoX70AFrTvuEtqHK37S",
+      "name": "No. 1 Party Anthem",
+      "artists": [
+        {
+          "id": "7Ln80lUS6He07XvHI8qqHH",
+          "name": "Arctic Monkeys",
+          "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "album": {
+        "id": "78bpIziExqiI9qztvNFlQu",
+        "name": "AM",
+        "release_date": "2013-09-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 243131,
+      "explicit": false,
+      "popularity": 87,
+      "uri": "spotify:track:5TTGoX70AFrTvuEtqHK37S",
+      "external_url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S",
+      "added_at": "2024-09-11T19:47:20Z"
+    },
+    {
+      "id": "3cUxncrTWSA9lhlQbuIwUY",
+      "name": "Stuck on the puzzle",
+      "artists": [
+        {
+          "id": "1ctkBmvz80MGyi72Ix055S",
+          "name": "Alex Turner",
+          "uri": "spotify:artist:1ctkBmvz80MGyi72Ix055S"
+        }
+      ],
+      "album": {
+        "id": "3OqRGywivnQ0IeClUeUa4n",
+        "name": "Submarine - Original Songs From The Film By Alex Turner",
+        "release_date": "2011-03-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273672951d44a35cb08092f2c1f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02672951d44a35cb08092f2c1f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851672951d44a35cb08092f2c1f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 211053,
+      "explicit": false,
+      "popularity": 65,
+      "uri": "spotify:track:3cUxncrTWSA9lhlQbuIwUY",
+      "external_url": "https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY",
+      "added_at": "2024-09-11T19:55:44Z"
+    },
+    {
+      "id": "2PnlsTsOTLE5jnBnNe2K0A",
+      "name": "The Emptiness Machine",
+      "artists": [
+        {
+          "id": "6XyY86QOPPrYVGvF9ch6wz",
+          "name": "Linkin Park",
+          "uri": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "album": {
+        "id": "6W0Gabv5f3ugnckc6YgfJQ",
+        "name": "The Emptiness Machine",
+        "release_date": "2024-09-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273263d80522efd7277ab2bb822",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02263d80522efd7277ab2bb822",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851263d80522efd7277ab2bb822",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 190427,
+      "explicit": true,
+      "popularity": 78,
+      "uri": "spotify:track:2PnlsTsOTLE5jnBnNe2K0A",
+      "external_url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A",
+      "added_at": "2024-09-11T19:58:09Z"
+    },
+    {
+      "id": "5jgFfDIR6FR0gvlA56Nakr",
+      "name": "Blackbird - Remastered 2009",
+      "artists": [
+        {
+          "id": "3WrFJ7ztbogyGnTHbHJFl2",
+          "name": "The Beatles",
+          "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "album": {
+        "id": "1klALx0u4AavZNEvC4LrTL",
+        "name": "The Beatles (Remastered)",
+        "release_date": "1968-11-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514ce8b4e42588bf18182a1ad2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 138386,
+      "explicit": false,
+      "popularity": 80,
+      "uri": "spotify:track:5jgFfDIR6FR0gvlA56Nakr",
+      "external_url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr",
+      "added_at": "2024-09-11T20:02:30Z"
+    },
+    {
+      "id": "58KPPL1AdLHMvR2O2PZejr",
+      "name": "Jesus of Suburbia",
+      "artists": [
+        {
+          "id": "7oPftvlwr6VrsViSDV7fJY",
+          "name": "Green Day",
+          "uri": "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "album": {
+        "id": "5dN7F9DV0Qg1XRdIgW8rke",
+        "name": "American Idiot",
+        "release_date": "2004-09-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0208a1b1e0674086d3f1995e1b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 548253,
+      "explicit": true,
+      "popularity": 70,
+      "uri": "spotify:track:58KPPL1AdLHMvR2O2PZejr",
+      "external_url": "https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr",
+      "added_at": "2024-09-11T20:13:14Z"
+    },
+    {
+      "id": "2tznHmp70DxMyr2XhWLOW0",
+      "name": "Cigarette Daydreams",
+      "artists": [
+        {
+          "id": "26T3LtbuGT1Fu9m0eRq5X3",
+          "name": "Cage The Elephant",
+          "uri": "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "album": {
+        "id": "4EK8gtQfdVsmDTji7gBFlz",
+        "name": "Melophobia",
+        "release_date": "2013-10-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fb1cb900d28642e668d77b12",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fb1cb900d28642e668d77b12",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fb1cb900d28642e668d77b12",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 208760,
+      "explicit": false,
+      "popularity": 80,
+      "uri": "spotify:track:2tznHmp70DxMyr2XhWLOW0",
+      "external_url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0",
+      "added_at": "2024-09-11T20:14:15Z"
+    },
+    {
+      "id": "3ggXaHkbtPpTWIa4ljIbUr",
+      "name": "Windy Afternoon",
+      "artists": [
+        {
+          "id": "0rFHElzeddB9ymDjgpBENX",
+          "name": "Lamp",
+          "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "album": {
+        "id": "05b7MdxKhnHe7zA3HRVw2c",
+        "name": "Soyokaze Apartment Room 201",
+        "release_date": "2003-04-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27393f8255e8ef96dab71690965",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0293f8255e8ef96dab71690965",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485193f8255e8ef96dab71690965",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 293053,
+      "explicit": false,
+      "popularity": 47,
+      "uri": "spotify:track:3ggXaHkbtPpTWIa4ljIbUr",
+      "external_url": "https://open.spotify.com/track/3ggXaHkbtPpTWIa4ljIbUr",
+      "added_at": "2024-09-14T20:41:20Z"
+    }
+  ]
+}

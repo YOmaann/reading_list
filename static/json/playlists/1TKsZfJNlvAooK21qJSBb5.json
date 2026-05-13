@@ -1,0 +1,959 @@
+{
+  "id": "1TKsZfJNlvAooK21qJSBb5",
+  "name": "drunk poets society",
+  "description": "high on bhang. play kingdom hearts 1.",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:1TKsZfJNlvAooK21qJSBb5",
+  "external_url": "https://open.spotify.com/playlist/1TKsZfJNlvAooK21qJSBb5",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e1b458b537975664be70f022",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 24,
+  "tracks": [
+    {
+      "id": "7n9msipuZcezPR35sHSQ0l",
+      "name": "Project 70",
+      "artists": [
+        {
+          "id": "0kBu4TScyrcXugROuOFkqe",
+          "name": "The Great Dane",
+          "uri": "spotify:artist:0kBu4TScyrcXugROuOFkqe"
+        }
+      ],
+      "album": {
+        "id": "5yOAC4oN7KCt3dsElCb7HX",
+        "name": "Project 70",
+        "release_date": "2019-10-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273398a647cbab9a5437a7fcbff",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02398a647cbab9a5437a7fcbff",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851398a647cbab9a5437a7fcbff",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 364894,
+      "explicit": false,
+      "popularity": 6,
+      "uri": "spotify:track:7n9msipuZcezPR35sHSQ0l",
+      "external_url": "https://open.spotify.com/track/7n9msipuZcezPR35sHSQ0l",
+      "added_at": "2023-03-07T07:36:07Z"
+    },
+    {
+      "id": "1lwOiKbbPT8HinTdSzcOMP",
+      "name": "Semáforo Nervoso Autônomo",
+      "artists": [
+        {
+          "id": "3hnNIsiWatVyHen6mz79sf",
+          "name": "Cidade Dormitório",
+          "uri": "spotify:artist:3hnNIsiWatVyHen6mz79sf"
+        }
+      ],
+      "album": {
+        "id": "3Nff5wGgdJaqSZmuznOp27",
+        "name": "Esperando o Pior",
+        "release_date": "2017-01-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c6a964b3ffe3501156abaced",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c6a964b3ffe3501156abaced",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c6a964b3ffe3501156abaced",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 385209,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:1lwOiKbbPT8HinTdSzcOMP",
+      "external_url": "https://open.spotify.com/track/1lwOiKbbPT8HinTdSzcOMP",
+      "added_at": "2023-03-07T07:36:29Z"
+    },
+    {
+      "id": "29JEOX0xLF9y6q8oILX2QH",
+      "name": "Take Off Ur Pants",
+      "artists": [
+        {
+          "id": "3ir2pF2mkiEWqyPenKTh5e",
+          "name": "Indigo De Souza",
+          "uri": "spotify:artist:3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "album": {
+        "id": "43Ly01iLJ2uIQPfqjZmH8Y",
+        "name": "I Love My Mom",
+        "release_date": "2018-06-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730b9cd97859627da774bdccff",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020b9cd97859627da774bdccff",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510b9cd97859627da774bdccff",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 220250,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:29JEOX0xLF9y6q8oILX2QH",
+      "external_url": "https://open.spotify.com/track/29JEOX0xLF9y6q8oILX2QH",
+      "added_at": "2023-03-07T07:36:43Z"
+    },
+    {
+      "id": "3IwadYiQKN7O51JgIH9PBC",
+      "name": "no way !",
+      "artists": [
+        {
+          "id": "6FugQjLquBF4JzATRN70bR",
+          "name": "Yot Club",
+          "uri": "spotify:artist:6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "album": {
+        "id": "6tL0onH5QiMQGmIMnoCswj",
+        "name": "aquarium",
+        "release_date": "2019-01-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732726fa0e66447dc4b20b5ed8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022726fa0e66447dc4b20b5ed8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512726fa0e66447dc4b20b5ed8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 166458,
+      "explicit": false,
+      "popularity": 59,
+      "uri": "spotify:track:3IwadYiQKN7O51JgIH9PBC",
+      "external_url": "https://open.spotify.com/track/3IwadYiQKN7O51JgIH9PBC",
+      "added_at": "2023-03-07T07:37:00Z"
+    },
+    {
+      "id": "1UQlO5nyyxVbpNvoDk9fld",
+      "name": "If U Wanna Stay",
+      "artists": [
+        {
+          "id": "31412uPiG5Il6jKLs4u2C4",
+          "name": "Sweatcult",
+          "uri": "spotify:artist:31412uPiG5Il6jKLs4u2C4"
+        }
+      ],
+      "album": {
+        "id": "4wYImiTe9BWpap3jnmPnpt",
+        "name": "If U Wanna Stay",
+        "release_date": "2018-11-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733eb4a168c85d1b5b6d721d84",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023eb4a168c85d1b5b6d721d84",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513eb4a168c85d1b5b6d721d84",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 208002,
+      "explicit": false,
+      "popularity": 44,
+      "uri": "spotify:track:1UQlO5nyyxVbpNvoDk9fld",
+      "external_url": "https://open.spotify.com/track/1UQlO5nyyxVbpNvoDk9fld",
+      "added_at": "2023-03-07T07:37:17Z"
+    },
+    {
+      "id": "5QYSGcJw2lamJY3VkL5W2m",
+      "name": "Eloise",
+      "artists": [
+        {
+          "id": "23E65IfLBGQv0FBrMwCcG2",
+          "name": "Peter McPoland",
+          "uri": "spotify:artist:23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "album": {
+        "id": "3gL9wHj2VrmR440SPFwAkT",
+        "name": "Eloise",
+        "release_date": "2021-01-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27338fc213452d75a48cd987609",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0238fc213452d75a48cd987609",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485138fc213452d75a48cd987609",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 181840,
+      "explicit": false,
+      "popularity": 39,
+      "uri": "spotify:track:5QYSGcJw2lamJY3VkL5W2m",
+      "external_url": "https://open.spotify.com/track/5QYSGcJw2lamJY3VkL5W2m",
+      "added_at": "2023-03-07T07:37:35Z"
+    },
+    {
+      "id": "6ZXynR4qCoRGMKScUlcRTQ",
+      "name": "Highland Grace",
+      "artists": [
+        {
+          "id": "37eqxl8DyLd5sQN54wYJbE",
+          "name": "Hiss Golden Messenger",
+          "uri": "spotify:artist:37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "album": {
+        "id": "6LX8I9Fawu1RqXHgFbcgBo",
+        "name": "Heart Like a Levee",
+        "release_date": "2016-10-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ac73a1591b09cd601db03b11",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ac73a1591b09cd601db03b11",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ac73a1591b09cd601db03b11",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 358440,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:6ZXynR4qCoRGMKScUlcRTQ",
+      "external_url": "https://open.spotify.com/track/6ZXynR4qCoRGMKScUlcRTQ",
+      "added_at": "2023-03-07T07:37:53Z"
+    },
+    {
+      "id": "2BIfG6wL1t5wk1KixoK2BV",
+      "name": "Chicago",
+      "artists": [
+        {
+          "id": "7FKTg75ADVMZgY3P9ZMRtH",
+          "name": "flipturn",
+          "uri": "spotify:artist:7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "album": {
+        "id": "6tM8YvhhXemdO5xjsmS8Ro",
+        "name": "Heavy Colors",
+        "release_date": "2017-03-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733d79d99049ec6b41c59ad5a1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023d79d99049ec6b41c59ad5a1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513d79d99049ec6b41c59ad5a1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 319821,
+      "explicit": false,
+      "popularity": 59,
+      "uri": "spotify:track:2BIfG6wL1t5wk1KixoK2BV",
+      "external_url": "https://open.spotify.com/track/2BIfG6wL1t5wk1KixoK2BV",
+      "added_at": "2023-03-07T07:38:13Z"
+    },
+    {
+      "id": "3B36NK8TcidfaDhgUU2lzZ",
+      "name": "Wird sie mich sehen",
+      "artists": [
+        {
+          "id": "1LsT3D414izg8h3K1VbrL4",
+          "name": "Madsen",
+          "uri": "spotify:artist:1LsT3D414izg8h3K1VbrL4"
+        }
+      ],
+      "album": {
+        "id": "3ifZevsn0Gj4TOJDBE4S1h",
+        "name": "Lichtjahre",
+        "release_date": "2018-06-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730cda42528d2a9e0384486f42",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020cda42528d2a9e0384486f42",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510cda42528d2a9e0384486f42",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 318146,
+      "explicit": false,
+      "popularity": 16,
+      "uri": "spotify:track:3B36NK8TcidfaDhgUU2lzZ",
+      "external_url": "https://open.spotify.com/track/3B36NK8TcidfaDhgUU2lzZ",
+      "added_at": "2023-03-07T07:38:38Z"
+    },
+    {
+      "id": "47WtMNT8S9n3eqsCn076Bf",
+      "name": "When You Were Made",
+      "artists": [
+        {
+          "id": "2RhgnQNC74QoBlaUvT4MEe",
+          "name": "The Growlers",
+          "uri": "spotify:artist:2RhgnQNC74QoBlaUvT4MEe"
+        }
+      ],
+      "album": {
+        "id": "4LO26juP3UnGdO3mB2imxl",
+        "name": "City Club",
+        "release_date": "2016-09-30",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb09cba8a0ce270c134a59e9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb09cba8a0ce270c134a59e9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bb09cba8a0ce270c134a59e9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 218352,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:47WtMNT8S9n3eqsCn076Bf",
+      "external_url": "https://open.spotify.com/track/47WtMNT8S9n3eqsCn076Bf",
+      "added_at": "2023-03-07T07:38:53Z"
+    },
+    {
+      "id": "1F9WFVKQ0PT4EiZNoZQu2d",
+      "name": "Sensitivity",
+      "artists": [
+        {
+          "id": "7j8ds7BnqaEKuz1a1GN0J9",
+          "name": "Worn-Tin",
+          "uri": "spotify:artist:7j8ds7BnqaEKuz1a1GN0J9"
+        }
+      ],
+      "album": {
+        "id": "5GBUYg5EqeDI0CuszAvDzj",
+        "name": "Thanatophobia",
+        "release_date": "2016-01-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bfac4ece345df6ef3603fcc9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bfac4ece345df6ef3603fcc9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bfac4ece345df6ef3603fcc9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 237741,
+      "explicit": false,
+      "popularity": 46,
+      "uri": "spotify:track:1F9WFVKQ0PT4EiZNoZQu2d",
+      "external_url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d",
+      "added_at": "2023-03-07T08:08:47Z"
+    },
+    {
+      "id": "1wR6F2NFDjBlDAYEHnAPS9",
+      "name": "Is There a Place I Can Go",
+      "artists": [
+        {
+          "id": "2eg89iLHG4JMEUZQmFaxou",
+          "name": "Trudy and the Romance",
+          "uri": "spotify:artist:2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "album": {
+        "id": "1MBaEeGuZFixWVTARJ4amP",
+        "name": "Junkyard Jazz",
+        "release_date": "2017-11-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730dbcef2449b49c029ce86708",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020dbcef2449b49c029ce86708",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510dbcef2449b49c029ce86708",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 278413,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:1wR6F2NFDjBlDAYEHnAPS9",
+      "external_url": "https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9",
+      "added_at": "2023-03-07T08:17:46Z"
+    },
+    {
+      "id": "3TETmhGNWOcquUTtcr6RIR",
+      "name": "The House of the Rising Sun",
+      "artists": [
+        {
+          "id": "3ICflSq6ZgYAIrm2CTkfVP",
+          "name": "The Animals",
+          "uri": "spotify:artist:3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "album": {
+        "id": "2GkmC6hsvA8854l5kLsTOg",
+        "name": "The House of the Rising Sun: Best of The Animals",
+        "release_date": "2019-02-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273177c39d848987d806b51c2a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02177c39d848987d806b51c2a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851177c39d848987d806b51c2a3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 269906,
+      "explicit": false,
+      "popularity": 60,
+      "uri": "spotify:track:3TETmhGNWOcquUTtcr6RIR",
+      "external_url": "https://open.spotify.com/track/3TETmhGNWOcquUTtcr6RIR",
+      "added_at": "2023-03-07T16:06:19Z"
+    },
+    {
+      "id": "5VgoYN2PNwcRIbxCzmeri0",
+      "name": "Heera",
+      "artists": [
+        {
+          "id": "41Nu7NgAj9rJxjj7JDuXrV",
+          "name": "Peter Cat Recording Co.",
+          "uri": "spotify:artist:41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "album": {
+        "id": "6gnNCtxxhwKTYGIDVqeMUd",
+        "name": "Bismillah",
+        "release_date": "2019-06-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27319497200ef054bccfab27d0c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0219497200ef054bccfab27d0c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485119497200ef054bccfab27d0c",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 379920,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:5VgoYN2PNwcRIbxCzmeri0",
+      "external_url": "https://open.spotify.com/track/5VgoYN2PNwcRIbxCzmeri0",
+      "added_at": "2023-03-07T16:07:30Z"
+    },
+    {
+      "id": "049gd2RV8Svr1lXtDlbtVh",
+      "name": "The Changeover",
+      "artists": [
+        {
+          "id": "4fgXfJCQnK6c44u4KzAtQP",
+          "name": "Sundara Karma",
+          "uri": "spotify:artist:4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "album": {
+        "id": "3W9OL9JVLBAGb1sz2pXO6c",
+        "name": "Ulfilas' Alphabet",
+        "release_date": "2019-03-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27386e169d0793d0d5a65f7e6ee",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0286e169d0793d0d5a65f7e6ee",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485186e169d0793d0d5a65f7e6ee",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 286626,
+      "explicit": false,
+      "popularity": 16,
+      "uri": "spotify:track:049gd2RV8Svr1lXtDlbtVh",
+      "external_url": "https://open.spotify.com/track/049gd2RV8Svr1lXtDlbtVh",
+      "added_at": "2023-03-07T16:34:09Z"
+    },
+    {
+      "id": "3AJwUDP919kvQ9QcozQPxg",
+      "name": "Yellow",
+      "artists": [
+        {
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "album": {
+        "id": "6ZG5lRT77aJ3btmArcykra",
+        "name": "Parachutes",
+        "release_date": "2000-07-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519164bafe9aaa168d93f4816a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 266773,
+      "explicit": false,
+      "popularity": 92,
+      "uri": "spotify:track:3AJwUDP919kvQ9QcozQPxg",
+      "external_url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
+      "added_at": "2023-03-07T16:46:29Z"
+    },
+    {
+      "id": "5EWPGh7jbTNO2wakv8LjUI",
+      "name": "Free Bird",
+      "artists": [
+        {
+          "id": "4MVyzYMgTwdP7Z49wAZHx0",
+          "name": "Lynyrd Skynyrd",
+          "uri": "spotify:artist:4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "album": {
+        "id": "6DExt1eX4lflLacVjHHbOs",
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "release_date": "1973-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02128450651c9f0442780d8eb8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851128450651c9f0442780d8eb8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 547106,
+      "explicit": false,
+      "popularity": 82,
+      "uri": "spotify:track:5EWPGh7jbTNO2wakv8LjUI",
+      "external_url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI",
+      "added_at": "2023-03-07T17:37:32Z"
+    },
+    {
+      "id": "7d6qX28ITEgBUhCJ86SeYq",
+      "name": "Right Before My Eyes - Unpeeled",
+      "artists": [
+        {
+          "id": "26T3LtbuGT1Fu9m0eRq5X3",
+          "name": "Cage The Elephant",
+          "uri": "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "album": {
+        "id": "4zpN41aGAYPWX3dzE19rH7",
+        "name": "Unpeeled",
+        "release_date": "2017-07-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27371ab374ece29e088dada2c6d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0271ab374ece29e088dada2c6d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485171ab374ece29e088dada2c6d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 280173,
+      "explicit": false,
+      "popularity": 47,
+      "uri": "spotify:track:7d6qX28ITEgBUhCJ86SeYq",
+      "external_url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq",
+      "added_at": "2023-03-07T19:00:13Z"
+    },
+    {
+      "id": "2cP28XxCdRmCX9Cb57TicS",
+      "name": "Friend of Nothing - Acoustic",
+      "artists": [
+        {
+          "id": "29q1axQPERERxUzqufXMqB",
+          "name": "Together Pangea",
+          "uri": "spotify:artist:29q1axQPERERxUzqufXMqB"
+        }
+      ],
+      "album": {
+        "id": "573X0xAvcupc61ulWEdNz0",
+        "name": "Sleeping Til Sunset (Acoustic Versions)",
+        "release_date": "2018-06-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273300fc199fc46000fe90bda8a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02300fc199fc46000fe90bda8a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851300fc199fc46000fe90bda8a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 221557,
+      "explicit": false,
+      "popularity": 35,
+      "uri": "spotify:track:2cP28XxCdRmCX9Cb57TicS",
+      "external_url": "https://open.spotify.com/track/2cP28XxCdRmCX9Cb57TicS",
+      "added_at": "2023-03-07T19:00:30Z"
+    },
+    {
+      "id": "2qpacEyFxmbxCpIEqZkqvC",
+      "name": "You Are the Right One",
+      "artists": [
+        {
+          "id": "4AGNJdJiVltImYk1UTLE0K",
+          "name": "Sports",
+          "uri": "spotify:artist:4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "album": {
+        "id": "4QcHsIfSbjgNzZmxqfRP7N",
+        "name": "Naked All the Time",
+        "release_date": "2015-07-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731192eb9f894b18f0de2682f1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021192eb9f894b18f0de2682f1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511192eb9f894b18f0de2682f1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 172506,
+      "explicit": false,
+      "popularity": 78,
+      "uri": "spotify:track:2qpacEyFxmbxCpIEqZkqvC",
+      "external_url": "https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC",
+      "added_at": "2023-03-08T13:45:59Z"
+    },
+    {
+      "id": "6R7kT8LRDEeQIuXYyYDENc",
+      "name": "Paint Me Silver",
+      "artists": [
+        {
+          "id": "4skJp5OKvcc9eKokiuhi2s",
+          "name": "Pond",
+          "uri": "spotify:artist:4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "album": {
+        "id": "6qvWzoGkU310CqOrUNm5sQ",
+        "name": "The Weather",
+        "release_date": "2018-10-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731dce5fdb4f1fe46e9fc3dac6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021dce5fdb4f1fe46e9fc3dac6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511dce5fdb4f1fe46e9fc3dac6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 224973,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:6R7kT8LRDEeQIuXYyYDENc",
+      "external_url": "https://open.spotify.com/track/6R7kT8LRDEeQIuXYyYDENc",
+      "added_at": "2023-03-16T19:30:26Z"
+    },
+    {
+      "id": "6nGjER4JgJWIqAbObBlbHv",
+      "name": "Within You, Within Me",
+      "artists": [
+        {
+          "id": "2iHrc69sZgyWFBAhLpS3oH",
+          "name": "Meltt",
+          "uri": "spotify:artist:2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "album": {
+        "id": "2nKr6OdJadnohopQGQSxFf",
+        "name": "Within You, Within Me",
+        "release_date": "2022-04-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ae7fba0264e34d8126403565",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ae7fba0264e34d8126403565",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ae7fba0264e34d8126403565",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 198613,
+      "explicit": false,
+      "popularity": 30,
+      "uri": "spotify:track:6nGjER4JgJWIqAbObBlbHv",
+      "external_url": "https://open.spotify.com/track/6nGjER4JgJWIqAbObBlbHv",
+      "added_at": "2023-03-16T19:41:20Z"
+    },
+    {
+      "id": "3rJEu8LZdav4zROLJynwnj",
+      "name": "Gemini",
+      "artists": [
+        {
+          "id": "2rdtngq3t4zQwluqyGfZuS",
+          "name": "Evergreen",
+          "uri": "spotify:artist:2rdtngq3t4zQwluqyGfZuS"
+        }
+      ],
+      "album": {
+        "id": "774PAMAzoQTfyJ3k8NQwJd",
+        "name": "Overseas",
+        "release_date": "2018-06-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733dc4dea83c301d7692ced0ab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023dc4dea83c301d7692ced0ab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513dc4dea83c301d7692ced0ab",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 206680,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:3rJEu8LZdav4zROLJynwnj",
+      "external_url": "https://open.spotify.com/track/3rJEu8LZdav4zROLJynwnj",
+      "added_at": "2023-03-17T07:33:37Z"
+    },
+    {
+      "id": "1ZLroqJA8qoS5QEeCo0fA7",
+      "name": "Breezeblocks",
+      "artists": [
+        {
+          "id": "3XHO7cRUPCLOr6jwp8vsx5",
+          "name": "alt-J",
+          "uri": "spotify:artist:3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "album": {
+        "id": "6HbJlAnTRhWae1F3lEwGkv",
+        "name": "An Awesome Wave",
+        "release_date": "2012-05-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731e1ca90cd8fdbb0ac890a926",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021e1ca90cd8fdbb0ac890a926",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511e1ca90cd8fdbb0ac890a926",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 227080,
+      "explicit": false,
+      "popularity": 72,
+      "uri": "spotify:track:1ZLroqJA8qoS5QEeCo0fA7",
+      "external_url": "https://open.spotify.com/track/1ZLroqJA8qoS5QEeCo0fA7",
+      "added_at": "2023-04-27T14:51:29Z"
+    }
+  ]
+}

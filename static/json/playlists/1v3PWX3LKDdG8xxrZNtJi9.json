@@ -1,0 +1,306 @@
+{
+  "id": "1v3PWX3LKDdG8xxrZNtJi9",
+  "name": "nu",
+  "description": "ic3 &amp; pdsc",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:1v3PWX3LKDdG8xxrZNtJi9",
+  "external_url": "https://open.spotify.com/playlist/1v3PWX3LKDdG8xxrZNtJi9",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84b150cd1b2eb47cf06feea322",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 7,
+  "tracks": [
+    {
+      "id": "1G9JPizhAsNgb3dqNMfy8O",
+      "name": "Capsize",
+      "artists": [
+        {
+          "id": "2TXpVEw5FbzDh93tLoDm0i",
+          "name": "Big Black Delta",
+          "uri": "spotify:artist:2TXpVEw5FbzDh93tLoDm0i"
+        }
+      ],
+      "album": {
+        "id": "0yB9HR3y1wuHQidtmHMuJf",
+        "name": "Big Black Delta",
+        "release_date": "2013-04-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27355682c37d7d54c3403aa9186",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0255682c37d7d54c3403aa9186",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485155682c37d7d54c3403aa9186",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 293493,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:1G9JPizhAsNgb3dqNMfy8O",
+      "external_url": "https://open.spotify.com/track/1G9JPizhAsNgb3dqNMfy8O",
+      "added_at": "2026-02-03T20:44:21Z"
+    },
+    {
+      "id": "7GI0YANcHMcybpOYP1pNSP",
+      "name": "Feel the Way I Do",
+      "artists": [
+        {
+          "id": "0RZs9ZOXkINVtC9rnV24MI",
+          "name": "Primer",
+          "uri": "spotify:artist:0RZs9ZOXkINVtC9rnV24MI"
+        }
+      ],
+      "album": {
+        "id": "2UBP5LTRPorrjG65xfmeNS",
+        "name": "Incubator",
+        "release_date": "2022-04-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27397f319783d9f11705b3e8a3d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0297f319783d9f11705b3e8a3d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485197f319783d9f11705b3e8a3d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 212250,
+      "explicit": false,
+      "popularity": 56,
+      "uri": "spotify:track:7GI0YANcHMcybpOYP1pNSP",
+      "external_url": "https://open.spotify.com/track/7GI0YANcHMcybpOYP1pNSP",
+      "added_at": "2026-02-03T20:44:10Z"
+    },
+    {
+      "id": "3l8ACerUtJfRd0rxJJ4Gkx",
+      "name": "Radio",
+      "artists": [
+        {
+          "id": "6iW8bv3aUP8Dte1KnMBH8c",
+          "name": "Bershy",
+          "uri": "spotify:artist:6iW8bv3aUP8Dte1KnMBH8c"
+        }
+      ],
+      "album": {
+        "id": "3rcJwEH6EyPPEiqsrABR4k",
+        "name": "Radio",
+        "release_date": "2022-10-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27317d6b606d0767410fe77eeef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0217d6b606d0767410fe77eeef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485117d6b606d0767410fe77eeef",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 201853,
+      "explicit": false,
+      "popularity": 69,
+      "uri": "spotify:track:3l8ACerUtJfRd0rxJJ4Gkx",
+      "external_url": "https://open.spotify.com/track/3l8ACerUtJfRd0rxJJ4Gkx",
+      "added_at": "2026-02-03T20:44:30Z"
+    },
+    {
+      "id": "2TAKt1x0k9AltDJm31GhEu",
+      "name": "Bleed (feat. Omar Apollo)",
+      "artists": [
+        {
+          "id": "7eKkW1zo5uzW8kUntiiBvz",
+          "name": "Malcolm Todd",
+          "uri": "spotify:artist:7eKkW1zo5uzW8kUntiiBvz"
+        },
+        {
+          "id": "5FxD8fkQZ6KcsSYupDVoSO",
+          "name": "Omar Apollo",
+          "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "album": {
+        "id": "6IkS2cDHxaYVkJueCPSdFs",
+        "name": "Malcolm Todd",
+        "release_date": "2025-04-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27387607b2c8f5f52f1f057be0d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0287607b2c8f5f52f1f057be0d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485187607b2c8f5f52f1f057be0d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 179373,
+      "explicit": false,
+      "popularity": 76,
+      "uri": "spotify:track:2TAKt1x0k9AltDJm31GhEu",
+      "external_url": "https://open.spotify.com/track/2TAKt1x0k9AltDJm31GhEu",
+      "added_at": "2026-02-03T20:44:48Z"
+    },
+    {
+      "id": "5hY5OIvR2PSCFjJgxJ6Csh",
+      "name": "Seasons (Waiting on You) - BADBADNOTGOOD Reinterpretation",
+      "artists": [
+        {
+          "id": "1WvvwcQx0tj6NdDhZZ2zZz",
+          "name": "Future Islands",
+          "uri": "spotify:artist:1WvvwcQx0tj6NdDhZZ2zZz"
+        },
+        {
+          "id": "65dGLGjkw3UbddUg2GKQoZ",
+          "name": "BADBADNOTGOOD",
+          "uri": "spotify:artist:65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "album": {
+        "id": "70pbNAgjknPs0kzJkgimXX",
+        "name": "Seasons (Waiting on You) [BADBADNOTGOOD Reinterpretation]",
+        "release_date": "2014-12-02",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730b61a0859c9d0775c82cc479",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020b61a0859c9d0775c82cc479",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510b61a0859c9d0775c82cc479",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 223088,
+      "explicit": false,
+      "popularity": 53,
+      "uri": "spotify:track:5hY5OIvR2PSCFjJgxJ6Csh",
+      "external_url": "https://open.spotify.com/track/5hY5OIvR2PSCFjJgxJ6Csh",
+      "added_at": "2026-02-04T02:41:23Z"
+    },
+    {
+      "id": "3z2x2mpxgEHqbyiSGA08KU",
+      "name": "Sunday",
+      "artists": [
+        {
+          "id": "6X5L6rmyvrWWu60Gx6exiZ",
+          "name": "54 Ultra",
+          "uri": "spotify:artist:6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "album": {
+        "id": "7ux8DduUA3zik7p3i6r2X8",
+        "name": "YWMFM / Sunday",
+        "release_date": "2021-08-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273543a76f2076d7a9179d677fb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02543a76f2076d7a9179d677fb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851543a76f2076d7a9179d677fb",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 164000,
+      "explicit": false,
+      "popularity": 54,
+      "uri": "spotify:track:3z2x2mpxgEHqbyiSGA08KU",
+      "external_url": "https://open.spotify.com/track/3z2x2mpxgEHqbyiSGA08KU",
+      "added_at": "2026-02-04T09:18:17Z"
+    },
+    {
+      "id": "6PP9GFBvgBAgkbmLIP0LA0",
+      "name": "Poison Tree",
+      "artists": [
+        {
+          "id": "39I2FHig6PNSj3ctNkxX9o",
+          "name": "Makeout Reef",
+          "uri": "spotify:artist:39I2FHig6PNSj3ctNkxX9o"
+        }
+      ],
+      "album": {
+        "id": "6rNaao89rYBXw5YUXY6p55",
+        "name": "Poison Tree",
+        "release_date": "2026-02-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737891da666af57840fe8f9557",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027891da666af57840fe8f9557",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517891da666af57840fe8f9557",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 209834,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:6PP9GFBvgBAgkbmLIP0LA0",
+      "external_url": "https://open.spotify.com/track/6PP9GFBvgBAgkbmLIP0LA0",
+      "added_at": "2026-02-09T13:21:51Z"
+    }
+  ]
+}

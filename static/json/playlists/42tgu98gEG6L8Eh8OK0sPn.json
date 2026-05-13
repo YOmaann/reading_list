@@ -1,0 +1,316 @@
+{
+  "id": "42tgu98gEG6L8Eh8OK0sPn",
+  "name": "My Shazam Tracks",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:42tgu98gEG6L8Eh8OK0sPn",
+  "external_url": "https://open.spotify.com/playlist/42tgu98gEG6L8Eh8OK0sPn",
+  "cover_art": [
+    {
+      "url": "https://mosaic.scdn.co/640/ab67616d00001e026e9cba73e17558eabbe6c5b0ab67616d00001e02ac9ba207ecbc00f9380b70a5ab67616d00001e02c8cbc5c3ce252ea4646a5dcfab67616d00001e02d45404b4c5a5444cb06c9f7b",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "url": "https://mosaic.scdn.co/300/ab67616d00001e026e9cba73e17558eabbe6c5b0ab67616d00001e02ac9ba207ecbc00f9380b70a5ab67616d00001e02c8cbc5c3ce252ea4646a5dcfab67616d00001e02d45404b4c5a5444cb06c9f7b",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "url": "https://mosaic.scdn.co/60/ab67616d00001e026e9cba73e17558eabbe6c5b0ab67616d00001e02ac9ba207ecbc00f9380b70a5ab67616d00001e02c8cbc5c3ce252ea4646a5dcfab67616d00001e02d45404b4c5a5444cb06c9f7b",
+      "width": 60,
+      "height": 60
+    }
+  ],
+  "track_count": 7,
+  "tracks": [
+    {
+      "id": "4iSWQ5Eadn5tZvvG9XNzYN",
+      "name": "You're Perfect",
+      "artists": [
+        {
+          "id": "5sK8BsvyDl4TFA6KaBf8or",
+          "name": "Charly Black",
+          "uri": "spotify:artist:5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "album": {
+        "id": "6vZbWkCUqbIbEZnPaoDBFF",
+        "name": "You're Perfect",
+        "release_date": "2017-10-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c8cbc5c3ce252ea4646a5dcf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c8cbc5c3ce252ea4646a5dcf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c8cbc5c3ce252ea4646a5dcf",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 196973,
+      "explicit": false,
+      "popularity": 57,
+      "uri": "spotify:track:4iSWQ5Eadn5tZvvG9XNzYN",
+      "external_url": "https://open.spotify.com/track/4iSWQ5Eadn5tZvvG9XNzYN",
+      "added_at": "2022-02-27T22:08:19Z"
+    },
+    {
+      "id": "7uaSDIL9QzabF2Je0FyDZ7",
+      "name": "Lacrimosa",
+      "artists": [
+        {
+          "id": "1fd3fmwlhrDl2U5wbbPQYN",
+          "name": "Apashe",
+          "uri": "spotify:artist:1fd3fmwlhrDl2U5wbbPQYN"
+        }
+      ],
+      "album": {
+        "id": "1cNI5bMJk11DV8PglRAd3R",
+        "name": "Requiem",
+        "release_date": "2018-02-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736e9cba73e17558eabbe6c5b0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026e9cba73e17558eabbe6c5b0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516e9cba73e17558eabbe6c5b0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 217333,
+      "explicit": false,
+      "popularity": 56,
+      "uri": "spotify:track:7uaSDIL9QzabF2Je0FyDZ7",
+      "external_url": "https://open.spotify.com/track/7uaSDIL9QzabF2Je0FyDZ7",
+      "added_at": "2022-02-27T21:57:57Z"
+    },
+    {
+      "id": "1guHCTD0uiEgTG3HOPgBmU",
+      "name": "Twilight",
+      "artists": [
+        {
+          "id": "1EnZjgGD81emhSdq6adEKt",
+          "name": "GRAVECHILL",
+          "uri": "spotify:artist:1EnZjgGD81emhSdq6adEKt"
+        }
+      ],
+      "album": {
+        "id": "2AXcVujiP64YJjh05z7xBu",
+        "name": "Twilight",
+        "release_date": "2021-05-30",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734477eb9b129cccbcb89a1e40",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024477eb9b129cccbcb89a1e40",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514477eb9b129cccbcb89a1e40",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 116129,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:1guHCTD0uiEgTG3HOPgBmU",
+      "external_url": "https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU",
+      "added_at": "2022-02-27T21:49:32Z"
+    },
+    {
+      "id": "79EkGysjP2dL5GdpeQjRxT",
+      "name": "This Side of Paradise",
+      "artists": [
+        {
+          "id": "48vmXfV0QPy3ljXBp81Fwn",
+          "name": "Coyote Theory",
+          "uri": "spotify:artist:48vmXfV0QPy3ljXBp81Fwn"
+        }
+      ],
+      "album": {
+        "id": "2WADI6qysXnT8cpXKbH8nv",
+        "name": "Color",
+        "release_date": "2011-06-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d45404b4c5a5444cb06c9f7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d45404b4c5a5444cb06c9f7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d45404b4c5a5444cb06c9f7b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 242010,
+      "explicit": false,
+      "popularity": 80,
+      "uri": "spotify:track:79EkGysjP2dL5GdpeQjRxT",
+      "external_url": "https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT",
+      "added_at": "2022-02-27T20:07:17Z"
+    },
+    {
+      "id": "3YFBT7K58eMzMSoVYGVsx1",
+      "name": "Seasons",
+      "artists": [
+        {
+          "id": "4u1nYxjl132D6rcMeYQ6Zz",
+          "name": "Rival",
+          "uri": "spotify:artist:4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "id": "2jrBiKykLqcIp2S7GLiahy",
+          "name": "CADMIUM",
+          "uri": "spotify:artist:2jrBiKykLqcIp2S7GLiahy"
+        },
+        {
+          "id": "7kXDaUD3imvM6el5qK6tAu",
+          "name": "Harley Bird",
+          "uri": "spotify:artist:7kXDaUD3imvM6el5qK6tAu"
+        }
+      ],
+      "album": {
+        "id": "1KmDKkpvxP1edjeJmkGk94",
+        "name": "Seasons",
+        "release_date": "2018-04-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731d7a892316d09c58b97315ab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021d7a892316d09c58b97315ab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511d7a892316d09c58b97315ab",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 248275,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:3YFBT7K58eMzMSoVYGVsx1",
+      "external_url": "https://open.spotify.com/track/3YFBT7K58eMzMSoVYGVsx1",
+      "added_at": "2021-10-16T19:05:39Z"
+    },
+    {
+      "id": "73SpzrcaHk0RQPFP73vqVR",
+      "name": "No Time To Die",
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "album": {
+        "id": "5sXSHscDjBez8VF20cSyad",
+        "name": "No Time To Die",
+        "release_date": "2020-02-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f7b7174bef6f3fbfda3a0bb7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f7b7174bef6f3fbfda3a0bb7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 242265,
+      "explicit": false,
+      "popularity": 77,
+      "uri": "spotify:track:73SpzrcaHk0RQPFP73vqVR",
+      "external_url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR",
+      "added_at": "2021-10-11T09:42:26Z"
+    },
+    {
+      "id": "6Vgtvd7I5yopJdBuxqjBd2",
+      "name": "Your Man",
+      "artists": [
+        {
+          "id": "3MZsBdqDrRTJihTHQrO6Dq",
+          "name": "Joji",
+          "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "album": {
+        "id": "6YKk4wlKdACRITGKmGnoIm",
+        "name": "Nectar",
+        "release_date": "2020-09-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27323c552a7a4fdafac02e08c34",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0223c552a7a4fdafac02e08c34",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485123c552a7a4fdafac02e08c34",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 163758,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:6Vgtvd7I5yopJdBuxqjBd2",
+      "external_url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2",
+      "added_at": "2021-12-09T01:30:10Z"
+    }
+  ]
+}

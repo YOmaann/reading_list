@@ -1,0 +1,413 @@
+{
+  "id": "1Wq87S4YcHlbboagiMnpY2",
+  "name": "february",
+  "description": "chud gye guru",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:1Wq87S4YcHlbboagiMnpY2",
+  "external_url": "https://open.spotify.com/playlist/1Wq87S4YcHlbboagiMnpY2",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f2f6837cefac0aa96e236d93",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "7qEEH5cN17Y8qjTWgVZx7W",
+      "name": "Get Better",
+      "artists": [
+        {
+          "id": "3XHO7cRUPCLOr6jwp8vsx5",
+          "name": "alt-J",
+          "uri": "spotify:artist:3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "album": {
+        "id": "5JzI3LUwkR64lHsVVRbiKO",
+        "name": "The Dream",
+        "release_date": "2022-02-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27395b1bbaa45a5f8a5175b78fd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0295b1bbaa45a5f8a5175b78fd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485195b1bbaa45a5f8a5175b78fd",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 351293,
+      "explicit": false,
+      "popularity": 43,
+      "uri": "spotify:track:7qEEH5cN17Y8qjTWgVZx7W",
+      "external_url": "https://open.spotify.com/track/7qEEH5cN17Y8qjTWgVZx7W",
+      "added_at": "2025-02-04T22:07:48Z"
+    },
+    {
+      "id": "1bKQdPJ9lid6Yg26HAx8Tf",
+      "name": "Lights Out, Words Gone",
+      "artists": [
+        {
+          "id": "3pTE9iaJTkWns3mxpNQlJV",
+          "name": "Bombay Bicycle Club",
+          "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "album": {
+        "id": "4W6ztwnEbK92Arl8kI9c9N",
+        "name": "A Different Kind Of Fix",
+        "release_date": "2011-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736989e8d5f8d2b682d8bcd8f1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026989e8d5f8d2b682d8bcd8f1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516989e8d5f8d2b682d8bcd8f1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 301346,
+      "explicit": false,
+      "popularity": 55,
+      "uri": "spotify:track:1bKQdPJ9lid6Yg26HAx8Tf",
+      "external_url": "https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf",
+      "added_at": "2025-02-04T22:11:21Z"
+    },
+    {
+      "id": "3fjoFeVDK2ifrZ4yOCwFYC",
+      "name": "Untitled #4 - Njósnavélin",
+      "artists": [
+        {
+          "id": "6UUrUCIZtQeOf8tC0WuzRy",
+          "name": "Sigur Rós",
+          "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "album": {
+        "id": "3FR8CV7OSyZDnxneavnh8t",
+        "name": "( )",
+        "release_date": "2002-02-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27311d8349d9bcc5e5d1bc43005",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0211d8349d9bcc5e5d1bc43005",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485111d8349d9bcc5e5d1bc43005",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 417080,
+      "explicit": false,
+      "popularity": 47,
+      "uri": "spotify:track:3fjoFeVDK2ifrZ4yOCwFYC",
+      "external_url": "https://open.spotify.com/track/3fjoFeVDK2ifrZ4yOCwFYC",
+      "added_at": "2025-02-04T22:15:35Z"
+    },
+    {
+      "id": "6AXRnD6llYIIzhnvKAgIVB",
+      "name": "dedede",
+      "artists": [
+        {
+          "id": "5qJEtz7aC2nwA9LsjfkGVM",
+          "name": "Haku.",
+          "uri": "spotify:artist:5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "album": {
+        "id": "1milw7dUgsSddL6wCxRQEI",
+        "name": "dedede",
+        "release_date": "2024-07-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d248689bf9c748c29bcfc16d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d248689bf9c748c29bcfc16d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d248689bf9c748c29bcfc16d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 175247,
+      "explicit": false,
+      "popularity": 49,
+      "uri": "spotify:track:6AXRnD6llYIIzhnvKAgIVB",
+      "external_url": "https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB",
+      "added_at": "2025-02-07T18:45:26Z"
+    },
+    {
+      "id": "6PMxV6skIYkcIpS4LGZQdS",
+      "name": "The Things I Miss",
+      "artists": [
+        {
+          "id": "5QNbh0ZAR2vNr8KwnQDBGH",
+          "name": "Constant Smiles",
+          "uri": "spotify:artist:5QNbh0ZAR2vNr8KwnQDBGH"
+        }
+      ],
+      "album": {
+        "id": "1vZdrMvqYSt6p5OJpc3vjs",
+        "name": "The Things I Miss",
+        "release_date": "2021-11-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27376fc46d597aeca1cef553bc8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0276fc46d597aeca1cef553bc8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485176fc46d597aeca1cef553bc8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 225550,
+      "explicit": false,
+      "popularity": 1,
+      "uri": "spotify:track:6PMxV6skIYkcIpS4LGZQdS",
+      "external_url": "https://open.spotify.com/track/6PMxV6skIYkcIpS4LGZQdS",
+      "added_at": "2025-02-09T22:58:40Z"
+    },
+    {
+      "id": "0jsFDt9XiZI52E5RD2oVF2",
+      "name": "Heidi's Theme",
+      "artists": [
+        {
+          "id": "0SV9eeHHmAYMHD6gwOKhrb",
+          "name": "Decoder Ring",
+          "uri": "spotify:artist:0SV9eeHHmAYMHD6gwOKhrb"
+        }
+      ],
+      "album": {
+        "id": "7rXT0K27fKVjukortvjYdS",
+        "name": "Somersault",
+        "release_date": "2013-12-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bd61326424639872400d131c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bd61326424639872400d131c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bd61326424639872400d131c",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 157813,
+      "explicit": false,
+      "popularity": 20,
+      "uri": "spotify:track:0jsFDt9XiZI52E5RD2oVF2",
+      "external_url": "https://open.spotify.com/track/0jsFDt9XiZI52E5RD2oVF2",
+      "added_at": "2025-02-11T00:51:08Z"
+    },
+    {
+      "id": "3HcSgPisj1tyZVTEAoFLTI",
+      "name": "Bentobox",
+      "artists": [
+        {
+          "id": "4KtproRH8QOCQZLuAZ8lfw",
+          "name": "Me and My Sandcastle",
+          "uri": "spotify:artist:4KtproRH8QOCQZLuAZ8lfw"
+        }
+      ],
+      "album": {
+        "id": "0uWt0cUCmhxa7EvxaSYN4y",
+        "name": "Me & My Sandcastle",
+        "release_date": "2021-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734a303b2c6268ed671351bf91",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024a303b2c6268ed671351bf91",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514a303b2c6268ed671351bf91",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 198504,
+      "explicit": false,
+      "popularity": 46,
+      "uri": "spotify:track:3HcSgPisj1tyZVTEAoFLTI",
+      "external_url": "https://open.spotify.com/track/3HcSgPisj1tyZVTEAoFLTI",
+      "added_at": "2025-02-15T07:36:15Z"
+    },
+    {
+      "id": "6R81LNxCNqY9c1TXCuyvXq",
+      "name": "Sing Like Madonna",
+      "artists": [
+        {
+          "id": "2tHFi6J76BSMMB6VyWIOeS",
+          "name": "Sebastian Schub",
+          "uri": "spotify:artist:2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "album": {
+        "id": "4iDYXsSzgSmXRzzyBfR6yT",
+        "name": "Sing Like Madonna",
+        "release_date": "2024-10-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273536edba2a509fe3ec68b4c1a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02536edba2a509fe3ec68b4c1a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851536edba2a509fe3ec68b4c1a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 213678,
+      "explicit": false,
+      "popularity": 64,
+      "uri": "spotify:track:6R81LNxCNqY9c1TXCuyvXq",
+      "external_url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq",
+      "added_at": "2025-02-16T00:57:20Z"
+    },
+    {
+      "id": "400aXtzepgmEFbOQCAfraG",
+      "name": "Meet Me There",
+      "artists": [
+        {
+          "id": "3x8FbPjh2Qz55XMdE2Yalj",
+          "name": "Nick Mulvey",
+          "uri": "spotify:artist:3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "album": {
+        "id": "0ntJpgznXrZ6Qc8wTxtcXh",
+        "name": "First Mind",
+        "release_date": "2014-05-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27395c5bd516c3a4adebfa4282e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0295c5bd516c3a4adebfa4282e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485195c5bd516c3a4adebfa4282e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 206146,
+      "explicit": false,
+      "popularity": 54,
+      "uri": "spotify:track:400aXtzepgmEFbOQCAfraG",
+      "external_url": "https://open.spotify.com/track/400aXtzepgmEFbOQCAfraG",
+      "added_at": "2025-02-17T05:51:40Z"
+    },
+    {
+      "id": "1eOfirkC7FIVqcPtO5r5Df",
+      "name": "Strange Things Will Happen",
+      "artists": [
+        {
+          "id": "0utS63XytOEVN1EtzWhJpG",
+          "name": "The Radio Dept.",
+          "uri": "spotify:artist:0utS63XytOEVN1EtzWhJpG"
+        }
+      ],
+      "album": {
+        "id": "2X1mLosmBKkM765LiX53W7",
+        "name": "Lesser Matters",
+        "release_date": "2004-08-30",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739cb2bf87e2faed6917b72655",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029cb2bf87e2faed6917b72655",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519cb2bf87e2faed6917b72655",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 268146,
+      "explicit": false,
+      "popularity": 40,
+      "uri": "spotify:track:1eOfirkC7FIVqcPtO5r5Df",
+      "external_url": "https://open.spotify.com/track/1eOfirkC7FIVqcPtO5r5Df",
+      "added_at": "2025-02-20T20:22:33Z"
+    }
+  ]
+}

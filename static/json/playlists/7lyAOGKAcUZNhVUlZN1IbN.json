@@ -1,0 +1,569 @@
+{
+  "id": "7lyAOGKAcUZNhVUlZN1IbN",
+  "name": "actually ",
+  "description": "the monsoon I turned chopped and unc",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:7lyAOGKAcUZNhVUlZN1IbN",
+  "external_url": "https://open.spotify.com/playlist/7lyAOGKAcUZNhVUlZN1IbN",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840fe81aaa0e061736b62a9a77",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 14,
+  "tracks": [
+    {
+      "id": "4OJXqQnjWwTni3rVLvMTwi",
+      "name": "Hole in the Wall",
+      "artists": [
+        {
+          "id": "66riSKDVOc3vPkeyju0q0o",
+          "name": "Moses Gunn Collective",
+          "uri": "spotify:artist:66riSKDVOc3vPkeyju0q0o"
+        }
+      ],
+      "album": {
+        "id": "4zM61adzXFpgNQYyBSSufT",
+        "name": "Mercy Mountain",
+        "release_date": "2015-08-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730531153fccbbc988b6e4f38e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020531153fccbbc988b6e4f38e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510531153fccbbc988b6e4f38e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 219059,
+      "explicit": false,
+      "popularity": 44,
+      "uri": "spotify:track:4OJXqQnjWwTni3rVLvMTwi",
+      "external_url": "https://open.spotify.com/track/4OJXqQnjWwTni3rVLvMTwi",
+      "added_at": "2025-08-29T04:19:00Z"
+    },
+    {
+      "id": "3kMc8s4C8aN8oarsSDLuYe",
+      "name": "Friendships and Love",
+      "artists": [
+        {
+          "id": "2dLzeuFyFPAYdWKU3UuYTA",
+          "name": "Rocketship",
+          "uri": "spotify:artist:2dLzeuFyFPAYdWKU3UuYTA"
+        }
+      ],
+      "album": {
+        "id": "20n4B9u6GgzQT1s5YFfR8g",
+        "name": "A Certain Smile, a Certain Sadness",
+        "release_date": "1995-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7e3630a842307636ef15ef8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7e3630a842307636ef15ef8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7e3630a842307636ef15ef8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 280000,
+      "explicit": false,
+      "popularity": 39,
+      "uri": "spotify:track:3kMc8s4C8aN8oarsSDLuYe",
+      "external_url": "https://open.spotify.com/track/3kMc8s4C8aN8oarsSDLuYe",
+      "added_at": "2025-08-29T04:19:16Z"
+    },
+    {
+      "id": "2zHLjLNLmQcxw7aF1FEBE9",
+      "name": "Evening In Paris",
+      "artists": [
+        {
+          "id": "2TPN3wAFNOE6VN1OLNLBwH",
+          "name": "Lois",
+          "uri": "spotify:artist:2TPN3wAFNOE6VN1OLNLBwH"
+        }
+      ],
+      "album": {
+        "id": "55qFoYA2utC3qhqmutvSRX",
+        "name": "Strumpet",
+        "release_date": "1993-10-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fef9d50c9a52b2d636435e9f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fef9d50c9a52b2d636435e9f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fef9d50c9a52b2d636435e9f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 157693,
+      "explicit": false,
+      "popularity": 50,
+      "uri": "spotify:track:2zHLjLNLmQcxw7aF1FEBE9",
+      "external_url": "https://open.spotify.com/track/2zHLjLNLmQcxw7aF1FEBE9",
+      "added_at": "2025-08-29T18:07:15Z"
+    },
+    {
+      "id": "3ZRth8GFt09qyIe5GAbNMv",
+      "name": "Slipped",
+      "artists": [
+        {
+          "id": "4NbXgsVateteD9AoPrOj85",
+          "name": "An April March",
+          "uri": "spotify:artist:4NbXgsVateteD9AoPrOj85"
+        }
+      ],
+      "album": {
+        "id": "7mO5sFMT6B7zNNKra8Z7rc",
+        "name": "It Goes Without Saying",
+        "release_date": "1997-11-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27382d1e659204edc8864a64712",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0282d1e659204edc8864a64712",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485182d1e659204edc8864a64712",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 177506,
+      "explicit": false,
+      "popularity": 37,
+      "uri": "spotify:track:3ZRth8GFt09qyIe5GAbNMv",
+      "external_url": "https://open.spotify.com/track/3ZRth8GFt09qyIe5GAbNMv",
+      "added_at": "2025-08-29T18:24:40Z"
+    },
+    {
+      "id": "0kfJKVYM0qmXu8Pq2QtiwH",
+      "name": "Are You Kissing Anyone?",
+      "artists": [
+        {
+          "id": "4C6aTpsTzZASFFVwa7uhfL",
+          "name": "Saturday Looks Good To Me",
+          "uri": "spotify:artist:4C6aTpsTzZASFFVwa7uhfL"
+        }
+      ],
+      "album": {
+        "id": "4gedOB27kirirSIoRshcvW",
+        "name": "One Kiss Ends It All",
+        "release_date": "2013-05-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27328edb9404411e70e57d62fe0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0228edb9404411e70e57d62fe0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485128edb9404411e70e57d62fe0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 99950,
+      "explicit": false,
+      "popularity": 41,
+      "uri": "spotify:track:0kfJKVYM0qmXu8Pq2QtiwH",
+      "external_url": "https://open.spotify.com/track/0kfJKVYM0qmXu8Pq2QtiwH",
+      "added_at": "2025-08-29T18:28:45Z"
+    },
+    {
+      "id": "3eoEzfxSkvuxU1SxRaWzlO",
+      "name": "Sleep Away Your Troubles",
+      "artists": [
+        {
+          "id": "0Ve1sk7tcGsb7ZVsp4o8GG",
+          "name": "The Softies",
+          "uri": "spotify:artist:0Ve1sk7tcGsb7ZVsp4o8GG"
+        }
+      ],
+      "album": {
+        "id": "3bvIEdCs0IrUpyaK5uYzsz",
+        "name": "Holiday In Rhode Island",
+        "release_date": "1995",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a495b714535a807e22dbb416",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a495b714535a807e22dbb416",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a495b714535a807e22dbb416",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 209386,
+      "explicit": false,
+      "popularity": 43,
+      "uri": "spotify:track:3eoEzfxSkvuxU1SxRaWzlO",
+      "external_url": "https://open.spotify.com/track/3eoEzfxSkvuxU1SxRaWzlO",
+      "added_at": "2025-08-29T18:31:52Z"
+    },
+    {
+      "id": "4xenfpmcSbr5O4mJo8jNpR",
+      "name": "Language of Flowers",
+      "artists": [
+        {
+          "id": "0WY2ddzQUF9eh16GiqrElA",
+          "name": "Pale Saints",
+          "uri": "spotify:artist:0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "album": {
+        "id": "3YZJ5Uiyy1vCMubtZDG7a2",
+        "name": "The Comforts of Madness",
+        "release_date": "1990-02-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734534e9cb47e2d722de48334e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024534e9cb47e2d722de48334e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514534e9cb47e2d722de48334e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 173893,
+      "explicit": false,
+      "popularity": 43,
+      "uri": "spotify:track:4xenfpmcSbr5O4mJo8jNpR",
+      "external_url": "https://open.spotify.com/track/4xenfpmcSbr5O4mJo8jNpR",
+      "added_at": "2025-08-29T18:34:34Z"
+    },
+    {
+      "id": "6qofnbCUIA08MT4hvV7wQ0",
+      "name": "Endlessly",
+      "artists": [
+        {
+          "id": "12Chz98pHFMPJEknJQMWvI",
+          "name": "Muse",
+          "uri": "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "album": {
+        "id": "2Eq6RyxCm7qEAF2YLOxa4s",
+        "name": "Absolution",
+        "release_date": "2003-09-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27348cf14e1e805e59e001b10ea",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0248cf14e1e805e59e001b10ea",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485148cf14e1e805e59e001b10ea",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 228407,
+      "explicit": false,
+      "popularity": 56,
+      "uri": "spotify:track:6qofnbCUIA08MT4hvV7wQ0",
+      "external_url": "https://open.spotify.com/track/6qofnbCUIA08MT4hvV7wQ0",
+      "added_at": "2025-08-29T21:12:37Z"
+    },
+    {
+      "id": "3duAprDizIXMFCb7KUTimA",
+      "name": "Now We Can Get On With Our Own Lives",
+      "artists": [
+        {
+          "id": "5koTBxO31TIzxRzBvsxzwH",
+          "name": "Tram",
+          "uri": "spotify:artist:5koTBxO31TIzxRzBvsxzwH"
+        }
+      ],
+      "album": {
+        "id": "5GcUGL3ck38HwZBbRe4RJc",
+        "name": "Frequently Asked Questions",
+        "release_date": "2013",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dd93b075f02a4b1d7ef44c8b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dd93b075f02a4b1d7ef44c8b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dd93b075f02a4b1d7ef44c8b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 273253,
+      "explicit": false,
+      "popularity": 32,
+      "uri": "spotify:track:3duAprDizIXMFCb7KUTimA",
+      "external_url": "https://open.spotify.com/track/3duAprDizIXMFCb7KUTimA",
+      "added_at": "2025-09-04T19:57:11Z"
+    },
+    {
+      "id": "5bO7kXCc21MOj5MOeiBioU",
+      "name": "Trains - 2017 Remaster",
+      "artists": [
+        {
+          "id": "5NXHXK6hOCotCF8lvGM1I0",
+          "name": "Porcupine Tree",
+          "uri": "spotify:artist:5NXHXK6hOCotCF8lvGM1I0"
+        }
+      ],
+      "album": {
+        "id": "3xNBC1QN9FBe23Sut3RNVV",
+        "name": "In Absentia (Remastered)",
+        "release_date": "2002-09-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273761a7d6160c29cbc813893de",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02761a7d6160c29cbc813893de",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851761a7d6160c29cbc813893de",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 360323,
+      "explicit": false,
+      "popularity": 55,
+      "uri": "spotify:track:5bO7kXCc21MOj5MOeiBioU",
+      "external_url": "https://open.spotify.com/track/5bO7kXCc21MOj5MOeiBioU",
+      "added_at": "2025-09-05T21:57:46Z"
+    },
+    {
+      "id": "7nnWIPM5hwE3DaUBkvOIpy",
+      "name": "Drive",
+      "artists": [
+        {
+          "id": "3YcBF2ttyueytpXtEzn1Za",
+          "name": "Incubus",
+          "uri": "spotify:artist:3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "album": {
+        "id": "2i6nd4FV6y7K9fln6eelmR",
+        "name": "Make Yourself",
+        "release_date": "1999-10-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27374fad40214d982351347e46e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0274fad40214d982351347e46e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485174fad40214d982351347e46e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 232453,
+      "explicit": false,
+      "popularity": 82,
+      "uri": "spotify:track:7nnWIPM5hwE3DaUBkvOIpy",
+      "external_url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy",
+      "added_at": "2025-09-08T04:41:08Z"
+    },
+    {
+      "id": "4OHVCeQYPncEwZOtNAJZZx",
+      "name": "Beetlebum - 2012 Remaster",
+      "artists": [
+        {
+          "id": "7MhMgCo0Bl0Kukl93PZbYS",
+          "name": "Blur",
+          "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "album": {
+        "id": "7HvIrSkKGJCzd8AKyjTJ6Q",
+        "name": "Blur (Special Edition)",
+        "release_date": "1997-02-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02de114203356c1f7b136960b6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851de114203356c1f7b136960b6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 305213,
+      "explicit": false,
+      "popularity": 67,
+      "uri": "spotify:track:4OHVCeQYPncEwZOtNAJZZx",
+      "external_url": "https://open.spotify.com/track/4OHVCeQYPncEwZOtNAJZZx",
+      "added_at": "2025-09-25T20:06:40Z"
+    },
+    {
+      "id": "6ghDayhHeBXAP4OOnnrFW9",
+      "name": "David",
+      "artists": [
+        {
+          "id": "163tK9Wjr9P9DmM0AVK7lm",
+          "name": "Lorde",
+          "uri": "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "album": {
+        "id": "28bHj2enHkHVFLwuWmkwlQ",
+        "name": "Virgin",
+        "release_date": "2025-06-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27323d41bf736920a032e222a78",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0223d41bf736920a032e222a78",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485123d41bf736920a032e222a78",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 204988,
+      "explicit": false,
+      "popularity": 75,
+      "uri": "spotify:track:6ghDayhHeBXAP4OOnnrFW9",
+      "external_url": "https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9",
+      "added_at": "2025-10-03T02:49:35Z"
+    },
+    {
+      "id": "6st8aj6PmtqGctnLAat95M",
+      "name": "Life Goes On",
+      "artists": [
+        {
+          "id": "4nlqDmbzFzbNITaqjJv7D7",
+          "name": "The Sundays",
+          "uri": "spotify:artist:4nlqDmbzFzbNITaqjJv7D7"
+        }
+      ],
+      "album": {
+        "id": "0GXRqzpC1rB92J7MxDdBiK",
+        "name": "Cry",
+        "release_date": "2009-09-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738bcae48391e7bc7f90e00c18",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028bcae48391e7bc7f90e00c18",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518bcae48391e7bc7f90e00c18",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 240573,
+      "explicit": false,
+      "popularity": 62,
+      "uri": "spotify:track:6st8aj6PmtqGctnLAat95M",
+      "external_url": "https://open.spotify.com/track/6st8aj6PmtqGctnLAat95M",
+      "added_at": "2025-10-19T08:59:06Z"
+    }
+  ]
+}

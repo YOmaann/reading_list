@@ -1,0 +1,545 @@
+{
+  "id": "3fA64N6qY5wPiGqIGiCgXU",
+  "name": "adolescent november",
+  "description": "fall semester coming to an end",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:3fA64N6qY5wPiGqIGiCgXU",
+  "external_url": "https://open.spotify.com/playlist/3fA64N6qY5wPiGqIGiCgXU",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8419c5cf66911d66ed883f7b11",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 13,
+  "tracks": [
+    {
+      "id": "0VXp4zDspR993l2hIKW17g",
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "artists": [
+        {
+          "id": "7lOJ7WXyopaxri0dbOiZkd",
+          "name": "Broken Social Scene",
+          "uri": "spotify:artist:7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "album": {
+        "id": "6nL0U84JsEJ0cRsGCnsDnJ",
+        "name": "You Forgot It In People",
+        "release_date": "2003-03-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27303da841c188eb597c6cf3611",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0203da841c188eb597c6cf3611",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485103da841c188eb597c6cf3611",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 275693,
+      "explicit": false,
+      "popularity": 62,
+      "uri": "spotify:track:0VXp4zDspR993l2hIKW17g",
+      "external_url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g",
+      "added_at": "2024-11-20T23:10:16Z"
+    },
+    {
+      "id": "2MLHyLy5z5l5YRp7momlgw",
+      "name": "Island In The Sun",
+      "artists": [
+        {
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "album": {
+        "id": "2OBSz5Nlto0Q5CtYPzPY7c",
+        "name": "Weezer",
+        "release_date": "2001-05-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731e0dc5baaabda304b0ad1815",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021e0dc5baaabda304b0ad1815",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511e0dc5baaabda304b0ad1815",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 200306,
+      "explicit": false,
+      "popularity": 85,
+      "uri": "spotify:track:2MLHyLy5z5l5YRp7momlgw",
+      "external_url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw",
+      "added_at": "2024-11-20T23:11:02Z"
+    },
+    {
+      "id": "28cnXtME493VX9NOw9cIUh",
+      "name": "Hurt",
+      "artists": [
+        {
+          "id": "6kACVPfCOnqzgfEF5ryl0x",
+          "name": "Johnny Cash",
+          "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "album": {
+        "id": "2BlL4Gv2DLPu8p58Wcmlm9",
+        "name": "American IV: The Man Comes Around",
+        "release_date": "2002-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026f4f62da3d811b6501a69ffa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516f4f62da3d811b6501a69ffa",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 216533,
+      "explicit": false,
+      "popularity": 76,
+      "uri": "spotify:track:28cnXtME493VX9NOw9cIUh",
+      "external_url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh",
+      "added_at": "2024-11-20T23:14:33Z"
+    },
+    {
+      "id": "6QlSPjiXHc1XwGKeEls6Gh",
+      "name": "Echo",
+      "artists": [
+        {
+          "id": "3l0CmX0FuQjFxr8SK7Vqag",
+          "name": "Clairo",
+          "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "album": {
+        "id": "1KNUCVXgIxKUGiuEB8eG0i",
+        "name": "Charm",
+        "release_date": "2024-07-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02193c2fafdce8f116b5ca0a78",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851193c2fafdce8f116b5ca0a78",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 229853,
+      "explicit": false,
+      "popularity": 62,
+      "uri": "spotify:track:6QlSPjiXHc1XwGKeEls6Gh",
+      "external_url": "https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh",
+      "added_at": "2024-11-20T23:22:00Z"
+    },
+    {
+      "id": "2q8rYQmDCRdJlv0efz5K0n",
+      "name": "Baat Unkahi",
+      "artists": [
+        {
+          "id": "6znPk9JRNmg6uyB6h8nJu3",
+          "name": "Kaavish",
+          "uri": "spotify:artist:6znPk9JRNmg6uyB6h8nJu3"
+        },
+        {
+          "id": "6RTvKMKR11gpANguOSx5vv",
+          "name": "Samra Khan",
+          "uri": "spotify:artist:6RTvKMKR11gpANguOSx5vv"
+        }
+      ],
+      "album": {
+        "id": "51YBYjJFoQGNF7jcLIap73",
+        "name": "Baat Unkahi",
+        "release_date": "2020-07-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739bf8fe91428e2e9ac731341f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029bf8fe91428e2e9ac731341f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519bf8fe91428e2e9ac731341f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 339044,
+      "explicit": false,
+      "popularity": 54,
+      "uri": "spotify:track:2q8rYQmDCRdJlv0efz5K0n",
+      "external_url": "https://open.spotify.com/track/2q8rYQmDCRdJlv0efz5K0n",
+      "added_at": "2024-11-20T23:27:44Z"
+    },
+    {
+      "id": "0UkCLj6ohJjoWvSpzUXIwG",
+      "name": "Never Seen a Rose",
+      "artists": [
+        {
+          "id": "0m5FakHKCQdA7UN0PIzMcL",
+          "name": "Current Joys",
+          "uri": "spotify:artist:0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "album": {
+        "id": "56MC7cZZaIMukrs6UaF4mg",
+        "name": "East My Love",
+        "release_date": "2024-10-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d8b1ecacf3cb25ba62a5b378",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d8b1ecacf3cb25ba62a5b378",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d8b1ecacf3cb25ba62a5b378",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 203704,
+      "explicit": false,
+      "popularity": 25,
+      "uri": "spotify:track:0UkCLj6ohJjoWvSpzUXIwG",
+      "external_url": "https://open.spotify.com/track/0UkCLj6ohJjoWvSpzUXIwG",
+      "added_at": "2024-11-20T23:39:06Z"
+    },
+    {
+      "id": "0SNcfNM0XZG5A5LFRdi0W5",
+      "name": "Lullaby for the Lost",
+      "artists": [
+        {
+          "id": "0m5FakHKCQdA7UN0PIzMcL",
+          "name": "Current Joys",
+          "uri": "spotify:artist:0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "album": {
+        "id": "56MC7cZZaIMukrs6UaF4mg",
+        "name": "East My Love",
+        "release_date": "2024-10-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d8b1ecacf3cb25ba62a5b378",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d8b1ecacf3cb25ba62a5b378",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d8b1ecacf3cb25ba62a5b378",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 360592,
+      "explicit": false,
+      "popularity": 34,
+      "uri": "spotify:track:0SNcfNM0XZG5A5LFRdi0W5",
+      "external_url": "https://open.spotify.com/track/0SNcfNM0XZG5A5LFRdi0W5",
+      "added_at": "2024-11-20T23:39:12Z"
+    },
+    {
+      "id": "6TvxPS4fj4LUdjw2es4g21",
+      "name": "Slipping Through My Fingers",
+      "artists": [
+        {
+          "id": "0LcJLqbBmaGUft1e9Mm8HV",
+          "name": "ABBA",
+          "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "album": {
+        "id": "5GByGaws7Cw0t28kjvAOzV",
+        "name": "The Visitors (Deluxe Edition)",
+        "release_date": "1981",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27342678f54dfd1d5afb3eea19a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0242678f54dfd1d5afb3eea19a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485142678f54dfd1d5afb3eea19a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 233720,
+      "explicit": false,
+      "popularity": 78,
+      "uri": "spotify:track:6TvxPS4fj4LUdjw2es4g21",
+      "external_url": "https://open.spotify.com/track/6TvxPS4fj4LUdjw2es4g21",
+      "added_at": "2024-11-21T00:10:15Z"
+    },
+    {
+      "id": "5A7ldx7fFEEsHvl5XEnGUA",
+      "name": "Winter Snakes",
+      "artists": [
+        {
+          "id": "4jCIAMb0zEArF3GYEYzoDk",
+          "name": "Joy Again",
+          "uri": "spotify:artist:4jCIAMb0zEArF3GYEYzoDk"
+        }
+      ],
+      "album": {
+        "id": "65lnDjCMHpSzQFQFYwF9AE",
+        "name": "Joy Again",
+        "release_date": "2017-01-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c4cfbdfe673542049e7390f6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c4cfbdfe673542049e7390f6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c4cfbdfe673542049e7390f6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 236900,
+      "explicit": false,
+      "popularity": 41,
+      "uri": "spotify:track:5A7ldx7fFEEsHvl5XEnGUA",
+      "external_url": "https://open.spotify.com/track/5A7ldx7fFEEsHvl5XEnGUA",
+      "added_at": "2024-11-24T18:14:29Z"
+    },
+    {
+      "id": "3qrTll9OQ9wcejTxPFY0qg",
+      "name": "The Line (from the series Arcane League of Legends)",
+      "artists": [
+        {
+          "id": "3YQKmKGau1PzlVlkL1iodx",
+          "name": "Twenty One Pilots",
+          "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+        },
+        {
+          "id": "57nPqD7z62gDdq37US9XJR",
+          "name": "Arcane",
+          "uri": "spotify:artist:57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "id": "47mIJdHORyRerp4os813jD",
+          "name": "League of Legends",
+          "uri": "spotify:artist:47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "album": {
+        "id": "4aE8ZrEif8MgWvFNIbz8I6",
+        "name": "The Line (from the series Arcane League of Legends)",
+        "release_date": "2024-11-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738a577010b0baa62c836e330b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028a577010b0baa62c836e330b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518a577010b0baa62c836e330b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 192000,
+      "explicit": false,
+      "popularity": 68,
+      "uri": "spotify:track:3qrTll9OQ9wcejTxPFY0qg",
+      "external_url": "https://open.spotify.com/track/3qrTll9OQ9wcejTxPFY0qg",
+      "added_at": "2024-12-08T19:21:25Z"
+    },
+    {
+      "id": "2WBnN9JJ8Kplzd8UzGPHA1",
+      "name": "Dead Flowers",
+      "artists": [
+        {
+          "id": "4cSyPcpldERtF4eL3NB9dn",
+          "name": "Sunny Day Service",
+          "uri": "spotify:artist:4cSyPcpldERtF4eL3NB9dn"
+        }
+      ],
+      "album": {
+        "id": "1wb1mKKHbzWUGwKCKwQAje",
+        "name": "Honjituwa Seitenari",
+        "release_date": "2010-04-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731ead84e8ffc64aa7dcdfcc16",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021ead84e8ffc64aa7dcdfcc16",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511ead84e8ffc64aa7dcdfcc16",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 293093,
+      "explicit": false,
+      "popularity": 7,
+      "uri": "spotify:track:2WBnN9JJ8Kplzd8UzGPHA1",
+      "external_url": "https://open.spotify.com/track/2WBnN9JJ8Kplzd8UzGPHA1",
+      "added_at": "2024-12-13T20:58:13Z"
+    },
+    {
+      "id": "3s2MZsEfiMe7ZjiRtun6wv",
+      "name": "Take Me Somewhere Nice",
+      "artists": [
+        {
+          "id": "34UhPkLbtFKRq3nmfFgejG",
+          "name": "Mogwai",
+          "uri": "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "album": {
+        "id": "34DvEbkQlFz3bxgaSpNhn9",
+        "name": "Rock Action",
+        "release_date": "2001-04-30",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27390170d2f23d44b359a595226",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0290170d2f23d44b359a595226",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485190170d2f23d44b359a595226",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 417226,
+      "explicit": false,
+      "popularity": 49,
+      "uri": "spotify:track:3s2MZsEfiMe7ZjiRtun6wv",
+      "external_url": "https://open.spotify.com/track/3s2MZsEfiMe7ZjiRtun6wv",
+      "added_at": "2025-01-16T21:35:55Z"
+    },
+    {
+      "id": "7hxdkHpl8gNgx3NnoffkK4",
+      "name": "Bread Song",
+      "artists": [
+        {
+          "id": "3PP6ghmOlDl2jaKaH0avUN",
+          "name": "Black Country, New Road",
+          "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "album": {
+        "id": "21xp7NdU1ajmO1CX0w2Egd",
+        "name": "Ants From Up There",
+        "release_date": "2022-02-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f4b994c518581bf62157c38",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020f4b994c518581bf62157c38",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 381413,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:7hxdkHpl8gNgx3NnoffkK4",
+      "external_url": "https://open.spotify.com/track/7hxdkHpl8gNgx3NnoffkK4",
+      "added_at": "2025-02-14T18:32:08Z"
+    }
+  ]
+}

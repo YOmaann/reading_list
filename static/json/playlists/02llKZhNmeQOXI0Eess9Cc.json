@@ -1,0 +1,535 @@
+{
+  "id": "02llKZhNmeQOXI0Eess9Cc",
+  "name": "recap 25",
+  "description": "new year, me",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:02llKZhNmeQOXI0Eess9Cc",
+  "external_url": "https://open.spotify.com/playlist/02llKZhNmeQOXI0Eess9Cc",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84722882237b859cee77054625",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 13,
+  "tracks": [
+    {
+      "id": "6HVF3gT3MRA4Ska8hOTptA",
+      "name": "Mando",
+      "artists": [
+        {
+          "id": "0oouuXi8tdasgUgk520Jy6",
+          "name": "Will Paquin",
+          "uri": "spotify:artist:0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "album": {
+        "id": "5LGzaBLnpKGas1QdKVfb20",
+        "name": "Mando",
+        "release_date": "2024-02-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731aa662df127a7e88a9b39ad3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021aa662df127a7e88a9b39ad3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511aa662df127a7e88a9b39ad3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 161030,
+      "explicit": false,
+      "popularity": 46,
+      "uri": "spotify:track:6HVF3gT3MRA4Ska8hOTptA",
+      "external_url": "https://open.spotify.com/track/6HVF3gT3MRA4Ska8hOTptA",
+      "added_at": "2026-01-06T00:19:25Z"
+    },
+    {
+      "id": "2nilAlGEZmwyaLTMMyDdLo",
+      "name": "For Emma",
+      "artists": [
+        {
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+          "name": "Bon Iver",
+          "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "album": {
+        "id": "7EJ0OT5ZqybXxcYRa6mccM",
+        "name": "For Emma, Forever Ago",
+        "release_date": "2008-02-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bf7c317a63c4f128b8823406",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bf7c317a63c4f128b8823406",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bf7c317a63c4f128b8823406",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 220720,
+      "explicit": false,
+      "popularity": 71,
+      "uri": "spotify:track:2nilAlGEZmwyaLTMMyDdLo",
+      "external_url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo",
+      "added_at": "2026-01-06T00:53:14Z"
+    },
+    {
+      "id": "7iy84staXXsGr0KzBG54Jz",
+      "name": "Ghost of Chicago - Audiotree Live version",
+      "artists": [
+        {
+          "id": "6fU24B4K9kWmFt5WTwwsLF",
+          "name": "Noah Floersch",
+          "uri": "spotify:artist:6fU24B4K9kWmFt5WTwwsLF"
+        },
+        {
+          "id": "1j8QyWpOJKAe6Iw2KvEg2j",
+          "name": "Audiotree",
+          "uri": "spotify:artist:1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "album": {
+        "id": "4bOK1GkTBFIH02AIT641uG",
+        "name": "Noah Floersch on Audiotree Live",
+        "release_date": "2024-02-02",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732e622fc7aa912c95687c9dd7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022e622fc7aa912c95687c9dd7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512e622fc7aa912c95687c9dd7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 233007,
+      "explicit": false,
+      "popularity": 18,
+      "uri": "spotify:track:7iy84staXXsGr0KzBG54Jz",
+      "external_url": "https://open.spotify.com/track/7iy84staXXsGr0KzBG54Jz",
+      "added_at": "2026-01-06T00:21:01Z"
+    },
+    {
+      "id": "2FZsOypXRoYIrGI6s8C3Zm",
+      "name": "$0",
+      "artists": [
+        {
+          "id": "0kGweFvHWUfh6oLnookVeO",
+          "name": "Cameron Winter",
+          "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "album": {
+        "id": "7mOrnQqDad3RgYQsJGaaqk",
+        "name": "Heavy Metal",
+        "release_date": "2024-12-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734738aa171569052376f162fe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024738aa171569052376f162fe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514738aa171569052376f162fe",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 403853,
+      "explicit": true,
+      "popularity": 58,
+      "uri": "spotify:track:2FZsOypXRoYIrGI6s8C3Zm",
+      "external_url": "https://open.spotify.com/track/2FZsOypXRoYIrGI6s8C3Zm",
+      "added_at": "2026-01-06T00:22:33Z"
+    },
+    {
+      "id": "0Ppd0oDauQpaQgNvpHzq24",
+      "name": "Good Will Hunting",
+      "artists": [
+        {
+          "id": "3PP6ghmOlDl2jaKaH0avUN",
+          "name": "Black Country, New Road",
+          "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "album": {
+        "id": "21xp7NdU1ajmO1CX0w2Egd",
+        "name": "Ants From Up There",
+        "release_date": "2022-02-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f4b994c518581bf62157c38",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020f4b994c518581bf62157c38",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 297906,
+      "explicit": false,
+      "popularity": 57,
+      "uri": "spotify:track:0Ppd0oDauQpaQgNvpHzq24",
+      "external_url": "https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24",
+      "added_at": "2026-01-06T00:24:11Z"
+    },
+    {
+      "id": "6VzcQuzTNTMFnJ6rBSaLH9",
+      "name": "Fine Line",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "album": {
+        "id": "7xV2TzoaVc0ycW7fwBwAml",
+        "name": "Fine Line",
+        "release_date": "2019-12-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27325180571abce9472f61bd722",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0225180571abce9472f61bd722",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485125180571abce9472f61bd722",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 377909,
+      "explicit": false,
+      "popularity": 79,
+      "uri": "spotify:track:6VzcQuzTNTMFnJ6rBSaLH9",
+      "external_url": "https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9",
+      "added_at": "2026-01-06T00:28:32Z"
+    },
+    {
+      "id": "75hwtYcghca6YKW4i6C6fP",
+      "name": "Drunk Drivers/Killer Whales",
+      "artists": [
+        {
+          "id": "5PbpKlxQE0Ktl5lcNABoFf",
+          "name": "Car Seat Headrest",
+          "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "album": {
+        "id": "3KpYyDP8q8sUBxatHaYEsP",
+        "name": "Teens Of Denial",
+        "release_date": "2016-05-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734094272fe172643edfdbba48",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024094272fe172643edfdbba48",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514094272fe172643edfdbba48",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 374653,
+      "explicit": true,
+      "popularity": 58,
+      "uri": "spotify:track:75hwtYcghca6YKW4i6C6fP",
+      "external_url": "https://open.spotify.com/track/75hwtYcghca6YKW4i6C6fP",
+      "added_at": "2026-01-06T00:38:01Z"
+    },
+    {
+      "id": "3Y4rUyw7XBCK6hGHCOt6rp",
+      "name": "Call It Fate, Call It Karma",
+      "artists": [
+        {
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "album": {
+        "id": "4WnkQO4xD9ljQooB3VIxCV",
+        "name": "Comedown Machine",
+        "release_date": "2013-03-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f07ef193e0bb6a238ea37f0a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f07ef193e0bb6a238ea37f0a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f07ef193e0bb6a238ea37f0a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 204773,
+      "explicit": false,
+      "popularity": 73,
+      "uri": "spotify:track:3Y4rUyw7XBCK6hGHCOt6rp",
+      "external_url": "https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp",
+      "added_at": "2026-01-06T00:33:54Z"
+    },
+    {
+      "id": "19kX6hSlYH31js2SL4jgrj",
+      "name": "Mulberry Street",
+      "artists": [
+        {
+          "id": "3YQKmKGau1PzlVlkL1iodx",
+          "name": "Twenty One Pilots",
+          "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "album": {
+        "id": "0Q5XBpCYFgUWiG9DUWyAmJ",
+        "name": "Scaled And Icy",
+        "release_date": "2021-05-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737c693d6ed6dff0d48cf15c23",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027c693d6ed6dff0d48cf15c23",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517c693d6ed6dff0d48cf15c23",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 224398,
+      "explicit": false,
+      "popularity": 69,
+      "uri": "spotify:track:19kX6hSlYH31js2SL4jgrj",
+      "external_url": "https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj",
+      "added_at": "2026-01-08T04:20:00Z"
+    },
+    {
+      "id": "1rzG4OowsYjRGDxvly5dth",
+      "name": "IOICIW",
+      "artists": [
+        {
+          "id": "2zyZWxDe4iPUpXXjZwnTC8",
+          "name": "Dearveni",
+          "uri": "spotify:artist:2zyZWxDe4iPUpXXjZwnTC8"
+        }
+      ],
+      "album": {
+        "id": "1fPsnRqZ3exHespoutvySH",
+        "name": "IOICIW",
+        "release_date": "2024-10-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273128d7629e5f0ab164cdea620",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02128d7629e5f0ab164cdea620",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851128d7629e5f0ab164cdea620",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 188731,
+      "explicit": false,
+      "popularity": 30,
+      "uri": "spotify:track:1rzG4OowsYjRGDxvly5dth",
+      "external_url": "https://open.spotify.com/track/1rzG4OowsYjRGDxvly5dth",
+      "added_at": "2026-01-10T05:27:15Z"
+    },
+    {
+      "id": "3vpLBt35y9gLu2Xv59PXLg",
+      "name": "Made In Japan",
+      "artists": [
+        {
+          "id": "2FMZn5P3WATd7Il6FgPJNu",
+          "name": "Buck Owens",
+          "uri": "spotify:artist:2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "album": {
+        "id": "38YMI8jMA7RotlUBZJNtcs",
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "release_date": "1990-08-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738e5f97a65d6b8baa73c4d58a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028e5f97a65d6b8baa73c4d58a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518e5f97a65d6b8baa73c4d58a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 164666,
+      "explicit": false,
+      "popularity": 77,
+      "uri": "spotify:track:3vpLBt35y9gLu2Xv59PXLg",
+      "external_url": "https://open.spotify.com/track/3vpLBt35y9gLu2Xv59PXLg",
+      "added_at": "2026-01-10T08:55:41Z"
+    },
+    {
+      "id": "5XGzLK66FsXQo8udTbsEYE",
+      "name": "See You Later, I'm Gone",
+      "artists": [
+        {
+          "id": "5uQyXHg4ph7gNlnZHxt9kX",
+          "name": "Robert Lester Folsom",
+          "uri": "spotify:artist:5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "album": {
+        "id": "0zL7odrtCctkeMf5OmLHZP",
+        "name": "Ode to a Rainy Day: Archives 1972-1975",
+        "release_date": "2014-10-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ca565c9336aa8026b60cd852",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ca565c9336aa8026b60cd852",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ca565c9336aa8026b60cd852",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 273306,
+      "explicit": false,
+      "popularity": 58,
+      "uri": "spotify:track:5XGzLK66FsXQo8udTbsEYE",
+      "external_url": "https://open.spotify.com/track/5XGzLK66FsXQo8udTbsEYE",
+      "added_at": "2026-01-21T19:28:49Z"
+    },
+    {
+      "id": "2Y4hGtm2AwkE0zge2CrqB8",
+      "name": "Heaven Has No Wings",
+      "artists": [
+        {
+          "id": "6tGT6SMlubqjTWDxBhSgg9",
+          "name": "Dove Ellis",
+          "uri": "spotify:artist:6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "album": {
+        "id": "3Brw2Xdmo6VRPWwOBNye0i",
+        "name": "Blizzard",
+        "release_date": "2025-12-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273305780793d5f230df33937b6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02305780793d5f230df33937b6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851305780793d5f230df33937b6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 170066,
+      "explicit": false,
+      "popularity": 44,
+      "uri": "spotify:track:2Y4hGtm2AwkE0zge2CrqB8",
+      "external_url": "https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8",
+      "added_at": "2026-01-28T05:17:08Z"
+    }
+  ]
+}

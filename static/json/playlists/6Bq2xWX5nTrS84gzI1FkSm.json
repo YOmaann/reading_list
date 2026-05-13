@@ -1,0 +1,930 @@
+{
+  "id": "6Bq2xWX5nTrS84gzI1FkSm",
+  "name": "summer, rain and snow",
+  "description": "i didn&#x27;t lose this",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:6Bq2xWX5nTrS84gzI1FkSm",
+  "external_url": "https://open.spotify.com/playlist/6Bq2xWX5nTrS84gzI1FkSm",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84539c1c4b32e7da9bdd335696",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 23,
+  "tracks": [
+    {
+      "id": "6ug8xD1Q4jhgfE8t7r2ZKl",
+      "name": "Solstice",
+      "artists": [
+        {
+          "id": "4qU7IJSReZnsLy5907Mtau",
+          "name": "Richy Mitch & The Coal Miners",
+          "uri": "spotify:artist:4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "album": {
+        "id": "0clSM4VH8nFVJNt2KS8X1K",
+        "name": "Solstice",
+        "release_date": "2018-02-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739fea6880b03d4f02e7ff6dfc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029fea6880b03d4f02e7ff6dfc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519fea6880b03d4f02e7ff6dfc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 306040,
+      "explicit": true,
+      "popularity": 53,
+      "uri": "spotify:track:6ug8xD1Q4jhgfE8t7r2ZKl",
+      "external_url": "https://open.spotify.com/track/6ug8xD1Q4jhgfE8t7r2ZKl",
+      "added_at": "2022-07-11T17:17:14Z"
+    },
+    {
+      "id": "07wsr8b3h0n18wBeyZU0ht",
+      "name": "My Other Side",
+      "artists": [
+        {
+          "id": "6AnOY77z51J14nEUVsFKTy",
+          "name": "Taba Chake",
+          "uri": "spotify:artist:6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "album": {
+        "id": "2VA8qF2mFzvMiFcHquVOEj",
+        "name": "Bombay Dreams",
+        "release_date": "2019-04-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27323cbd66f7f35b68454a213f4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0223cbd66f7f35b68454a213f4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485123cbd66f7f35b68454a213f4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 219000,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:07wsr8b3h0n18wBeyZU0ht",
+      "external_url": "https://open.spotify.com/track/07wsr8b3h0n18wBeyZU0ht",
+      "added_at": "2022-07-11T17:19:10Z"
+    },
+    {
+      "id": "1Go1VX1OMVzcodu53B01Az",
+      "name": "The Whale",
+      "artists": [
+        {
+          "id": "7IXOXREuu6HjgHbHvNjjFO",
+          "name": "Postcards From Mars",
+          "uri": "spotify:artist:7IXOXREuu6HjgHbHvNjjFO"
+        }
+      ],
+      "album": {
+        "id": "6XYjCzB1INhJC2MG0LjjRl",
+        "name": "The Whale",
+        "release_date": "2017-08-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731b7d9c462fac5c94bff8b92c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021b7d9c462fac5c94bff8b92c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511b7d9c462fac5c94bff8b92c",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 212695,
+      "explicit": false,
+      "popularity": 22,
+      "uri": "spotify:track:1Go1VX1OMVzcodu53B01Az",
+      "external_url": "https://open.spotify.com/track/1Go1VX1OMVzcodu53B01Az",
+      "added_at": "2022-07-11T17:24:24Z"
+    },
+    {
+      "id": "3tMVYmTyrPqZ7Ux5tY5ige",
+      "name": "In My Arms",
+      "artists": [
+        {
+          "id": "53mpvc3wWbaO6a7LKWQ73N",
+          "name": "Will Killen",
+          "uri": "spotify:artist:53mpvc3wWbaO6a7LKWQ73N"
+        }
+      ],
+      "album": {
+        "id": "0ZtyRu8WPcrUhdYsHkkl6i",
+        "name": "In My Arms",
+        "release_date": "2017-09-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273737fb66c5c162cd83e919de9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02737fb66c5c162cd83e919de9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851737fb66c5c162cd83e919de9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 174250,
+      "explicit": false,
+      "popularity": 27,
+      "uri": "spotify:track:3tMVYmTyrPqZ7Ux5tY5ige",
+      "external_url": "https://open.spotify.com/track/3tMVYmTyrPqZ7Ux5tY5ige",
+      "added_at": "2022-07-11T17:32:47Z"
+    },
+    {
+      "id": "7g7eIQUNX7axrc2SCHtv8q",
+      "name": "Werewolf",
+      "artists": [
+        {
+          "id": "4175BhOM4bhkc1AO9W6sKc",
+          "name": "Smith, Lyle & Moore",
+          "uri": "spotify:artist:4175BhOM4bhkc1AO9W6sKc"
+        }
+      ],
+      "album": {
+        "id": "3tJDmyGcS46CEyds9lhBV7",
+        "name": "Werewolf",
+        "release_date": "2020-08-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737f3a1898299ba3d6d36561cb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027f3a1898299ba3d6d36561cb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517f3a1898299ba3d6d36561cb",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 191440,
+      "explicit": true,
+      "popularity": 20,
+      "uri": "spotify:track:7g7eIQUNX7axrc2SCHtv8q",
+      "external_url": "https://open.spotify.com/track/7g7eIQUNX7axrc2SCHtv8q",
+      "added_at": "2022-07-11T17:37:24Z"
+    },
+    {
+      "id": "2LOQSqhlAmsK2z3vVHTnqq",
+      "name": "Campfire - Acoustic Version",
+      "artists": [
+        {
+          "id": "2qRxFU6TyYb3HCMIIq8npH",
+          "name": "Satellite Stories",
+          "uri": "spotify:artist:2qRxFU6TyYb3HCMIIq8npH"
+        }
+      ],
+      "album": {
+        "id": "77bxwNEZatGWS3d2kZX5HU",
+        "name": "Pine Trails (Acoustic Versions)",
+        "release_date": "2018-04-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734337547466828ea1c4385526",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024337547466828ea1c4385526",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514337547466828ea1c4385526",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 207468,
+      "explicit": false,
+      "popularity": 35,
+      "uri": "spotify:track:2LOQSqhlAmsK2z3vVHTnqq",
+      "external_url": "https://open.spotify.com/track/2LOQSqhlAmsK2z3vVHTnqq",
+      "added_at": "2022-07-11T17:39:49Z"
+    },
+    {
+      "id": "3HFvdapu8PAw0zHHu5g6Bv",
+      "name": "Cobalt",
+      "artists": [
+        {
+          "id": "1EinrMuAa4zkiBYq6NDZg4",
+          "name": "j solomon",
+          "uri": "spotify:artist:1EinrMuAa4zkiBYq6NDZg4"
+        }
+      ],
+      "album": {
+        "id": "6VPvrfXd4mEaxVz1iJZTQg",
+        "name": "Cobalt",
+        "release_date": "2020-01-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735ca1e6b58414dc4efaa60070",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025ca1e6b58414dc4efaa60070",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515ca1e6b58414dc4efaa60070",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 248149,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:3HFvdapu8PAw0zHHu5g6Bv",
+      "external_url": "https://open.spotify.com/track/3HFvdapu8PAw0zHHu5g6Bv",
+      "added_at": "2022-07-11T17:44:56Z"
+    },
+    {
+      "id": "0PKiozbcnD19iLJwDOR3gM",
+      "name": "Rest",
+      "artists": [
+        {
+          "id": "7x83EC0xUwygcVSbS6Rwou",
+          "name": "Sabu",
+          "uri": "spotify:artist:7x83EC0xUwygcVSbS6Rwou"
+        }
+      ],
+      "album": {
+        "id": "1MVFtOKa20wiqVEFjd9v5V",
+        "name": "Rest",
+        "release_date": "2019-07-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27305d0e9a7cdea8c7e17ac66ac",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0205d0e9a7cdea8c7e17ac66ac",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485105d0e9a7cdea8c7e17ac66ac",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 264096,
+      "explicit": false,
+      "popularity": 15,
+      "uri": "spotify:track:0PKiozbcnD19iLJwDOR3gM",
+      "external_url": "https://open.spotify.com/track/0PKiozbcnD19iLJwDOR3gM",
+      "added_at": "2022-07-11T17:49:04Z"
+    },
+    {
+      "id": "0DSI12pQyte62u0fnIQp3o",
+      "name": "Into the Unknown",
+      "artists": [
+        {
+          "id": "7IXOXREuu6HjgHbHvNjjFO",
+          "name": "Postcards From Mars",
+          "uri": "spotify:artist:7IXOXREuu6HjgHbHvNjjFO"
+        }
+      ],
+      "album": {
+        "id": "78PbectTZNsvr2UioaBzIJ",
+        "name": "Growth",
+        "release_date": "2016-04-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27370f04cb1c6402ea4893aece5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0270f04cb1c6402ea4893aece5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485170f04cb1c6402ea4893aece5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 220535,
+      "explicit": false,
+      "popularity": 20,
+      "uri": "spotify:track:0DSI12pQyte62u0fnIQp3o",
+      "external_url": "https://open.spotify.com/track/0DSI12pQyte62u0fnIQp3o",
+      "added_at": "2022-07-11T18:13:01Z"
+    },
+    {
+      "id": "3mCYQedDqBBYD59q4uplhB",
+      "name": "Signs of Life",
+      "artists": [
+        {
+          "id": "7H1Mw1I4p9sTGTtbGCj8E3",
+          "name": "Lewis Ross",
+          "uri": "spotify:artist:7H1Mw1I4p9sTGTtbGCj8E3"
+        }
+      ],
+      "album": {
+        "id": "2VjmVJlguBSgd16xJ1IoSn",
+        "name": "Colder Days",
+        "release_date": "2018-07-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739c8dd9dfd243dc991cecd9b2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029c8dd9dfd243dc991cecd9b2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519c8dd9dfd243dc991cecd9b2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 198133,
+      "explicit": false,
+      "popularity": 18,
+      "uri": "spotify:track:3mCYQedDqBBYD59q4uplhB",
+      "external_url": "https://open.spotify.com/track/3mCYQedDqBBYD59q4uplhB",
+      "added_at": "2022-07-11T18:19:09Z"
+    },
+    {
+      "id": "1b5t5WxtB7tg24OulHyXbQ",
+      "name": "Only",
+      "artists": [
+        {
+          "id": "2KjAo6wVc9d2WcxdxSArpV",
+          "name": "RY X",
+          "uri": "spotify:artist:2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "album": {
+        "id": "3SwSSNhZEqrGqsJ006Q1v6",
+        "name": "Dawn",
+        "release_date": "2016-05-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c4c8f9e79bef311add3b8728",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c4c8f9e79bef311add3b8728",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c4c8f9e79bef311add3b8728",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 268455,
+      "explicit": false,
+      "popularity": 67,
+      "uri": "spotify:track:1b5t5WxtB7tg24OulHyXbQ",
+      "external_url": "https://open.spotify.com/track/1b5t5WxtB7tg24OulHyXbQ",
+      "added_at": "2022-07-12T16:31:18Z"
+    },
+    {
+      "id": "7zfTF24acTKL42XSfzGETi",
+      "name": "Isle of Strawberries",
+      "artists": [
+        {
+          "id": "44DUgsrbRUlhwfLyj4ySUB",
+          "name": "Edwin Raphael",
+          "uri": "spotify:artist:44DUgsrbRUlhwfLyj4ySUB"
+        }
+      ],
+      "album": {
+        "id": "0Bb2UJXgxTgqUNC0z5QCyM",
+        "name": "Will You Think of Me Later?",
+        "release_date": "2019-03-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c4fbe8e0a762c029226b2e52",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c4fbe8e0a762c029226b2e52",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c4fbe8e0a762c029226b2e52",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 216370,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:7zfTF24acTKL42XSfzGETi",
+      "external_url": "https://open.spotify.com/track/7zfTF24acTKL42XSfzGETi",
+      "added_at": "2022-07-12T16:52:46Z"
+    },
+    {
+      "id": "4DsZFbvLhBxz5rQZiozfDn",
+      "name": "Deathcab",
+      "artists": [
+        {
+          "id": "0oUsTn1Xs1BCHlRw1RGD7R",
+          "name": "Ditty",
+          "uri": "spotify:artist:0oUsTn1Xs1BCHlRw1RGD7R"
+        }
+      ],
+      "album": {
+        "id": "5ahVKY0miWXtbmA4E618Zi",
+        "name": "Poetry Ceylon",
+        "release_date": "2019-06-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732313e37b689f5c4487550d72",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022313e37b689f5c4487550d72",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512313e37b689f5c4487550d72",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 218083,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:4DsZFbvLhBxz5rQZiozfDn",
+      "external_url": "https://open.spotify.com/track/4DsZFbvLhBxz5rQZiozfDn",
+      "added_at": "2022-08-10T13:33:05Z"
+    },
+    {
+      "id": "4gx8PVEORxGIPw6HG7EYah",
+      "name": "Scared of You",
+      "artists": [
+        {
+          "id": "37UWdRy8Gnj8oW9KvFuDYm",
+          "name": "Bobby, I Miss You",
+          "uri": "spotify:artist:37UWdRy8Gnj8oW9KvFuDYm"
+        }
+      ],
+      "album": {
+        "id": "6v6qBXp6p4w3yibNqjbXZJ",
+        "name": "Scared of You",
+        "release_date": "2018-02-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f68e2094699bfe315a5ec917",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f68e2094699bfe315a5ec917",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f68e2094699bfe315a5ec917",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 199628,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:4gx8PVEORxGIPw6HG7EYah",
+      "external_url": "https://open.spotify.com/track/4gx8PVEORxGIPw6HG7EYah",
+      "added_at": "2022-07-13T18:40:07Z"
+    },
+    {
+      "id": "5h9kCImRSHs7xabbDOYCYC",
+      "name": "Bombs",
+      "artists": [
+        {
+          "id": "0QNjXIQx37k8fIIzO4g71q",
+          "name": "Sami Simon",
+          "uri": "spotify:artist:0QNjXIQx37k8fIIzO4g71q"
+        }
+      ],
+      "album": {
+        "id": "0uEl2CeXpVSKVeaZL1upw5",
+        "name": "Bombs",
+        "release_date": "2019-02-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737089aad93b1e15ab9cf1841b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027089aad93b1e15ab9cf1841b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517089aad93b1e15ab9cf1841b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 266112,
+      "explicit": false,
+      "popularity": 27,
+      "uri": "spotify:track:5h9kCImRSHs7xabbDOYCYC",
+      "external_url": "https://open.spotify.com/track/5h9kCImRSHs7xabbDOYCYC",
+      "added_at": "2022-07-13T19:09:35Z"
+    },
+    {
+      "id": "4GjWZDfWw5ZnW9vmioJwY0",
+      "name": "Keep You Warm",
+      "artists": [
+        {
+          "id": "4WQwU51LUtrVrw0K8BMpAC",
+          "name": "Jaguar Sun",
+          "uri": "spotify:artist:4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "album": {
+        "id": "4BOldAGooVBHr4LZsyVjAL",
+        "name": "This Empty Town",
+        "release_date": "2020-07-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273663baa08db86653076848f1c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02663baa08db86653076848f1c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851663baa08db86653076848f1c",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 256204,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:4GjWZDfWw5ZnW9vmioJwY0",
+      "external_url": "https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0",
+      "added_at": "2022-07-15T05:11:46Z"
+    },
+    {
+      "id": "7fH1X2CUE0LpIE8VIzHYUJ",
+      "name": "Such Words (Acoustic)",
+      "artists": [
+        {
+          "id": "7EkzQPP0cgt2qCnXUg6PHj",
+          "name": "Ghostly Kisses",
+          "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "album": {
+        "id": "1l5Uv56XCJvPrsslT58fwH",
+        "name": "Alone Together",
+        "release_date": "2019-10-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27348e6dd103995978597f39d2a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0248e6dd103995978597f39d2a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485148e6dd103995978597f39d2a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 203093,
+      "explicit": false,
+      "popularity": 31,
+      "uri": "spotify:track:7fH1X2CUE0LpIE8VIzHYUJ",
+      "external_url": "https://open.spotify.com/track/7fH1X2CUE0LpIE8VIzHYUJ",
+      "added_at": "2022-07-16T02:12:26Z"
+    },
+    {
+      "id": "0LcJjIdLkioUTfKNhTCjLg",
+      "name": "Limbo",
+      "artists": [
+        {
+          "id": "5BRxWwvhe1BxvK6fs4V0dx",
+          "name": "Lissom",
+          "uri": "spotify:artist:5BRxWwvhe1BxvK6fs4V0dx"
+        },
+        {
+          "id": "7e4AmALFiKR69Xra2EksPU",
+          "name": "Julien Marchal",
+          "uri": "spotify:artist:7e4AmALFiKR69Xra2EksPU"
+        },
+        {
+          "id": "7FW2qwsY0zLV9GppWatQ5P",
+          "name": "Lowswimmer",
+          "uri": "spotify:artist:7FW2qwsY0zLV9GppWatQ5P"
+        }
+      ],
+      "album": {
+        "id": "6Ml73vBJUimUZhBA1R7aN8",
+        "name": "Lissom",
+        "release_date": "2018-08-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735f83967f4308417c5ed5109c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025f83967f4308417c5ed5109c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515f83967f4308417c5ed5109c",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 238577,
+      "explicit": false,
+      "popularity": 51,
+      "uri": "spotify:track:0LcJjIdLkioUTfKNhTCjLg",
+      "external_url": "https://open.spotify.com/track/0LcJjIdLkioUTfKNhTCjLg",
+      "added_at": "2022-07-16T17:46:58Z"
+    },
+    {
+      "id": "2LyAVHlIVAegYmFYmKQSQE",
+      "name": "bed - demo",
+      "artists": [
+        {
+          "id": "502gYHkFCtLzBIcU4ctPLd",
+          "name": "Zeph",
+          "uri": "spotify:artist:502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "album": {
+        "id": "5Gqq6Ws85etAcUc1cZETNc",
+        "name": "goodnight moon (demos)",
+        "release_date": "2020-11-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273807ca99493ddac2fce2b0145",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02807ca99493ddac2fce2b0145",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851807ca99493ddac2fce2b0145",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 40280,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:2LyAVHlIVAegYmFYmKQSQE",
+      "external_url": "https://open.spotify.com/track/2LyAVHlIVAegYmFYmKQSQE",
+      "added_at": "2022-07-22T13:21:35Z"
+    },
+    {
+      "id": "1B3q53I9zJk6NROKVE3EBz",
+      "name": "This Could Be",
+      "artists": [
+        {
+          "id": "49IjdVEbQcukWy36sdRMzl",
+          "name": "Joel Ansett",
+          "uri": "spotify:artist:49IjdVEbQcukWy36sdRMzl"
+        }
+      ],
+      "album": {
+        "id": "3kYWkZB8Y1QusFpcybeoRp",
+        "name": "A Place I Knew Before",
+        "release_date": "2019-08-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27326dda19045867fb3192a9fa1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0226dda19045867fb3192a9fa1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485126dda19045867fb3192a9fa1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 230426,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:1B3q53I9zJk6NROKVE3EBz",
+      "external_url": "https://open.spotify.com/track/1B3q53I9zJk6NROKVE3EBz",
+      "added_at": "2022-08-10T19:41:34Z"
+    },
+    {
+      "id": "3ega4Kki5JncxeJq82vxEX",
+      "name": "simple as snow",
+      "artists": [
+        {
+          "id": "4ze1UwMqtSlhTgnyk8LrW3",
+          "name": "Flatsound",
+          "uri": "spotify:artist:4ze1UwMqtSlhTgnyk8LrW3"
+        }
+      ],
+      "album": {
+        "id": "2KBkwYcHVmeEN5PdGbBsFU",
+        "name": "when you run away, do you close your eyes",
+        "release_date": "2022-07-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ff1fe0fff3044b911c6744b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029ff1fe0fff3044b911c6744b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519ff1fe0fff3044b911c6744b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 190250,
+      "explicit": false,
+      "popularity": 21,
+      "uri": "spotify:track:3ega4Kki5JncxeJq82vxEX",
+      "external_url": "https://open.spotify.com/track/3ega4Kki5JncxeJq82vxEX",
+      "added_at": "2022-07-24T09:11:25Z"
+    },
+    {
+      "id": "5oC1CYQXwu4Q2qW4oIVSOF",
+      "name": "Brother",
+      "artists": [
+        {
+          "id": "1Be39C5Cm8pOzpDP5bDokO",
+          "name": "Vraell",
+          "uri": "spotify:artist:1Be39C5Cm8pOzpDP5bDokO"
+        }
+      ],
+      "album": {
+        "id": "4Tmkpf55SwXHqJd3Rbe09g",
+        "name": "Fall",
+        "release_date": "2020-09-30",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27313bde6793295138ff8991e68",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0213bde6793295138ff8991e68",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485113bde6793295138ff8991e68",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 199575,
+      "explicit": false,
+      "popularity": 31,
+      "uri": "spotify:track:5oC1CYQXwu4Q2qW4oIVSOF",
+      "external_url": "https://open.spotify.com/track/5oC1CYQXwu4Q2qW4oIVSOF",
+      "added_at": "2022-08-10T19:58:37Z"
+    },
+    {
+      "id": "30Uu3CWjWfudnTGTIrw93V",
+      "name": "4runner",
+      "artists": [
+        {
+          "id": "74slMAMk8L6oMf6OhNyZ8Q",
+          "name": "Brenn!",
+          "uri": "spotify:artist:74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "album": {
+        "id": "3XRx8517824ujZ6kFbo5vv",
+        "name": "County Line",
+        "release_date": "2024-02-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27311d57e46a667e8d3ce82a6de",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0211d57e46a667e8d3ce82a6de",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485111d57e46a667e8d3ce82a6de",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 265453,
+      "explicit": false,
+      "popularity": 69,
+      "uri": "spotify:track:30Uu3CWjWfudnTGTIrw93V",
+      "external_url": "https://open.spotify.com/track/30Uu3CWjWfudnTGTIrw93V",
+      "added_at": "2024-05-13T10:49:10Z"
+    }
+  ]
+}

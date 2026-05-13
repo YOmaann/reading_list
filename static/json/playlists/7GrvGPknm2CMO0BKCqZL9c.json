@@ -1,0 +1,1726 @@
+{
+  "id": "7GrvGPknm2CMO0BKCqZL9c",
+  "name": "barfi",
+  "description": "(bus driver&#x27;s version)",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:7GrvGPknm2CMO0BKCqZL9c",
+  "external_url": "https://open.spotify.com/playlist/7GrvGPknm2CMO0BKCqZL9c",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c8943c07eef8c65d8854b69e",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 37,
+  "tracks": [
+    {
+      "id": "4I5Xcdu5Hnki1aP0Uxbs4n",
+      "name": "Saawali Si Raat",
+      "artists": [
+        {
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "album": {
+        "id": "2KZs4INik6X4KeZEsEWEm4",
+        "name": "Barfi! (Original Motion Picture Soundtrack)",
+        "release_date": "2012-06-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273352f44aed6f226c6ea28b961",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02352f44aed6f226c6ea28b961",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851352f44aed6f226c6ea28b961",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 308253,
+      "explicit": false,
+      "popularity": 48,
+      "uri": "spotify:track:4I5Xcdu5Hnki1aP0Uxbs4n",
+      "external_url": "https://open.spotify.com/track/4I5Xcdu5Hnki1aP0Uxbs4n",
+      "added_at": "2023-02-10T18:09:37Z"
+    },
+    {
+      "id": "5FXMRdJjKq1BIX4e8Eg9mK",
+      "name": "Ajab Si",
+      "artists": [
+        {
+          "id": "4fEkbug6kZzzJ8eYX6Kbbp",
+          "name": "KK",
+          "uri": "spotify:artist:4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+          "name": "Vishal-Shekhar",
+          "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "id": "6CXEwIaXYfVJ84biCxqc9k",
+          "name": "Vishal Dadlani",
+          "uri": "spotify:artist:6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "album": {
+        "id": "2cUzlmLfL5LUTSEk7qG09k",
+        "name": "Om Shanti Om",
+        "release_date": "2007-09-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273675b3f7dea80153c73581e5e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02675b3f7dea80153c73581e5e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851675b3f7dea80153c73581e5e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 241668,
+      "explicit": false,
+      "popularity": 71,
+      "uri": "spotify:track:5FXMRdJjKq1BIX4e8Eg9mK",
+      "external_url": "https://open.spotify.com/track/5FXMRdJjKq1BIX4e8Eg9mK",
+      "added_at": "2023-02-10T09:20:59Z"
+    },
+    {
+      "id": "4BTPzhEsyW3blWcxcuhLM0",
+      "name": "Mitwa",
+      "artists": [
+        {
+          "id": "0L5GV6LN8SWWUWIdBbTLTZ",
+          "name": "Shankar-Ehsaan-Loy",
+          "uri": "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "id": "1SJOL9HJ08YOn92lFcYf8a",
+          "name": "Shankar Mahadevan",
+          "uri": "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "id": "2Yf4MRVpt0rcAd5y5h5ph1",
+          "name": "Caralisa Monteiro",
+          "uri": "spotify:artist:2Yf4MRVpt0rcAd5y5h5ph1"
+        },
+        {
+          "id": "5SuRAj1A9FEHj5NxS86YAm",
+          "name": "Shafqat Amanat Ali",
+          "uri": "spotify:artist:5SuRAj1A9FEHj5NxS86YAm"
+        }
+      ],
+      "album": {
+        "id": "4hYTERVUXY74XJdm8tyXBV",
+        "name": "Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)",
+        "release_date": "2006-06-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273afbf50bfb7b032b69deabade",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02afbf50bfb7b032b69deabade",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851afbf50bfb7b032b69deabade",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 382973,
+      "explicit": false,
+      "popularity": 75,
+      "uri": "spotify:track:4BTPzhEsyW3blWcxcuhLM0",
+      "external_url": "https://open.spotify.com/track/4BTPzhEsyW3blWcxcuhLM0",
+      "added_at": "2023-02-10T09:22:28Z"
+    },
+    {
+      "id": "4FeczSomVWVyU4FW7xDeAI",
+      "name": "Tere Bina",
+      "artists": [
+        {
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "id": "5UJ2sHO2ELrgW6aXeRLTQQ",
+          "name": "Chinmayi",
+          "uri": "spotify:artist:5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "id": "3v8isPrc8btWVMF3bnOIcj",
+          "name": "Murtuza Khan",
+          "uri": "spotify:artist:3v8isPrc8btWVMF3bnOIcj"
+        },
+        {
+          "id": "2gTPBFjo3M9rvMSZWTk9nT",
+          "name": "Qadir Khan",
+          "uri": "spotify:artist:2gTPBFjo3M9rvMSZWTk9nT"
+        }
+      ],
+      "album": {
+        "id": "6kWI9GDPhMhaGNo80Q1XT5",
+        "name": "Guru (Original Motion Picture Soundtrack)",
+        "release_date": "2006-09-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730504fdf58bae8cd52dd13047",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020504fdf58bae8cd52dd13047",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510504fdf58bae8cd52dd13047",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 309640,
+      "explicit": false,
+      "popularity": 81,
+      "uri": "spotify:track:4FeczSomVWVyU4FW7xDeAI",
+      "external_url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI",
+      "added_at": "2023-02-10T15:57:06Z"
+    },
+    {
+      "id": "6YRbDkyTzsizAWFz8kwiI7",
+      "name": "Hum Tum",
+      "artists": [
+        {
+          "id": "4YgUVg4p7xtMOrOS4GjiJZ",
+          "name": "Jatin-Lalit",
+          "uri": "spotify:artist:4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "id": "3gBKY0y3dFFVRqicLnVZYz",
+          "name": "Alka Yagnik",
+          "uri": "spotify:artist:3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "id": "7guD32ltIhsA1tHdf7IVe0",
+          "name": "Babul Supriyo",
+          "uri": "spotify:artist:7guD32ltIhsA1tHdf7IVe0"
+        },
+        {
+          "id": "0e7Xsukwik0zDaqCcSvJTg",
+          "name": "Prasoon Joshi",
+          "uri": "spotify:artist:0e7Xsukwik0zDaqCcSvJTg"
+        }
+      ],
+      "album": {
+        "id": "7aybARUBUG9LqNWvJYpNAf",
+        "name": "Hum Tum",
+        "release_date": "2004-04-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ecb143ba6650682889c07b73",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ecb143ba6650682889c07b73",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ecb143ba6650682889c07b73",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 329221,
+      "explicit": false,
+      "popularity": 64,
+      "uri": "spotify:track:6YRbDkyTzsizAWFz8kwiI7",
+      "external_url": "https://open.spotify.com/track/6YRbDkyTzsizAWFz8kwiI7",
+      "added_at": "2023-02-10T09:22:45Z"
+    },
+    {
+      "id": "7eQl3Yqv35ioqUfveKHitE",
+      "name": "Tum Se Hi",
+      "artists": [
+        {
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "id": "5GnnSrwNCGyfAU4zuIytiS",
+          "name": "Mohit Chauhan",
+          "uri": "spotify:artist:5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "id": "3GdSQUH1BRtl9UrrtuwJlP",
+          "name": "Irshad Kamil",
+          "uri": "spotify:artist:3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "album": {
+        "id": "4OYdTHNgjhXzgVjbqsb0tO",
+        "name": "Jab We Met",
+        "release_date": "2007-09-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27352fe6875028c892308ffc2f7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0252fe6875028c892308ffc2f7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485152fe6875028c892308ffc2f7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 321225,
+      "explicit": false,
+      "popularity": 79,
+      "uri": "spotify:track:7eQl3Yqv35ioqUfveKHitE",
+      "external_url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE",
+      "added_at": "2023-02-10T09:23:00Z"
+    },
+    {
+      "id": "29YePgOxuPLfU7uZKxKf6w",
+      "name": "Sawaar Loon",
+      "artists": [
+        {
+          "id": "2o4R2rK7FetH40HTv0SUWl",
+          "name": "Monali Thakur",
+          "uri": "spotify:artist:2o4R2rK7FetH40HTv0SUWl"
+        },
+        {
+          "id": "7HCqGPJcQTyGJ2yqntbuyr",
+          "name": "Amit Trivedi",
+          "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "album": {
+        "id": "3VrQeNAFHS4Vjl4uspl1s3",
+        "name": "Lootera",
+        "release_date": "2013-05-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730e26db222796cf4207425abc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020e26db222796cf4207425abc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510e26db222796cf4207425abc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 254699,
+      "explicit": false,
+      "popularity": 70,
+      "uri": "spotify:track:29YePgOxuPLfU7uZKxKf6w",
+      "external_url": "https://open.spotify.com/track/29YePgOxuPLfU7uZKxKf6w",
+      "added_at": "2023-02-10T09:23:18Z"
+    },
+    {
+      "id": "1vgVsR5rkXGP4NmUcoroJH",
+      "name": "Aye Khuda",
+      "artists": [
+        {
+          "id": "1TbRSunWGZ46mqnapcWxrm",
+          "name": "Salim Merchant",
+          "uri": "spotify:artist:1TbRSunWGZ46mqnapcWxrm"
+        }
+      ],
+      "album": {
+        "id": "15bbskXdtqo6uN2IMC1NlF",
+        "name": "Paathshaala",
+        "release_date": "2010-03-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27305ab1baaa49d516762821a20",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0205ab1baaa49d516762821a20",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485105ab1baaa49d516762821a20",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 280497,
+      "explicit": false,
+      "popularity": 65,
+      "uri": "spotify:track:1vgVsR5rkXGP4NmUcoroJH",
+      "external_url": "https://open.spotify.com/track/1vgVsR5rkXGP4NmUcoroJH",
+      "added_at": "2023-02-10T09:23:59Z"
+    },
+    {
+      "id": "7uNnlVit5qDvfOje0pqICF",
+      "name": "Tum Ho",
+      "artists": [
+        {
+          "id": "5GnnSrwNCGyfAU4zuIytiS",
+          "name": "Mohit Chauhan",
+          "uri": "spotify:artist:5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "id": "4HQeSXwG2BVH0KvxHE5oCf",
+          "name": "Suzanne D'Mello",
+          "uri": "spotify:artist:4HQeSXwG2BVH0KvxHE5oCf"
+        }
+      ],
+      "album": {
+        "id": "3RZxrS2dDZlbsYtMRM89v8",
+        "name": "Rockstar",
+        "release_date": "2011-10-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27354e544672baa16145d67612b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0254e544672baa16145d67612b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485154e544672baa16145d67612b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 316500,
+      "explicit": false,
+      "popularity": 72,
+      "uri": "spotify:track:7uNnlVit5qDvfOje0pqICF",
+      "external_url": "https://open.spotify.com/track/7uNnlVit5qDvfOje0pqICF",
+      "added_at": "2023-02-10T09:24:20Z"
+    },
+    {
+      "id": "6udC4b4jOSnHb9ItnXgKLR",
+      "name": "Saibo",
+      "artists": [
+        {
+          "id": "1mBydYMVBECdDmMfE2sEUO",
+          "name": "Sachin-Jigar",
+          "uri": "spotify:artist:1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "id": "0oOet2f43PA68X5RxKobEy",
+          "name": "Shreya Ghoshal",
+          "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "id": "6k6dimE4a6OFnD0HWmkIUW",
+          "name": "Tochi Raina",
+          "uri": "spotify:artist:6k6dimE4a6OFnD0HWmkIUW"
+        }
+      ],
+      "album": {
+        "id": "2HZl13JCi3PIaqVlIkp4q6",
+        "name": "Shor in the City (Original Motion Picture Soundtrack)",
+        "release_date": "2011-03-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731aac2079e5047e1bfd1b59d9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021aac2079e5047e1bfd1b59d9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511aac2079e5047e1bfd1b59d9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 195253,
+      "explicit": false,
+      "popularity": 47,
+      "uri": "spotify:track:6udC4b4jOSnHb9ItnXgKLR",
+      "external_url": "https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR",
+      "added_at": "2023-02-10T09:36:07Z"
+    },
+    {
+      "id": "2iNqdCchlUZEgjJbQyZf8T",
+      "name": "Teri Deewani",
+      "artists": [
+        {
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "id": "3PgeUFj9oHU4K4RGaITz2f",
+          "name": "Paresh Kamath",
+          "uri": "spotify:artist:3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "id": "79sho4jpEGoCCC51KHnNSJ",
+          "name": "Naresh Kamath",
+          "uri": "spotify:artist:79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "album": {
+        "id": "4RaycLPhCCJ8wglYD4cvmD",
+        "name": "Kailasa",
+        "release_date": "2006-02-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a853b902decce7830d171841",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a853b902decce7830d171841",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a853b902decce7830d171841",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 323520,
+      "explicit": false,
+      "popularity": 80,
+      "uri": "spotify:track:2iNqdCchlUZEgjJbQyZf8T",
+      "external_url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T",
+      "added_at": "2023-02-10T15:02:00Z"
+    },
+    {
+      "id": "3OZLwCFeWOCFHTlIIrwzmO",
+      "name": "Darasal",
+      "artists": [
+        {
+          "id": "2oSONSC9zQ4UonDKnLqksx",
+          "name": "Atif Aslam",
+          "uri": "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "id": "2OmfdBdL7q9oqrSrls0Pzw",
+          "name": "Jam8",
+          "uri": "spotify:artist:2OmfdBdL7q9oqrSrls0Pzw"
+        },
+        {
+          "id": "3GdSQUH1BRtl9UrrtuwJlP",
+          "name": "Irshad Kamil",
+          "uri": "spotify:artist:3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "album": {
+        "id": "05U9YwErzcnF0PmyPalDo5",
+        "name": "Raabta",
+        "release_date": "2017-06-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732e44757f6ea4eb34d2a0d42f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022e44757f6ea4eb34d2a0d42f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512e44757f6ea4eb34d2a0d42f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 274354,
+      "explicit": false,
+      "popularity": 57,
+      "uri": "spotify:track:3OZLwCFeWOCFHTlIIrwzmO",
+      "external_url": "https://open.spotify.com/track/3OZLwCFeWOCFHTlIIrwzmO",
+      "added_at": "2023-02-10T16:23:18Z"
+    },
+    {
+      "id": "4iFPsNzNV7V9KJgcOX7TEO",
+      "name": "Tu Jaane Na",
+      "artists": [
+        {
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "id": "2oSONSC9zQ4UonDKnLqksx",
+          "name": "Atif Aslam",
+          "uri": "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "album": {
+        "id": "13t8iDyl1vkhPcO3Zl29a9",
+        "name": "Ajab Prem Ki Ghazab Kahani (Original Motion Picture Soundtrack)",
+        "release_date": "2009-11-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a200135a2008410280695cb3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a200135a2008410280695cb3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a200135a2008410280695cb3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 341933,
+      "explicit": false,
+      "popularity": 76,
+      "uri": "spotify:track:4iFPsNzNV7V9KJgcOX7TEO",
+      "external_url": "https://open.spotify.com/track/4iFPsNzNV7V9KJgcOX7TEO",
+      "added_at": "2023-02-10T10:04:41Z"
+    },
+    {
+      "id": "52itZ0w0CydihB2JCZEIft",
+      "name": "Pee Loon",
+      "artists": [
+        {
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "id": "5GnnSrwNCGyfAU4zuIytiS",
+          "name": "Mohit Chauhan",
+          "uri": "spotify:artist:5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "id": "3GdSQUH1BRtl9UrrtuwJlP",
+          "name": "Irshad Kamil",
+          "uri": "spotify:artist:3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "album": {
+        "id": "4ceWEQarPyTyeb9TUeyLOG",
+        "name": "Once Upon A Time In Mumbaai",
+        "release_date": "2010-06-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273df934f4de5f8dd46f8d75f5f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02df934f4de5f8dd46f8d75f5f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851df934f4de5f8dd46f8d75f5f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 285686,
+      "explicit": false,
+      "popularity": 74,
+      "uri": "spotify:track:52itZ0w0CydihB2JCZEIft",
+      "external_url": "https://open.spotify.com/track/52itZ0w0CydihB2JCZEIft",
+      "added_at": "2023-02-13T08:13:33Z"
+    },
+    {
+      "id": "1O5mTSQa0sCce9ghhDqIZl",
+      "name": "Jashn-E-Bahaaraa",
+      "artists": [
+        {
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "id": "4W91bbPB2CTSsHwt7eqNl7",
+          "name": "Javed Ali",
+          "uri": "spotify:artist:4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "album": {
+        "id": "60Omt7taTKwehAq1gETKCW",
+        "name": "Jodhaa Akbar (Original Motion Picture Soundtrack)",
+        "release_date": "2007-12-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b5af9d80b5b84a3fd3c13f0f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b5af9d80b5b84a3fd3c13f0f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b5af9d80b5b84a3fd3c13f0f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 315173,
+      "explicit": false,
+      "popularity": 68,
+      "uri": "spotify:track:1O5mTSQa0sCce9ghhDqIZl",
+      "external_url": "https://open.spotify.com/track/1O5mTSQa0sCce9ghhDqIZl",
+      "added_at": "2023-02-10T09:30:00Z"
+    },
+    {
+      "id": "1ax8ZuwRVkSdzzsIqyCNWQ",
+      "name": "Tumse Milke Dil Ka",
+      "artists": [
+        {
+          "id": "1dVygo6tRFXC8CSWURQJq2",
+          "name": "Sonu Nigam",
+          "uri": "spotify:artist:1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "id": "0sbtGmW8r5bxfXzla8a7eI",
+          "name": "Sabri Brothers",
+          "uri": "spotify:artist:0sbtGmW8r5bxfXzla8a7eI"
+        }
+      ],
+      "album": {
+        "id": "2QyR1r0XwtvljXEZs9I3ge",
+        "name": "Main Hoon Na",
+        "release_date": "2004-02-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7fa423de639247fed12be4a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7fa423de639247fed12be4a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7fa423de639247fed12be4a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 359253,
+      "explicit": false,
+      "popularity": 66,
+      "uri": "spotify:track:1ax8ZuwRVkSdzzsIqyCNWQ",
+      "external_url": "https://open.spotify.com/track/1ax8ZuwRVkSdzzsIqyCNWQ",
+      "added_at": "2023-03-05T15:21:53Z"
+    },
+    {
+      "id": "2UKK9UEbKlykbmLVP1zWIQ",
+      "name": "Haule Haule",
+      "artists": [
+        {
+          "id": "6ohaQzKaXrobAL8paLSaxq",
+          "name": "Salim–Sulaiman",
+          "uri": "spotify:artist:6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "id": "19MVxKZZdPj2X0F8pi0OCT",
+          "name": "Sukhwinder Singh",
+          "uri": "spotify:artist:19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "id": "5kPOMQZvgkAEnRZqwn9SYQ",
+          "name": "Jaideep Sahni",
+          "uri": "spotify:artist:5kPOMQZvgkAEnRZqwn9SYQ"
+        }
+      ],
+      "album": {
+        "id": "7pbKuvQHUTwbq4FbevvEca",
+        "name": "Rab Ne Bana Di Jodi",
+        "release_date": "2008-11-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731555fec10000486f9331fbc8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021555fec10000486f9331fbc8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511555fec10000486f9331fbc8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 263967,
+      "explicit": false,
+      "popularity": 70,
+      "uri": "spotify:track:2UKK9UEbKlykbmLVP1zWIQ",
+      "external_url": "https://open.spotify.com/track/2UKK9UEbKlykbmLVP1zWIQ",
+      "added_at": "2023-03-06T11:42:17Z"
+    },
+    {
+      "id": "2vR23BjIzpLMtzsyKrM6Mb",
+      "name": "Saiyyan",
+      "artists": [
+        {
+          "id": "4oVMLzAqW6qhRpZWt8fNw4",
+          "name": "Kailash Kher",
+          "uri": "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "id": "3PgeUFj9oHU4K4RGaITz2f",
+          "name": "Paresh Kamath",
+          "uri": "spotify:artist:3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "id": "79sho4jpEGoCCC51KHnNSJ",
+          "name": "Naresh Kamath",
+          "uri": "spotify:artist:79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "album": {
+        "id": "1DzYor2sqKFs4Z6qcUl0V5",
+        "name": "Jhoomo Re",
+        "release_date": "2011-06-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd3f6c3c2f2aa9b76fe635b1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd3f6c3c2f2aa9b76fe635b1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cd3f6c3c2f2aa9b76fe635b1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 343906,
+      "explicit": false,
+      "popularity": 74,
+      "uri": "spotify:track:2vR23BjIzpLMtzsyKrM6Mb",
+      "external_url": "https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb",
+      "added_at": "2023-03-06T11:42:39Z"
+    },
+    {
+      "id": "3LWvtwgEIzC1wdHiUBoG1v",
+      "name": "Breathless - Shankar Mahadevan",
+      "artists": [
+        {
+          "id": "1SJOL9HJ08YOn92lFcYf8a",
+          "name": "Shankar Mahadevan",
+          "uri": "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "album": {
+        "id": "2XyAPnAa62su8YqSP3eYON",
+        "name": "Breathless",
+        "release_date": "1998-12-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c45f8ae0957ab4b8c45dd4fc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c45f8ae0957ab4b8c45dd4fc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c45f8ae0957ab4b8c45dd4fc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 177960,
+      "explicit": false,
+      "popularity": 50,
+      "uri": "spotify:track:3LWvtwgEIzC1wdHiUBoG1v",
+      "external_url": "https://open.spotify.com/track/3LWvtwgEIzC1wdHiUBoG1v",
+      "added_at": "2023-03-06T11:47:06Z"
+    },
+    {
+      "id": "0WNCYgCd33LnBnw22WFuq8",
+      "name": "Bhula Dena",
+      "artists": [
+        {
+          "id": "71oGOxg5ez52Hh1Ye41A98",
+          "name": "Mustafa Zahid",
+          "uri": "spotify:artist:71oGOxg5ez52Hh1Ye41A98"
+        },
+        {
+          "id": "2kkQthS9OLpK4UqNWYqoVl",
+          "name": "Jeet Gannguli",
+          "uri": "spotify:artist:2kkQthS9OLpK4UqNWYqoVl"
+        },
+        {
+          "id": "2DaHOINqLeDDartdiSzXov",
+          "name": "Sanjay Masoom",
+          "uri": "spotify:artist:2DaHOINqLeDDartdiSzXov"
+        }
+      ],
+      "album": {
+        "id": "0Rkv5iqjF2uenfL0OVB8hg",
+        "name": "Aashiqui 2",
+        "release_date": "2013-04-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736404721c1943d5069f0805f3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026404721c1943d5069f0805f3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516404721c1943d5069f0805f3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 240723,
+      "explicit": false,
+      "popularity": 71,
+      "uri": "spotify:track:0WNCYgCd33LnBnw22WFuq8",
+      "external_url": "https://open.spotify.com/track/0WNCYgCd33LnBnw22WFuq8",
+      "added_at": "2023-03-07T20:52:50Z"
+    },
+    {
+      "id": "5H4rKylLnO8KrmdXTRhj5s",
+      "name": "Chaiyya Chaiyya",
+      "artists": [
+        {
+          "id": "19MVxKZZdPj2X0F8pi0OCT",
+          "name": "Sukhwinder Singh",
+          "uri": "spotify:artist:19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "id": "2tFjeCx8NJhn7JBTTiWT30",
+          "name": "Sapna Awasthi",
+          "uri": "spotify:artist:2tFjeCx8NJhn7JBTTiWT30"
+        }
+      ],
+      "album": {
+        "id": "54NUwj7U1MOhA1ZGbnhiMz",
+        "name": "Dil Se (Original Motion Picture Soundtrack)",
+        "release_date": "1998-07-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734e2aa94e199e50bc8e10646f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024e2aa94e199e50bc8e10646f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514e2aa94e199e50bc8e10646f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 406848,
+      "explicit": false,
+      "popularity": 67,
+      "uri": "spotify:track:5H4rKylLnO8KrmdXTRhj5s",
+      "external_url": "https://open.spotify.com/track/5H4rKylLnO8KrmdXTRhj5s",
+      "added_at": "2023-03-24T13:46:47Z"
+    },
+    {
+      "id": "5oYRr51VatOtkFeEOursuZ",
+      "name": "O Sanam",
+      "artists": [
+        {
+          "id": "2L16nDKTxhFGaDriR2AHTB",
+          "name": "Lucky Ali",
+          "uri": "spotify:artist:2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "album": {
+        "id": "54mRGBCsNzGVGhVPenUnvt",
+        "name": "Sunoh",
+        "release_date": "1996-05-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737c8248da2e4e0104e4bfdea0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027c8248da2e4e0104e4bfdea0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517c8248da2e4e0104e4bfdea0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 223027,
+      "explicit": false,
+      "popularity": 63,
+      "uri": "spotify:track:5oYRr51VatOtkFeEOursuZ",
+      "external_url": "https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ",
+      "added_at": "2023-03-29T18:14:03Z"
+    },
+    {
+      "id": "2MmAYegcUty1DmG0Gw7AMh",
+      "name": "Jo Bhi Main",
+      "artists": [
+        {
+          "id": "5GnnSrwNCGyfAU4zuIytiS",
+          "name": "Mohit Chauhan",
+          "uri": "spotify:artist:5GnnSrwNCGyfAU4zuIytiS"
+        }
+      ],
+      "album": {
+        "id": "3RZxrS2dDZlbsYtMRM89v8",
+        "name": "Rockstar",
+        "release_date": "2011-10-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27354e544672baa16145d67612b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0254e544672baa16145d67612b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485154e544672baa16145d67612b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 273500,
+      "explicit": false,
+      "popularity": 59,
+      "uri": "spotify:track:2MmAYegcUty1DmG0Gw7AMh",
+      "external_url": "https://open.spotify.com/track/2MmAYegcUty1DmG0Gw7AMh",
+      "added_at": "2023-03-31T04:28:13Z"
+    },
+    {
+      "id": "4r8JqkhpTb5tzSKKHnVJIJ",
+      "name": "Tujhe Bhula Diya",
+      "artists": [
+        {
+          "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+          "name": "Vishal-Shekhar",
+          "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "id": "5GnnSrwNCGyfAU4zuIytiS",
+          "name": "Mohit Chauhan",
+          "uri": "spotify:artist:5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "id": "4xd7mLI7urqrxELaXhAvzw",
+          "name": "Shekhar Ravjiani",
+          "uri": "spotify:artist:4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "id": "3wZBspj86lRk2XLf4gfnSE",
+          "name": "Shruti Pathak",
+          "uri": "spotify:artist:3wZBspj86lRk2XLf4gfnSE"
+        }
+      ],
+      "album": {
+        "id": "6FC95PYKFrO8UYhjCidPZ9",
+        "name": "Anjaana Anjaani",
+        "release_date": "2010-08-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731da0a37c5bad81580d49ef05",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021da0a37c5bad81580d49ef05",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511da0a37c5bad81580d49ef05",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 279429,
+      "explicit": false,
+      "popularity": 72,
+      "uri": "spotify:track:4r8JqkhpTb5tzSKKHnVJIJ",
+      "external_url": "https://open.spotify.com/track/4r8JqkhpTb5tzSKKHnVJIJ",
+      "added_at": "2023-04-11T21:54:01Z"
+    },
+    {
+      "id": "6w458kA8WOAIZr1ublxnK9",
+      "name": "Safarnama",
+      "artists": [
+        {
+          "id": "2L16nDKTxhFGaDriR2AHTB",
+          "name": "Lucky Ali",
+          "uri": "spotify:artist:2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "album": {
+        "id": "2CUXo26JAWIbQx0EVMnjpA",
+        "name": "Tamasha",
+        "release_date": "2015-10-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273da50894e074ecd5ce61de0a1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02da50894e074ecd5ce61de0a1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851da50894e074ecd5ce61de0a1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 251402,
+      "explicit": false,
+      "popularity": 63,
+      "uri": "spotify:track:6w458kA8WOAIZr1ublxnK9",
+      "external_url": "https://open.spotify.com/track/6w458kA8WOAIZr1ublxnK9",
+      "added_at": "2023-04-15T01:58:46Z"
+    },
+    {
+      "id": "5nHwX7e5XHnie22nuTFgda",
+      "name": "Dil Kyun Yeh Mera",
+      "artists": [
+        {
+          "id": "4fEkbug6kZzzJ8eYX6Kbbp",
+          "name": "KK",
+          "uri": "spotify:artist:4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "album": {
+        "id": "79uqwO6n4ZFqHaDwLZhyL0",
+        "name": "Kites",
+        "release_date": "2010-03-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ae319e2da9a2e81dfe888409",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ae319e2da9a2e81dfe888409",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ae319e2da9a2e81dfe888409",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 333200,
+      "explicit": false,
+      "popularity": 61,
+      "uri": "spotify:track:5nHwX7e5XHnie22nuTFgda",
+      "external_url": "https://open.spotify.com/track/5nHwX7e5XHnie22nuTFgda",
+      "added_at": "2023-04-22T06:23:24Z"
+    },
+    {
+      "id": "5Br8K1CLLVB7AuuM0t4G7r",
+      "name": "Preet",
+      "artists": [
+        {
+          "id": "74OaRjmyh0XyRZsQQQ5l7c",
+          "name": "Jasleen Royal",
+          "uri": "spotify:artist:74OaRjmyh0XyRZsQQQ5l7c"
+        }
+      ],
+      "album": {
+        "id": "66PqhjAV83M26X8mJ8nqDO",
+        "name": "Khoobsurat",
+        "release_date": "2014-08-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733b37f6de72015eefce8ee5d3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023b37f6de72015eefce8ee5d3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513b37f6de72015eefce8ee5d3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 303673,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:5Br8K1CLLVB7AuuM0t4G7r",
+      "external_url": "https://open.spotify.com/track/5Br8K1CLLVB7AuuM0t4G7r",
+      "added_at": "2023-08-26T04:51:51Z"
+    },
+    {
+      "id": "1gEHNfJRSXpDVaEicwRRfe",
+      "name": "Zinda",
+      "artists": [
+        {
+          "id": "7HCqGPJcQTyGJ2yqntbuyr",
+          "name": "Amit Trivedi",
+          "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "album": {
+        "id": "3VrQeNAFHS4Vjl4uspl1s3",
+        "name": "Lootera",
+        "release_date": "2013-05-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730e26db222796cf4207425abc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020e26db222796cf4207425abc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510e26db222796cf4207425abc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 241962,
+      "explicit": false,
+      "popularity": 56,
+      "uri": "spotify:track:1gEHNfJRSXpDVaEicwRRfe",
+      "external_url": "https://open.spotify.com/track/1gEHNfJRSXpDVaEicwRRfe",
+      "added_at": "2023-10-23T15:29:20Z"
+    },
+    {
+      "id": "2oeehqJKzBU94BcXgXdcDF",
+      "name": "Aye Dil Kisi Ki Yaad (From \"Ik Tera Sahara\")",
+      "artists": [
+        {
+          "id": "1tY6CFP2L58QFq1W19GbBX",
+          "name": "Saleem Raza",
+          "uri": "spotify:artist:1tY6CFP2L58QFq1W19GbBX"
+        }
+      ],
+      "album": {
+        "id": "75DBZ8gztQ6XExBK98UrqY",
+        "name": "Ik Tera Sahara / Aag Ka Daryia",
+        "release_date": "2015-05-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734577bac24a9404bb0979b37e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024577bac24a9404bb0979b37e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514577bac24a9404bb0979b37e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 213533,
+      "explicit": false,
+      "popularity": 28,
+      "uri": "spotify:track:2oeehqJKzBU94BcXgXdcDF",
+      "external_url": "https://open.spotify.com/track/2oeehqJKzBU94BcXgXdcDF",
+      "added_at": "2023-12-04T14:31:50Z"
+    },
+    {
+      "id": "6YycppSAeGtSvwmu8qCcr2",
+      "name": "In Dino",
+      "artists": [
+        {
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "id": "6icGUGLUKCVB5esdQXdjiw",
+          "name": "Soham",
+          "uri": "spotify:artist:6icGUGLUKCVB5esdQXdjiw"
+        },
+        {
+          "id": "2pGRniGOJSOvYoK3dGaBb8",
+          "name": "Sayeed Quadri",
+          "uri": "spotify:artist:2pGRniGOJSOvYoK3dGaBb8"
+        }
+      ],
+      "album": {
+        "id": "6leYdBPs1XzfUgpc8xgeSi",
+        "name": "Life In A Metro (Original Motion Picture Soundtrack)",
+        "release_date": "2007-03-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273970e7d9a98d483f24a3345b6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02970e7d9a98d483f24a3345b6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851970e7d9a98d483f24a3345b6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 397026,
+      "explicit": false,
+      "popularity": 63,
+      "uri": "spotify:track:6YycppSAeGtSvwmu8qCcr2",
+      "external_url": "https://open.spotify.com/track/6YycppSAeGtSvwmu8qCcr2",
+      "added_at": "2024-04-08T21:01:20Z"
+    },
+    {
+      "id": "0gPgdRfB4jdGrlyXS0Vx78",
+      "name": "Khuda Jaane",
+      "artists": [
+        {
+          "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+          "name": "Vishal-Shekhar",
+          "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "id": "4fEkbug6kZzzJ8eYX6Kbbp",
+          "name": "KK",
+          "uri": "spotify:artist:4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "id": "19LIHDDSHBD5NyYHI3gpzB",
+          "name": "Shilpa Rao",
+          "uri": "spotify:artist:19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "id": "4GEyPR3J4DYvuTRuPJQ0CW",
+          "name": "Anvita Dutt Guptan",
+          "uri": "spotify:artist:4GEyPR3J4DYvuTRuPJQ0CW"
+        }
+      ],
+      "album": {
+        "id": "4mFLdK8SkUo3cx8ERLQC92",
+        "name": "Bachna Ae Haseeno",
+        "release_date": "2008-07-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a08c7022ea424b2f048b46e9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a08c7022ea424b2f048b46e9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a08c7022ea424b2f048b46e9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 333583,
+      "explicit": false,
+      "popularity": 77,
+      "uri": "spotify:track:0gPgdRfB4jdGrlyXS0Vx78",
+      "external_url": "https://open.spotify.com/track/0gPgdRfB4jdGrlyXS0Vx78",
+      "added_at": "2024-04-17T19:12:29Z"
+    },
+    {
+      "id": "5j2Iw1j167KuBj1iyM78xE",
+      "name": "Pehle to Kabhi Kabhi",
+      "artists": [
+        {
+          "id": "57FWjr32rSTzLcG5DIowkb",
+          "name": "Altaf Raja",
+          "uri": "spotify:artist:57FWjr32rSTzLcG5DIowkb"
+        }
+      ],
+      "album": {
+        "id": "7w3HzTDF8aJGtIA6WLWi2V",
+        "name": "Dil Ke Tukde Hazaar Huye",
+        "release_date": "2000-11-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384e34e903b1813b19d6594c3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284e34e903b1813b19d6594c3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184e34e903b1813b19d6594c3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 378578,
+      "explicit": false,
+      "popularity": 58,
+      "uri": "spotify:track:5j2Iw1j167KuBj1iyM78xE",
+      "external_url": "https://open.spotify.com/track/5j2Iw1j167KuBj1iyM78xE",
+      "added_at": "2024-04-25T08:40:29Z"
+    },
+    {
+      "id": "5OMUXgfXsSukZ0zxelpC3b",
+      "name": "Raanjhanaa (From \"Raanjhanaa\")",
+      "artists": [
+        {
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "id": "2IP4wcE4hRbDi1zdV8Si6g",
+          "name": "Jaswinder Singh",
+          "uri": "spotify:artist:2IP4wcE4hRbDi1zdV8Si6g"
+        },
+        {
+          "id": "7DcUua74PM7MmBljTTjIyy",
+          "name": "Shiraz Uppal",
+          "uri": "spotify:artist:7DcUua74PM7MmBljTTjIyy"
+        }
+      ],
+      "album": {
+        "id": "24C47633GRlozws7WBth7t",
+        "name": "Raanjhanaa (Original Motion Picture Soundtrack)",
+        "release_date": "2013-05-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730c556f210b927ca230f32241",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020c556f210b927ca230f32241",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510c556f210b927ca230f32241",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 254100,
+      "explicit": false,
+      "popularity": 77,
+      "uri": "spotify:track:5OMUXgfXsSukZ0zxelpC3b",
+      "external_url": "https://open.spotify.com/track/5OMUXgfXsSukZ0zxelpC3b",
+      "added_at": "2024-04-25T20:24:18Z"
+    },
+    {
+      "id": "2iZeKe5avjtKVmjfSFkpxd",
+      "name": "Tum Jo Aaye",
+      "artists": [
+        {
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "id": "0T1CMVkqffHlqEk4BcAph1",
+          "name": "Tulsi Kumar",
+          "uri": "spotify:artist:0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "id": "3OLGltG8UPIea8sA4w0yg0",
+          "name": "Rahat Fateh Ali Khan",
+          "uri": "spotify:artist:3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "id": "3GdSQUH1BRtl9UrrtuwJlP",
+          "name": "Irshad Kamil",
+          "uri": "spotify:artist:3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "album": {
+        "id": "4ceWEQarPyTyeb9TUeyLOG",
+        "name": "Once Upon A Time In Mumbaai",
+        "release_date": "2010-06-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273df934f4de5f8dd46f8d75f5f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02df934f4de5f8dd46f8d75f5f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851df934f4de5f8dd46f8d75f5f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 286443,
+      "explicit": false,
+      "popularity": 74,
+      "uri": "spotify:track:2iZeKe5avjtKVmjfSFkpxd",
+      "external_url": "https://open.spotify.com/track/2iZeKe5avjtKVmjfSFkpxd",
+      "added_at": "2024-04-25T21:11:00Z"
+    },
+    {
+      "id": "2LcXJP95e4HKydTZ2mYfrx",
+      "name": "Tujh Mein Rab Dikhta Hai",
+      "artists": [
+        {
+          "id": "6ohaQzKaXrobAL8paLSaxq",
+          "name": "Salim–Sulaiman",
+          "uri": "spotify:artist:6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "id": "03SZmfKAgYRQKUwy0EoJUa",
+          "name": "Roop Kumar Rathod",
+          "uri": "spotify:artist:03SZmfKAgYRQKUwy0EoJUa"
+        },
+        {
+          "id": "5kPOMQZvgkAEnRZqwn9SYQ",
+          "name": "Jaideep Sahni",
+          "uri": "spotify:artist:5kPOMQZvgkAEnRZqwn9SYQ"
+        }
+      ],
+      "album": {
+        "id": "7pbKuvQHUTwbq4FbevvEca",
+        "name": "Rab Ne Bana Di Jodi",
+        "release_date": "2008-11-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731555fec10000486f9331fbc8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021555fec10000486f9331fbc8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511555fec10000486f9331fbc8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 281573,
+      "explicit": false,
+      "popularity": 73,
+      "uri": "spotify:track:2LcXJP95e4HKydTZ2mYfrx",
+      "external_url": "https://open.spotify.com/track/2LcXJP95e4HKydTZ2mYfrx",
+      "added_at": "2024-04-26T08:30:24Z"
+    },
+    {
+      "id": "2r32XiAWtZbT3eLUvf4pag",
+      "name": "Jee Le Zaraa",
+      "artists": [
+        {
+          "id": "6CXEwIaXYfVJ84biCxqc9k",
+          "name": "Vishal Dadlani",
+          "uri": "spotify:artist:6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "id": "3PpjqSKBer3obW6lDflOBx",
+          "name": "Ram Sampath",
+          "uri": "spotify:artist:3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "id": "3UpmjPgIFSGqnxXuiwD014",
+          "name": "Javed Akhtar",
+          "uri": "spotify:artist:3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "album": {
+        "id": "7ASasKA02nhm5nI7tlZNjQ",
+        "name": "Talaash",
+        "release_date": "2012-10-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e8acd7446270164f4806f9d2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e8acd7446270164f4806f9d2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e8acd7446270164f4806f9d2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 215202,
+      "explicit": false,
+      "popularity": 64,
+      "uri": "spotify:track:2r32XiAWtZbT3eLUvf4pag",
+      "external_url": "https://open.spotify.com/track/2r32XiAWtZbT3eLUvf4pag",
+      "added_at": "2024-04-30T11:14:17Z"
+    },
+    {
+      "id": "6u3dJvZwQ9BBNUrKZ9btBW",
+      "name": "Tujhko Jo Paaya (From \"Crook\")",
+      "artists": [
+        {
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "id": "5GnnSrwNCGyfAU4zuIytiS",
+          "name": "Mohit Chauhan",
+          "uri": "spotify:artist:5GnnSrwNCGyfAU4zuIytiS"
+        }
+      ],
+      "album": {
+        "id": "5UEkhL9uybWLnbL9H1hhrB",
+        "name": "Best of Me: Mohit Chauhan",
+        "release_date": "2012-12-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735c2e8fa840241ce6adf33a35",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025c2e8fa840241ce6adf33a35",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515c2e8fa840241ce6adf33a35",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 184826,
+      "explicit": false,
+      "popularity": 29,
+      "uri": "spotify:track:6u3dJvZwQ9BBNUrKZ9btBW",
+      "external_url": "https://open.spotify.com/track/6u3dJvZwQ9BBNUrKZ9btBW",
+      "added_at": "2025-06-23T18:12:19Z"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "id": "3HqsS4Qp7qWn2sREQYkALf",
+  "name": "my revachol",
+  "description": "&quot;something beautiful is going to happen&quot;",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:3HqsS4Qp7qWn2sREQYkALf",
+  "external_url": "https://open.spotify.com/playlist/3HqsS4Qp7qWn2sREQYkALf",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ef4f3e67e611038bf94fa8d8",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 12,
+  "tracks": [
+    {
+      "id": "7DVVuEwuBOx7fcUvYwqngv",
+      "name": "Blue Spotted Tail",
+      "artists": [
+        {
+          "id": "4EVpmkEwrLYEg6jIsiPMIb",
+          "name": "Fleet Foxes",
+          "uri": "spotify:artist:4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "album": {
+        "id": "7D0rCfJjFj9x0bdgRKtvzb",
+        "name": "Helplessness Blues",
+        "release_date": "2011-05-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27375ff22a37b0cc0381d11c2c1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0275ff22a37b0cc0381d11c2c1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485175ff22a37b0cc0381d11c2c1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 185293,
+      "explicit": false,
+      "popularity": 43,
+      "uri": "spotify:track:7DVVuEwuBOx7fcUvYwqngv",
+      "external_url": "https://open.spotify.com/track/7DVVuEwuBOx7fcUvYwqngv",
+      "added_at": "2024-04-24T08:12:40Z"
+    },
+    {
+      "id": "7rIhp6EWLNtM8qFIQruJPT",
+      "name": "Wash.",
+      "artists": [
+        {
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+          "name": "Bon Iver",
+          "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "album": {
+        "id": "2LpfNj3vB5rOXfaawLcOBg",
+        "name": "Bon Iver, Bon Iver",
+        "release_date": "2011-06-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734b6b1547455bbecb9f6bba64",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024b6b1547455bbecb9f6bba64",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514b6b1547455bbecb9f6bba64",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 298586,
+      "explicit": false,
+      "popularity": 72,
+      "uri": "spotify:track:7rIhp6EWLNtM8qFIQruJPT",
+      "external_url": "https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT",
+      "added_at": "2024-04-24T08:13:02Z"
+    },
+    {
+      "id": "2GajET5OrLRvhQGei1D815",
+      "name": "Fire Escape In The Sea",
+      "artists": [
+        {
+          "id": "5zhn89Em2jWUUWdpcLO3YL",
+          "name": "Sea Power",
+          "uri": "spotify:artist:5zhn89Em2jWUUWdpcLO3YL"
+        }
+      ],
+      "album": {
+        "id": "57F1SCsLtRIZLBcA6g1Wlh",
+        "name": "Everything Was Forever",
+        "release_date": "2022-02-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27397b31a1f8b81803059cd68fb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0297b31a1f8b81803059cd68fb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485197b31a1f8b81803059cd68fb",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 282320,
+      "explicit": false,
+      "popularity": 41,
+      "uri": "spotify:track:2GajET5OrLRvhQGei1D815",
+      "external_url": "https://open.spotify.com/track/2GajET5OrLRvhQGei1D815",
+      "added_at": "2024-04-24T08:47:56Z"
+    },
+    {
+      "id": "7yIOeu3UkHmbjMAgzhmCFw",
+      "name": "Crosses",
+      "artists": [
+        {
+          "id": "6xrCU6zdcSTsG2hLrojpmI",
+          "name": "José González",
+          "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "album": {
+        "id": "2kgfNObNcUnEhyhPMGQGXo",
+        "name": "Veneer",
+        "release_date": "2003-07-02",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384bf1ebee6a273dfc597fcd6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284bf1ebee6a273dfc597fcd6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184bf1ebee6a273dfc597fcd6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 161840,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:7yIOeu3UkHmbjMAgzhmCFw",
+      "external_url": "https://open.spotify.com/track/7yIOeu3UkHmbjMAgzhmCFw",
+      "added_at": "2024-04-24T09:04:49Z"
+    },
+    {
+      "id": "5UqHgJxYCMQraYuqeEOvtr",
+      "name": "Something Good",
+      "artists": [
+        {
+          "id": "3XHO7cRUPCLOr6jwp8vsx5",
+          "name": "alt-J",
+          "uri": "spotify:artist:3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "album": {
+        "id": "6HbJlAnTRhWae1F3lEwGkv",
+        "name": "An Awesome Wave",
+        "release_date": "2012-05-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731e1ca90cd8fdbb0ac890a926",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021e1ca90cd8fdbb0ac890a926",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511e1ca90cd8fdbb0ac890a926",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 218240,
+      "explicit": false,
+      "popularity": 67,
+      "uri": "spotify:track:5UqHgJxYCMQraYuqeEOvtr",
+      "external_url": "https://open.spotify.com/track/5UqHgJxYCMQraYuqeEOvtr",
+      "added_at": "2024-04-24T09:26:15Z"
+    },
+    {
+      "id": "7H0UxIN751StFi2tznmHlg",
+      "name": "Postcards from Italy",
+      "artists": [
+        {
+          "id": "6pmxr66tMAePxzOLfjGNcX",
+          "name": "Beirut",
+          "uri": "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "album": {
+        "id": "4yP7cyoeE3F6EyJPZ9v47V",
+        "name": "Gulag Orkestar",
+        "release_date": "2006-05-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736ad0ccb944d30d7e47d26c9a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026ad0ccb944d30d7e47d26c9a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516ad0ccb944d30d7e47d26c9a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 257480,
+      "explicit": false,
+      "popularity": 59,
+      "uri": "spotify:track:7H0UxIN751StFi2tznmHlg",
+      "external_url": "https://open.spotify.com/track/7H0UxIN751StFi2tznmHlg",
+      "added_at": "2024-04-24T10:12:05Z"
+    },
+    {
+      "id": "6E0YEPzjMvUymYOvmDIgp4",
+      "name": "The Moon Song - Studio Version Duet",
+      "artists": [
+        {
+          "id": "6emHCSoB4tJxTVXakbrpPz",
+          "name": "Karen O",
+          "uri": "spotify:artist:6emHCSoB4tJxTVXakbrpPz"
+        },
+        {
+          "id": "2nkAu4P6EVeQpXxiEhPTH6",
+          "name": "Ezra Koenig",
+          "uri": "spotify:artist:2nkAu4P6EVeQpXxiEhPTH6"
+        }
+      ],
+      "album": {
+        "id": "6LFZaTo38vtBqq75Goxcky",
+        "name": "The Moon Song (Music From And Inspired By The Motion Picture Her)",
+        "release_date": "2014-02-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fb40b09370788a1c2e74c5b0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fb40b09370788a1c2e74c5b0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fb40b09370788a1c2e74c5b0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 185906,
+      "explicit": false,
+      "popularity": 46,
+      "uri": "spotify:track:6E0YEPzjMvUymYOvmDIgp4",
+      "external_url": "https://open.spotify.com/track/6E0YEPzjMvUymYOvmDIgp4",
+      "added_at": "2024-04-26T08:40:53Z"
+    },
+    {
+      "id": "2rty7ZfP2YF1027cimg2D0",
+      "name": "Standstill",
+      "artists": [
+        {
+          "id": "1AZ30JnvQU1pbX6sbRE0Yn",
+          "name": "Poets of the Fall",
+          "uri": "spotify:artist:1AZ30JnvQU1pbX6sbRE0Yn"
+        }
+      ],
+      "album": {
+        "id": "6iaIb8EeOSVo38fCCwpEKR",
+        "name": "Ultraviolet",
+        "release_date": "2018-10-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735a9a6c9bf28ee8e1ea532934",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025a9a6c9bf28ee8e1ea532934",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515a9a6c9bf28ee8e1ea532934",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 227277,
+      "explicit": false,
+      "popularity": 32,
+      "uri": "spotify:track:2rty7ZfP2YF1027cimg2D0",
+      "external_url": "https://open.spotify.com/track/2rty7ZfP2YF1027cimg2D0",
+      "added_at": "2024-04-28T23:16:23Z"
+    },
+    {
+      "id": "4pSFFa6b4y4jCtrhnaMkVn",
+      "name": "People Never Change",
+      "artists": [
+        {
+          "id": "41Nu7NgAj9rJxjj7JDuXrV",
+          "name": "Peter Cat Recording Co.",
+          "uri": "spotify:artist:41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "album": {
+        "id": "44fRKtfgTRHDYyUnC0N4LR",
+        "name": "People Never Change",
+        "release_date": "2024-05-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737c2d95cbda65403f2ea7ad0d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027c2d95cbda65403f2ea7ad0d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517c2d95cbda65403f2ea7ad0d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 391921,
+      "explicit": true,
+      "popularity": 28,
+      "uri": "spotify:track:4pSFFa6b4y4jCtrhnaMkVn",
+      "external_url": "https://open.spotify.com/track/4pSFFa6b4y4jCtrhnaMkVn",
+      "added_at": "2024-05-17T05:37:32Z"
+    },
+    {
+      "id": "0oc74ogfxd2jBkfLVvxXGZ",
+      "name": "Ruk Jana Nahin",
+      "artists": [
+        {
+          "id": "0GF4shudTAFv8ak9eWdd4Y",
+          "name": "Kishore Kumar",
+          "uri": "spotify:artist:0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "id": "3yS84AjNFqhmuJlIXy7sax",
+          "name": "Laxmikant–Pyarelal",
+          "uri": "spotify:artist:3yS84AjNFqhmuJlIXy7sax"
+        }
+      ],
+      "album": {
+        "id": "3Tfvn3ZownS6qlbr7cKtbj",
+        "name": "Revival Vol.18 - Kishore Kumar O Hansini",
+        "release_date": "2000-05-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c991f56d34b213b3c3fb7683",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c991f56d34b213b3c3fb7683",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c991f56d34b213b3c3fb7683",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 186666,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:0oc74ogfxd2jBkfLVvxXGZ",
+      "external_url": "https://open.spotify.com/track/0oc74ogfxd2jBkfLVvxXGZ",
+      "added_at": "2024-04-30T22:06:19Z"
+    },
+    {
+      "id": "3bXH9y487cnLfA6VWXefaB",
+      "name": "Dawn Chorus",
+      "artists": [
+        {
+          "id": "4CvTDPKA6W06DRfBnZKrau",
+          "name": "Thom Yorke",
+          "uri": "spotify:artist:4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "album": {
+        "id": "1sKj6LEXiEfCmsiKwPy5uG",
+        "name": "ANIMA",
+        "release_date": "2019-06-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735e5add0b6a2f9787e11bc04f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025e5add0b6a2f9787e11bc04f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515e5add0b6a2f9787e11bc04f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 323080,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:3bXH9y487cnLfA6VWXefaB",
+      "external_url": "https://open.spotify.com/track/3bXH9y487cnLfA6VWXefaB",
+      "added_at": "2024-10-11T22:38:18Z"
+    },
+    {
+      "id": "0NslHuacjxQYfUTOW3HCIV",
+      "name": "New Slang - 2021 Remaster",
+      "artists": [
+        {
+          "id": "4LG4Bs1Gadht7TCrMytQUO",
+          "name": "The Shins",
+          "uri": "spotify:artist:4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "album": {
+        "id": "5XmhHMj5LZLWo32aA6ntKE",
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "release_date": "2001-06-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734205b816277c7f9dba098d28",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024205b816277c7f9dba098d28",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514205b816277c7f9dba098d28",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 230866,
+      "explicit": false,
+      "popularity": 72,
+      "uri": "spotify:track:0NslHuacjxQYfUTOW3HCIV",
+      "external_url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV",
+      "added_at": "2025-08-28T18:05:18Z"
+    }
+  ]
+}

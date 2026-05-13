@@ -1,0 +1,423 @@
+{
+  "id": "6qwrrF9XT5y8aT3kBN8M32",
+  "name": "chennai sleep clinic",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:6qwrrF9XT5y8aT3kBN8M32",
+  "external_url": "https://open.spotify.com/playlist/6qwrrF9XT5y8aT3kBN8M32",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844397fbe6c0cd398dc3cf1b9f",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "2xlV2CuWgpPyE9e0GquKDN",
+      "name": "Someone To Stay",
+      "artists": [
+        {
+          "id": "77BznF1Dr1k5KyEZ6Nn3jB",
+          "name": "Vancouver Sleep Clinic",
+          "uri": "spotify:artist:77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "album": {
+        "id": "7mhJTJjSZtFVDZwR7CU9xC",
+        "name": "Revival",
+        "release_date": "2017-04-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dabc6fe9dd3454884cf65071",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dabc6fe9dd3454884cf65071",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dabc6fe9dd3454884cf65071",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 254013,
+      "explicit": false,
+      "popularity": 74,
+      "uri": "spotify:track:2xlV2CuWgpPyE9e0GquKDN",
+      "external_url": "https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN",
+      "added_at": "2024-09-27T20:16:14Z"
+    },
+    {
+      "id": "2lO8mP1QvI7RizGcBYQ7Mx",
+      "name": "How - demo",
+      "artists": [
+        {
+          "id": "3l0CmX0FuQjFxr8SK7Vqag",
+          "name": "Clairo",
+          "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "album": {
+        "id": "3NEDQmYF1roygFssVEwkwv",
+        "name": "diary 001",
+        "release_date": "2018-05-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bf94e27360806b5aa5025f93",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bf94e27360806b5aa5025f93",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bf94e27360806b5aa5025f93",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 127040,
+      "explicit": false,
+      "popularity": 2,
+      "uri": "spotify:track:2lO8mP1QvI7RizGcBYQ7Mx",
+      "external_url": "https://open.spotify.com/track/2lO8mP1QvI7RizGcBYQ7Mx",
+      "added_at": "2024-09-26T22:36:24Z"
+    },
+    {
+      "id": "754kgU5rWscRTfvlsuEwFp",
+      "name": "Kiss Me",
+      "artists": [
+        {
+          "id": "0lJlKQvuM2Sd9DPPyUXcHg",
+          "name": "Sixpence None The Richer",
+          "uri": "spotify:artist:0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "album": {
+        "id": "0PrcwzkQVEy4y6JPvT5bix",
+        "name": "Sixpence None The Richer",
+        "release_date": "1997-11-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cfc5eea6cfd77e89ed3ac5a4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cfc5eea6cfd77e89ed3ac5a4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cfc5eea6cfd77e89ed3ac5a4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 208680,
+      "explicit": false,
+      "popularity": 86,
+      "uri": "spotify:track:754kgU5rWscRTfvlsuEwFp",
+      "external_url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp",
+      "added_at": "2024-09-26T22:38:09Z"
+    },
+    {
+      "id": "2eytLeiumlTZ80ZJjnhNDg",
+      "name": "Walk You Home",
+      "artists": [
+        {
+          "id": "6rniTPs9zN26kYnkPdFl1U",
+          "name": "Sir Chloe",
+          "uri": "spotify:artist:6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "album": {
+        "id": "0IgZzPgD8U6wTpUmFElVi1",
+        "name": "Walk You Home",
+        "release_date": "2019-05-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab1f6b23181b6bf85fbd6d73",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab1f6b23181b6bf85fbd6d73",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ab1f6b23181b6bf85fbd6d73",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 168364,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:2eytLeiumlTZ80ZJjnhNDg",
+      "external_url": "https://open.spotify.com/track/2eytLeiumlTZ80ZJjnhNDg",
+      "added_at": "2024-09-27T19:50:31Z"
+    },
+    {
+      "id": "5EmnML3A4xDb5aI9iWY23F",
+      "name": "Your Name",
+      "artists": [
+        {
+          "id": "5BRxWwvhe1BxvK6fs4V0dx",
+          "name": "Lissom",
+          "uri": "spotify:artist:5BRxWwvhe1BxvK6fs4V0dx"
+        },
+        {
+          "id": "7e4AmALFiKR69Xra2EksPU",
+          "name": "Julien Marchal",
+          "uri": "spotify:artist:7e4AmALFiKR69Xra2EksPU"
+        },
+        {
+          "id": "7FW2qwsY0zLV9GppWatQ5P",
+          "name": "Lowswimmer",
+          "uri": "spotify:artist:7FW2qwsY0zLV9GppWatQ5P"
+        }
+      ],
+      "album": {
+        "id": "3gYkKfxq9v2bYgML8b4sGv",
+        "name": "Eclipses",
+        "release_date": "2022-05-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e0126137512b2efee821e508",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e0126137512b2efee821e508",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e0126137512b2efee821e508",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 163182,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:5EmnML3A4xDb5aI9iWY23F",
+      "external_url": "https://open.spotify.com/track/5EmnML3A4xDb5aI9iWY23F",
+      "added_at": "2024-09-27T20:14:29Z"
+    },
+    {
+      "id": "4Nckr2LBLkgNOdMadwNAxc",
+      "name": "Down Is The New Up",
+      "artists": [
+        {
+          "id": "4Z8W4fKeB5YxbusRsdQVPb",
+          "name": "Radiohead",
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "album": {
+        "id": "6zTAW5oRuOmxJuUHhcQope",
+        "name": "In Rainbows (Disk 2)",
+        "release_date": "2007",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734b88d5c1b3358cca2c94ec0b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024b88d5c1b3358cca2c94ec0b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514b88d5c1b3358cca2c94ec0b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 299283,
+      "explicit": false,
+      "popularity": 49,
+      "uri": "spotify:track:4Nckr2LBLkgNOdMadwNAxc",
+      "external_url": "https://open.spotify.com/track/4Nckr2LBLkgNOdMadwNAxc",
+      "added_at": "2024-09-27T20:30:29Z"
+    },
+    {
+      "id": "1j4BkEFGLcBysD9SbnT4ld",
+      "name": "Did You Love Somebody",
+      "artists": [
+        {
+          "id": "6fC2AcsQtd9h4BWELbbire",
+          "name": "Peach Pit",
+          "uri": "spotify:artist:6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "album": {
+        "id": "7HYIpIJ4qfmAFqgHYOC3fR",
+        "name": "Did You Love Somebody",
+        "release_date": "2024-09-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27349ae560fc9df1f9ece889989",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0249ae560fc9df1f9ece889989",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485149ae560fc9df1f9ece889989",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 249178,
+      "explicit": false,
+      "popularity": 46,
+      "uri": "spotify:track:1j4BkEFGLcBysD9SbnT4ld",
+      "external_url": "https://open.spotify.com/track/1j4BkEFGLcBysD9SbnT4ld",
+      "added_at": "2024-10-08T15:18:12Z"
+    },
+    {
+      "id": "1XHTJ2n4ajw9dDzuPGY4Rm",
+      "name": "Signal Sender",
+      "artists": [
+        {
+          "id": "4qU7IJSReZnsLy5907Mtau",
+          "name": "Richy Mitch & The Coal Miners",
+          "uri": "spotify:artist:4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "album": {
+        "id": "4ILDW93NPJE8kEJSrUXuIy",
+        "name": "Signal Sender",
+        "release_date": "2023-07-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273201f2e83c9b0e6546ccf4acd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02201f2e83c9b0e6546ccf4acd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851201f2e83c9b0e6546ccf4acd",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 200137,
+      "explicit": false,
+      "popularity": 51,
+      "uri": "spotify:track:1XHTJ2n4ajw9dDzuPGY4Rm",
+      "external_url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm",
+      "added_at": "2024-10-09T18:52:09Z"
+    },
+    {
+      "id": "6rqj2zeKhLy3exkuFi6mSz",
+      "name": "Answer",
+      "artists": [
+        {
+          "id": "4V8LLVI7PbaPR0K2TGSxFF",
+          "name": "Tyler, The Creator",
+          "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "album": {
+        "id": "40QTqOBBxCEIQlLNdSjFQB",
+        "name": "Wolf",
+        "release_date": "2013-04-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273913f492347e1585748450855",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02913f492347e1585748450855",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851913f492347e1585748450855",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 230090,
+      "explicit": true,
+      "popularity": 72,
+      "uri": "spotify:track:6rqj2zeKhLy3exkuFi6mSz",
+      "external_url": "https://open.spotify.com/track/6rqj2zeKhLy3exkuFi6mSz",
+      "added_at": "2024-10-10T22:24:09Z"
+    },
+    {
+      "id": "36RNOJkIDAoyfEOHdLhmD3",
+      "name": "My Girlfriend",
+      "artists": [
+        {
+          "id": "0Y6dVaC9DZtPNH4591M42W",
+          "name": "TV Girl",
+          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "album": {
+        "id": "2YYY0TCdTLMCTrNt5ii9Jl",
+        "name": "Lonely Women",
+        "release_date": "2013-06-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ecf2eb70f21d2ef61680ab72",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ecf2eb70f21d2ef61680ab72",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ecf2eb70f21d2ef61680ab72",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 248222,
+      "explicit": false,
+      "popularity": 70,
+      "uri": "spotify:track:36RNOJkIDAoyfEOHdLhmD3",
+      "external_url": "https://open.spotify.com/track/36RNOJkIDAoyfEOHdLhmD3",
+      "added_at": "2024-10-15T21:16:59Z"
+    }
+  ]
+}

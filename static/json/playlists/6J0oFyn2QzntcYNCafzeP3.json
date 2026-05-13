@@ -1,0 +1,730 @@
+{
+  "id": "6J0oFyn2QzntcYNCafzeP3",
+  "name": "failed at math(s)",
+  "description": "manifesting the russian experience 🤓",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:6J0oFyn2QzntcYNCafzeP3",
+  "external_url": "https://open.spotify.com/playlist/6J0oFyn2QzntcYNCafzeP3",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844bca2089bd948aa0b3a8cfc3",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 18,
+  "tracks": [
+    {
+      "id": "2zYBRyHAy6dv1wb53JXFD7",
+      "name": "Laputa",
+      "artists": [
+        {
+          "id": "4KEHIUSoWCcqrk8AddTE1O",
+          "name": "Panchiko",
+          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "album": {
+        "id": "2MASm01cgG0a0CgioQpe6Q",
+        "name": "D>E>A>T>H>M>E>T>A>L",
+        "release_date": "2000-12-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e045aa197ada995407bf92fc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e045aa197ada995407bf92fc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 163544,
+      "explicit": false,
+      "popularity": 72,
+      "uri": "spotify:track:2zYBRyHAy6dv1wb53JXFD7",
+      "external_url": "https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7",
+      "added_at": "2024-06-14T18:59:46Z"
+    },
+    {
+      "id": "6IK8tNU8rayRzWblczyUcp",
+      "name": "Just Another Thursday",
+      "artists": [
+        {
+          "id": "3veLkV7PryzEQXJnFxDhON",
+          "name": "Delorians",
+          "uri": "spotify:artist:3veLkV7PryzEQXJnFxDhON"
+        }
+      ],
+      "album": {
+        "id": "4pERR8qSsioJ2JwV5WD5Mp",
+        "name": "Just Another Thursday",
+        "release_date": "2023-02-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fe33f877deedb93dde167751",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fe33f877deedb93dde167751",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fe33f877deedb93dde167751",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 210782,
+      "explicit": false,
+      "popularity": 34,
+      "uri": "spotify:track:6IK8tNU8rayRzWblczyUcp",
+      "external_url": "https://open.spotify.com/track/6IK8tNU8rayRzWblczyUcp",
+      "added_at": "2024-05-21T20:19:50Z"
+    },
+    {
+      "id": "6k7HtWuprjQmulpo4OpieI",
+      "name": "Spiracle",
+      "artists": [
+        {
+          "id": "0sYlth2PW1zWJMEU2vCukz",
+          "name": "Flower Face",
+          "uri": "spotify:artist:0sYlth2PW1zWJMEU2vCukz"
+        }
+      ],
+      "album": {
+        "id": "75nZGvjStgCUavXcsYsXf7",
+        "name": "The Shark in Your Water",
+        "release_date": "2022-05-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27314913b368fb5cf80a681f2e5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0214913b368fb5cf80a681f2e5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485114913b368fb5cf80a681f2e5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 179815,
+      "explicit": false,
+      "popularity": 58,
+      "uri": "spotify:track:6k7HtWuprjQmulpo4OpieI",
+      "external_url": "https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI",
+      "added_at": "2024-05-21T20:20:35Z"
+    },
+    {
+      "id": "2yyQmFCUPenLlfpfUxBnAd",
+      "name": "Truly",
+      "artists": [
+        {
+          "id": "1QAJqy2dA3ihHBFIHRphZj",
+          "name": "Cigarettes After Sex",
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "album": {
+        "id": "2mxFsS5yylSTHNivV53HoA",
+        "name": "Cigarettes After Sex",
+        "release_date": "2017-06-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0212b69bf576f5e80291f75161",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485112b69bf576f5e80291f75161",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 244110,
+      "explicit": false,
+      "popularity": 1,
+      "uri": "spotify:track:2yyQmFCUPenLlfpfUxBnAd",
+      "external_url": "https://open.spotify.com/track/2yyQmFCUPenLlfpfUxBnAd",
+      "added_at": "2024-05-21T20:21:20Z"
+    },
+    {
+      "id": "74wpynTzOtgMeha0HxNZay",
+      "name": "Grey Skies",
+      "artists": [
+        {
+          "id": "4WQwU51LUtrVrw0K8BMpAC",
+          "name": "Jaguar Sun",
+          "uri": "spotify:artist:4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "album": {
+        "id": "4BOldAGooVBHr4LZsyVjAL",
+        "name": "This Empty Town",
+        "release_date": "2020-07-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273663baa08db86653076848f1c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02663baa08db86653076848f1c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851663baa08db86653076848f1c",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 250296,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:74wpynTzOtgMeha0HxNZay",
+      "external_url": "https://open.spotify.com/track/74wpynTzOtgMeha0HxNZay",
+      "added_at": "2024-05-21T20:22:23Z"
+    },
+    {
+      "id": "6TcxxINfeaBEQ35sHMldTD",
+      "name": "Dreams Tonite",
+      "artists": [
+        {
+          "id": "3kzwYV3OCB010YfXMF0Avt",
+          "name": "Alvvays",
+          "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "album": {
+        "id": "2Yy84EeclNVwFDem6yIB2s",
+        "name": "Antisocialites",
+        "release_date": "2017-09-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27391390d24abb65f6fae0323f0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0291390d24abb65f6fae0323f0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485191390d24abb65f6fae0323f0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 196026,
+      "explicit": false,
+      "popularity": 61,
+      "uri": "spotify:track:6TcxxINfeaBEQ35sHMldTD",
+      "external_url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD",
+      "added_at": "2024-05-21T20:22:55Z"
+    },
+    {
+      "id": "2f4eme6Kaz3NwkqmmN40yz",
+      "name": "I Know You Know I Love You",
+      "artists": [
+        {
+          "id": "7BqRcZsHYYQeqMAOp7e532",
+          "name": "落日飛車 Sunset Rollercoaster",
+          "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "album": {
+        "id": "34QAnz6GMJ1ulOKGBiOcq9",
+        "name": "BOSSA NOVA",
+        "release_date": "2011-09-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c39aecc02401db1b6ba5ef2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c39aecc02401db1b6ba5ef2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c39aecc02401db1b6ba5ef2d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 120693,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:2f4eme6Kaz3NwkqmmN40yz",
+      "external_url": "https://open.spotify.com/track/2f4eme6Kaz3NwkqmmN40yz",
+      "added_at": "2024-05-21T20:23:22Z"
+    },
+    {
+      "id": "5F6ZjgYSsgFyqV4htHdWFD",
+      "name": "20200819 She Get The Gold Star",
+      "artists": [
+        {
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "name": "Mac DeMarco",
+          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "album": {
+        "id": "70hX7IYqmUGV97OXs2v848",
+        "name": "One Wayne G",
+        "release_date": "2023-04-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27340461e96808378ae2787a7e4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0240461e96808378ae2787a7e4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485140461e96808378ae2787a7e4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 161190,
+      "explicit": false,
+      "popularity": 56,
+      "uri": "spotify:track:5F6ZjgYSsgFyqV4htHdWFD",
+      "external_url": "https://open.spotify.com/track/5F6ZjgYSsgFyqV4htHdWFD",
+      "added_at": "2024-05-21T20:24:15Z"
+    },
+    {
+      "id": "5KPXcfXaGOaWUqOHLDXFRP",
+      "name": "No Woman",
+      "artists": [
+        {
+          "id": "32aUoW94mJ7xTJI7fG0V1G",
+          "name": "Whitney",
+          "uri": "spotify:artist:32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "album": {
+        "id": "3UhUTuYtGypQWuhqqoImsv",
+        "name": "Light Upon the Lake",
+        "release_date": "2016-06-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27306e9db385d0f3f8aec617963",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0206e9db385d0f3f8aec617963",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485106e9db385d0f3f8aec617963",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 237973,
+      "explicit": false,
+      "popularity": 56,
+      "uri": "spotify:track:5KPXcfXaGOaWUqOHLDXFRP",
+      "external_url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP",
+      "added_at": "2024-05-21T20:25:24Z"
+    },
+    {
+      "id": "3aI4n3KHtrQ2MDeGmXhgWt",
+      "name": "Forever & Always",
+      "artists": [
+        {
+          "id": "502gYHkFCtLzBIcU4ctPLd",
+          "name": "Zeph",
+          "uri": "spotify:artist:502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "album": {
+        "id": "5aHk92PHl9hDm2TEZMdfdB",
+        "name": "Forever & Always",
+        "release_date": "2018-12-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27305618bfba22202f74c5e30fd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0205618bfba22202f74c5e30fd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485105618bfba22202f74c5e30fd",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 249705,
+      "explicit": false,
+      "popularity": 56,
+      "uri": "spotify:track:3aI4n3KHtrQ2MDeGmXhgWt",
+      "external_url": "https://open.spotify.com/track/3aI4n3KHtrQ2MDeGmXhgWt",
+      "added_at": "2024-05-21T20:26:08Z"
+    },
+    {
+      "id": "1ODmElyxyaj4fzJwewOpw2",
+      "name": "The Woods",
+      "artists": [
+        {
+          "id": "1vnh2cDW2CgA5M1ya95mZG",
+          "name": "Sarah and the Sundays",
+          "uri": "spotify:artist:1vnh2cDW2CgA5M1ya95mZG"
+        }
+      ],
+      "album": {
+        "id": "2TlvgNvgxFbdF6e6GO7lPt",
+        "name": "So You're Mad About the Cups",
+        "release_date": "2019-05-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27380eae6f435a6a6005e14513b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0280eae6f435a6a6005e14513b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485180eae6f435a6a6005e14513b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 344413,
+      "explicit": false,
+      "popularity": 33,
+      "uri": "spotify:track:1ODmElyxyaj4fzJwewOpw2",
+      "external_url": "https://open.spotify.com/track/1ODmElyxyaj4fzJwewOpw2",
+      "added_at": "2024-05-21T20:38:30Z"
+    },
+    {
+      "id": "43flDuyszwqpgsukkqMVea",
+      "name": "Murder And Crime",
+      "artists": [
+        {
+          "id": "4MXUO7sVCaFgFjoTI5ox5c",
+          "name": "Sufjan Stevens",
+          "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "id": "0W79ONUwHoehEib1nRXlmi",
+          "name": "Angelo De Augustine",
+          "uri": "spotify:artist:0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "album": {
+        "id": "7AS9VaIdnYSR13T3vkVtu9",
+        "name": "A Beginner's Mind",
+        "release_date": "2021-09-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736bcb85aafb151f6d43a46106",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026bcb85aafb151f6d43a46106",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516bcb85aafb151f6d43a46106",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 210440,
+      "explicit": false,
+      "popularity": 42,
+      "uri": "spotify:track:43flDuyszwqpgsukkqMVea",
+      "external_url": "https://open.spotify.com/track/43flDuyszwqpgsukkqMVea",
+      "added_at": "2024-05-21T20:47:11Z"
+    },
+    {
+      "id": "7MBSbBrx0TvBYyKEcpGcJb",
+      "name": "Sweet Marie",
+      "artists": [
+        {
+          "id": "027TpXKGwdXP7iwbjUSpV8",
+          "name": "The Walters",
+          "uri": "spotify:artist:027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "album": {
+        "id": "5ADia0t4o7pA8dyi8jRA4E",
+        "name": "Young Men",
+        "release_date": "2015-12-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273582e6a30d15b8bfda2b50cdc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02582e6a30d15b8bfda2b50cdc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851582e6a30d15b8bfda2b50cdc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 137092,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:7MBSbBrx0TvBYyKEcpGcJb",
+      "external_url": "https://open.spotify.com/track/7MBSbBrx0TvBYyKEcpGcJb",
+      "added_at": "2024-05-21T21:27:07Z"
+    },
+    {
+      "id": "0ktVU4RvEP7jDCORDIstx2",
+      "name": "Alberts Eyes",
+      "artists": [
+        {
+          "id": "5zhn89Em2jWUUWdpcLO3YL",
+          "name": "Sea Power",
+          "uri": "spotify:artist:5zhn89Em2jWUUWdpcLO3YL"
+        }
+      ],
+      "album": {
+        "id": "5jju7fXegcOnC8pJzb6NQa",
+        "name": "Sea of Brass",
+        "release_date": "2015-10-30",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739c975e50c33322b29500a0b0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029c975e50c33322b29500a0b0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519c975e50c33322b29500a0b0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 245853,
+      "explicit": false,
+      "popularity": 15,
+      "uri": "spotify:track:0ktVU4RvEP7jDCORDIstx2",
+      "external_url": "https://open.spotify.com/track/0ktVU4RvEP7jDCORDIstx2",
+      "added_at": "2024-06-14T18:58:39Z"
+    },
+    {
+      "id": "6yiSyupeI7KYdBZKJdnIUO",
+      "name": "Go Slowly",
+      "artists": [
+        {
+          "id": "4Z8W4fKeB5YxbusRsdQVPb",
+          "name": "Radiohead",
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "album": {
+        "id": "6zTAW5oRuOmxJuUHhcQope",
+        "name": "In Rainbows (Disk 2)",
+        "release_date": "2007",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734b88d5c1b3358cca2c94ec0b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024b88d5c1b3358cca2c94ec0b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514b88d5c1b3358cca2c94ec0b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 228236,
+      "explicit": false,
+      "popularity": 67,
+      "uri": "spotify:track:6yiSyupeI7KYdBZKJdnIUO",
+      "external_url": "https://open.spotify.com/track/6yiSyupeI7KYdBZKJdnIUO",
+      "added_at": "2024-07-17T13:24:12Z"
+    },
+    {
+      "id": "6OoNtVdM2E7BuDH1Rf7LMc",
+      "name": "Overboard",
+      "artists": [
+        {
+          "id": "5OHNMH8dPoBrHCJBVumIRD",
+          "name": "Vibropath",
+          "uri": "spotify:artist:5OHNMH8dPoBrHCJBVumIRD"
+        }
+      ],
+      "album": {
+        "id": "3UEjbqF3iesJ6O9ArzQGNX",
+        "name": "Overboard",
+        "release_date": "2022-10-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734d94e4417ec01ac9c14a51ee",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024d94e4417ec01ac9c14a51ee",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514d94e4417ec01ac9c14a51ee",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 183544,
+      "explicit": false,
+      "popularity": 22,
+      "uri": "spotify:track:6OoNtVdM2E7BuDH1Rf7LMc",
+      "external_url": "https://open.spotify.com/track/6OoNtVdM2E7BuDH1Rf7LMc",
+      "added_at": "2024-07-21T19:31:44Z"
+    },
+    {
+      "id": "2XNaPTYDeQcTqAaWoHKMEp",
+      "name": "Analyse",
+      "artists": [
+        {
+          "id": "4CvTDPKA6W06DRfBnZKrau",
+          "name": "Thom Yorke",
+          "uri": "spotify:artist:4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "album": {
+        "id": "4X8Y79gWo6xm7Osdapg58E",
+        "name": "The Eraser",
+        "release_date": "2006-07-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273691b5e122dee32f6dcb7894b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02691b5e122dee32f6dcb7894b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851691b5e122dee32f6dcb7894b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 242786,
+      "explicit": false,
+      "popularity": 49,
+      "uri": "spotify:track:2XNaPTYDeQcTqAaWoHKMEp",
+      "external_url": "https://open.spotify.com/track/2XNaPTYDeQcTqAaWoHKMEp",
+      "added_at": "2024-07-21T19:33:12Z"
+    },
+    {
+      "id": "7tvuLLroI0n6uYBWuFig5d",
+      "name": "Lateralus",
+      "artists": [
+        {
+          "id": "2yEwvVSSSUkcLeSTNyHKh8",
+          "name": "TOOL",
+          "uri": "spotify:artist:2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "album": {
+        "id": "5l5m1hnH4punS1GQXgEi3T",
+        "name": "Lateralus",
+        "release_date": "2001-05-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732949ed4e8581d3a1f20cd0e0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022949ed4e8581d3a1f20cd0e0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512949ed4e8581d3a1f20cd0e0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 564538,
+      "explicit": false,
+      "popularity": 68,
+      "uri": "spotify:track:7tvuLLroI0n6uYBWuFig5d",
+      "external_url": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d",
+      "added_at": "2026-04-19T21:10:28Z"
+    }
+  ]
+}

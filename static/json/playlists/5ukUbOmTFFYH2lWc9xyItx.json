@@ -1,0 +1,1252 @@
+{
+  "id": "5ukUbOmTFFYH2lWc9xyItx",
+  "name": "billu’s Pet Playlist ",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:5ukUbOmTFFYH2lWc9xyItx",
+  "external_url": "https://open.spotify.com/playlist/5ukUbOmTFFYH2lWc9xyItx",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8474d6c59652278746b6f7cb25",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 31,
+  "tracks": [
+    {
+      "id": "6o4KmRRIZVzII1yA6IK9Cq",
+      "name": "Eleanor Rigby",
+      "artists": [
+        {
+          "id": "7dOCnyDR2oEa1hQlvTXvdT",
+          "name": "Cody Fry",
+          "uri": "spotify:artist:7dOCnyDR2oEa1hQlvTXvdT"
+        }
+      ],
+      "album": {
+        "id": "6akM5QezAquVzmc0rZopw6",
+        "name": "Symphony Sessions",
+        "release_date": "2022-01-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b58021a7cc2a8fef711683d1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b58021a7cc2a8fef711683d1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b58021a7cc2a8fef711683d1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 280480,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:6o4KmRRIZVzII1yA6IK9Cq",
+      "external_url": "https://open.spotify.com/track/6o4KmRRIZVzII1yA6IK9Cq",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "66MXa8qDIQRtwuxuNtjNCu",
+      "name": "Hello My Old Heart",
+      "artists": [
+        {
+          "id": "3Fe3pszR2t4TOBVz41B1WR",
+          "name": "The Oh Hellos",
+          "uri": "spotify:artist:3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "album": {
+        "id": "4W1OKkOGiLJdfOCz4JQp1W",
+        "name": "The Oh Hellos EP",
+        "release_date": "2011-12-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27383331b8e10a50f92924ef5d7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0283331b8e10a50f92924ef5d7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485183331b8e10a50f92924ef5d7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 256006,
+      "explicit": false,
+      "popularity": 59,
+      "uri": "spotify:track:66MXa8qDIQRtwuxuNtjNCu",
+      "external_url": "https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "75JFxkI2RXiU7L9VXzMkle",
+      "name": "The Scientist",
+      "artists": [
+        {
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "album": {
+        "id": "0RHX9XECH8IVI3LNgWDpmQ",
+        "name": "A Rush of Blood to the Head",
+        "release_date": "2002-08-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02de09e02aa7febf30b7c02d82",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851de09e02aa7febf30b7c02d82",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 309600,
+      "explicit": false,
+      "popularity": 89,
+      "uri": "spotify:track:75JFxkI2RXiU7L9VXzMkle",
+      "external_url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "37PVWcsFVni0cVWUotKK4A",
+      "name": "Driver Forever - Remix",
+      "artists": [
+        {
+          "id": "2UyExyDGkAJJ9tnw1qxW6w",
+          "name": "ColeSound",
+          "uri": "spotify:artist:2UyExyDGkAJJ9tnw1qxW6w"
+        }
+      ],
+      "album": {
+        "id": "1tflPvddL28R97An9QL8VN",
+        "name": "Driver Forever (Remix)",
+        "release_date": "2021-10-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ac3babff749f29c13078d0e8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ac3babff749f29c13078d0e8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ac3babff749f29c13078d0e8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 225999,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:37PVWcsFVni0cVWUotKK4A",
+      "external_url": "https://open.spotify.com/track/37PVWcsFVni0cVWUotKK4A",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "35XEfip4wHj4HwLYyPDWT5",
+      "name": "untitled",
+      "artists": [
+        {
+          "id": "1t20wYnTiAT0Bs7H1hv9Wt",
+          "name": "EDEN",
+          "uri": "spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt"
+        }
+      ],
+      "album": {
+        "id": "1tyt0SNObvpqXUYFUB1Zee",
+        "name": "untitled",
+        "release_date": "2019-10-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739526475511b571c381d71d01",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029526475511b571c381d71d01",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519526475511b571c381d71d01",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 216250,
+      "explicit": true,
+      "popularity": 31,
+      "uri": "spotify:track:35XEfip4wHj4HwLYyPDWT5",
+      "external_url": "https://open.spotify.com/track/35XEfip4wHj4HwLYyPDWT5",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "67vdvRJhersPUkVjvJTKcf",
+      "name": "Day After Tomorrow",
+      "artists": [
+        {
+          "id": "1r1uxoy19fzMxunt3ONAkG",
+          "name": "Phoebe Bridgers",
+          "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "album": {
+        "id": "1yKI6Fn02MZ1JFQ9M3zwJ7",
+        "name": "Day After Tomorrow",
+        "release_date": "2021-11-30",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733fe876c18325da63a77cdfea",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023fe876c18325da63a77cdfea",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513fe876c18325da63a77cdfea",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 365141,
+      "explicit": false,
+      "popularity": 48,
+      "uri": "spotify:track:67vdvRJhersPUkVjvJTKcf",
+      "external_url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "7aCmKoxILLCfy8ye7IWLLr",
+      "name": "Deathcab",
+      "artists": [
+        {
+          "id": "0oUsTn1Xs1BCHlRw1RGD7R",
+          "name": "Ditty",
+          "uri": "spotify:artist:0oUsTn1Xs1BCHlRw1RGD7R"
+        }
+      ],
+      "album": {
+        "id": "2mzsHQpYMfpUmFyy82BWIy",
+        "name": "Deathcab",
+        "release_date": "2019-05-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731ebfbc3ebea156488d61abc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021ebfbc3ebea156488d61abc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511ebfbc3ebea156488d61abc2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 218083,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:7aCmKoxILLCfy8ye7IWLLr",
+      "external_url": "https://open.spotify.com/track/7aCmKoxILLCfy8ye7IWLLr",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "0ElpbbncWT9aS7mgoqEHbQ",
+      "name": "Where's My Love - Acoustic",
+      "artists": [
+        {
+          "id": "6AyATGg7mDgBlZ4N5uNog0",
+          "name": "SYML",
+          "uri": "spotify:artist:6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "album": {
+        "id": "6U6yE35iYGweoUiFFjuBdC",
+        "name": "Where's My Love",
+        "release_date": "2017-07-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dd4190a3114d1f2bde3c74f8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dd4190a3114d1f2bde3c74f8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dd4190a3114d1f2bde3c74f8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 239880,
+      "explicit": false,
+      "popularity": 74,
+      "uri": "spotify:track:0ElpbbncWT9aS7mgoqEHbQ",
+      "external_url": "https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "3tzlgaWjqZJX0fq2hiQW62",
+      "name": "Put Me in the Ground (feat. Austin Sawyer)",
+      "artists": [
+        {
+          "id": "0rNsySWLw0GRzrj2Kh6jBs",
+          "name": "Daniel Nunnelee",
+          "uri": "spotify:artist:0rNsySWLw0GRzrj2Kh6jBs"
+        },
+        {
+          "id": "5AZcLpqsi3Z1hQqjmBuVyv",
+          "name": "Austin Sawyer",
+          "uri": "spotify:artist:5AZcLpqsi3Z1hQqjmBuVyv"
+        }
+      ],
+      "album": {
+        "id": "67XoQk9HZOAvzpaBVqJFet",
+        "name": "Put Me in the Ground (feat. Austin Sawyer)",
+        "release_date": "2017-09-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ac3052ddd15d69237a37e7af",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ac3052ddd15d69237a37e7af",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ac3052ddd15d69237a37e7af",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 266668,
+      "explicit": false,
+      "popularity": 40,
+      "uri": "spotify:track:3tzlgaWjqZJX0fq2hiQW62",
+      "external_url": "https://open.spotify.com/track/3tzlgaWjqZJX0fq2hiQW62",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "18zzR5w624JxWnSZEKeoHA",
+      "name": "Sing of the Moon",
+      "artists": [
+        {
+          "id": "3sva1UjOJOx6cGISZOpItl",
+          "name": "David Wimbish & The Collection",
+          "uri": "spotify:artist:3sva1UjOJOx6cGISZOpItl"
+        }
+      ],
+      "album": {
+        "id": "3rjniaRobF7o2omrftJIqO",
+        "name": "Listen to the River",
+        "release_date": "2017-03-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734ddaf0f96bdd3c4f52081254",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024ddaf0f96bdd3c4f52081254",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514ddaf0f96bdd3c4f52081254",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 246366,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:18zzR5w624JxWnSZEKeoHA",
+      "external_url": "https://open.spotify.com/track/18zzR5w624JxWnSZEKeoHA",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "1Q4NQdmbxzO53eG3P4g3y5",
+      "name": "Mt. Washington",
+      "artists": [
+        {
+          "id": "75dQReiBOHN37fQgWQrIAJ",
+          "name": "Local Natives",
+          "uri": "spotify:artist:75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "album": {
+        "id": "0YMNHZKlcuPWPe6hcArKzk",
+        "name": "Hummingbird",
+        "release_date": "2013-01-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27373f379b7c980cfb5be81553a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0273f379b7c980cfb5be81553a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485173f379b7c980cfb5be81553a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 198933,
+      "explicit": false,
+      "popularity": 54,
+      "uri": "spotify:track:1Q4NQdmbxzO53eG3P4g3y5",
+      "external_url": "https://open.spotify.com/track/1Q4NQdmbxzO53eG3P4g3y5",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "1DLxtGh5ti66JK00McolLD",
+      "name": "Положение (Remix)",
+      "artists": [
+        {
+          "id": "68Aso1uN58uSxsDqFjbZzG",
+          "name": "dioronabeat",
+          "uri": "spotify:artist:68Aso1uN58uSxsDqFjbZzG"
+        }
+      ],
+      "album": {
+        "id": "4WJVP3jcjZis9r8u46O8vX",
+        "name": "Положение (Remix)",
+        "release_date": "2021-08-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273523910197252db045487a6bc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02523910197252db045487a6bc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851523910197252db045487a6bc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 135674,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:1DLxtGh5ti66JK00McolLD",
+      "external_url": "https://open.spotify.com/track/1DLxtGh5ti66JK00McolLD",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "7rLvnj2j4ByvoWHYazo5hc",
+      "name": "Crow",
+      "artists": [
+        {
+          "id": "0nJaMZM8paoA5HEUTUXPqi",
+          "name": "Bear's Den",
+          "uri": "spotify:artist:0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "album": {
+        "id": "1tz9qZt1l8Sr8Q1kTHMSjt",
+        "name": "So that you might hear me",
+        "release_date": "2019-04-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732fd27282ad6493db8bed5a9a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022fd27282ad6493db8bed5a9a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512fd27282ad6493db8bed5a9a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 296800,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:7rLvnj2j4ByvoWHYazo5hc",
+      "external_url": "https://open.spotify.com/track/7rLvnj2j4ByvoWHYazo5hc",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "36doH3n8CQIyTjImgxTlYJ",
+      "name": "Shenmue - Sedge Tree -",
+      "artists": [
+        {
+          "id": "4ShgdWtm52xvEr8uYmT0V6",
+          "name": "SEGA SOUND TEAM",
+          "uri": "spotify:artist:4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "album": {
+        "id": "5rSYeUKLhmZoG6YDrnIcnl",
+        "name": "Shenmue I&II Sound Collection",
+        "release_date": "2020-06-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27363f334ffb9b7c93ceeb56476",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0263f334ffb9b7c93ceeb56476",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485163f334ffb9b7c93ceeb56476",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 239306,
+      "explicit": false,
+      "popularity": 23,
+      "uri": "spotify:track:36doH3n8CQIyTjImgxTlYJ",
+      "external_url": "https://open.spotify.com/track/36doH3n8CQIyTjImgxTlYJ",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "0HuTlPTyGIkIBlX3Yak9G4",
+      "name": "My Time",
+      "artists": [
+        {
+          "id": "6V5j8RQJOFYiD6Pp1SFx85",
+          "name": "Omori",
+          "uri": "spotify:artist:6V5j8RQJOFYiD6Pp1SFx85"
+        }
+      ],
+      "album": {
+        "id": "0ZBx5R4ABubjsJ6yovFJXp",
+        "name": "Omori (Original Game Soundtrack), Pt.3",
+        "release_date": "2020-12-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b080961348b7c4402e0186e9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b080961348b7c4402e0186e9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b080961348b7c4402e0186e9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 213264,
+      "explicit": false,
+      "popularity": 63,
+      "uri": "spotify:track:0HuTlPTyGIkIBlX3Yak9G4",
+      "external_url": "https://open.spotify.com/track/0HuTlPTyGIkIBlX3Yak9G4",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "2qWuegI1pmesQPRvzgnokk",
+      "name": "Rose Petals",
+      "artists": [
+        {
+          "id": "2LSJrlndCuTpdEluvYHc2E",
+          "name": "S. Carey",
+          "uri": "spotify:artist:2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "album": {
+        "id": "4H1xbaXxVDmHnFQ5ifzyM4",
+        "name": "Hundred Acres",
+        "release_date": "2018-02-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27397713e4658bca73e036ac9a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0297713e4658bca73e036ac9a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485197713e4658bca73e036ac9a3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 213666,
+      "explicit": false,
+      "popularity": 47,
+      "uri": "spotify:track:2qWuegI1pmesQPRvzgnokk",
+      "external_url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "1UE3EwqySM5IXywpXUyuNZ",
+      "name": "Miss The Rest",
+      "artists": [
+        {
+          "id": "0rNWn0b2f8PiL8VAdDR152",
+          "name": "Charlie Oriain",
+          "uri": "spotify:artist:0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "album": {
+        "id": "1QoshcVjsmudDw9K2JSDWJ",
+        "name": "Miss The Rest",
+        "release_date": "2021-12-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273172974754690172f206b4dfa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02172974754690172f206b4dfa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851172974754690172f206b4dfa",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 170603,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:1UE3EwqySM5IXywpXUyuNZ",
+      "external_url": "https://open.spotify.com/track/1UE3EwqySM5IXywpXUyuNZ",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "23GmSpYkMks0ulGGr9hYsF",
+      "name": "Be Slow",
+      "artists": [
+        {
+          "id": "5Ld19xtpAR80G2boTcHaVx",
+          "name": "Harrison Storm",
+          "uri": "spotify:artist:5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "album": {
+        "id": "21riF5CPBLenJBAfwXknrT",
+        "name": "Be Slow",
+        "release_date": "2020-02-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273675ccf5b04d9db463bcc3dcb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02675ccf5b04d9db463bcc3dcb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851675ccf5b04d9db463bcc3dcb",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 205286,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:23GmSpYkMks0ulGGr9hYsF",
+      "external_url": "https://open.spotify.com/track/23GmSpYkMks0ulGGr9hYsF",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "7viCCE6T56hWb9EzFD5Suk",
+      "name": "Driver Forever - Remix",
+      "artists": [
+        {
+          "id": "7ebUz6Ndi3SLxYmHBfa4y9",
+          "name": "Darky Jr",
+          "uri": "spotify:artist:7ebUz6Ndi3SLxYmHBfa4y9"
+        }
+      ],
+      "album": {
+        "id": "4INEGhyk34KlR2naqYOmiG",
+        "name": "Driver Forever (Remix)",
+        "release_date": "2021-10-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733f49efd7b991f58f81b32867",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023f49efd7b991f58f81b32867",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513f49efd7b991f58f81b32867",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 225999,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:7viCCE6T56hWb9EzFD5Suk",
+      "external_url": "https://open.spotify.com/track/7viCCE6T56hWb9EzFD5Suk",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "5N4uTnnwvnREF8qQyCOd7p",
+      "name": "Good Riddance",
+      "artists": [
+        {
+          "id": "0ZMWrgLff357yxLyEU77a1",
+          "name": "Darren Korb",
+          "uri": "spotify:artist:0ZMWrgLff357yxLyEU77a1"
+        },
+        {
+          "id": "5x5ymm4vyLlpwWOXmOJ7zg",
+          "name": "Ashley Barrett",
+          "uri": "spotify:artist:5x5ymm4vyLlpwWOXmOJ7zg"
+        }
+      ],
+      "album": {
+        "id": "5jTYZA6b4VoSRnR5TMldgb",
+        "name": "Hades: Original Soundtrack",
+        "release_date": "2020-09-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27334081de9218c5014fefa5ecc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0234081de9218c5014fefa5ecc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485134081de9218c5014fefa5ecc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 178829,
+      "explicit": false,
+      "popularity": 47,
+      "uri": "spotify:track:5N4uTnnwvnREF8qQyCOd7p",
+      "external_url": "https://open.spotify.com/track/5N4uTnnwvnREF8qQyCOd7p",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "0MVeLASrPyBrC6hwwhIMwu",
+      "name": "Even If It's a Lie - Demo",
+      "artists": [
+        {
+          "id": "12j6dJrPXanCBwY599pZxf",
+          "name": "Matt Maltese",
+          "uri": "spotify:artist:12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "album": {
+        "id": "2wSZEUpAFUNx5bpY5RjUHs",
+        "name": "Even If It's a Lie (Demo)",
+        "release_date": "2015-04-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/4906716c5be2d2a00755e2f46b051e6f1ebf80b7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/d857fc23d9ff64027aa917233b35ef45b2301850",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/6952d5d19a6d13028101d2d8cac9f90d75b74330",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 237928,
+      "explicit": false,
+      "popularity": 50,
+      "uri": "spotify:track:0MVeLASrPyBrC6hwwhIMwu",
+      "external_url": "https://open.spotify.com/track/0MVeLASrPyBrC6hwwhIMwu",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "60UjRersisRZvHYnqOzf58",
+      "name": "Drive Forever",
+      "artists": [
+        {
+          "id": "4OmG7TmODI5Rj3q7PV3fP5",
+          "name": "Sergio Valentino",
+          "uri": "spotify:artist:4OmG7TmODI5Rj3q7PV3fP5"
+        }
+      ],
+      "album": {
+        "id": "48V7uhdyk9oVGsKuERptsV",
+        "name": "Drive Forever",
+        "release_date": "2003-08-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27324cd2a80d76cbb71a3b78e00",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0224cd2a80d76cbb71a3b78e00",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485124cd2a80d76cbb71a3b78e00",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 225947,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:60UjRersisRZvHYnqOzf58",
+      "external_url": "https://open.spotify.com/track/60UjRersisRZvHYnqOzf58",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "6DMuMv4IzCpRo6zGTwkbW5",
+      "name": "Положение - 2 Remix",
+      "artists": [
+        {
+          "id": "5yVvIOuHDlJezNO90ohWNA",
+          "name": "Dior",
+          "uri": "spotify:artist:5yVvIOuHDlJezNO90ohWNA"
+        }
+      ],
+      "album": {
+        "id": "7G1v8X3tA5IAyUPjVRTaph",
+        "name": "Положение (2 Remix)",
+        "release_date": "2020-06-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d116664ad3065c19c3c7f4b3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d116664ad3065c19c3c7f4b3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d116664ad3065c19c3c7f4b3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 129410,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:6DMuMv4IzCpRo6zGTwkbW5",
+      "external_url": "https://open.spotify.com/track/6DMuMv4IzCpRo6zGTwkbW5",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "40iGKElhhMK9o9lgxByXrb",
+      "name": "Ibuprofen",
+      "artists": [
+        {
+          "id": "60J5TDNg9Xxp9zxDXpBOjM",
+          "name": "Alicks",
+          "uri": "spotify:artist:60J5TDNg9Xxp9zxDXpBOjM"
+        }
+      ],
+      "album": {
+        "id": "3lsAPhlw1tlMYW43ZQy475",
+        "name": "Unwritten",
+        "release_date": "2019-01-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734600f2625644736d2f4705d8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024600f2625644736d2f4705d8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514600f2625644736d2f4705d8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 284240,
+      "explicit": false,
+      "popularity": 35,
+      "uri": "spotify:track:40iGKElhhMK9o9lgxByXrb",
+      "external_url": "https://open.spotify.com/track/40iGKElhhMK9o9lgxByXrb",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "6vsEeepIYXoNMC7ROPfXoR",
+      "name": "if all the people . . .",
+      "artists": [
+        {
+          "id": "1W4VMesdXuX2yKVXHeHcLN",
+          "name": "aesthetic boi",
+          "uri": "spotify:artist:1W4VMesdXuX2yKVXHeHcLN"
+        },
+        {
+          "id": "5oLTLuHsqyA78zxL9l3Udp",
+          "name": "hiraeth.",
+          "uri": "spotify:artist:5oLTLuHsqyA78zxL9l3Udp"
+        }
+      ],
+      "album": {
+        "id": "5x20UTRfdLYCL6hsZL3C9X",
+        "name": "if all the people . . .",
+        "release_date": "2019-10-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738e643b93c267b610ecf027da",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028e643b93c267b610ecf027da",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518e643b93c267b610ecf027da",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 153076,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:6vsEeepIYXoNMC7ROPfXoR",
+      "external_url": "https://open.spotify.com/track/6vsEeepIYXoNMC7ROPfXoR",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "6qzTbAFDX82BxJIBbdKPH8",
+      "name": "イザベラの唄",
+      "artists": [
+        {
+          "id": "1ts9YsGOQHW0vzUrhG4ZpH",
+          "name": "Takahiro Obata",
+          "uri": "spotify:artist:1ts9YsGOQHW0vzUrhG4ZpH"
+        }
+      ],
+      "album": {
+        "id": "6yN3OuEpq0YkHK21VDQJKb",
+        "name": "約束のネバーランド Season1 Original Soundtrack",
+        "release_date": "2019-12-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27376ded7a688fd2fe256050e7f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0276ded7a688fd2fe256050e7f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485176ded7a688fd2fe256050e7f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 149200,
+      "explicit": false,
+      "popularity": 57,
+      "uri": "spotify:track:6qzTbAFDX82BxJIBbdKPH8",
+      "external_url": "https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "1yVr8pfZckIEVbVMrVZh0e",
+      "name": "Dreamgate",
+      "artists": [
+        {
+          "id": "5I1pEm0UZGOxOHtCNkLzut",
+          "name": "Exist Strategy",
+          "uri": "spotify:artist:5I1pEm0UZGOxOHtCNkLzut"
+        },
+        {
+          "id": "6tUcO4yFrN0Zzt3iMtDyns",
+          "name": "Kori",
+          "uri": "spotify:artist:6tUcO4yFrN0Zzt3iMtDyns"
+        }
+      ],
+      "album": {
+        "id": "5iDPxvB1CHRy6xksBUO4sf",
+        "name": "Dreamgate",
+        "release_date": "2021-12-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27320c0da80af43024cd9ff2b58",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0220c0da80af43024cd9ff2b58",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485120c0da80af43024cd9ff2b58",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 261333,
+      "explicit": false,
+      "popularity": 21,
+      "uri": "spotify:track:1yVr8pfZckIEVbVMrVZh0e",
+      "external_url": "https://open.spotify.com/track/1yVr8pfZckIEVbVMrVZh0e",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "2V8fqbSQGhcrFuMjYx26lk",
+      "name": "My Forest Fire",
+      "artists": [
+        {
+          "id": "1IyP1te0ocO6XgeWL4PqdG",
+          "name": "Maldito",
+          "uri": "spotify:artist:1IyP1te0ocO6XgeWL4PqdG"
+        }
+      ],
+      "album": {
+        "id": "54fMT4dDxGgiQISRCRrhbj",
+        "name": "Kingdom Of Coldness",
+        "release_date": "2016-02-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c0a12bb7f73f19b4504970bc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c0a12bb7f73f19b4504970bc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c0a12bb7f73f19b4504970bc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 206012,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:2V8fqbSQGhcrFuMjYx26lk",
+      "external_url": "https://open.spotify.com/track/2V8fqbSQGhcrFuMjYx26lk",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "5BNAzE37hmpyCx0hyrgDqJ",
+      "name": "Your Sister Was Right",
+      "artists": [
+        {
+          "id": "2XzXLjXRSeFtsic4ieyLJy",
+          "name": "Wilbur Soot",
+          "uri": "spotify:artist:2XzXLjXRSeFtsic4ieyLJy"
+        }
+      ],
+      "album": {
+        "id": "1ZSC5ULnqANluf9QT32hJW",
+        "name": "Your City Gave Me Asthma",
+        "release_date": "2020-06-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730c49b83c7df5d4f240b80678",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020c49b83c7df5d4f240b80678",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510c49b83c7df5d4f240b80678",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 152072,
+      "explicit": true,
+      "popularity": 52,
+      "uri": "spotify:track:5BNAzE37hmpyCx0hyrgDqJ",
+      "external_url": "https://open.spotify.com/track/5BNAzE37hmpyCx0hyrgDqJ",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "2stvGMt7dtynIQxzqXzTSe",
+      "name": "Night Drive - Deconstructed",
+      "artists": [
+        {
+          "id": "1gIaahQbTZ8EX77uQw62Vc",
+          "name": "Twiceyoung",
+          "uri": "spotify:artist:1gIaahQbTZ8EX77uQw62Vc"
+        }
+      ],
+      "album": {
+        "id": "3FdN3Mqc64wDaGunVJbomi",
+        "name": "Night Drive (Deconstructed)",
+        "release_date": "2016-06-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f5dc4fa928ddcbda51dbd68d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f5dc4fa928ddcbda51dbd68d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f5dc4fa928ddcbda51dbd68d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 252423,
+      "explicit": false,
+      "popularity": 36,
+      "uri": "spotify:track:2stvGMt7dtynIQxzqXzTSe",
+      "external_url": "https://open.spotify.com/track/2stvGMt7dtynIQxzqXzTSe",
+      "added_at": "2022-03-04T17:04:32Z"
+    },
+    {
+      "id": "5d87z0ELbXggDiwtG6Ypbz",
+      "name": "Nobody Knows",
+      "artists": [
+        {
+          "id": "1f2Bnuuv7FxEx2x8iiEBzR",
+          "name": "Eric Reprid",
+          "uri": "spotify:artist:1f2Bnuuv7FxEx2x8iiEBzR"
+        }
+      ],
+      "album": {
+        "id": "4XHXoathCXjASrvQQJJkxp",
+        "name": "Cold World",
+        "release_date": "2020-12-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733b962d53e1e9e9d504f019c4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023b962d53e1e9e9d504f019c4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513b962d53e1e9e9d504f019c4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 172648,
+      "explicit": true,
+      "popularity": 0,
+      "uri": "spotify:track:5d87z0ELbXggDiwtG6Ypbz",
+      "external_url": "https://open.spotify.com/track/5d87z0ELbXggDiwtG6Ypbz",
+      "added_at": "2022-07-15T04:35:13Z"
+    }
+  ]
+}

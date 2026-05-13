@@ -1,0 +1,808 @@
+{
+  "id": "4LsyONRwbcrF0YYH0grB4f",
+  "name": "thus spoke z",
+  "description": "&quot; in the dark times, should the stars also go out? &quot;",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:4LsyONRwbcrF0YYH0grB4f",
+  "external_url": "https://open.spotify.com/playlist/4LsyONRwbcrF0YYH0grB4f",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84056a3b3812bf2a9e36be0539",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 20,
+  "tracks": [
+    {
+      "id": "377AoKp62nOZLYwAEaU9yE",
+      "name": "I, Nietzsche - acoustic",
+      "artists": [
+        {
+          "id": "7iPH2BRBF9wKa6ljxvdext",
+          "name": "Fenne Lily",
+          "uri": "spotify:artist:7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "album": {
+        "id": "2z0LnLC80s7cJDEYlcwWjO",
+        "name": "BREECH (acoustic)",
+        "release_date": "2021-08-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ff0d399b6a63b7e115c9bbd0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ff0d399b6a63b7e115c9bbd0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ff0d399b6a63b7e115c9bbd0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 154730,
+      "explicit": false,
+      "popularity": 28,
+      "uri": "spotify:track:377AoKp62nOZLYwAEaU9yE",
+      "external_url": "https://open.spotify.com/track/377AoKp62nOZLYwAEaU9yE",
+      "added_at": "2023-05-25T16:03:23Z"
+    },
+    {
+      "id": "4d3pqEn7wgILCKDhUbv1wx",
+      "name": "I Am the Antichrist to You",
+      "artists": [
+        {
+          "id": "3LVPGE5jPPwtbGslx07YR0",
+          "name": "Kishi Bashi",
+          "uri": "spotify:artist:3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "album": {
+        "id": "1KqRTsqsAE9DC2M7jqDQec",
+        "name": "151a",
+        "release_date": "2013-04-30",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27344243c7a1d8b2d58e4973d87",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0244243c7a1d8b2d58e4973d87",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485144243c7a1d8b2d58e4973d87",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 236246,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:4d3pqEn7wgILCKDhUbv1wx",
+      "external_url": "https://open.spotify.com/track/4d3pqEn7wgILCKDhUbv1wx",
+      "added_at": "2023-05-25T16:04:26Z"
+    },
+    {
+      "id": "4wFBbeR03fah9nwy0isyO8",
+      "name": "The Predatory Wasp of the Palisades Is Out to Get Us!",
+      "artists": [
+        {
+          "id": "4MXUO7sVCaFgFjoTI5ox5c",
+          "name": "Sufjan Stevens",
+          "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "album": {
+        "id": "1pOl0KEC1iQnA6F0XxV4To",
+        "name": "Illinois",
+        "release_date": "2005-07-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273712c76b4152918fb8d37c53d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02712c76b4152918fb8d37c53d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851712c76b4152918fb8d37c53d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 323013,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:4wFBbeR03fah9nwy0isyO8",
+      "external_url": "https://open.spotify.com/track/4wFBbeR03fah9nwy0isyO8",
+      "added_at": "2023-05-25T16:05:15Z"
+    },
+    {
+      "id": "6EqCxnulMcawu0qN8B8Y5W",
+      "name": "Apple Tree",
+      "artists": [
+        {
+          "id": "5DGJC3n9DS0Y9eY5ul9y0O",
+          "name": "Marika Hackman",
+          "uri": "spotify:artist:5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "album": {
+        "id": "6cDRHxpDNgEMgmkCIVdlP2",
+        "name": "I'm Not Your Man",
+        "release_date": "2017-06-02",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273011a283c1732bd3b074fb2f4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02011a283c1732bd3b074fb2f4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851011a283c1732bd3b074fb2f4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 175320,
+      "explicit": false,
+      "popularity": 38,
+      "uri": "spotify:track:6EqCxnulMcawu0qN8B8Y5W",
+      "external_url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W",
+      "added_at": "2023-05-25T16:05:57Z"
+    },
+    {
+      "id": "0JuJ0M9ZaKDwXms3rUh1Hk",
+      "name": "Love in the Time of Socialism",
+      "artists": [
+        {
+          "id": "2jAzx88tHo3KNYauXANisl",
+          "name": "Yellow House",
+          "uri": "spotify:artist:2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "album": {
+        "id": "06YsuIiMmeV7GzKNTxNy59",
+        "name": "A Carnival of Fears",
+        "release_date": "2017-04-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273238d9d43908b01587500d8cf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02238d9d43908b01587500d8cf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851238d9d43908b01587500d8cf",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 251184,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:0JuJ0M9ZaKDwXms3rUh1Hk",
+      "external_url": "https://open.spotify.com/track/0JuJ0M9ZaKDwXms3rUh1Hk",
+      "added_at": "2023-05-25T16:06:08Z"
+    },
+    {
+      "id": "5cxnSTLzGD1t9xcdmJYFVB",
+      "name": "No Children",
+      "artists": [
+        {
+          "id": "3hyGGjxu73JuzBa757H6R5",
+          "name": "The Mountain Goats",
+          "uri": "spotify:artist:3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "album": {
+        "id": "6g3n0C6d4v81DnDheoLMvX",
+        "name": "Tallahassee",
+        "release_date": "2003-01-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b526138125fb6cd99f03c39a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b526138125fb6cd99f03c39a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b526138125fb6cd99f03c39a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 168306,
+      "explicit": false,
+      "popularity": 60,
+      "uri": "spotify:track:5cxnSTLzGD1t9xcdmJYFVB",
+      "external_url": "https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB",
+      "added_at": "2023-05-25T16:08:24Z"
+    },
+    {
+      "id": "4XTuSMs47SIg35KxhNIUGe",
+      "name": "White Winter Hymnal",
+      "artists": [
+        {
+          "id": "4EVpmkEwrLYEg6jIsiPMIb",
+          "name": "Fleet Foxes",
+          "uri": "spotify:artist:4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "album": {
+        "id": "1rfgmU0AYNwWfS88pCOlX7",
+        "name": "Fleet Foxes",
+        "release_date": "2008-06-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273561726f8053f54775e7d5bfe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02561726f8053f54775e7d5bfe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851561726f8053f54775e7d5bfe",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 147026,
+      "explicit": false,
+      "popularity": 62,
+      "uri": "spotify:track:4XTuSMs47SIg35KxhNIUGe",
+      "external_url": "https://open.spotify.com/track/4XTuSMs47SIg35KxhNIUGe",
+      "added_at": "2023-05-25T16:08:50Z"
+    },
+    {
+      "id": "3wHIkWWjwhk6oas5ciOMcA",
+      "name": "If It's Not Too Soon",
+      "artists": [
+        {
+          "id": "6XNPFFWkCMQx1Nee4fITRc",
+          "name": "Jonas Lundvall",
+          "uri": "spotify:artist:6XNPFFWkCMQx1Nee4fITRc"
+        }
+      ],
+      "album": {
+        "id": "7tZZNwUkAjslzNvfrIK6J6",
+        "name": "Signs of Life",
+        "release_date": "2017-10-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273131662d8f73c9e5f4d1e3bb8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02131662d8f73c9e5f4d1e3bb8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851131662d8f73c9e5f4d1e3bb8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 213111,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:3wHIkWWjwhk6oas5ciOMcA",
+      "external_url": "https://open.spotify.com/track/3wHIkWWjwhk6oas5ciOMcA",
+      "added_at": "2023-05-25T16:09:44Z"
+    },
+    {
+      "id": "3LuaxVf1C3jAJO6kzQgbIg",
+      "name": "Me in 20 Years",
+      "artists": [
+        {
+          "id": "5W10uJRsbt9bROJDKoI1Wn",
+          "name": "Moses Sumney",
+          "uri": "spotify:artist:5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "album": {
+        "id": "1iYsYnkc0Bccy66X4GQ2tm",
+        "name": "græ",
+        "release_date": "2020-05-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733f198d483ba10e30153d8385",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023f198d483ba10e30153d8385",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513f198d483ba10e30153d8385",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 220826,
+      "explicit": false,
+      "popularity": 48,
+      "uri": "spotify:track:3LuaxVf1C3jAJO6kzQgbIg",
+      "external_url": "https://open.spotify.com/track/3LuaxVf1C3jAJO6kzQgbIg",
+      "added_at": "2023-05-25T16:10:25Z"
+    },
+    {
+      "id": "6ojZsSfUuRUC4VxtWLUAdi",
+      "name": "Tonight I Feel Like Kafka",
+      "artists": [
+        {
+          "id": "3S8P24WjZtVNaPLeXjaCJm",
+          "name": "Jealous of the Birds",
+          "uri": "spotify:artist:3S8P24WjZtVNaPLeXjaCJm"
+        }
+      ],
+      "album": {
+        "id": "0EwUDa0erUFKWfzhCk3vNX",
+        "name": "Parma Violets",
+        "release_date": "2016-05-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730bb7696e609b0cfb96a52835",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020bb7696e609b0cfb96a52835",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510bb7696e609b0cfb96a52835",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 189106,
+      "explicit": false,
+      "popularity": 42,
+      "uri": "spotify:track:6ojZsSfUuRUC4VxtWLUAdi",
+      "external_url": "https://open.spotify.com/track/6ojZsSfUuRUC4VxtWLUAdi",
+      "added_at": "2023-05-25T19:22:14Z"
+    },
+    {
+      "id": "0j2T0R9dR9qdJYsB7ciXhf",
+      "name": "Stronger",
+      "artists": [
+        {
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "album": {
+        "id": "4SZko61aMnmgvNhfhgTuD3",
+        "name": "Graduation",
+        "release_date": "2007-09-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485126f7f19c7f0381e56156c94a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 311866,
+      "explicit": true,
+      "popularity": 86,
+      "uri": "spotify:track:0j2T0R9dR9qdJYsB7ciXhf",
+      "external_url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
+      "added_at": "2023-05-25T20:49:21Z"
+    },
+    {
+      "id": "4uJSCrI7r0usNJ3aaHAuC6",
+      "name": "Windowpane",
+      "artists": [
+        {
+          "id": "0ybFZ2Ab08V8hueghSXm6E",
+          "name": "Opeth",
+          "uri": "spotify:artist:0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "album": {
+        "id": "4FmI0F5GvvR1M9RURWnJV9",
+        "name": "Damnation",
+        "release_date": "2003-04-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cf5507e5a84e6332c910b0d5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cf5507e5a84e6332c910b0d5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cf5507e5a84e6332c910b0d5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 464280,
+      "explicit": false,
+      "popularity": 57,
+      "uri": "spotify:track:4uJSCrI7r0usNJ3aaHAuC6",
+      "external_url": "https://open.spotify.com/track/4uJSCrI7r0usNJ3aaHAuC6",
+      "added_at": "2023-05-26T12:47:13Z"
+    },
+    {
+      "id": "6Db3RiSI7xk3Dxd1N72U5a",
+      "name": "Stranger To Yourself",
+      "artists": [
+        {
+          "id": "4ftctxasGrW5Ud5Pbw6kWq",
+          "name": "Loving",
+          "uri": "spotify:artist:4ftctxasGrW5Ud5Pbw6kWq"
+        }
+      ],
+      "album": {
+        "id": "6v3mBUMjarq34pFwlXUKrl",
+        "name": "If I Am Only My Thoughts",
+        "release_date": "2020-01-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c97cb02efffc9195e085c965",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c97cb02efffc9195e085c965",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c97cb02efffc9195e085c965",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 135718,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:6Db3RiSI7xk3Dxd1N72U5a",
+      "external_url": "https://open.spotify.com/track/6Db3RiSI7xk3Dxd1N72U5a",
+      "added_at": "2023-05-26T12:52:30Z"
+    },
+    {
+      "id": "3wJz1Ilnk1baicYqQpOpMi",
+      "name": "The Sea of Tranquility",
+      "artists": [
+        {
+          "id": "0Xjtselvq13TzhtPlo7g0r",
+          "name": "The Music Tapes",
+          "uri": "spotify:artist:0Xjtselvq13TzhtPlo7g0r"
+        },
+        {
+          "id": "2j6asjJTdzpuwZZXsQVtSH",
+          "name": "Orbiting Human Circus",
+          "uri": "spotify:artist:2j6asjJTdzpuwZZXsQVtSH"
+        }
+      ],
+      "album": {
+        "id": "42nVkshqJsPJ4HeufKStEq",
+        "name": "The Sea of Tranquility",
+        "release_date": "2019-11-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bfd07fb2ab6f3955e26d9317",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bfd07fb2ab6f3955e26d9317",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bfd07fb2ab6f3955e26d9317",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 169062,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:3wJz1Ilnk1baicYqQpOpMi",
+      "external_url": "https://open.spotify.com/track/3wJz1Ilnk1baicYqQpOpMi",
+      "added_at": "2023-05-26T12:55:58Z"
+    },
+    {
+      "id": "5rfT032kGmLvbxZzfHlu5D",
+      "name": "In the Aeroplane Over the Sea",
+      "artists": [
+        {
+          "id": "2ooIqOf4X2uz4mMptXCtie",
+          "name": "Neutral Milk Hotel",
+          "uri": "spotify:artist:2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "album": {
+        "id": "0vVekV45lOaVKs6RZQQNob",
+        "name": "In the Aeroplane Over the Sea",
+        "release_date": "1998-02-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02589ce9a911c6e65b1f80c558",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851589ce9a911c6e65b1f80c558",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 202346,
+      "explicit": false,
+      "popularity": 3,
+      "uri": "spotify:track:5rfT032kGmLvbxZzfHlu5D",
+      "external_url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D",
+      "added_at": "2023-05-26T13:02:22Z"
+    },
+    {
+      "id": "667xyr1X7KekePP9re2abx",
+      "name": "V. Love Is a Mirage",
+      "artists": [
+        {
+          "id": "3YnCrf6jDGnhqUeVsKZSPi",
+          "name": "oh, raven girl",
+          "uri": "spotify:artist:3YnCrf6jDGnhqUeVsKZSPi"
+        }
+      ],
+      "album": {
+        "id": "1oXfjHXlTJ0dJgoNWqaPPN",
+        "name": "Love Is a Mirage",
+        "release_date": "2022-08-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273309b768609d77e5fb4979baf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02309b768609d77e5fb4979baf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851309b768609d77e5fb4979baf",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 313170,
+      "explicit": false,
+      "popularity": 5,
+      "uri": "spotify:track:667xyr1X7KekePP9re2abx",
+      "external_url": "https://open.spotify.com/track/667xyr1X7KekePP9re2abx",
+      "added_at": "2023-06-08T15:58:50Z"
+    },
+    {
+      "id": "7aafGSa6JccYOY9kNV9FNB",
+      "name": "Sodium Chloride",
+      "artists": [
+        {
+          "id": "4KEHIUSoWCcqrk8AddTE1O",
+          "name": "Panchiko",
+          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "album": {
+        "id": "2MASm01cgG0a0CgioQpe6Q",
+        "name": "D>E>A>T>H>M>E>T>A>L",
+        "release_date": "2000-12-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e045aa197ada995407bf92fc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e045aa197ada995407bf92fc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 163749,
+      "explicit": false,
+      "popularity": 61,
+      "uri": "spotify:track:7aafGSa6JccYOY9kNV9FNB",
+      "external_url": "https://open.spotify.com/track/7aafGSa6JccYOY9kNV9FNB",
+      "added_at": "2023-06-13T19:18:40Z"
+    },
+    {
+      "id": "3Fj47GNK2kUF0uaEDgXLaD",
+      "name": "wish you were gay",
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "album": {
+        "id": "0S0KGZnfBGSIssfF54WSJh",
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "release_date": "2019-03-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0250a3147b4edd7701a876c6ce",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485150a3147b4edd7701a876c6ce",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 221543,
+      "explicit": false,
+      "popularity": 75,
+      "uri": "spotify:track:3Fj47GNK2kUF0uaEDgXLaD",
+      "external_url": "https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD",
+      "added_at": "2023-06-25T21:13:59Z"
+    },
+    {
+      "id": "6Ejj64C1S5T1PmCyklGFJe",
+      "name": "Moon, 1AM",
+      "artists": [
+        {
+          "id": "6nGuI3eVXlTyfUgepWxdnO",
+          "name": "Silk Skin Lovers",
+          "uri": "spotify:artist:6nGuI3eVXlTyfUgepWxdnO"
+        }
+      ],
+      "album": {
+        "id": "1JNMwNuHvUU9Diuf8i7sEj",
+        "name": "Moon, 1AM",
+        "release_date": "2022-02-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735bc7d7d21e5d70d38bb853a7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025bc7d7d21e5d70d38bb853a7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515bc7d7d21e5d70d38bb853a7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 295936,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:6Ejj64C1S5T1PmCyklGFJe",
+      "external_url": "https://open.spotify.com/track/6Ejj64C1S5T1PmCyklGFJe",
+      "added_at": "2023-07-09T18:58:51Z"
+    },
+    {
+      "id": "0H3zM86l98iGRMfrAtprZS",
+      "name": "Bear",
+      "artists": [
+        {
+          "id": "5zhn89Em2jWUUWdpcLO3YL",
+          "name": "Sea Power",
+          "uri": "spotify:artist:5zhn89Em2jWUUWdpcLO3YL"
+        }
+      ],
+      "album": {
+        "id": "11WootFsGG4ihWHSnFLNT8",
+        "name": "Zeus EP",
+        "release_date": "2010-10-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737c9340bcd1eb6bf85eefb7b2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027c9340bcd1eb6bf85eefb7b2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517c9340bcd1eb6bf85eefb7b2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 355120,
+      "explicit": false,
+      "popularity": 12,
+      "uri": "spotify:track:0H3zM86l98iGRMfrAtprZS",
+      "external_url": "https://open.spotify.com/track/0H3zM86l98iGRMfrAtprZS",
+      "added_at": "2023-09-11T18:22:06Z"
+    }
+  ]
+}

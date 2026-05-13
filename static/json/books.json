@@ -75,5 +75,12 @@
     "author": "Franz Kafka",
     "year": 1925,
     "quote": "It's only because of their stupidity that they're able to be so sure of themselves."
+  },
+  {
+    "id": 12,
+    "title": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "year": 1987,
+    "quote": "If you only read the books that everyone else is reading, you can only think what everyone else is thinking."
   }
 ]

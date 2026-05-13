@@ -1,0 +1,1013 @@
+{
+  "id": "55lqKQmekPuCrLt8YG9r6d",
+  "name": "december 25",
+  "description": "500 days of winter",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:55lqKQmekPuCrLt8YG9r6d",
+  "external_url": "https://open.spotify.com/playlist/55lqKQmekPuCrLt8YG9r6d",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842dda425722f563e2e70b1c35",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 25,
+  "tracks": [
+    {
+      "id": "4JbwEU1apqYe1dXhThvjag",
+      "name": "Christmas is The Only Time I'm Home",
+      "artists": [
+        {
+          "id": "1AgxgADPuRIW1wyaA4OKcB",
+          "name": "Tom Rosenthal",
+          "uri": "spotify:artist:1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "album": {
+        "id": "1WuDKfHUB50Uz5bbv0Rn4Z",
+        "name": "Christmas is The Only Time I'm Home",
+        "release_date": "2018-11-30",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dcffd3c91950da6027651ef0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dcffd3c91950da6027651ef0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dcffd3c91950da6027651ef0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 200546,
+      "explicit": false,
+      "popularity": 21,
+      "uri": "spotify:track:4JbwEU1apqYe1dXhThvjag",
+      "external_url": "https://open.spotify.com/track/4JbwEU1apqYe1dXhThvjag",
+      "added_at": "2025-12-11T12:35:42Z"
+    },
+    {
+      "id": "6PnluwP0fjGnpIBsqTdUTq",
+      "name": "Pretty When You Cry",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "id": "1ORxRsK3MrSLvh7VQTF01F",
+        "name": "Ultraviolence (Deluxe)",
+        "release_date": "2014-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021624590458126fc8b8c64c2f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511624590458126fc8b8c64c2f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 234146,
+      "explicit": true,
+      "popularity": 78,
+      "uri": "spotify:track:6PnluwP0fjGnpIBsqTdUTq",
+      "external_url": "https://open.spotify.com/track/6PnluwP0fjGnpIBsqTdUTq",
+      "added_at": "2025-12-11T12:35:55Z"
+    },
+    {
+      "id": "1ao7wJBDyHfU1VOG9KIlXi",
+      "name": "Occasional Stoner",
+      "artists": [
+        {
+          "id": "3XxNRirzbjfLdDli06zMaB",
+          "name": "Eyedress",
+          "uri": "spotify:artist:3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "album": {
+        "id": "57KwrtSpwCgoy1uOg6ssnd",
+        "name": "Stoner",
+        "release_date": "2025-04-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734847b1a1eed4ce515cd75db8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024847b1a1eed4ce515cd75db8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514847b1a1eed4ce515cd75db8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 183881,
+      "explicit": false,
+      "popularity": 30,
+      "uri": "spotify:track:1ao7wJBDyHfU1VOG9KIlXi",
+      "external_url": "https://open.spotify.com/track/1ao7wJBDyHfU1VOG9KIlXi",
+      "added_at": "2025-12-11T12:36:08Z"
+    },
+    {
+      "id": "0UOG0zUn7t8m8QcxfzR7AH",
+      "name": "Merry Christmas, Please Don't Call",
+      "artists": [
+        {
+          "id": "2eam0iDomRHGBypaDQLwWI",
+          "name": "Bleachers",
+          "uri": "spotify:artist:2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "album": {
+        "id": "4ngrC1or0nXFHjHdRDldhW",
+        "name": "Merry Christmas, Please Don't Call",
+        "release_date": "2024-11-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737fbed05d7226834da74c652b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027fbed05d7226834da74c652b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517fbed05d7226834da74c652b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 202132,
+      "explicit": false,
+      "popularity": 69,
+      "uri": "spotify:track:0UOG0zUn7t8m8QcxfzR7AH",
+      "external_url": "https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH",
+      "added_at": "2025-12-11T12:38:00Z"
+    },
+    {
+      "id": "5vTSnZTmS1gMiWuA9kDE19",
+      "name": "Futile Devices (Doveman Remix)",
+      "artists": [
+        {
+          "id": "4MXUO7sVCaFgFjoTI5ox5c",
+          "name": "Sufjan Stevens",
+          "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "album": {
+        "id": "7K0x1O9gqMQlDwbMkyCCIM",
+        "name": "Call Me By Your Name (Original Motion Picture Soundtrack)",
+        "release_date": "2017-11-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730db3901606954f424070ff01",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020db3901606954f424070ff01",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510db3901606954f424070ff01",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 135443,
+      "explicit": false,
+      "popularity": 83,
+      "uri": "spotify:track:5vTSnZTmS1gMiWuA9kDE19",
+      "external_url": "https://open.spotify.com/track/5vTSnZTmS1gMiWuA9kDE19",
+      "added_at": "2025-12-11T12:38:18Z"
+    },
+    {
+      "id": "3gjRRs7gmh3Euynu1cau1d",
+      "name": "This December",
+      "artists": [
+        {
+          "id": "0ZUvK7zGdXLd78mQr3t1Tw",
+          "name": "Ricky Montgomery",
+          "uri": "spotify:artist:0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "album": {
+        "id": "25paSmOYSF03s81DCNqQn3",
+        "name": "Montgomery Ricky",
+        "release_date": "2016-04-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27367ee332af483acd134fd6fd0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0267ee332af483acd134fd6fd0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485167ee332af483acd134fd6fd0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 181920,
+      "explicit": false,
+      "popularity": 63,
+      "uri": "spotify:track:3gjRRs7gmh3Euynu1cau1d",
+      "external_url": "https://open.spotify.com/track/3gjRRs7gmh3Euynu1cau1d",
+      "added_at": "2025-12-11T12:57:52Z"
+    },
+    {
+      "id": "7uoFMmxln0GPXQ0AcCBXRq",
+      "name": "Snowman",
+      "artists": [
+        {
+          "id": "5WUlDfRSoLAfcVSX1WnrxN",
+          "name": "Sia",
+          "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "album": {
+        "id": "2vcGYJcPfXUmCdcXXqqukg",
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "release_date": "2018-11-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a75e532b61dac3ddafd022ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a75e532b61dac3ddafd022ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a75e532b61dac3ddafd022ef",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 165900,
+      "explicit": false,
+      "popularity": 76,
+      "uri": "spotify:track:7uoFMmxln0GPXQ0AcCBXRq",
+      "external_url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq",
+      "added_at": "2025-12-11T13:01:39Z"
+    },
+    {
+      "id": "0AY6UDs5EyeW45oQkEpsly",
+      "name": "I'll Be Home For Christmas (If Only In My Dreams) - Remastered 1999",
+      "artists": [
+        {
+          "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+          "name": "Frank Sinatra",
+          "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "album": {
+        "id": "0ny6mZMBrYSO0s8HAKbcVq",
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "release_date": "1957-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27394fd2e614d0862bdd2592594",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0294fd2e614d0862bdd2592594",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485194fd2e614d0862bdd2592594",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 190093,
+      "explicit": false,
+      "popularity": 41,
+      "uri": "spotify:track:0AY6UDs5EyeW45oQkEpsly",
+      "external_url": "https://open.spotify.com/track/0AY6UDs5EyeW45oQkEpsly",
+      "added_at": "2025-12-11T13:07:26Z"
+    },
+    {
+      "id": "38DaSNFliMi6pDKVox4rZl",
+      "name": "Snow (String Version)",
+      "artists": [
+        {
+          "id": "0MeLMJJcouYXCymQSHPn8g",
+          "name": "Sleeping At Last",
+          "uri": "spotify:artist:0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "album": {
+        "id": "2e7dtcwqeaqij3JKqN69zF",
+        "name": "Christmas Collection, Vol. 2",
+        "release_date": "2023-11-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739703b0187b742dbb8413d352",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029703b0187b742dbb8413d352",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519703b0187b742dbb8413d352",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 227857,
+      "explicit": false,
+      "popularity": 19,
+      "uri": "spotify:track:38DaSNFliMi6pDKVox4rZl",
+      "external_url": "https://open.spotify.com/track/38DaSNFliMi6pDKVox4rZl",
+      "added_at": "2025-12-11T13:09:58Z"
+    },
+    {
+      "id": "4HmQqEjwEldXs6xEIKejBw",
+      "name": "Silver Bells",
+      "artists": [
+        {
+          "id": "5XKFrudbV4IiuE5WuTPRmT",
+          "name": "Stephen Sanchez",
+          "uri": "spotify:artist:5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "album": {
+        "id": "2t7n11jra1nWPpuBqgXoc3",
+        "name": "Silver Bells",
+        "release_date": "2024-11-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273328f813a4131a1d3f4dfe051",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02328f813a4131a1d3f4dfe051",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851328f813a4131a1d3f4dfe051",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 212722,
+      "explicit": false,
+      "popularity": 30,
+      "uri": "spotify:track:4HmQqEjwEldXs6xEIKejBw",
+      "external_url": "https://open.spotify.com/track/4HmQqEjwEldXs6xEIKejBw",
+      "added_at": "2025-12-11T13:13:11Z"
+    },
+    {
+      "id": "0aym2LBJBk9DAYuHHutrIl",
+      "name": "Hey Jude - Remastered 2015",
+      "artists": [
+        {
+          "id": "3WrFJ7ztbogyGnTHbHJFl2",
+          "name": "The Beatles",
+          "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "album": {
+        "id": "7vEJAtP3KgKSpOHVgwm3Eh",
+        "name": "1 (Remastered)",
+        "release_date": "2000-11-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02582d56ce20fe0146ffa0e5cf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851582d56ce20fe0146ffa0e5cf",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 425653,
+      "explicit": false,
+      "popularity": 71,
+      "uri": "spotify:track:0aym2LBJBk9DAYuHHutrIl",
+      "external_url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl",
+      "added_at": "2025-12-12T05:53:39Z"
+    },
+    {
+      "id": "0fxGA5lxrdYNYoE7yJxTNZ",
+      "name": "My December",
+      "artists": [
+        {
+          "id": "6XyY86QOPPrYVGvF9ch6wz",
+          "name": "Linkin Park",
+          "uri": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "album": {
+        "id": "6hPkbAV3ZXpGZBGUvL6jVM",
+        "name": "Hybrid Theory (Bonus Edition)",
+        "release_date": "2000-10-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e2f039481babe23658fc719a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 260560,
+      "explicit": false,
+      "popularity": 63,
+      "uri": "spotify:track:0fxGA5lxrdYNYoE7yJxTNZ",
+      "external_url": "https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ",
+      "added_at": "2025-12-13T17:57:48Z"
+    },
+    {
+      "id": "2GFrDW0pEXpjbNrKvFYI8k",
+      "name": "Merry Christmas, i miss you",
+      "artists": [
+        {
+          "id": "25JtC3l1STnE2GptoHKXdD",
+          "name": "Alex Crichton",
+          "uri": "spotify:artist:25JtC3l1STnE2GptoHKXdD"
+        }
+      ],
+      "album": {
+        "id": "1JrnkLclHl6rgCZ6blcaRp",
+        "name": "Merry Christmas, i miss you",
+        "release_date": "2024-12-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734e1b8d87456fbc12abdc1a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024e1b8d87456fbc12abdc1a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514e1b8d87456fbc12abdc1a7b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 246857,
+      "explicit": false,
+      "popularity": 64,
+      "uri": "spotify:track:2GFrDW0pEXpjbNrKvFYI8k",
+      "external_url": "https://open.spotify.com/track/2GFrDW0pEXpjbNrKvFYI8k",
+      "added_at": "2025-12-15T07:56:14Z"
+    },
+    {
+      "id": "3wUMcPzXcmaeW8QxTdyXQO",
+      "name": "Pretty Girls Make Graves - 2011 Remaster",
+      "artists": [
+        {
+          "id": "3yY2gUcIsjMr8hjo51PoJ8",
+          "name": "The Smiths",
+          "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "album": {
+        "id": "6cI1XoZsOhkyrCwtuI70CN",
+        "name": "The Smiths",
+        "release_date": "1984-02-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a09b231129ab1cb1a6efc57f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a09b231129ab1cb1a6efc57f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a09b231129ab1cb1a6efc57f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 223253,
+      "explicit": false,
+      "popularity": 73,
+      "uri": "spotify:track:3wUMcPzXcmaeW8QxTdyXQO",
+      "external_url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO",
+      "added_at": "2025-12-17T06:27:45Z"
+    },
+    {
+      "id": "57VAuR1WgKFzcpO3ujQx9A",
+      "name": "Harbor",
+      "artists": [
+        {
+          "id": "3l0CmX0FuQjFxr8SK7Vqag",
+          "name": "Clairo",
+          "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "album": {
+        "id": "32ium7Cxb1Xwp2MLzH2459",
+        "name": "Sling",
+        "release_date": "2021-07-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732624442cf48e4962d1422da8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022624442cf48e4962d1422da8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512624442cf48e4962d1422da8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 264011,
+      "explicit": false,
+      "popularity": 57,
+      "uri": "spotify:track:57VAuR1WgKFzcpO3ujQx9A",
+      "external_url": "https://open.spotify.com/track/57VAuR1WgKFzcpO3ujQx9A",
+      "added_at": "2025-12-18T19:46:01Z"
+    },
+    {
+      "id": "64UsfQ9kRFblFjaDcLYM4F",
+      "name": "Have Yourself a Merry Little Christmas",
+      "artists": [
+        {
+          "id": "3CIRif6ZAedT7kZSPvj2A4",
+          "name": "She & Him",
+          "uri": "spotify:artist:3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "album": {
+        "id": "3aMRn1ALkkrZeqrKxaWM2C",
+        "name": "A Very She & Him Christmas",
+        "release_date": "2011-10-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27378de64f78fbfc8cdd6fb032a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0278de64f78fbfc8cdd6fb032a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485178de64f78fbfc8cdd6fb032a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 222040,
+      "explicit": false,
+      "popularity": 21,
+      "uri": "spotify:track:64UsfQ9kRFblFjaDcLYM4F",
+      "external_url": "https://open.spotify.com/track/64UsfQ9kRFblFjaDcLYM4F",
+      "added_at": "2025-12-20T05:52:05Z"
+    },
+    {
+      "id": "5RHhmGMV3FKxRa63AIfIgZ",
+      "name": "Another Stone",
+      "artists": [
+        {
+          "id": "3zmfs9cQwzJl575W1ZYXeT",
+          "name": "Men I Trust",
+          "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "album": {
+        "id": "7dJPDPUi94jA91VxG4vZb3",
+        "name": "Equus Caballus",
+        "release_date": "2025-05-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dcfa162250c7d0feed61d638",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dcfa162250c7d0feed61d638",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dcfa162250c7d0feed61d638",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 190280,
+      "explicit": false,
+      "popularity": 54,
+      "uri": "spotify:track:5RHhmGMV3FKxRa63AIfIgZ",
+      "external_url": "https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ",
+      "added_at": "2025-12-22T07:10:14Z"
+    },
+    {
+      "id": "2zf1izCOz2F22PF27uhxRF",
+      "name": "Love Takes Miles",
+      "artists": [
+        {
+          "id": "0kGweFvHWUfh6oLnookVeO",
+          "name": "Cameron Winter",
+          "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "album": {
+        "id": "7mOrnQqDad3RgYQsJGaaqk",
+        "name": "Heavy Metal",
+        "release_date": "2024-12-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734738aa171569052376f162fe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024738aa171569052376f162fe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514738aa171569052376f162fe",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 198386,
+      "explicit": false,
+      "popularity": 71,
+      "uri": "spotify:track:2zf1izCOz2F22PF27uhxRF",
+      "external_url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF",
+      "added_at": "2025-12-23T15:05:57Z"
+    },
+    {
+      "id": "5624ikCMKLVOs0zJd2QOJL",
+      "name": "All That I Want",
+      "artists": [
+        {
+          "id": "6pwHWKweuoCyx3OoFaD0Q5",
+          "name": "The Weepies",
+          "uri": "spotify:artist:6pwHWKweuoCyx3OoFaD0Q5"
+        },
+        {
+          "id": "6vvDymlJBME7J2SPsyY3td",
+          "name": "Steve Tannen",
+          "uri": "spotify:artist:6vvDymlJBME7J2SPsyY3td"
+        },
+        {
+          "id": "7tFFagB7kjwoCTP3QMlzJD",
+          "name": "Deb Talan",
+          "uri": "spotify:artist:7tFFagB7kjwoCTP3QMlzJD"
+        }
+      ],
+      "album": {
+        "id": "5v2hOghR6wqWRVPajH9gxQ",
+        "name": "Happiness",
+        "release_date": "2003-11-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739035dce898f0acea53da8e2a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029035dce898f0acea53da8e2a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519035dce898f0acea53da8e2a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 202553,
+      "explicit": false,
+      "popularity": 24,
+      "uri": "spotify:track:5624ikCMKLVOs0zJd2QOJL",
+      "external_url": "https://open.spotify.com/track/5624ikCMKLVOs0zJd2QOJL",
+      "added_at": "2025-12-25T19:56:08Z"
+    },
+    {
+      "id": "62RTXxio7jbtBTxWz43JPS",
+      "name": "Mystery Of Love - Demo",
+      "artists": [
+        {
+          "id": "4MXUO7sVCaFgFjoTI5ox5c",
+          "name": "Sufjan Stevens",
+          "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "album": {
+        "id": "06pLW7elratms6S5yufTzn",
+        "name": "Mystery Of Love (Demo)",
+        "release_date": "2025-03-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738e9ac108c19e6adc13d4fd9a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028e9ac108c19e6adc13d4fd9a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518e9ac108c19e6adc13d4fd9a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 244766,
+      "explicit": false,
+      "popularity": 61,
+      "uri": "spotify:track:62RTXxio7jbtBTxWz43JPS",
+      "external_url": "https://open.spotify.com/track/62RTXxio7jbtBTxWz43JPS",
+      "added_at": "2025-12-28T06:44:47Z"
+    },
+    {
+      "id": "7yHRmaBkHKXKJmS1xMzicZ",
+      "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
+      "artists": [
+        {
+          "id": "3gqv1kgivAc92KnUm4elKv",
+          "name": "Teddybears",
+          "uri": "spotify:artist:3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "id": "33EUXrFKGjpUSGacqEHhU4",
+          "name": "Iggy Pop",
+          "uri": "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "album": {
+        "id": "4MHVx1PFPrYUzO0zbh95Q0",
+        "name": "Soft Machine",
+        "release_date": "2006",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739e1466e4e4b559227cc5b689",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029e1466e4e4b559227cc5b689",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519e1466e4e4b559227cc5b689",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 246786,
+      "explicit": false,
+      "popularity": 71,
+      "uri": "spotify:track:7yHRmaBkHKXKJmS1xMzicZ",
+      "external_url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ",
+      "added_at": "2025-12-29T03:33:41Z"
+    },
+    {
+      "id": "6isjxsCiPOE57WMrd8WVMM",
+      "name": "Dream of Me",
+      "artists": [
+        {
+          "id": "1yz8XixOiIJJ9IxjbnfYV6",
+          "name": "NewDad",
+          "uri": "spotify:artist:1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "album": {
+        "id": "1Z04cqirpWoJhEi9iovmqw",
+        "name": "MADRA",
+        "release_date": "2024-01-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732392a7230aed7d58429151d1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022392a7230aed7d58429151d1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512392a7230aed7d58429151d1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 202104,
+      "explicit": true,
+      "popularity": 54,
+      "uri": "spotify:track:6isjxsCiPOE57WMrd8WVMM",
+      "external_url": "https://open.spotify.com/track/6isjxsCiPOE57WMrd8WVMM",
+      "added_at": "2026-02-08T16:13:34Z"
+    },
+    {
+      "id": "5JTgqOeHWg4bxMZYMRTE4H",
+      "name": "Love Hurts",
+      "artists": [
+        {
+          "id": "3YcBF2ttyueytpXtEzn1Za",
+          "name": "Incubus",
+          "uri": "spotify:artist:3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "album": {
+        "id": "5WwXMygJ3dQXk3S6mDDfCH",
+        "name": "Light Grenades",
+        "release_date": "2006-11-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27358f4ef37dc0cdb68f858808d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0258f4ef37dc0cdb68f858808d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485158f4ef37dc0cdb68f858808d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 237066,
+      "explicit": false,
+      "popularity": 60,
+      "uri": "spotify:track:5JTgqOeHWg4bxMZYMRTE4H",
+      "external_url": "https://open.spotify.com/track/5JTgqOeHWg4bxMZYMRTE4H",
+      "added_at": "2026-03-09T18:16:07Z"
+    },
+    {
+      "id": "79M4oshPYhR9UlOZ9Ik8im",
+      "name": "Misery",
+      "artists": [
+        {
+          "id": "1yz8XixOiIJJ9IxjbnfYV6",
+          "name": "NewDad",
+          "uri": "spotify:artist:1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "album": {
+        "id": "4IsaQVu7n8r6p7Owan3A9f",
+        "name": "Altar",
+        "release_date": "2025-09-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732c3defa9c457fde66f6d89b8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022c3defa9c457fde66f6d89b8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512c3defa9c457fde66f6d89b8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 218335,
+      "explicit": false,
+      "popularity": 40,
+      "uri": "spotify:track:79M4oshPYhR9UlOZ9Ik8im",
+      "external_url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im",
+      "added_at": "2026-03-11T09:29:11Z"
+    },
+    {
+      "id": "5WpQkpPpv3gyOMPVcR5zTy",
+      "name": "Nightmares",
+      "artists": [
+        {
+          "id": "1yz8XixOiIJJ9IxjbnfYV6",
+          "name": "NewDad",
+          "uri": "spotify:artist:1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "album": {
+        "id": "1Z04cqirpWoJhEi9iovmqw",
+        "name": "MADRA",
+        "release_date": "2024-01-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732392a7230aed7d58429151d1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022392a7230aed7d58429151d1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512392a7230aed7d58429151d1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 224398,
+      "explicit": false,
+      "popularity": 44,
+      "uri": "spotify:track:5WpQkpPpv3gyOMPVcR5zTy",
+      "external_url": "https://open.spotify.com/track/5WpQkpPpv3gyOMPVcR5zTy",
+      "added_at": "2026-03-11T10:56:49Z"
+    }
+  ]
+}

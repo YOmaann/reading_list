@@ -1,0 +1,530 @@
+{
+  "id": "3e7wUoZBrSTltbInuz6TDU",
+  "name": "no fit",
+  "description": "polygon",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:3e7wUoZBrSTltbInuz6TDU",
+  "external_url": "https://open.spotify.com/playlist/3e7wUoZBrSTltbInuz6TDU",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8455265c16d63232739819f22f",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 13,
+  "tracks": [
+    {
+      "id": "51WcF4bMAAhJTUhLMHl6Dh",
+      "name": "untitled",
+      "artists": [
+        {
+          "id": "1t20wYnTiAT0Bs7H1hv9Wt",
+          "name": "EDEN",
+          "uri": "spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt"
+        }
+      ],
+      "album": {
+        "id": "14FGilar8X2PCvelbjX4tZ",
+        "name": "no future",
+        "release_date": "2020-02-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27324873164c69c38a8fe2d9730",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0224873164c69c38a8fe2d9730",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485124873164c69c38a8fe2d9730",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 216250,
+      "explicit": true,
+      "popularity": 37,
+      "uri": "spotify:track:51WcF4bMAAhJTUhLMHl6Dh",
+      "external_url": "https://open.spotify.com/track/51WcF4bMAAhJTUhLMHl6Dh",
+      "added_at": "2025-06-23T19:36:53Z"
+    },
+    {
+      "id": "31wblSJdWVLd38ZN3sdsIq",
+      "name": "Patient Love",
+      "artists": [
+        {
+          "id": "0gadJ2b9A4SKsB1RFkBb66",
+          "name": "Passenger",
+          "uri": "spotify:artist:0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "album": {
+        "id": "5te4yFMdnzpJ1s6fa5TIZG",
+        "name": "All the Little Lights (Deluxe)",
+        "release_date": "2013-11-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273eb0b18cce8b7f5c9fc1579e7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02eb0b18cce8b7f5c9fc1579e7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851eb0b18cce8b7f5c9fc1579e7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 190600,
+      "explicit": false,
+      "popularity": 32,
+      "uri": "spotify:track:31wblSJdWVLd38ZN3sdsIq",
+      "external_url": "https://open.spotify.com/track/31wblSJdWVLd38ZN3sdsIq",
+      "added_at": "2025-06-23T19:37:08Z"
+    },
+    {
+      "id": "1tpVPJGELSCHVJx8GaW2G9",
+      "name": "Top of the Town",
+      "artists": [
+        {
+          "id": "2NQU0LuNWaTLVOuEiZBkvi",
+          "name": "Senior Year",
+          "uri": "spotify:artist:2NQU0LuNWaTLVOuEiZBkvi"
+        }
+      ],
+      "album": {
+        "id": "10MSXdFOzxZu57gOZFYO8O",
+        "name": "Top of the Town",
+        "release_date": "2022-01-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27357784e833e48816a3c0f4fdf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0257784e833e48816a3c0f4fdf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485157784e833e48816a3c0f4fdf",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 189194,
+      "explicit": true,
+      "popularity": 13,
+      "uri": "spotify:track:1tpVPJGELSCHVJx8GaW2G9",
+      "external_url": "https://open.spotify.com/track/1tpVPJGELSCHVJx8GaW2G9",
+      "added_at": "2025-06-23T19:38:02Z"
+    },
+    {
+      "id": "73uJMNmExgQut1I6O1mckM",
+      "name": "Sum of My Cares",
+      "artists": [
+        {
+          "id": "1DhiWyne1hHwVHTti49o40",
+          "name": "The Long Faces",
+          "uri": "spotify:artist:1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "album": {
+        "id": "57ZRa3NP5SLZHkwB12jolv",
+        "name": "Sum of My Cares",
+        "release_date": "2018-04-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27382010929551d45517977dfc2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0282010929551d45517977dfc2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485182010929551d45517977dfc2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 261500,
+      "explicit": false,
+      "popularity": 58,
+      "uri": "spotify:track:73uJMNmExgQut1I6O1mckM",
+      "external_url": "https://open.spotify.com/track/73uJMNmExgQut1I6O1mckM",
+      "added_at": "2025-06-23T19:39:07Z"
+    },
+    {
+      "id": "1YkNf4eTvk9ZbtEVUdiaWc",
+      "name": "High Tops",
+      "artists": [
+        {
+          "id": "0xPoVNPnxIIUS1vrxAYV00",
+          "name": "Del Water Gap",
+          "uri": "spotify:artist:0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "album": {
+        "id": "67LSq5qR5QJ5iNFwmOASH8",
+        "name": "High Tops",
+        "release_date": "2018-10-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273023d3cc22387c5779a16e48a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02023d3cc22387c5779a16e48a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851023d3cc22387c5779a16e48a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 238200,
+      "explicit": false,
+      "popularity": 60,
+      "uri": "spotify:track:1YkNf4eTvk9ZbtEVUdiaWc",
+      "external_url": "https://open.spotify.com/track/1YkNf4eTvk9ZbtEVUdiaWc",
+      "added_at": "2025-06-23T19:39:47Z"
+    },
+    {
+      "id": "4IxF8WqWbfrzLBYX1PIktu",
+      "name": "Under Wraps",
+      "artists": [
+        {
+          "id": "77mJc3M7ZT5oOVM7gNdXim",
+          "name": "Her's",
+          "uri": "spotify:artist:77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "album": {
+        "id": "0G8MSj0DxtuIEeYibgxDsb",
+        "name": "Under Wraps",
+        "release_date": "2018-08-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27316ded10036a337ed95ce5b24",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0216ded10036a337ed95ce5b24",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485116ded10036a337ed95ce5b24",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 303427,
+      "explicit": false,
+      "popularity": 30,
+      "uri": "spotify:track:4IxF8WqWbfrzLBYX1PIktu",
+      "external_url": "https://open.spotify.com/track/4IxF8WqWbfrzLBYX1PIktu",
+      "added_at": "2025-06-23T19:41:17Z"
+    },
+    {
+      "id": "0bJs66Q7uwNby1vPt8HM2E",
+      "name": "Nicotine Dream",
+      "artists": [
+        {
+          "id": "3kE0TeA4n6FZD1UG6ctB0m",
+          "name": "Breakup Shoes",
+          "uri": "spotify:artist:3kE0TeA4n6FZD1UG6ctB0m"
+        }
+      ],
+      "album": {
+        "id": "6NSdc5ipjdl0qrXFTMBtko",
+        "name": "Nicotine Dream EP",
+        "release_date": "2016-04-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c81e0a36a714c9d73f30d92a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c81e0a36a714c9d73f30d92a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c81e0a36a714c9d73f30d92a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 175304,
+      "explicit": false,
+      "popularity": 39,
+      "uri": "spotify:track:0bJs66Q7uwNby1vPt8HM2E",
+      "external_url": "https://open.spotify.com/track/0bJs66Q7uwNby1vPt8HM2E",
+      "added_at": "2025-06-23T19:48:36Z"
+    },
+    {
+      "id": "3BSU9k27nBAIRRhIKBBPyx",
+      "name": "Seth Rogen",
+      "artists": [
+        {
+          "id": "3B3nEiNlMRAHeSF9hfVyi2",
+          "name": "Ditch Days",
+          "uri": "spotify:artist:3B3nEiNlMRAHeSF9hfVyi2"
+        }
+      ],
+      "album": {
+        "id": "5yNPXMUavSnI39cJeToJMG",
+        "name": "Blossom",
+        "release_date": "2022-09-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273facd82cad76e72c698f2c55a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02facd82cad76e72c698f2c55a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851facd82cad76e72c698f2c55a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 233960,
+      "explicit": false,
+      "popularity": 43,
+      "uri": "spotify:track:3BSU9k27nBAIRRhIKBBPyx",
+      "external_url": "https://open.spotify.com/track/3BSU9k27nBAIRRhIKBBPyx",
+      "added_at": "2025-06-23T20:08:45Z"
+    },
+    {
+      "id": "39AAcIvx6UFh5ikqpuZitV",
+      "name": "Where Were You Where They Were Also",
+      "artists": [
+        {
+          "id": "4nNxZ9weXMeokvs9ohcmZl",
+          "name": "The Slaps",
+          "uri": "spotify:artist:4nNxZ9weXMeokvs9ohcmZl"
+        }
+      ],
+      "album": {
+        "id": "1RTd49Y2zd82VsAFZy5PRy",
+        "name": "A",
+        "release_date": "2019-04-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273faa4576f337ccbda1b22c437",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02faa4576f337ccbda1b22c437",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851faa4576f337ccbda1b22c437",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 243000,
+      "explicit": false,
+      "popularity": 53,
+      "uri": "spotify:track:39AAcIvx6UFh5ikqpuZitV",
+      "external_url": "https://open.spotify.com/track/39AAcIvx6UFh5ikqpuZitV",
+      "added_at": "2025-06-23T20:15:27Z"
+    },
+    {
+      "id": "6oDXwSPWcp7KT2B3funF8y",
+      "name": "Dance Around the Fire",
+      "artists": [
+        {
+          "id": "0TtJkRL3Qzlf0aX5ozf7Vl",
+          "name": "Why These Coyotes",
+          "uri": "spotify:artist:0TtJkRL3Qzlf0aX5ozf7Vl"
+        }
+      ],
+      "album": {
+        "id": "09RgHxkDHHYSb9q6uBbXc4",
+        "name": "Dance Around the Fire",
+        "release_date": "2017-10-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735284c6ee9fc450e529864d59",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025284c6ee9fc450e529864d59",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515284c6ee9fc450e529864d59",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 200869,
+      "explicit": false,
+      "popularity": 49,
+      "uri": "spotify:track:6oDXwSPWcp7KT2B3funF8y",
+      "external_url": "https://open.spotify.com/track/6oDXwSPWcp7KT2B3funF8y",
+      "added_at": "2025-06-25T09:39:51Z"
+    },
+    {
+      "id": "5dC6QvtvZFH7AAf9fldfnx",
+      "name": "Little Stranger",
+      "artists": [
+        {
+          "id": "6EB8VE9f7Ut6NOgviN6gDW",
+          "name": "Dawid Podsiadło",
+          "uri": "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "album": {
+        "id": "7um2EUWOORAZg7xIGQwL5j",
+        "name": "Comfort and Happiness (10th Anniversary Edition)",
+        "release_date": "2023-05-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d6a4148ec5a9496a3fd6ecfe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d6a4148ec5a9496a3fd6ecfe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d6a4148ec5a9496a3fd6ecfe",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 297920,
+      "explicit": false,
+      "popularity": 43,
+      "uri": "spotify:track:5dC6QvtvZFH7AAf9fldfnx",
+      "external_url": "https://open.spotify.com/track/5dC6QvtvZFH7AAf9fldfnx",
+      "added_at": "2025-06-26T08:30:24Z"
+    },
+    {
+      "id": "7658n55fOdy8zGGWBv6o6e",
+      "name": "Dive",
+      "artists": [
+        {
+          "id": "56ZTgzPBDge0OvCGgMO3OY",
+          "name": "Beach House",
+          "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "album": {
+        "id": "65bVa55LFhY4PLx0kg8LjW",
+        "name": "7",
+        "release_date": "2018-05-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27363d3e13577285fa988639232",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0263d3e13577285fa988639232",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485163d3e13577285fa988639232",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 265373,
+      "explicit": false,
+      "popularity": 40,
+      "uri": "spotify:track:7658n55fOdy8zGGWBv6o6e",
+      "external_url": "https://open.spotify.com/track/7658n55fOdy8zGGWBv6o6e",
+      "added_at": "2025-07-14T08:30:42Z"
+    },
+    {
+      "id": "0tNhJoA3SBMpEa0zcm37J3",
+      "name": "Bird Stealing Bread",
+      "artists": [
+        {
+          "id": "4M5nCE77Qaxayuhp3fVn4V",
+          "name": "Iron & Wine",
+          "uri": "spotify:artist:4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "album": {
+        "id": "6ntb18dIoT5KvUFwWgkmMw",
+        "name": "The Creek Drank the Cradle",
+        "release_date": "2002-09-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737e7d759058e274e23a307905",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027e7d759058e274e23a307905",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517e7d759058e274e23a307905",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 261466,
+      "explicit": false,
+      "popularity": 39,
+      "uri": "spotify:track:0tNhJoA3SBMpEa0zcm37J3",
+      "external_url": "https://open.spotify.com/track/0tNhJoA3SBMpEa0zcm37J3",
+      "added_at": "2025-08-18T05:05:42Z"
+    }
+  ]
+}

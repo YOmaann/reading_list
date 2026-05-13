@@ -1,0 +1,535 @@
+{
+  "id": "1IJzP6bTIGJlXMjqcJ6E8r",
+  "name": "awwtism is a spectrum",
+  "description": "for the lost and deranged",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:1IJzP6bTIGJlXMjqcJ6E8r",
+  "external_url": "https://open.spotify.com/playlist/1IJzP6bTIGJlXMjqcJ6E8r",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84512eb948550fe3b730c58984",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 13,
+  "tracks": [
+    {
+      "id": "5cxnSTLzGD1t9xcdmJYFVB",
+      "name": "No Children",
+      "artists": [
+        {
+          "id": "3hyGGjxu73JuzBa757H6R5",
+          "name": "The Mountain Goats",
+          "uri": "spotify:artist:3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "album": {
+        "id": "6g3n0C6d4v81DnDheoLMvX",
+        "name": "Tallahassee",
+        "release_date": "2003-01-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b526138125fb6cd99f03c39a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b526138125fb6cd99f03c39a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b526138125fb6cd99f03c39a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 168306,
+      "explicit": false,
+      "popularity": 60,
+      "uri": "spotify:track:5cxnSTLzGD1t9xcdmJYFVB",
+      "external_url": "https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB",
+      "added_at": "2024-01-03T18:38:43Z"
+    },
+    {
+      "id": "2G9bwstt78wqmamNWvUrxw",
+      "name": "Oh Sister - 1995",
+      "artists": [
+        {
+          "id": "2ooIqOf4X2uz4mMptXCtie",
+          "name": "Neutral Milk Hotel",
+          "uri": "spotify:artist:2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "album": {
+        "id": "5gmpTq2YKF4pBwizS9QH80",
+        "name": "Ferris Wheel on Fire",
+        "release_date": "2023-02-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b4ae51bf5337e154c401e53c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b4ae51bf5337e154c401e53c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b4ae51bf5337e154c401e53c",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 217000,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:2G9bwstt78wqmamNWvUrxw",
+      "external_url": "https://open.spotify.com/track/2G9bwstt78wqmamNWvUrxw",
+      "added_at": "2024-01-03T18:40:25Z"
+    },
+    {
+      "id": "05uGBKRCuePsf43Hfm0JwX",
+      "name": "Brain Damage",
+      "artists": [
+        {
+          "id": "0k17h0D3J5VfsdmQ1iZtE9",
+          "name": "Pink Floyd",
+          "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "album": {
+        "id": "4LH4d3cOWNNsVw41Gqt2kv",
+        "name": "The Dark Side of the Moon",
+        "release_date": "1973-03-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02db216ca805faf5fe35df4ee6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 230493,
+      "explicit": false,
+      "popularity": 73,
+      "uri": "spotify:track:05uGBKRCuePsf43Hfm0JwX",
+      "external_url": "https://open.spotify.com/track/05uGBKRCuePsf43Hfm0JwX",
+      "added_at": "2024-01-03T18:40:53Z"
+    },
+    {
+      "id": "6dtPJwNdLuyVGPWyHOI6GP",
+      "name": "It's Only Sex",
+      "artists": [
+        {
+          "id": "5PbpKlxQE0Ktl5lcNABoFf",
+          "name": "Car Seat Headrest",
+          "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "album": {
+        "id": "3egPQUSqrInRvbXxPqXQYm",
+        "name": "Living While Starving",
+        "release_date": "2012-11-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c04293e38055ac0554c0ff05",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c04293e38055ac0554c0ff05",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c04293e38055ac0554c0ff05",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 283000,
+      "explicit": true,
+      "popularity": 61,
+      "uri": "spotify:track:6dtPJwNdLuyVGPWyHOI6GP",
+      "external_url": "https://open.spotify.com/track/6dtPJwNdLuyVGPWyHOI6GP",
+      "added_at": "2024-01-03T18:41:56Z"
+    },
+    {
+      "id": "4OmfWzukSVD140NiAIEjem",
+      "name": "Static",
+      "artists": [
+        {
+          "id": "57vWImR43h4CaDao012Ofp",
+          "name": "Steve Lacy",
+          "uri": "spotify:artist:57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "album": {
+        "id": "3Ks0eeH0GWpY4AU20D5HPD",
+        "name": "Gemini Rights",
+        "release_date": "2022-07-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026938311000a0e494a26986e5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516938311000a0e494a26986e5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 156538,
+      "explicit": true,
+      "popularity": 72,
+      "uri": "spotify:track:4OmfWzukSVD140NiAIEjem",
+      "external_url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem",
+      "added_at": "2024-01-03T18:42:44Z"
+    },
+    {
+      "id": "0z1o5L7HJx562xZSATcIpY",
+      "name": "Exit Music (For A Film)",
+      "artists": [
+        {
+          "id": "4Z8W4fKeB5YxbusRsdQVPb",
+          "name": "Radiohead",
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "album": {
+        "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
+        "name": "OK Computer",
+        "release_date": "1997-05-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c8b444df094279e70d0ed856",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c8b444df094279e70d0ed856",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 267186,
+      "explicit": false,
+      "popularity": 81,
+      "uri": "spotify:track:0z1o5L7HJx562xZSATcIpY",
+      "external_url": "https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY",
+      "added_at": "2024-01-03T18:43:02Z"
+    },
+    {
+      "id": "6YQSQ6CQN4pIcXEiOqoH8x",
+      "name": "This Time",
+      "artists": [
+        {
+          "id": "2feOOr1Yjovo67byuxvjZv",
+          "name": "LSD and the Search for God",
+          "uri": "spotify:artist:2feOOr1Yjovo67byuxvjZv"
+        }
+      ],
+      "album": {
+        "id": "46q859znSzYPVwz7OaO7GS",
+        "name": "LSD and the Search for God",
+        "release_date": "2007-01-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273be9bb007638d6e2a0f64cab0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02be9bb007638d6e2a0f64cab0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851be9bb007638d6e2a0f64cab0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 198773,
+      "explicit": false,
+      "popularity": 55,
+      "uri": "spotify:track:6YQSQ6CQN4pIcXEiOqoH8x",
+      "external_url": "https://open.spotify.com/track/6YQSQ6CQN4pIcXEiOqoH8x",
+      "added_at": "2024-01-03T18:47:24Z"
+    },
+    {
+      "id": "6YNfrgCOy1dCXZKKRUuZVq",
+      "name": "Everything Means Nothing To Me",
+      "artists": [
+        {
+          "id": "2ApaG60P4r0yhBoDCGD8YG",
+          "name": "Elliott Smith",
+          "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "album": {
+        "id": "7DC0pE943VR5tAKIvQXHts",
+        "name": "Figure 8",
+        "release_date": "2000-04-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273169a2393509223c26e4eedc5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02169a2393509223c26e4eedc5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851169a2393509223c26e4eedc5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 142893,
+      "explicit": false,
+      "popularity": 54,
+      "uri": "spotify:track:6YNfrgCOy1dCXZKKRUuZVq",
+      "external_url": "https://open.spotify.com/track/6YNfrgCOy1dCXZKKRUuZVq",
+      "added_at": "2024-01-03T18:51:41Z"
+    },
+    {
+      "id": "5by3w3NXvwDpV9FBSOR35u",
+      "name": "Heroin",
+      "artists": [
+        {
+          "id": "1nJvji2KIlWSseXRSlNYsC",
+          "name": "The Velvet Underground",
+          "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "id": "0IwlY33zbBXN7zlS9DP2Cj",
+          "name": "Nico",
+          "uri": "spotify:artist:0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "album": {
+        "id": "4xwx0x7k6c5VuThz5qVqmV",
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "release_date": "1967-03-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0298260c528e6eec9dd431c1d7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485198260c528e6eec9dd431c1d7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 433573,
+      "explicit": false,
+      "popularity": 56,
+      "uri": "spotify:track:5by3w3NXvwDpV9FBSOR35u",
+      "external_url": "https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u",
+      "added_at": "2024-01-03T18:53:13Z"
+    },
+    {
+      "id": "3wUMcPzXcmaeW8QxTdyXQO",
+      "name": "Pretty Girls Make Graves - 2011 Remaster",
+      "artists": [
+        {
+          "id": "3yY2gUcIsjMr8hjo51PoJ8",
+          "name": "The Smiths",
+          "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "album": {
+        "id": "6cI1XoZsOhkyrCwtuI70CN",
+        "name": "The Smiths",
+        "release_date": "1984-02-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a09b231129ab1cb1a6efc57f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a09b231129ab1cb1a6efc57f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a09b231129ab1cb1a6efc57f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 223253,
+      "explicit": false,
+      "popularity": 73,
+      "uri": "spotify:track:3wUMcPzXcmaeW8QxTdyXQO",
+      "external_url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO",
+      "added_at": "2024-01-03T19:02:10Z"
+    },
+    {
+      "id": "6JgHKt0WwdwlXIht6M0mqa",
+      "name": "I'm So Tired",
+      "artists": [
+        {
+          "id": "62sC6lUEWRjbFqXpMmOk4G",
+          "name": "Fugazi",
+          "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "album": {
+        "id": "1owNOVlXTqmDVo4M2Z20uk",
+        "name": "Instrument Soundtrack",
+        "release_date": "1999-04-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bd8b0af490f57ec1e55513cf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bd8b0af490f57ec1e55513cf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bd8b0af490f57ec1e55513cf",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 118933,
+      "explicit": false,
+      "popularity": 62,
+      "uri": "spotify:track:6JgHKt0WwdwlXIht6M0mqa",
+      "external_url": "https://open.spotify.com/track/6JgHKt0WwdwlXIht6M0mqa",
+      "added_at": "2024-01-03T19:28:50Z"
+    },
+    {
+      "id": "0oxYB9GoOIDrdzniNdKC44",
+      "name": "When the Sun Hits",
+      "artists": [
+        {
+          "id": "72X6FHxaShda0XeQw3vbeF",
+          "name": "Slowdive",
+          "uri": "spotify:artist:72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "album": {
+        "id": "53eHm1f3sFiSzWMaKOl98Z",
+        "name": "Souvlaki",
+        "release_date": "1993",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f6e31941d10e4819d290af41",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f6e31941d10e4819d290af41",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 285906,
+      "explicit": false,
+      "popularity": 79,
+      "uri": "spotify:track:0oxYB9GoOIDrdzniNdKC44",
+      "external_url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44",
+      "added_at": "2024-01-04T09:31:30Z"
+    },
+    {
+      "id": "5cbpoIu3YjoOwbBDGUEp3P",
+      "name": "Car Radio",
+      "artists": [
+        {
+          "id": "3YQKmKGau1PzlVlkL1iodx",
+          "name": "Twenty One Pilots",
+          "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "album": {
+        "id": "2r2r78NE05YjyHyVbVgqFn",
+        "name": "Vessel",
+        "release_date": "2013-01-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736caad685af37c08063be928d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026caad685af37c08063be928d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516caad685af37c08063be928d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 267720,
+      "explicit": false,
+      "popularity": 71,
+      "uri": "spotify:track:5cbpoIu3YjoOwbBDGUEp3P",
+      "external_url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P",
+      "added_at": "2024-02-17T19:47:00Z"
+    }
+  ]
+}

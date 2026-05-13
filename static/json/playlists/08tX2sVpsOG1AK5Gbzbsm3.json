@@ -1,0 +1,355 @@
+{
+  "id": "08tX2sVpsOG1AK5Gbzbsm3",
+  "name": "omori like",
+  "description": "dreamcore",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:08tX2sVpsOG1AK5Gbzbsm3",
+  "external_url": "https://open.spotify.com/playlist/08tX2sVpsOG1AK5Gbzbsm3",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844f01d51c3734e2557ecf2477",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 8,
+  "tracks": [
+    {
+      "id": "6X3UJb5MCkgA2iX75wTthm",
+      "name": "Hope",
+      "artists": [
+        {
+          "id": "7dIpKWlEeAljA20vFJ82RD",
+          "name": "Roar",
+          "uri": "spotify:artist:7dIpKWlEeAljA20vFJ82RD"
+        },
+        {
+          "id": "7gvJ8gPBE0HDnYX7tQPSxm",
+          "name": "Aaron Burke",
+          "uri": "spotify:artist:7gvJ8gPBE0HDnYX7tQPSxm"
+        },
+        {
+          "id": "6orMuMtEcAIkLpbFTH1zmN",
+          "name": "Evan Bisbee",
+          "uri": "spotify:artist:6orMuMtEcAIkLpbFTH1zmN"
+        },
+        {
+          "id": "5VwCzvZeS09kW3LCexsTpV",
+          "name": "JEF Wright",
+          "uri": "spotify:artist:5VwCzvZeS09kW3LCexsTpV"
+        }
+      ],
+      "album": {
+        "id": "4XriwpnB6fJm8OMxb7wQcV",
+        "name": "Impossible Animals",
+        "release_date": "2016-03-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735f13631ab416ed18dda7757c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025f13631ab416ed18dda7757c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515f13631ab416ed18dda7757c",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 216405,
+      "explicit": false,
+      "popularity": 40,
+      "uri": "spotify:track:6X3UJb5MCkgA2iX75wTthm",
+      "external_url": "https://open.spotify.com/track/6X3UJb5MCkgA2iX75wTthm",
+      "added_at": "2024-07-19T18:20:15Z"
+    },
+    {
+      "id": "2IwL0fwckPbO9sau1EHslH",
+      "name": "Acting",
+      "artists": [
+        {
+          "id": "5NtMqQLCzdVvL7F8vFp3zM",
+          "name": "Sweet Trip",
+          "uri": "spotify:artist:5NtMqQLCzdVvL7F8vFp3zM"
+        }
+      ],
+      "album": {
+        "id": "78lIjVFQSSRqO47Pvw1b9M",
+        "name": "You Will Never Know Why",
+        "release_date": "2009-09-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273399d18f30888ad38dc053de9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02399d18f30888ad38dc053de9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851399d18f30888ad38dc053de9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 425946,
+      "explicit": false,
+      "popularity": 35,
+      "uri": "spotify:track:2IwL0fwckPbO9sau1EHslH",
+      "external_url": "https://open.spotify.com/track/2IwL0fwckPbO9sau1EHslH",
+      "added_at": "2024-07-19T18:20:54Z"
+    },
+    {
+      "id": "0wZUJxxybEiafs0BIg9SAP",
+      "name": "My Time",
+      "artists": [
+        {
+          "id": "1EotkJocwHvhFOAsoOj1jJ",
+          "name": "bo en",
+          "uri": "spotify:artist:1EotkJocwHvhFOAsoOj1jJ"
+        }
+      ],
+      "album": {
+        "id": "1a2UnYDnfK25QJKfgHNHnu",
+        "name": "Pale Machine",
+        "release_date": "2013-09-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27385db40d12f55be3d5df34aa4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0285db40d12f55be3d5df34aa4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485185db40d12f55be3d5df34aa4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 313968,
+      "explicit": false,
+      "popularity": 58,
+      "uri": "spotify:track:0wZUJxxybEiafs0BIg9SAP",
+      "external_url": "https://open.spotify.com/track/0wZUJxxybEiafs0BIg9SAP",
+      "added_at": "2024-07-19T18:21:26Z"
+    },
+    {
+      "id": "7JTGwb6ug0z15F5roNLE0s",
+      "name": "Two Time",
+      "artists": [
+        {
+          "id": "1yNIb413Bmfs2ZBVuPp9kC",
+          "name": "Jack Stauber's Micropop",
+          "uri": "spotify:artist:1yNIb413Bmfs2ZBVuPp9kC"
+        }
+      ],
+      "album": {
+        "id": "4MRCHFNTaIipvwa7KGpaWF",
+        "name": "Inchman / Two Time",
+        "release_date": "2018-06-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b32931fdae5fca7847c21323",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b32931fdae5fca7847c21323",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b32931fdae5fca7847c21323",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 139850,
+      "explicit": false,
+      "popularity": 72,
+      "uri": "spotify:track:7JTGwb6ug0z15F5roNLE0s",
+      "external_url": "https://open.spotify.com/track/7JTGwb6ug0z15F5roNLE0s",
+      "added_at": "2024-07-19T18:22:43Z"
+    },
+    {
+      "id": "7fyG2MquxykO3Ufiku1Dj2",
+      "name": "Treehouse",
+      "artists": [
+        {
+          "id": "6lcwlkAjBPSKnFBZjjZFJs",
+          "name": "Alex G",
+          "uri": "spotify:artist:6lcwlkAjBPSKnFBZjjZFJs"
+        },
+        {
+          "id": "50oMAfElZgbElx2ktukv47",
+          "name": "Emily Yacina",
+          "uri": "spotify:artist:50oMAfElZgbElx2ktukv47"
+        }
+      ],
+      "album": {
+        "id": "6bkxg2HCORFlB0akEfqJvY",
+        "name": "Treehouse",
+        "release_date": "2011-01-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273eab4a65481d9679fdab3b4a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02eab4a65481d9679fdab3b4a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851eab4a65481d9679fdab3b4a3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 158801,
+      "explicit": false,
+      "popularity": 78,
+      "uri": "spotify:track:7fyG2MquxykO3Ufiku1Dj2",
+      "external_url": "https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2",
+      "added_at": "2024-07-19T18:25:22Z"
+    },
+    {
+      "id": "5lucZSfaDtCUU98IEBaRUa",
+      "name": "Gretel",
+      "artists": [
+        {
+          "id": "1MUV2xrrCkG9mhZyVUDGEy",
+          "name": "Sodikken",
+          "uri": "spotify:artist:1MUV2xrrCkG9mhZyVUDGEy"
+        }
+      ],
+      "album": {
+        "id": "5ncouhknwbQFUdOfDDUg2L",
+        "name": "Hansel & Gretel",
+        "release_date": "2021-07-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739d29e1fa514c4f1f963960fd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029d29e1fa514c4f1f963960fd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519d29e1fa514c4f1f963960fd",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 428264,
+      "explicit": false,
+      "popularity": 25,
+      "uri": "spotify:track:5lucZSfaDtCUU98IEBaRUa",
+      "external_url": "https://open.spotify.com/track/5lucZSfaDtCUU98IEBaRUa",
+      "added_at": "2024-07-19T18:28:31Z"
+    },
+    {
+      "id": "4bQ7mjty0UVlKRalhizpGT",
+      "name": "Vanished",
+      "artists": [
+        {
+          "id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "name": "Crystal Castles",
+          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "album": {
+        "id": "6rTfUUv8Kefr6Uo3AaecXi",
+        "name": "Crystal Castles",
+        "release_date": "2008-03-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 242960,
+      "explicit": false,
+      "popularity": 80,
+      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
+      "external_url": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT",
+      "added_at": "2024-07-19T18:30:08Z"
+    },
+    {
+      "id": "4VgGQi9FZMrNG4MuiONldI",
+      "name": "Kagefumi",
+      "artists": [
+        {
+          "id": "6Xktu0x9IXB4ghFSPw6Jqv",
+          "name": "百景",
+          "uri": "spotify:artist:6Xktu0x9IXB4ghFSPw6Jqv"
+        }
+      ],
+      "album": {
+        "id": "5FFviHXLHrtM8bPkklaXrD",
+        "name": "Standing Still In A Moving Scene",
+        "release_date": "2006-06-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f785ed75941b6721efaa05f1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f785ed75941b6721efaa05f1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f785ed75941b6721efaa05f1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 294480,
+      "explicit": false,
+      "popularity": 60,
+      "uri": "spotify:track:4VgGQi9FZMrNG4MuiONldI",
+      "external_url": "https://open.spotify.com/track/4VgGQi9FZMrNG4MuiONldI",
+      "added_at": "2024-10-10T22:37:32Z"
+    }
+  ]
+}

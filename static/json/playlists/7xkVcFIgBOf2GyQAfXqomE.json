@@ -1,0 +1,652 @@
+{
+  "id": "7xkVcFIgBOf2GyQAfXqomE",
+  "name": "Not The Same Anymore",
+  "description": "despite all, still grateful ",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:7xkVcFIgBOf2GyQAfXqomE",
+  "external_url": "https://open.spotify.com/playlist/7xkVcFIgBOf2GyQAfXqomE",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8407268aedea566cbc4ed2504a",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 16,
+  "tracks": [
+    {
+      "id": "5ncofiedz9Ej6YkvvXMKVn",
+      "name": "Not The Same Anymore",
+      "artists": [
+        {
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "album": {
+        "id": "2xkZV2Hl1Omi8rk2D7t5lN",
+        "name": "The New Abnormal",
+        "release_date": "2020-04-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e3f1ba3de4659708c25d0f39",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 337333,
+      "explicit": true,
+      "popularity": 65,
+      "uri": "spotify:track:5ncofiedz9Ej6YkvvXMKVn",
+      "external_url": "https://open.spotify.com/track/5ncofiedz9Ej6YkvvXMKVn",
+      "added_at": "2026-04-03T08:13:36Z"
+    },
+    {
+      "id": "6VzcQuzTNTMFnJ6rBSaLH9",
+      "name": "Fine Line",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "album": {
+        "id": "7xV2TzoaVc0ycW7fwBwAml",
+        "name": "Fine Line",
+        "release_date": "2019-12-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27325180571abce9472f61bd722",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0225180571abce9472f61bd722",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485125180571abce9472f61bd722",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 377909,
+      "explicit": false,
+      "popularity": 79,
+      "uri": "spotify:track:6VzcQuzTNTMFnJ6rBSaLH9",
+      "external_url": "https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9",
+      "added_at": "2026-04-03T08:14:33Z"
+    },
+    {
+      "id": "3SeDS5sSoWnwAZvVgkdKzf",
+      "name": "Better in the Dark",
+      "artists": [
+        {
+          "id": "5Bw9kFNhy019e4IBCJZlzw",
+          "name": "Jordana",
+          "uri": "spotify:artist:5Bw9kFNhy019e4IBCJZlzw"
+        },
+        {
+          "id": "0Y6dVaC9DZtPNH4591M42W",
+          "name": "TV Girl",
+          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "album": {
+        "id": "60EzsIzS77S9MWHT0Tm37s",
+        "name": "Summer's Over",
+        "release_date": "2021-10-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ebf1802f3aedc62b8f6339d3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ebf1802f3aedc62b8f6339d3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ebf1802f3aedc62b8f6339d3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 155500,
+      "explicit": false,
+      "popularity": 82,
+      "uri": "spotify:track:3SeDS5sSoWnwAZvVgkdKzf",
+      "external_url": "https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf",
+      "added_at": "2026-04-03T08:14:41Z"
+    },
+    {
+      "id": "1T5tDibcj3AmFmPxYGm6vp",
+      "name": "Taxi’s Here",
+      "artists": [
+        {
+          "id": "5INjqkS1o8h1imAzPqGZBb",
+          "name": "Tame Impala",
+          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "album": {
+        "id": "04uXkrNhFJ1iWEo88MGPva",
+        "name": "Currents B-Sides & Remixes",
+        "release_date": "2017-11-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bf2fe3810d8a6696d3f1b5db",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bf2fe3810d8a6696d3f1b5db",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bf2fe3810d8a6696d3f1b5db",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 287306,
+      "explicit": false,
+      "popularity": 59,
+      "uri": "spotify:track:1T5tDibcj3AmFmPxYGm6vp",
+      "external_url": "https://open.spotify.com/track/1T5tDibcj3AmFmPxYGm6vp",
+      "added_at": "2026-04-03T08:22:25Z"
+    },
+    {
+      "id": "2Cd8JR3rEYFLRaLi98uR4q",
+      "name": "Taxi Cab",
+      "artists": [
+        {
+          "id": "3YQKmKGau1PzlVlkL1iodx",
+          "name": "Twenty One Pilots",
+          "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "album": {
+        "id": "6rgWZP4QFBjEFF0n6JWEOa",
+        "name": "Twenty One Pilots",
+        "release_date": "2009-12-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c349390bd863bf173eb077e9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c349390bd863bf173eb077e9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c349390bd863bf173eb077e9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 285733,
+      "explicit": false,
+      "popularity": 57,
+      "uri": "spotify:track:2Cd8JR3rEYFLRaLi98uR4q",
+      "external_url": "https://open.spotify.com/track/2Cd8JR3rEYFLRaLi98uR4q",
+      "added_at": "2026-04-03T08:50:59Z"
+    },
+    {
+      "id": "1BDRKVuooLvqayamtAEV4z",
+      "name": "Need 2",
+      "artists": [
+        {
+          "id": "2gbT6GPXMis0OAkZbEQCYB",
+          "name": "Pinegrove",
+          "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "album": {
+        "id": "1PHYzL4Yq4W1GfRahD6W1H",
+        "name": "Everything So Far",
+        "release_date": "2015-10-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273251adf76d00dcb1356e25b10",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02251adf76d00dcb1356e25b10",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851251adf76d00dcb1356e25b10",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 191796,
+      "explicit": false,
+      "popularity": 77,
+      "uri": "spotify:track:1BDRKVuooLvqayamtAEV4z",
+      "external_url": "https://open.spotify.com/track/1BDRKVuooLvqayamtAEV4z",
+      "added_at": "2026-04-03T17:07:27Z"
+    },
+    {
+      "id": "2xGjfbXZnI8uQDhukoQURQ",
+      "name": "K.",
+      "artists": [
+        {
+          "id": "1QAJqy2dA3ihHBFIHRphZj",
+          "name": "Cigarettes After Sex",
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "album": {
+        "id": "5chTLnnxlxQVAgEv6YbEBe",
+        "name": "Cigarettes After Sex",
+        "release_date": "2017-06-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dfed999f959177dfc4f33cdc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 319560,
+      "explicit": false,
+      "popularity": 85,
+      "uri": "spotify:track:2xGjfbXZnI8uQDhukoQURQ",
+      "external_url": "https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ",
+      "added_at": "2026-04-04T10:37:18Z"
+    },
+    {
+      "id": "0eAuGrXyGFYwur9ARUe7LJ",
+      "name": "Earrings",
+      "artists": [
+        {
+          "id": "7eKkW1zo5uzW8kUntiiBvz",
+          "name": "Malcolm Todd",
+          "uri": "spotify:artist:7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "album": {
+        "id": "2jX6yKrWw9bY7JAYHhhtqZ",
+        "name": "Sweet Boy",
+        "release_date": "2024-04-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732c1f34ecc1929fb59908aad1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512c1f34ecc1929fb59908aad1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 151500,
+      "explicit": false,
+      "popularity": 93,
+      "uri": "spotify:track:0eAuGrXyGFYwur9ARUe7LJ",
+      "external_url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
+      "added_at": "2026-04-04T11:44:58Z"
+    },
+    {
+      "id": "1BANPzYIhCQkJ1ZFq2Fb0O",
+      "name": "Next Semester",
+      "artists": [
+        {
+          "id": "3YQKmKGau1PzlVlkL1iodx",
+          "name": "Twenty One Pilots",
+          "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "album": {
+        "id": "1KFWgQTw3EMTQebaaepVBI",
+        "name": "Clancy",
+        "release_date": "2024-05-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cc94dd4730132ccfbd617bf9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cc94dd4730132ccfbd617bf9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cc94dd4730132ccfbd617bf9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 234400,
+      "explicit": false,
+      "popularity": 69,
+      "uri": "spotify:track:1BANPzYIhCQkJ1ZFq2Fb0O",
+      "external_url": "https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O",
+      "added_at": "2026-04-04T14:45:35Z"
+    },
+    {
+      "id": "5PE2TkQKrgcLZupVGe5Pxu",
+      "name": "Better Views",
+      "artists": [
+        {
+          "id": "2jAzx88tHo3KNYauXANisl",
+          "name": "Yellow House",
+          "uri": "spotify:artist:2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "album": {
+        "id": "4KZo4CpaBlVupWIG8hMdYv",
+        "name": "Better Views",
+        "release_date": "2016-10-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273622b5587432cc5fb522965fc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02622b5587432cc5fb522965fc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851622b5587432cc5fb522965fc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 239640,
+      "explicit": false,
+      "popularity": 59,
+      "uri": "spotify:track:5PE2TkQKrgcLZupVGe5Pxu",
+      "external_url": "https://open.spotify.com/track/5PE2TkQKrgcLZupVGe5Pxu",
+      "added_at": "2026-04-05T15:36:17Z"
+    },
+    {
+      "id": "2c5ggHEysL0ShjGXFIFfYT",
+      "name": "Walk Away",
+      "artists": [
+        {
+          "id": "027TpXKGwdXP7iwbjUSpV8",
+          "name": "The Walters",
+          "uri": "spotify:artist:027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "album": {
+        "id": "1Sh6wJdwNxKzgnYsMpVBW3",
+        "name": "Good Company",
+        "release_date": "2025-03-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bec1f3eb139d0234866c33c8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bec1f3eb139d0234866c33c8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bec1f3eb139d0234866c33c8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 173367,
+      "explicit": false,
+      "popularity": 33,
+      "uri": "spotify:track:2c5ggHEysL0ShjGXFIFfYT",
+      "external_url": "https://open.spotify.com/track/2c5ggHEysL0ShjGXFIFfYT",
+      "added_at": "2026-04-11T14:37:11Z"
+    },
+    {
+      "id": "0IjdXwCEhZR7JIwq6Za8j5",
+      "name": "Jane!",
+      "artists": [
+        {
+          "id": "1DhiWyne1hHwVHTti49o40",
+          "name": "The Long Faces",
+          "uri": "spotify:artist:1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "album": {
+        "id": "03HZu3A0gz8fPjrGfDKAsu",
+        "name": "Jane!",
+        "release_date": "2018-07-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736685599bd4bafe725e532e2f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026685599bd4bafe725e532e2f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516685599bd4bafe725e532e2f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 186986,
+      "explicit": false,
+      "popularity": 89,
+      "uri": "spotify:track:0IjdXwCEhZR7JIwq6Za8j5",
+      "external_url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5",
+      "added_at": "2026-04-12T08:18:57Z"
+    },
+    {
+      "id": "33KU9huHP1Lv1UWWVkuTYd",
+      "name": "Impostor Syndrome",
+      "artists": [
+        {
+          "id": "2orBKFyc84jo9AZH5jarhI",
+          "name": "Sidney Gish",
+          "uri": "spotify:artist:2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "album": {
+        "id": "7mXf592qrnsQ7qAvV7Aluz",
+        "name": "No Dogs Allowed",
+        "release_date": "2017-12-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f7832bb86831bdec9848acda",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f7832bb86831bdec9848acda",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f7832bb86831bdec9848acda",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 294260,
+      "explicit": true,
+      "popularity": 85,
+      "uri": "spotify:track:33KU9huHP1Lv1UWWVkuTYd",
+      "external_url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd",
+      "added_at": "2026-04-13T17:33:57Z"
+    },
+    {
+      "id": "2aaCNg42RA74s0EmHTBqS7",
+      "name": "No Other Heart",
+      "artists": [
+        {
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "name": "Mac DeMarco",
+          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "album": {
+        "id": "5FiDVzxLqGtYjF5yzmMoj4",
+        "name": "Another One",
+        "release_date": "2015-08-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b395acedffa5fa8e7696aea2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b395acedffa5fa8e7696aea2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b395acedffa5fa8e7696aea2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 173117,
+      "explicit": false,
+      "popularity": 81,
+      "uri": "spotify:track:2aaCNg42RA74s0EmHTBqS7",
+      "external_url": "https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7",
+      "added_at": "2026-04-13T18:59:31Z"
+    },
+    {
+      "id": "11UdShH4gPBVhn2FnqGpL3",
+      "name": "Tattoo",
+      "artists": [
+        {
+          "id": "0FSit2lISEqqhAT29qqDpl",
+          "name": "ShyBully",
+          "uri": "spotify:artist:0FSit2lISEqqhAT29qqDpl"
+        }
+      ],
+      "album": {
+        "id": "5n5i02X5hs4Si5uzNFzx7I",
+        "name": "Tattoo",
+        "release_date": "2024-08-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737565c3ed06a6dcbc343582f8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027565c3ed06a6dcbc343582f8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517565c3ed06a6dcbc343582f8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 107303,
+      "explicit": false,
+      "popularity": 61,
+      "uri": "spotify:track:11UdShH4gPBVhn2FnqGpL3",
+      "external_url": "https://open.spotify.com/track/11UdShH4gPBVhn2FnqGpL3",
+      "added_at": "2026-04-13T19:36:37Z"
+    },
+    {
+      "id": "02i6WAqgPjjLj4K4A8SFrT",
+      "name": "Toking, Dozing",
+      "artists": [
+        {
+          "id": "73dudJ9j0HStIhJDU8MjMI",
+          "name": "Feng Suave",
+          "uri": "spotify:artist:73dudJ9j0HStIhJDU8MjMI"
+        }
+      ],
+      "album": {
+        "id": "6p12vpvzMM4HMd1hnMGCmG",
+        "name": "Toking, Dozing",
+        "release_date": "2020-02-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739c8c4cfa5f427fe999444442",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029c8c4cfa5f427fe999444442",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519c8c4cfa5f427fe999444442",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 226640,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:02i6WAqgPjjLj4K4A8SFrT",
+      "external_url": "https://open.spotify.com/track/02i6WAqgPjjLj4K4A8SFrT",
+      "added_at": "2026-05-05T14:11:42Z"
+    }
+  ]
+}

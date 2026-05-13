@@ -11,9 +11,15 @@
     />
 
     <script src="js/main.js"></script>
+    <script src="js/music.js"></script>
   </head>
   <body>
-    <button id="bg-toggle" class="bg-toggle" type="button" aria-label="Toggle background">
+    <button
+      id="bg-toggle"
+      class="bg-toggle"
+      type="button"
+      aria-label="Toggle background"
+    >
       toggle
     </button>
     <div class="container">
@@ -39,6 +45,32 @@
         <div class="progress-bar-filled" style="width: 0%"></div>
       </div>
       <div id="book-list" class="list"></div>
+    </div>
+
+    <div class="music-player">
+      <div class="music-player-header">
+        <h3>Music Recommendations</h3>
+        <h4>
+          <span class="prefix">playing from</span
+          ><span class="link-clip"><a id="music-playlist"></a></span>
+        </h4>
+      </div>
+
+      <div class="music-player-body">
+        <div id="music-image"></div>
+        <div id="music-info">
+          <h3 id="music-title"></h3>
+          <p id="music-artist"></p>
+        </div>
+        <div id="music-progress">
+          <div id="music-progress-filled"></div>
+        </div>
+        <div id="music-controls">
+          <button id="prev-btn" aria-label="Previous">⏮</button>
+          <button id="play-btn" aria-label="Play">▶</button>
+          <button id="next-btn" aria-label="Next">⏭</button>
+        </div>
+      </div>
     </div>
   </body>
 </html>

@@ -1,0 +1,335 @@
+{
+  "id": "59K0e3bwFhrTdqU2ggDA06",
+  "name": "cogito ergo sum",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:59K0e3bwFhrTdqU2ggDA06",
+  "external_url": "https://open.spotify.com/playlist/59K0e3bwFhrTdqU2ggDA06",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8411d51e5468f482e2f3a090c0",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 8,
+  "tracks": [
+    {
+      "id": "7CXtkAuTbzAUcWDCStJcnN",
+      "name": "Human Sadness",
+      "artists": [
+        {
+          "id": "4nUBBtLtzqZGpdiynTJbYJ",
+          "name": "The Voidz",
+          "uri": "spotify:artist:4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "album": {
+        "id": "3VxMoUw9KgyiOj35H5ZEMo",
+        "name": "Human Sadness",
+        "release_date": "2014-09-02",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fd6f5c9afe32a653d643ec7d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fd6f5c9afe32a653d643ec7d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fd6f5c9afe32a653d643ec7d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 656901,
+      "explicit": true,
+      "popularity": 33,
+      "uri": "spotify:track:7CXtkAuTbzAUcWDCStJcnN",
+      "external_url": "https://open.spotify.com/track/7CXtkAuTbzAUcWDCStJcnN",
+      "added_at": "2024-07-13T05:03:42Z"
+    },
+    {
+      "id": "0KzAbK6nItSqNh8q70tb0K",
+      "name": "Where Is My Mind?",
+      "artists": [
+        {
+          "id": "6zvul52xwTWzilBZl6BUbT",
+          "name": "Pixies",
+          "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "album": {
+        "id": "2A4zIVdm7JjHaNo9cop985",
+        "name": "Death to the Pixies",
+        "release_date": "1997-10-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b17d34882944eaf0695153f2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b17d34882944eaf0695153f2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b17d34882944eaf0695153f2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 229226,
+      "explicit": false,
+      "popularity": 75,
+      "uri": "spotify:track:0KzAbK6nItSqNh8q70tb0K",
+      "external_url": "https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K",
+      "added_at": "2024-07-13T05:08:06Z"
+    },
+    {
+      "id": "0yljUudXzjVcGEoYmLB17X",
+      "name": "Genesis",
+      "artists": [
+        {
+          "id": "053q0ukIDRgzwTr4vNSwab",
+          "name": "Grimes",
+          "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "album": {
+        "id": "7aPolrSqVawIhC7iTo2b5F",
+        "name": "Visions",
+        "release_date": "2012-03-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273918fee4073aa392349123e63",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02918fee4073aa392349123e63",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851918fee4073aa392349123e63",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 255320,
+      "explicit": false,
+      "popularity": 75,
+      "uri": "spotify:track:0yljUudXzjVcGEoYmLB17X",
+      "external_url": "https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X",
+      "added_at": "2024-07-13T05:08:27Z"
+    },
+    {
+      "id": "2JO3HwMRPeya8bXbtbyPcf",
+      "name": "Love Will Tear Us Apart",
+      "artists": [
+        {
+          "id": "432R46LaYsJZV2Gmc4jUV5",
+          "name": "Joy Division",
+          "uri": "spotify:artist:432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "album": {
+        "id": "0p8Zy0wEzDYiFDcSt07UHe",
+        "name": "The Best Of",
+        "release_date": "2008-03-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27365792edb445d4a107dbe97fd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0265792edb445d4a107dbe97fd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485165792edb445d4a107dbe97fd",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 206866,
+      "explicit": false,
+      "popularity": 66,
+      "uri": "spotify:track:2JO3HwMRPeya8bXbtbyPcf",
+      "external_url": "https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf",
+      "added_at": "2024-07-13T05:14:19Z"
+    },
+    {
+      "id": "71hZZmCpeIly6IDECDKDun",
+      "name": "Bleach",
+      "artists": [
+        {
+          "id": "48vDIufGC8ujPuBiTxY8dm",
+          "name": "Palace",
+          "uri": "spotify:artist:48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "album": {
+        "id": "1vM3k1nzp5CL2dsIHgPA2x",
+        "name": "Bleach",
+        "release_date": "2024-01-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d3f93aef2feb8d1efef7ddda",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d3f93aef2feb8d1efef7ddda",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d3f93aef2feb8d1efef7ddda",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 249751,
+      "explicit": false,
+      "popularity": 33,
+      "uri": "spotify:track:71hZZmCpeIly6IDECDKDun",
+      "external_url": "https://open.spotify.com/track/71hZZmCpeIly6IDECDKDun",
+      "added_at": "2024-07-13T05:15:56Z"
+    },
+    {
+      "id": "3YRCqOhFifThpSRFJ1VWFM",
+      "name": "November Rain",
+      "artists": [
+        {
+          "id": "3qm84nBOXUEQ2vnTfUTTFC",
+          "name": "Guns N' Roses",
+          "uri": "spotify:artist:3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "album": {
+        "id": "0CxPbTRARqKUYighiEY9Sz",
+        "name": "Use Your Illusion I",
+        "release_date": "1991-09-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e44963b8bb127552ac761873",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e44963b8bb127552ac761873",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e44963b8bb127552ac761873",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 536066,
+      "explicit": false,
+      "popularity": 85,
+      "uri": "spotify:track:3YRCqOhFifThpSRFJ1VWFM",
+      "external_url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM",
+      "added_at": "2024-07-13T05:25:59Z"
+    },
+    {
+      "id": "1RI9Qpt8QbYtwfCW8npcO1",
+      "name": "I Didn't Know",
+      "artists": [
+        {
+          "id": "1itM5tXaK5THggpXA7ovAe",
+          "name": "Skinshape",
+          "uri": "spotify:artist:1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "album": {
+        "id": "5F3jI2TClJuyIAUcbgf4Ps",
+        "name": "Filoxiny",
+        "release_date": "2018-11-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ebb12775bd97e47639693287",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ebb12775bd97e47639693287",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ebb12775bd97e47639693287",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 218626,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:1RI9Qpt8QbYtwfCW8npcO1",
+      "external_url": "https://open.spotify.com/track/1RI9Qpt8QbYtwfCW8npcO1",
+      "added_at": "2024-07-17T09:07:42Z"
+    },
+    {
+      "id": "0bhwnn2xqnBUcMZDcXNuII",
+      "name": "Hey Lover",
+      "artists": [
+        {
+          "id": "4Fgj7fAOMYS3rMV4cUN2On",
+          "name": "The Daughters Of Eve",
+          "uri": "spotify:artist:4Fgj7fAOMYS3rMV4cUN2On"
+        }
+      ],
+      "album": {
+        "id": "40RGCmiNjNqOAQjeMDdCWE",
+        "name": "Hey Lover / Stand by Me",
+        "release_date": "1966-02-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c148a2f0d30a396bc2cc359f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c148a2f0d30a396bc2cc359f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c148a2f0d30a396bc2cc359f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 144000,
+      "explicit": false,
+      "popularity": 72,
+      "uri": "spotify:track:0bhwnn2xqnBUcMZDcXNuII",
+      "external_url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII",
+      "added_at": "2024-07-17T11:53:50Z"
+    }
+  ]
+}

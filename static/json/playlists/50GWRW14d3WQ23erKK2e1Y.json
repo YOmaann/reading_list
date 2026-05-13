@@ -1,0 +1,1427 @@
+{
+  "id": "50GWRW14d3WQ23erKK2e1Y",
+  "name": "good days",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:50GWRW14d3WQ23erKK2e1Y",
+  "external_url": "https://open.spotify.com/playlist/50GWRW14d3WQ23erKK2e1Y",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da842c447cb555ca6462ce127e84",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 36,
+  "tracks": [
+    {
+      "id": "5F5zbZOqvfMpWWy2TREtZQ",
+      "name": "From the Bottom",
+      "artists": [
+        {
+          "id": "4i4Ra7cGv6zxiRtRSrhm1I",
+          "name": "Shallow Side",
+          "uri": "spotify:artist:4i4Ra7cGv6zxiRtRSrhm1I"
+        }
+      ],
+      "album": {
+        "id": "25aEfVUEV9BXssMOOII1rr",
+        "name": "Home Today",
+        "release_date": "2012-04-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730d8c2d0e4e4c0ce8a790a80b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020d8c2d0e4e4c0ce8a790a80b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510d8c2d0e4e4c0ce8a790a80b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 199702,
+      "explicit": true,
+      "popularity": 28,
+      "uri": "spotify:track:5F5zbZOqvfMpWWy2TREtZQ",
+      "external_url": "https://open.spotify.com/track/5F5zbZOqvfMpWWy2TREtZQ",
+      "added_at": "2023-03-29T04:11:39Z"
+    },
+    {
+      "id": "77loZpT5Y5PRP1S451P9Yz",
+      "name": "The Reason",
+      "artists": [
+        {
+          "id": "2MqhkhX4npxDZ62ObR5ELO",
+          "name": "Hoobastank",
+          "uri": "spotify:artist:2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "album": {
+        "id": "2zE1YKY7Okj10Tjl09jjth",
+        "name": "The Reason (15th Anniversary Deluxe)",
+        "release_date": "2003-12-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27376cc6eedca8eb381afcd1e46",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0276cc6eedca8eb381afcd1e46",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485176cc6eedca8eb381afcd1e46",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 232800,
+      "explicit": false,
+      "popularity": 7,
+      "uri": "spotify:track:77loZpT5Y5PRP1S451P9Yz",
+      "external_url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz",
+      "added_at": "2023-03-29T04:13:23Z"
+    },
+    {
+      "id": "1ibeKVCiXORhvUpMmtsQWq",
+      "name": "Pieces",
+      "artists": [
+        {
+          "id": "0qT79UgT5tY4yudH9VfsdT",
+          "name": "Sum 41",
+          "uri": "spotify:artist:0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "album": {
+        "id": "1aG8QbhABVtVxNlAkk8VBW",
+        "name": "Chuck",
+        "release_date": "2004-10-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cb38dd3dba8a0801bc1ee03a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cb38dd3dba8a0801bc1ee03a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cb38dd3dba8a0801bc1ee03a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 182040,
+      "explicit": false,
+      "popularity": 72,
+      "uri": "spotify:track:1ibeKVCiXORhvUpMmtsQWq",
+      "external_url": "https://open.spotify.com/track/1ibeKVCiXORhvUpMmtsQWq",
+      "added_at": "2023-03-29T04:13:34Z"
+    },
+    {
+      "id": "33MnSYLvtOrbj5zwfioEiH",
+      "name": "Be Somebody",
+      "artists": [
+        {
+          "id": "6GfiCQDFYANz5wUkSmb3Dr",
+          "name": "Thousand Foot Krutch",
+          "uri": "spotify:artist:6GfiCQDFYANz5wUkSmb3Dr"
+        }
+      ],
+      "album": {
+        "id": "6YJYFQ1Zz9I49YQknK4wIn",
+        "name": "The End Is Where We Begin",
+        "release_date": "2012-04-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731a2e4290b83a4c810d019fcd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021a2e4290b83a4c810d019fcd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511a2e4290b83a4c810d019fcd",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 222435,
+      "explicit": false,
+      "popularity": 65,
+      "uri": "spotify:track:33MnSYLvtOrbj5zwfioEiH",
+      "external_url": "https://open.spotify.com/track/33MnSYLvtOrbj5zwfioEiH",
+      "added_at": "2023-03-29T04:22:28Z"
+    },
+    {
+      "id": "0faXHILILebCGnJBPU6KJJ",
+      "name": "The Diary of Jane - Single Version",
+      "artists": [
+        {
+          "id": "5BtHciL0e0zOP7prIHn3pP",
+          "name": "Breaking Benjamin",
+          "uri": "spotify:artist:5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "album": {
+        "id": "2usyeZYdUHKlNHKDKgAYSo",
+        "name": "Phobia (Clean Version)",
+        "release_date": "2006-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735aa75a47afe2804e280bd149",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025aa75a47afe2804e280bd149",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 200546,
+      "explicit": false,
+      "popularity": 79,
+      "uri": "spotify:track:0faXHILILebCGnJBPU6KJJ",
+      "external_url": "https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ",
+      "added_at": "2023-03-29T04:22:41Z"
+    },
+    {
+      "id": "33DDppMGIj9PjVK2jUgM6z",
+      "name": "Beginning Again",
+      "artists": [
+        {
+          "id": "456LTGwOKD0jDMyuz4Spek",
+          "name": "Fighting Kind",
+          "uri": "spotify:artist:456LTGwOKD0jDMyuz4Spek"
+        }
+      ],
+      "album": {
+        "id": "3BQuQ5PYadvac1dEylN64X",
+        "name": "Beginning Again",
+        "release_date": "2011-07-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739d70ec98a79bfb963cd84eb3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029d70ec98a79bfb963cd84eb3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519d70ec98a79bfb963cd84eb3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 213520,
+      "explicit": false,
+      "popularity": 39,
+      "uri": "spotify:track:33DDppMGIj9PjVK2jUgM6z",
+      "external_url": "https://open.spotify.com/track/33DDppMGIj9PjVK2jUgM6z",
+      "added_at": "2023-03-29T04:22:50Z"
+    },
+    {
+      "id": "2AilQKeh6r7vWk29OvrrzU",
+      "name": "This Dark Day",
+      "artists": [
+        {
+          "id": "0DrXhci3WAyo0WJv1RBOG6",
+          "name": "12 Stones",
+          "uri": "spotify:artist:0DrXhci3WAyo0WJv1RBOG6"
+        }
+      ],
+      "album": {
+        "id": "2Qp0yu0Uaw3C83YNYqfgdv",
+        "name": "Anthem For The Underdog (Bonus Track Version)",
+        "release_date": "2007-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27370c52aceda2f28c0a5a4b99d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0270c52aceda2f28c0a5a4b99d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485170c52aceda2f28c0a5a4b99d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 202333,
+      "explicit": false,
+      "popularity": 38,
+      "uri": "spotify:track:2AilQKeh6r7vWk29OvrrzU",
+      "external_url": "https://open.spotify.com/track/2AilQKeh6r7vWk29OvrrzU",
+      "added_at": "2023-03-29T04:23:04Z"
+    },
+    {
+      "id": "3IHHqmfKJHyI0obINUdg1W",
+      "name": "21 Guns",
+      "artists": [
+        {
+          "id": "7oPftvlwr6VrsViSDV7fJY",
+          "name": "Green Day",
+          "uri": "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "album": {
+        "id": "5nKs4LNpHgz0xggy0piMCK",
+        "name": "21st Century Breakdown",
+        "release_date": "2009-05-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732598847169c6594d06740da0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022598847169c6594d06740da0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512598847169c6594d06740da0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 322040,
+      "explicit": false,
+      "popularity": 64,
+      "uri": "spotify:track:3IHHqmfKJHyI0obINUdg1W",
+      "external_url": "https://open.spotify.com/track/3IHHqmfKJHyI0obINUdg1W",
+      "added_at": "2023-03-29T04:23:11Z"
+    },
+    {
+      "id": "5CVZeK7bOC9QxYcZ9gJ5X2",
+      "name": "Fighting Myself",
+      "artists": [
+        {
+          "id": "6XyY86QOPPrYVGvF9ch6wz",
+          "name": "Linkin Park",
+          "uri": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "album": {
+        "id": "0S1tvjDaar0S6LaRJAFcWF",
+        "name": "Fighting Myself",
+        "release_date": "2023-03-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730a218fff57dcb0b902249bca",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020a218fff57dcb0b902249bca",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510a218fff57dcb0b902249bca",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 201428,
+      "explicit": false,
+      "popularity": 2,
+      "uri": "spotify:track:5CVZeK7bOC9QxYcZ9gJ5X2",
+      "external_url": "https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2",
+      "added_at": "2023-03-29T04:23:15Z"
+    },
+    {
+      "id": "6rUp7v3l8yC4TKxAAR5Bmx",
+      "name": "I Hate Everything About You",
+      "artists": [
+        {
+          "id": "2xiIXseIJcq3nG7C8fHeBj",
+          "name": "Three Days Grace",
+          "uri": "spotify:artist:2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "album": {
+        "id": "38pfSOHvxHqDWwDnjZ25U5",
+        "name": "Three Days Grace (Expanded Edition)",
+        "release_date": "2003-07-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273447bdb4eab501ce0a15811c0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02447bdb4eab501ce0a15811c0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851447bdb4eab501ce0a15811c0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 231480,
+      "explicit": false,
+      "popularity": 76,
+      "uri": "spotify:track:6rUp7v3l8yC4TKxAAR5Bmx",
+      "external_url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx",
+      "added_at": "2023-04-01T16:19:24Z"
+    },
+    {
+      "id": "2HhWJIrGBUIIakC8t0xLWC",
+      "name": "Crossing A Line",
+      "artists": [
+        {
+          "id": "6xBZgSMsnKVmaAxzWEwMSD",
+          "name": "Mike Shinoda",
+          "uri": "spotify:artist:6xBZgSMsnKVmaAxzWEwMSD"
+        }
+      ],
+      "album": {
+        "id": "4lK6KE5ifwEnMOdHLEwVso",
+        "name": "Post Traumatic (Deluxe Version)",
+        "release_date": "2018-06-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733fb36333c13e6bd9da6f6fc6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023fb36333c13e6bd9da6f6fc6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513fb36333c13e6bd9da6f6fc6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 242854,
+      "explicit": false,
+      "popularity": 32,
+      "uri": "spotify:track:2HhWJIrGBUIIakC8t0xLWC",
+      "external_url": "https://open.spotify.com/track/2HhWJIrGBUIIakC8t0xLWC",
+      "added_at": "2023-04-06T17:40:39Z"
+    },
+    {
+      "id": "3MC57RhQk1X6S1dAAsgZ6u",
+      "name": "Gone",
+      "artists": [
+        {
+          "id": "01crEa9G3pNpXZ5m7wuHOk",
+          "name": "Red",
+          "uri": "spotify:artist:01crEa9G3pNpXZ5m7wuHOk"
+        }
+      ],
+      "album": {
+        "id": "0GX2AGLubfmGWwugSoKY6N",
+        "name": "Gone (Deluxe Edition)",
+        "release_date": "2017-10-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e9f73f5d9743b31289d225e7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e9f73f5d9743b31289d225e7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e9f73f5d9743b31289d225e7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 219496,
+      "explicit": false,
+      "popularity": 40,
+      "uri": "spotify:track:3MC57RhQk1X6S1dAAsgZ6u",
+      "external_url": "https://open.spotify.com/track/3MC57RhQk1X6S1dAAsgZ6u",
+      "added_at": "2023-04-11T22:15:48Z"
+    },
+    {
+      "id": "5cbpoIu3YjoOwbBDGUEp3P",
+      "name": "Car Radio",
+      "artists": [
+        {
+          "id": "3YQKmKGau1PzlVlkL1iodx",
+          "name": "Twenty One Pilots",
+          "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "album": {
+        "id": "2r2r78NE05YjyHyVbVgqFn",
+        "name": "Vessel",
+        "release_date": "2013-01-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736caad685af37c08063be928d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026caad685af37c08063be928d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516caad685af37c08063be928d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 267720,
+      "explicit": false,
+      "popularity": 71,
+      "uri": "spotify:track:5cbpoIu3YjoOwbBDGUEp3P",
+      "external_url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P",
+      "added_at": "2023-04-11T22:16:14Z"
+    },
+    {
+      "id": "7xCcUcMcGsIYGKUVgBZUw5",
+      "name": "We Own the Night",
+      "artists": [
+        {
+          "id": "6guC9FqvlVboSKTI77NG2k",
+          "name": "Dance Gavin Dance",
+          "uri": "spotify:artist:6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "album": {
+        "id": "60LbtmnmOLTkz8ZiVhbynM",
+        "name": "Instant Gratification",
+        "release_date": "2015-04-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27314aa4cfe5ecdda0497d4ff82",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0214aa4cfe5ecdda0497d4ff82",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485114aa4cfe5ecdda0497d4ff82",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 205706,
+      "explicit": false,
+      "popularity": 67,
+      "uri": "spotify:track:7xCcUcMcGsIYGKUVgBZUw5",
+      "external_url": "https://open.spotify.com/track/7xCcUcMcGsIYGKUVgBZUw5",
+      "added_at": "2023-06-03T23:32:23Z"
+    },
+    {
+      "id": "52HjwNVAoDmpawoYGYfG3p",
+      "name": "Watch Me Burn",
+      "artists": [
+        {
+          "id": "3LkSiHbjqOHCKCqBfEZOTv",
+          "name": "Atreyu",
+          "uri": "spotify:artist:3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "album": {
+        "id": "7M6CVCNoLE0MU5gsmiVt3A",
+        "name": "Watch Me Burn",
+        "release_date": "2023-03-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27312f63bbeb1cbf38554a784b9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0212f63bbeb1cbf38554a784b9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485112f63bbeb1cbf38554a784b9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 218722,
+      "explicit": true,
+      "popularity": 38,
+      "uri": "spotify:track:52HjwNVAoDmpawoYGYfG3p",
+      "external_url": "https://open.spotify.com/track/52HjwNVAoDmpawoYGYfG3p",
+      "added_at": "2023-06-08T13:13:35Z"
+    },
+    {
+      "id": "31AOj9sFz2gM0O3hMARRBx",
+      "name": "Losing My Religion",
+      "artists": [
+        {
+          "id": "4KWTAlx2RvbpseOGMEmROg",
+          "name": "R.E.M.",
+          "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "album": {
+        "id": "6yEuIwTQpciH1qtj7mP5GK",
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "release_date": "1991-03-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e2dd4e821bcc3f70dc0c8ffd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e2dd4e821bcc3f70dc0c8ffd",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 268426,
+      "explicit": false,
+      "popularity": 88,
+      "uri": "spotify:track:31AOj9sFz2gM0O3hMARRBx",
+      "external_url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx",
+      "added_at": "2023-06-25T21:11:07Z"
+    },
+    {
+      "id": "6TfBA04WJ3X1d1wXhaCFVT",
+      "name": "You're Gonna Go Far, Kid",
+      "artists": [
+        {
+          "id": "5LfGQac0EIXyAN8aUwmNAQ",
+          "name": "The Offspring",
+          "uri": "spotify:artist:5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "album": {
+        "id": "67v63ubEsvDUQkYMzI7A9t",
+        "name": "Rise And Fall, Rage And Grace",
+        "release_date": "2008-06-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273890ce61533a89e00ce593fcb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02890ce61533a89e00ce593fcb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851890ce61533a89e00ce593fcb",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 177826,
+      "explicit": true,
+      "popularity": 84,
+      "uri": "spotify:track:6TfBA04WJ3X1d1wXhaCFVT",
+      "external_url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT",
+      "added_at": "2023-07-06T16:58:26Z"
+    },
+    {
+      "id": "0snQkGI5qnAmohLE7jTsTn",
+      "name": "Toxicity",
+      "artists": [
+        {
+          "id": "5eAWCfyUhZtHHtBdNk56l1",
+          "name": "System Of A Down",
+          "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "album": {
+        "id": "6jWde94ln40epKIQCd8XUh",
+        "name": "Toxicity",
+        "release_date": "2001-09-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0207bc7d2a745636c356b4d0aa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485107bc7d2a745636c356b4d0aa",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 218933,
+      "explicit": false,
+      "popularity": 86,
+      "uri": "spotify:track:0snQkGI5qnAmohLE7jTsTn",
+      "external_url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
+      "added_at": "2023-07-07T20:22:05Z"
+    },
+    {
+      "id": "2DtPEKs3Pj7E06EoWW4vw8",
+      "name": "Carnival of Rust",
+      "artists": [
+        {
+          "id": "1AZ30JnvQU1pbX6sbRE0Yn",
+          "name": "Poets of the Fall",
+          "uri": "spotify:artist:1AZ30JnvQU1pbX6sbRE0Yn"
+        }
+      ],
+      "album": {
+        "id": "4X31KgSWm7phaB0kAKKzgs",
+        "name": "Carnival of Rust",
+        "release_date": "2006-04-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e5f7b997f1d9a8c3fc4147fc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e5f7b997f1d9a8c3fc4147fc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e5f7b997f1d9a8c3fc4147fc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 262946,
+      "explicit": false,
+      "popularity": 55,
+      "uri": "spotify:track:2DtPEKs3Pj7E06EoWW4vw8",
+      "external_url": "https://open.spotify.com/track/2DtPEKs3Pj7E06EoWW4vw8",
+      "added_at": "2023-07-08T19:58:55Z"
+    },
+    {
+      "id": "42T2QQv3xgBlpQxaSP7lnK",
+      "name": "One Last Breath",
+      "artists": [
+        {
+          "id": "43sZBwHjahUvgbx1WNIkIz",
+          "name": "Creed",
+          "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "album": {
+        "id": "2ENlJXygQX6en4iziijet6",
+        "name": "Weathered",
+        "release_date": "2001-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a32f2ae4dade83e0d7a294f4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a32f2ae4dade83e0d7a294f4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a32f2ae4dade83e0d7a294f4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 238240,
+      "explicit": false,
+      "popularity": 85,
+      "uri": "spotify:track:42T2QQv3xgBlpQxaSP7lnK",
+      "external_url": "https://open.spotify.com/track/42T2QQv3xgBlpQxaSP7lnK",
+      "added_at": "2023-07-11T04:30:15Z"
+    },
+    {
+      "id": "3NLrRZoMF0Lx6zTlYqeIo4",
+      "name": "Here Without You",
+      "artists": [
+        {
+          "id": "2RTUTCvo6onsAnheUk3aL9",
+          "name": "3 Doors Down",
+          "uri": "spotify:artist:2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "album": {
+        "id": "72olNArm75vOycSziqIX9Y",
+        "name": "Away From The Sun",
+        "release_date": "2002-11-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27383c39b0d32eb4a2064e1e228",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0283c39b0d32eb4a2064e1e228",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485183c39b0d32eb4a2064e1e228",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 238733,
+      "explicit": false,
+      "popularity": 83,
+      "uri": "spotify:track:3NLrRZoMF0Lx6zTlYqeIo4",
+      "external_url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4",
+      "added_at": "2023-07-13T15:27:21Z"
+    },
+    {
+      "id": "3tYxhPqkioZEV5el3DJxLQ",
+      "name": "Youngest Daughter",
+      "artists": [
+        {
+          "id": "1IHjrY7ygKbmLVoUV1VcXc",
+          "name": "Superheaven",
+          "uri": "spotify:artist:1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "album": {
+        "id": "6JLO3HVtVEKLHqbgs6ujdw",
+        "name": "Jar",
+        "release_date": "2013-04-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028f147e0af424cd7c6f91e9f2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518f147e0af424cd7c6f91e9f2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 249514,
+      "explicit": false,
+      "popularity": 77,
+      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+      "external_url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ",
+      "added_at": "2023-07-15T12:11:37Z"
+    },
+    {
+      "id": "7FRfYOql61DGDp9VPPe2qA",
+      "name": "Down In A Hole (2022 Remaster)",
+      "artists": [
+        {
+          "id": "64tNsm6TnZe2zpcMVMOoHL",
+          "name": "Alice In Chains",
+          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "album": {
+        "id": "58NXIEYqmq5dQHg9nV9duM",
+        "name": "Dirt (2022 Remaster)",
+        "release_date": "1992-09-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 338226,
+      "explicit": false,
+      "popularity": 74,
+      "uri": "spotify:track:7FRfYOql61DGDp9VPPe2qA",
+      "external_url": "https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA",
+      "added_at": "2023-07-26T16:51:53Z"
+    },
+    {
+      "id": "3yBlacgpHtJik0WRdyhcYw",
+      "name": "It’s a Kinkade!",
+      "artists": [
+        {
+          "id": "2FdTMoKlQiI4m0158FbrQE",
+          "name": "Ben Quad",
+          "uri": "spotify:artist:2FdTMoKlQiI4m0158FbrQE"
+        }
+      ],
+      "album": {
+        "id": "6qvYtT5gSuBLAGLdoSPmb3",
+        "name": "I’m Scared That’s All There Is",
+        "release_date": "2022-06-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739acb8087efd9a8ff571032e6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029acb8087efd9a8ff571032e6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519acb8087efd9a8ff571032e6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 178407,
+      "explicit": false,
+      "popularity": 26,
+      "uri": "spotify:track:3yBlacgpHtJik0WRdyhcYw",
+      "external_url": "https://open.spotify.com/track/3yBlacgpHtJik0WRdyhcYw",
+      "added_at": "2023-07-29T05:33:41Z"
+    },
+    {
+      "id": "0H2sNKK9G65AcF5OofsDoI",
+      "name": "If Only I Was a Poet",
+      "artists": [
+        {
+          "id": "1KBpWE9XJDISBwQ0PKkf0g",
+          "name": "Staffan Carlén",
+          "uri": "spotify:artist:1KBpWE9XJDISBwQ0PKkf0g"
+        }
+      ],
+      "album": {
+        "id": "3xzd1jUgevT0JF7jVHahre",
+        "name": "If Only I Was a Poet",
+        "release_date": "2018-11-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738d8fad66d874881ca9c70a36",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028d8fad66d874881ca9c70a36",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518d8fad66d874881ca9c70a36",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 190700,
+      "explicit": false,
+      "popularity": 38,
+      "uri": "spotify:track:0H2sNKK9G65AcF5OofsDoI",
+      "external_url": "https://open.spotify.com/track/0H2sNKK9G65AcF5OofsDoI",
+      "added_at": "2023-08-16T08:27:20Z"
+    },
+    {
+      "id": "77SxKarrJVNCzGJljX63C1",
+      "name": "The Ladder",
+      "artists": [
+        {
+          "id": "54CUt2S6hufxE1MTYqVpmT",
+          "name": "Flagship",
+          "uri": "spotify:artist:54CUt2S6hufxE1MTYqVpmT"
+        }
+      ],
+      "album": {
+        "id": "5CW1TVXlD940lMZR07MPTe",
+        "name": "The Electric Man",
+        "release_date": "2017-03-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c68a1485d06b22212428efb3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c68a1485d06b22212428efb3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c68a1485d06b22212428efb3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 271773,
+      "explicit": false,
+      "popularity": 8,
+      "uri": "spotify:track:77SxKarrJVNCzGJljX63C1",
+      "external_url": "https://open.spotify.com/track/77SxKarrJVNCzGJljX63C1",
+      "added_at": "2023-08-16T08:28:38Z"
+    },
+    {
+      "id": "4bLCPfBLKlqiONo6TALTh5",
+      "name": "Entombed",
+      "artists": [
+        {
+          "id": "6Ghvu1VvMGScGpOUJBAHNH",
+          "name": "Deftones",
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "album": {
+        "id": "4PIVdqvL1Rc7T7Vfsr8n8Q",
+        "name": "Koi No Yokan",
+        "release_date": "2012-11-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0273652b7a0dc388dd1d044b69",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485173652b7a0dc388dd1d044b69",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 299240,
+      "explicit": false,
+      "popularity": 79,
+      "uri": "spotify:track:4bLCPfBLKlqiONo6TALTh5",
+      "external_url": "https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5",
+      "added_at": "2023-08-27T19:39:34Z"
+    },
+    {
+      "id": "24sPgfYFv5U8MT5j0gT8kh",
+      "name": "No Limits",
+      "artists": [
+        {
+          "id": "54OEro9sWZ3mVfMdlz2CIt",
+          "name": "Royal Deluxe",
+          "uri": "spotify:artist:54OEro9sWZ3mVfMdlz2CIt"
+        }
+      ],
+      "album": {
+        "id": "3PysWewETafidQxTw171Jc",
+        "name": "Savages",
+        "release_date": "2019-05-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739afd54ad41abba0a9f35db2a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029afd54ad41abba0a9f35db2a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519afd54ad41abba0a9f35db2a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 223040,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:24sPgfYFv5U8MT5j0gT8kh",
+      "external_url": "https://open.spotify.com/track/24sPgfYFv5U8MT5j0gT8kh",
+      "added_at": "2023-09-11T10:07:56Z"
+    },
+    {
+      "id": "1AMADyXgIWayh5vXLZo2qF",
+      "name": "Covet",
+      "artists": [
+        {
+          "id": "4DUQBYAyOTZotSEdKhaf6c",
+          "name": "Basement",
+          "uri": "spotify:artist:4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "album": {
+        "id": "5uRI7KHcBALPpwhAB9RKnb",
+        "name": "Colourmeinkindness",
+        "release_date": "2012-10-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fb5759dc6a1d9eb96dadde10",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fb5759dc6a1d9eb96dadde10",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 227340,
+      "explicit": false,
+      "popularity": 74,
+      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
+      "external_url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF",
+      "added_at": "2023-09-22T10:59:47Z"
+    },
+    {
+      "id": "6GtX0jaNL8IjVQfrDBx81z",
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "artists": [
+        {
+          "id": "40Yq4vzPs9VNUrIBG5Jr2i",
+          "name": "The Smashing Pumpkins",
+          "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "album": {
+        "id": "55RhFRyQFihIyGf61MgcfV",
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "release_date": "1995",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02431ac6e6f393acf475730ec6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851431ac6e6f393acf475730ec6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 258466,
+      "explicit": false,
+      "popularity": 79,
+      "uri": "spotify:track:6GtX0jaNL8IjVQfrDBx81z",
+      "external_url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z",
+      "added_at": "2023-10-27T19:48:02Z"
+    },
+    {
+      "id": "3YuaBvuZqcwN3CEAyyoaei",
+      "name": "Like a Stone",
+      "artists": [
+        {
+          "id": "2ziB7fzrXBoh1HUPS6sVFn",
+          "name": "Audioslave",
+          "uri": "spotify:artist:2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "album": {
+        "id": "78guAsers0klWl6RwzgDLd",
+        "name": "Audioslave",
+        "release_date": "2002-11-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a7292b6863258e889b78d787",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a7292b6863258e889b78d787",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 293960,
+      "explicit": false,
+      "popularity": 83,
+      "uri": "spotify:track:3YuaBvuZqcwN3CEAyyoaei",
+      "external_url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei",
+      "added_at": "2023-12-02T18:07:17Z"
+    },
+    {
+      "id": "462S1M7tjOWEN588p89SCp",
+      "name": "Fuckin' in the Bushes",
+      "artists": [
+        {
+          "id": "2DaxqgrOhkeH0fpeiQq2f4",
+          "name": "Oasis",
+          "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "album": {
+        "id": "6F2iD5c7Aca3E0wmmPhgax",
+        "name": "Standing On The Shoulder Of Giants",
+        "release_date": "2000-02-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ce2be7cd7f7d3b3280faae02",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ce2be7cd7f7d3b3280faae02",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ce2be7cd7f7d3b3280faae02",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 198466,
+      "explicit": true,
+      "popularity": 48,
+      "uri": "spotify:track:462S1M7tjOWEN588p89SCp",
+      "external_url": "https://open.spotify.com/track/462S1M7tjOWEN588p89SCp",
+      "added_at": "2024-04-15T18:46:11Z"
+    },
+    {
+      "id": "6qLEOZvf5gI7kWE63JE7p3",
+      "name": "Interstate Love Song - 2019 Remaster",
+      "artists": [
+        {
+          "id": "2UazAtjfzqBF0Nho2awK4z",
+          "name": "Stone Temple Pilots",
+          "uri": "spotify:artist:2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "album": {
+        "id": "57lcTrUlYgfMIPvBUsVU6h",
+        "name": "Purple (2019 Remaster)",
+        "release_date": "1994-06-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fc90a8ed9924435d62235aa8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fc90a8ed9924435d62235aa8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fc90a8ed9924435d62235aa8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 194853,
+      "explicit": false,
+      "popularity": 79,
+      "uri": "spotify:track:6qLEOZvf5gI7kWE63JE7p3",
+      "external_url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3",
+      "added_at": "2024-04-15T18:46:38Z"
+    },
+    {
+      "id": "1gyee1JuFFiP476LQpRMYU",
+      "name": "The Red",
+      "artists": [
+        {
+          "id": "56dO9zeHKuU5Gvfc2kxHNw",
+          "name": "Chevelle",
+          "uri": "spotify:artist:56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "album": {
+        "id": "481JiVXZYUlTtqlv9ewJXV",
+        "name": "Wonder What's Next (Expanded Edition)",
+        "release_date": "2002",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bd444869348f556430c21890",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bd444869348f556430c21890",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 238400,
+      "explicit": false,
+      "popularity": 78,
+      "uri": "spotify:track:1gyee1JuFFiP476LQpRMYU",
+      "external_url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
+      "added_at": "2025-02-01T21:10:41Z"
+    },
+    {
+      "id": "1BExV8JprNJLvLeDE9qdEW",
+      "name": "It's Been Awhile",
+      "artists": [
+        {
+          "id": "5KDIH2gF0VpelTqyQS7udb",
+          "name": "Staind",
+          "uri": "spotify:artist:5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "album": {
+        "id": "0HogGfosAvj4tF3GTv2KIE",
+        "name": "Break the Cycle",
+        "release_date": "2001-08-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730b39aa901a2a324ef303e7fd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020b39aa901a2a324ef303e7fd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510b39aa901a2a324ef303e7fd",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 264706,
+      "explicit": true,
+      "popularity": 76,
+      "uri": "spotify:track:1BExV8JprNJLvLeDE9qdEW",
+      "external_url": "https://open.spotify.com/track/1BExV8JprNJLvLeDE9qdEW",
+      "added_at": "2025-05-19T02:37:39Z"
+    },
+    {
+      "id": "5D6rk7Zr7FRy5m2fDte5fp",
+      "name": "Outside",
+      "artists": [
+        {
+          "id": "5KDIH2gF0VpelTqyQS7udb",
+          "name": "Staind",
+          "uri": "spotify:artist:5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "album": {
+        "id": "0HogGfosAvj4tF3GTv2KIE",
+        "name": "Break the Cycle",
+        "release_date": "2001-08-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730b39aa901a2a324ef303e7fd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020b39aa901a2a324ef303e7fd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510b39aa901a2a324ef303e7fd",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 293133,
+      "explicit": false,
+      "popularity": 62,
+      "uri": "spotify:track:5D6rk7Zr7FRy5m2fDte5fp",
+      "external_url": "https://open.spotify.com/track/5D6rk7Zr7FRy5m2fDte5fp",
+      "added_at": "2026-04-19T23:19:03Z"
+    }
+  ]
+}

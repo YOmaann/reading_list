@@ -1,0 +1,413 @@
+{
+  "id": "0PulZkHU41ZeOOhWVqT3vx",
+  "name": "skibidi.sh",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:0PulZkHU41ZeOOhWVqT3vx",
+  "external_url": "https://open.spotify.com/playlist/0PulZkHU41ZeOOhWVqT3vx",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846a7bf54b605ad10cd02b8c6c",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 10,
+  "tracks": [
+    {
+      "id": "0I2RbIA29ywc73PmJ5pAtd",
+      "name": "Blonde on Blonde",
+      "artists": [
+        {
+          "id": "11zHPjHnZN0ACA50rSnTcy",
+          "name": "Nada Surf",
+          "uri": "spotify:artist:11zHPjHnZN0ACA50rSnTcy"
+        }
+      ],
+      "album": {
+        "id": "7tWx2oRcvpaXVDfvjtgr77",
+        "name": "Let Go",
+        "release_date": "2002",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273741ceb4a6eee046248394c97",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02741ceb4a6eee046248394c97",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851741ceb4a6eee046248394c97",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 274532,
+      "explicit": false,
+      "popularity": 38,
+      "uri": "spotify:track:0I2RbIA29ywc73PmJ5pAtd",
+      "external_url": "https://open.spotify.com/track/0I2RbIA29ywc73PmJ5pAtd",
+      "added_at": "2024-07-04T09:59:39Z"
+    },
+    {
+      "id": "4SgcE7RxpK3ydWrjoAQH1K",
+      "name": "Why Won't You Make Up Your Mind?",
+      "artists": [
+        {
+          "id": "5INjqkS1o8h1imAzPqGZBb",
+          "name": "Tame Impala",
+          "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "album": {
+        "id": "1DNSmmRLfv97Yjq7MTFWng",
+        "name": "InnerSpeaker",
+        "release_date": "2010-05-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273176e82d09ac75d62810f0056",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02176e82d09ac75d62810f0056",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851176e82d09ac75d62810f0056",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 199093,
+      "explicit": false,
+      "popularity": 61,
+      "uri": "spotify:track:4SgcE7RxpK3ydWrjoAQH1K",
+      "external_url": "https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K",
+      "added_at": "2024-07-04T10:00:10Z"
+    },
+    {
+      "id": "5uCMYXr0nJfSD73B0izmE0",
+      "name": "Sea Of Teeth",
+      "artists": [
+        {
+          "id": "64tVHZVSAZhDEiOJxnb6hE",
+          "name": "Sparklehorse",
+          "uri": "spotify:artist:64tVHZVSAZhDEiOJxnb6hE"
+        }
+      ],
+      "album": {
+        "id": "6iP3HGmoRXFUrKiml2QVkz",
+        "name": "It's A Wonderful Life",
+        "release_date": "2001-08-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273249e18bd7db232c8384924ce",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02249e18bd7db232c8384924ce",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851249e18bd7db232c8384924ce",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 269066,
+      "explicit": false,
+      "popularity": 44,
+      "uri": "spotify:track:5uCMYXr0nJfSD73B0izmE0",
+      "external_url": "https://open.spotify.com/track/5uCMYXr0nJfSD73B0izmE0",
+      "added_at": "2024-07-04T10:42:24Z"
+    },
+    {
+      "id": "1lDS95xiG8ln73gdOlNjfU",
+      "name": "Suddenly",
+      "artists": [
+        {
+          "id": "41Nu7NgAj9rJxjj7JDuXrV",
+          "name": "Peter Cat Recording Co.",
+          "uri": "spotify:artist:41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "album": {
+        "id": "0eRXhuldZMfhRSy6vTEToQ",
+        "name": "Suddenly",
+        "release_date": "2024-06-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27392aed208f524fb0cc6a1dbf8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0292aed208f524fb0cc6a1dbf8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485192aed208f524fb0cc6a1dbf8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 284862,
+      "explicit": false,
+      "popularity": 24,
+      "uri": "spotify:track:1lDS95xiG8ln73gdOlNjfU",
+      "external_url": "https://open.spotify.com/track/1lDS95xiG8ln73gdOlNjfU",
+      "added_at": "2024-07-04T10:42:38Z"
+    },
+    {
+      "id": "3xKsf9qdS1CyvXSMEid6g8",
+      "name": "Pink + White",
+      "artists": [
+        {
+          "id": "2h93pZq0e7k5yf4dywlkpM",
+          "name": "Frank Ocean",
+          "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "album": {
+        "id": "3mH6qwIy9crq0I9YQbOuDf",
+        "name": "Blonde",
+        "release_date": "2016-08-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c5649add07ed3720be9d5526",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 184516,
+      "explicit": false,
+      "popularity": 88,
+      "uri": "spotify:track:3xKsf9qdS1CyvXSMEid6g8",
+      "external_url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8",
+      "added_at": "2024-07-04T10:44:24Z"
+    },
+    {
+      "id": "2JKtCvtxP47fOMYi0BjMoY",
+      "name": "Tree Among Shrubs",
+      "artists": [
+        {
+          "id": "3zmfs9cQwzJl575W1ZYXeT",
+          "name": "Men I Trust",
+          "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "album": {
+        "id": "1vYB8mYSGiKxE5C2RGjfDP",
+        "name": "Untourable Album",
+        "release_date": "2021-08-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739843089bfdc548de16945f64",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029843089bfdc548de16945f64",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519843089bfdc548de16945f64",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 188301,
+      "explicit": false,
+      "popularity": 65,
+      "uri": "spotify:track:2JKtCvtxP47fOMYi0BjMoY",
+      "external_url": "https://open.spotify.com/track/2JKtCvtxP47fOMYi0BjMoY",
+      "added_at": "2024-07-04T10:48:43Z"
+    },
+    {
+      "id": "3Rl26h1HiMCV0HFHHVb2IM",
+      "name": "Heaven Up There",
+      "artists": [
+        {
+          "id": "48vDIufGC8ujPuBiTxY8dm",
+          "name": "Palace",
+          "uri": "spotify:artist:48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "album": {
+        "id": "2gnr57XaEBXSDlfbkowBP8",
+        "name": "Life After",
+        "release_date": "2019-07-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273287d57f51a9220e1b972d576",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02287d57f51a9220e1b972d576",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851287d57f51a9220e1b972d576",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 437577,
+      "explicit": false,
+      "popularity": 60,
+      "uri": "spotify:track:3Rl26h1HiMCV0HFHHVb2IM",
+      "external_url": "https://open.spotify.com/track/3Rl26h1HiMCV0HFHHVb2IM",
+      "added_at": "2024-07-04T11:16:01Z"
+    },
+    {
+      "id": "2uZ6JeQqRFo6vmSiK6dHE9",
+      "name": "I Think I Should",
+      "artists": [
+        {
+          "id": "57vWImR43h4CaDao012Ofp",
+          "name": "Steve Lacy",
+          "uri": "spotify:artist:57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "album": {
+        "id": "6m5qlaMzLtNsQDj3DQY5ji",
+        "name": "The Lo-Fis",
+        "release_date": "2020-12-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c3545bbe806b845c2b52bc20",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c3545bbe806b845c2b52bc20",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 99253,
+      "explicit": false,
+      "popularity": 58,
+      "uri": "spotify:track:2uZ6JeQqRFo6vmSiK6dHE9",
+      "external_url": "https://open.spotify.com/track/2uZ6JeQqRFo6vmSiK6dHE9",
+      "added_at": "2024-07-04T11:27:22Z"
+    },
+    {
+      "id": "4R5GN0mBvb6jkRj3Zvyhkl",
+      "name": "Will I See You Again?",
+      "artists": [
+        {
+          "id": "0oK5D6uPhGu4Jk2dbZfodU",
+          "name": "Thee Sacred Souls",
+          "uri": "spotify:artist:0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "album": {
+        "id": "3eUX1MOKVAF7ogaLFPY8uN",
+        "name": "Will I See You Again?",
+        "release_date": "2020-12-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c11b27b0a46175aa97bb471a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c11b27b0a46175aa97bb471a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c11b27b0a46175aa97bb471a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 240653,
+      "explicit": false,
+      "popularity": 78,
+      "uri": "spotify:track:4R5GN0mBvb6jkRj3Zvyhkl",
+      "external_url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl",
+      "added_at": "2024-07-06T18:52:27Z"
+    },
+    {
+      "id": "37jlSwK5rjIOTvkzAeV21B",
+      "name": "Easy Bake Easy Wake",
+      "artists": [
+        {
+          "id": "5PVlXEAvlt6SfYpWBYTM4C",
+          "name": "The F16s",
+          "uri": "spotify:artist:5PVlXEAvlt6SfYpWBYTM4C"
+        }
+      ],
+      "album": {
+        "id": "7oPrvDPosF3XdPCnhTIM0I",
+        "name": "Easy Bake Easy Wake",
+        "release_date": "2021-09-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f4116ab3685e0246ad48594",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020f4116ab3685e0246ad48594",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510f4116ab3685e0246ad48594",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 303006,
+      "explicit": true,
+      "popularity": 21,
+      "uri": "spotify:track:37jlSwK5rjIOTvkzAeV21B",
+      "external_url": "https://open.spotify.com/track/37jlSwK5rjIOTvkzAeV21B",
+      "added_at": "2024-07-08T20:38:02Z"
+    }
+  ]
+}

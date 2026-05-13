@@ -1,0 +1,691 @@
+{
+  "id": "4QM2BYHM3ICt20Jvtz4c7g",
+  "name": "no longer human",
+  "description": "oh raven won&#x27;t you sing me a happy song",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:4QM2BYHM3ICt20Jvtz4c7g",
+  "external_url": "https://open.spotify.com/playlist/4QM2BYHM3ICt20Jvtz4c7g",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84af0e3564627af9c4f0a1e821",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 17,
+  "tracks": [
+    {
+      "id": "1D8sCqR7SwxUTwUDqMyUAp",
+      "name": "flutter",
+      "artists": [
+        {
+          "id": "3VNzWLePg9jTvQ2ximYOzW",
+          "name": "julie",
+          "uri": "spotify:artist:3VNzWLePg9jTvQ2ximYOzW"
+        }
+      ],
+      "album": {
+        "id": "0r2dEhL4Ijur6WDzvgXygl",
+        "name": "flutter",
+        "release_date": "2020-04-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736047db4c19dc348070cb1a64",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026047db4c19dc348070cb1a64",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516047db4c19dc348070cb1a64",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 267491,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:1D8sCqR7SwxUTwUDqMyUAp",
+      "external_url": "https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp",
+      "added_at": "2023-06-08T22:12:23Z"
+    },
+    {
+      "id": "2vLUk3fQD4Bsaii1db5O3j",
+      "name": "Agatka (Agatha! You're Being Melodramatic!)",
+      "artists": [
+        {
+          "id": "6pmR08TKSTs8rll6W99VnK",
+          "name": "Weatherday",
+          "uri": "spotify:artist:6pmR08TKSTs8rll6W99VnK"
+        }
+      ],
+      "album": {
+        "id": "7i8NW72gbhfvCPIKx4RWLN",
+        "name": "Come In",
+        "release_date": "2019-04-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a01a2f1fd91094fca2757927",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a01a2f1fd91094fca2757927",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a01a2f1fd91094fca2757927",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 266853,
+      "explicit": false,
+      "popularity": 35,
+      "uri": "spotify:track:2vLUk3fQD4Bsaii1db5O3j",
+      "external_url": "https://open.spotify.com/track/2vLUk3fQD4Bsaii1db5O3j",
+      "added_at": "2023-06-08T22:16:44Z"
+    },
+    {
+      "id": "1QUMpZT7HG6sO3RiBu1LAJ",
+      "name": "haunt me (x 3)",
+      "artists": [
+        {
+          "id": "2cAvReLDmjFQtCJFDJbHBU",
+          "name": "Teen Suicide",
+          "uri": "spotify:artist:2cAvReLDmjFQtCJFDJbHBU"
+        }
+      ],
+      "album": {
+        "id": "1QMZJabCAFTaiuq4toibdt",
+        "name": "dc snuff film / waste yrself",
+        "release_date": "2015-10-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27300c82b06c503884961a25427",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0200c82b06c503884961a25427",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485100c82b06c503884961a25427",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 165671,
+      "explicit": false,
+      "popularity": 60,
+      "uri": "spotify:track:1QUMpZT7HG6sO3RiBu1LAJ",
+      "external_url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ",
+      "added_at": "2023-06-08T22:17:14Z"
+    },
+    {
+      "id": "2klj0StczYde6WUHBJo5F6",
+      "name": "Insomniac",
+      "artists": [
+        {
+          "id": "2jwC7uml6QVgLBfx1Hbtek",
+          "name": "Memo Boy",
+          "uri": "spotify:artist:2jwC7uml6QVgLBfx1Hbtek"
+        },
+        {
+          "id": "3pFSlKAoVnaEycgIcPDctw",
+          "name": "Chakra Efendi",
+          "uri": "spotify:artist:3pFSlKAoVnaEycgIcPDctw"
+        }
+      ],
+      "album": {
+        "id": "0a0ftVkZr4K1QoOXcZF0V1",
+        "name": "Songs & Demos 2015-2017",
+        "release_date": "2021-06-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fd062989b0b63b82f5949524",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fd062989b0b63b82f5949524",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 212307,
+      "explicit": false,
+      "popularity": 75,
+      "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
+      "external_url": "https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6",
+      "added_at": "2023-06-08T22:17:38Z"
+    },
+    {
+      "id": "5qZ4c1EBVWpmz1GBaks8Uq",
+      "name": "Bloodhail",
+      "artists": [
+        {
+          "id": "0FRKTwQSToXpCxYMhyUzYY",
+          "name": "Have A Nice Life",
+          "uri": "spotify:artist:0FRKTwQSToXpCxYMhyUzYY"
+        }
+      ],
+      "album": {
+        "id": "6MH3CAXp8AN8ELrbex18dM",
+        "name": "Deathconsciousness",
+        "release_date": "2008-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a54f2b401501b3569990c256",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a54f2b401501b3569990c256",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a54f2b401501b3569990c256",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 338000,
+      "explicit": false,
+      "popularity": 62,
+      "uri": "spotify:track:5qZ4c1EBVWpmz1GBaks8Uq",
+      "external_url": "https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq",
+      "added_at": "2023-06-08T22:19:03Z"
+    },
+    {
+      "id": "0dcu28YT8cXZH7JTIraszp",
+      "name": "Starting Over",
+      "artists": [
+        {
+          "id": "2feOOr1Yjovo67byuxvjZv",
+          "name": "LSD and the Search for God",
+          "uri": "spotify:artist:2feOOr1Yjovo67byuxvjZv"
+        }
+      ],
+      "album": {
+        "id": "46q859znSzYPVwz7OaO7GS",
+        "name": "LSD and the Search for God",
+        "release_date": "2007-01-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273be9bb007638d6e2a0f64cab0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02be9bb007638d6e2a0f64cab0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851be9bb007638d6e2a0f64cab0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 304240,
+      "explicit": false,
+      "popularity": 70,
+      "uri": "spotify:track:0dcu28YT8cXZH7JTIraszp",
+      "external_url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp",
+      "added_at": "2023-06-08T22:19:33Z"
+    },
+    {
+      "id": "4pbEwQiDjPln3oYlijXuOE",
+      "name": "The Moon",
+      "artists": [
+        {
+          "id": "7Ht57YadlBXcFJDK3plmhO",
+          "name": "The Microphones",
+          "uri": "spotify:artist:7Ht57YadlBXcFJDK3plmhO"
+        }
+      ],
+      "album": {
+        "id": "6QYoRO2sXThCORAifrP4Bl",
+        "name": "The Glow, Pt. 2",
+        "release_date": "2001-09-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27300c91ccec6800014b8513717",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0200c91ccec6800014b8513717",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485100c91ccec6800014b8513717",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 316640,
+      "explicit": false,
+      "popularity": 53,
+      "uri": "spotify:track:4pbEwQiDjPln3oYlijXuOE",
+      "external_url": "https://open.spotify.com/track/4pbEwQiDjPln3oYlijXuOE",
+      "added_at": "2023-06-08T22:20:16Z"
+    },
+    {
+      "id": "2cfTyfv9MHQO9v7p53Xyfv",
+      "name": "Chocolate And Mint",
+      "artists": [
+        {
+          "id": "5AyEXCtu3xnnsTGCo4RVZh",
+          "name": "Duster",
+          "uri": "spotify:artist:5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "album": {
+        "id": "7DH0auN5IxIWaqFj4SL98o",
+        "name": "Duster",
+        "release_date": "2019-12-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733881b01e446a4a959ccd0b9a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023881b01e446a4a959ccd0b9a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513881b01e446a4a959ccd0b9a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 292068,
+      "explicit": false,
+      "popularity": 53,
+      "uri": "spotify:track:2cfTyfv9MHQO9v7p53Xyfv",
+      "external_url": "https://open.spotify.com/track/2cfTyfv9MHQO9v7p53Xyfv",
+      "added_at": "2023-06-08T22:20:35Z"
+    },
+    {
+      "id": "0Z94dtWElamDwU4NrcGoUR",
+      "name": "Better",
+      "artists": [
+        {
+          "id": "02vrwnrNEeDRV96o9iPSYP",
+          "name": "sign crushes motorist",
+          "uri": "spotify:artist:02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "album": {
+        "id": "3yLxcdaNKhpogNECAju75d",
+        "name": "i'll be okay",
+        "release_date": "2022-08-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02db673e5288f81cb962e2b081",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851db673e5288f81cb962e2b081",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 98750,
+      "explicit": false,
+      "popularity": 67,
+      "uri": "spotify:track:0Z94dtWElamDwU4NrcGoUR",
+      "external_url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR",
+      "added_at": "2023-06-08T22:25:15Z"
+    },
+    {
+      "id": "7Cp2PE6Id35QlK1pIpu7X9",
+      "name": "This Could Build Us a Home",
+      "artists": [
+        {
+          "id": "4UVlSeEFDPmlkYKaRMRoOz",
+          "name": "The Garden",
+          "uri": "spotify:artist:4UVlSeEFDPmlkYKaRMRoOz"
+        }
+      ],
+      "album": {
+        "id": "2tH1S9Q2RUcLrOizMy9I1K",
+        "name": "haha",
+        "release_date": "2015-10-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27365ad4e52938360a5b6eb4b04",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0265ad4e52938360a5b6eb4b04",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485165ad4e52938360a5b6eb4b04",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 120403,
+      "explicit": true,
+      "popularity": 55,
+      "uri": "spotify:track:7Cp2PE6Id35QlK1pIpu7X9",
+      "external_url": "https://open.spotify.com/track/7Cp2PE6Id35QlK1pIpu7X9",
+      "added_at": "2023-06-08T22:37:39Z"
+    },
+    {
+      "id": "7c7XYwFipX776UmPzHNYIa",
+      "name": "In Your Room",
+      "artists": [
+        {
+          "id": "1WOhabhnnH1k6KcD81xGD1",
+          "name": "Airiel",
+          "uri": "spotify:artist:1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "album": {
+        "id": "3CMsAHPmMOWfmDKL7ZGwfE",
+        "name": "Winks & Kisses: Melted",
+        "release_date": "2004-01-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27373632ea2e05f840bd9056d1c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0273632ea2e05f840bd9056d1c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485173632ea2e05f840bd9056d1c",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 566466,
+      "explicit": false,
+      "popularity": 33,
+      "uri": "spotify:track:7c7XYwFipX776UmPzHNYIa",
+      "external_url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa",
+      "added_at": "2023-06-09T21:46:40Z"
+    },
+    {
+      "id": "0kCzcpTLcdi6ClEI2x28hb",
+      "name": "Pearl - Edit",
+      "artists": [
+        {
+          "id": "3r94PF71LWRI5K6wqclNjQ",
+          "name": "Chapterhouse",
+          "uri": "spotify:artist:3r94PF71LWRI5K6wqclNjQ"
+        }
+      ],
+      "album": {
+        "id": "5Sc59oKieHPFvruoxBgmSp",
+        "name": "Whirlpool (Expanded Edition)",
+        "release_date": "1990",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ee0518a795c45ae03f87b5e2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ee0518a795c45ae03f87b5e2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ee0518a795c45ae03f87b5e2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 290800,
+      "explicit": false,
+      "popularity": 37,
+      "uri": "spotify:track:0kCzcpTLcdi6ClEI2x28hb",
+      "external_url": "https://open.spotify.com/track/0kCzcpTLcdi6ClEI2x28hb",
+      "added_at": "2023-06-09T21:49:06Z"
+    },
+    {
+      "id": "4sIFi8LpJWPvI5xviWFyA6",
+      "name": "D>E>A>T>H>M>E>T>A>L",
+      "artists": [
+        {
+          "id": "4KEHIUSoWCcqrk8AddTE1O",
+          "name": "Panchiko",
+          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "album": {
+        "id": "2MASm01cgG0a0CgioQpe6Q",
+        "name": "D>E>A>T>H>M>E>T>A>L",
+        "release_date": "2000-12-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e045aa197ada995407bf92fc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e045aa197ada995407bf92fc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 261849,
+      "explicit": false,
+      "popularity": 77,
+      "uri": "spotify:track:4sIFi8LpJWPvI5xviWFyA6",
+      "external_url": "https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6",
+      "added_at": "2023-06-12T09:15:19Z"
+    },
+    {
+      "id": "1OKkG3vxEuBBwLw1gCqdNW",
+      "name": "Dsco",
+      "artists": [
+        {
+          "id": "5NtMqQLCzdVvL7F8vFp3zM",
+          "name": "Sweet Trip",
+          "uri": "spotify:artist:5NtMqQLCzdVvL7F8vFp3zM"
+        }
+      ],
+      "album": {
+        "id": "0eUUQ4rly8Q8PyJPWLgde2",
+        "name": "Velocity: Design: Comfort.",
+        "release_date": "2003-06-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732aa34d5906e01231eff70f82",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022aa34d5906e01231eff70f82",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512aa34d5906e01231eff70f82",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 191133,
+      "explicit": false,
+      "popularity": 53,
+      "uri": "spotify:track:1OKkG3vxEuBBwLw1gCqdNW",
+      "external_url": "https://open.spotify.com/track/1OKkG3vxEuBBwLw1gCqdNW",
+      "added_at": "2023-07-09T18:53:13Z"
+    },
+    {
+      "id": "49DmTlbizOa1VTQRqVAuWJ",
+      "name": "Pangaea Girls (Magic Feeling)",
+      "artists": [
+        {
+          "id": "34Xay0uKsALHCrn5LkrYeh",
+          "name": "Candy Claws",
+          "uri": "spotify:artist:34Xay0uKsALHCrn5LkrYeh"
+        }
+      ],
+      "album": {
+        "id": "5KkGAZrad4N4rc5FriwgzU",
+        "name": "Ceres & Calypso in the Deep Time",
+        "release_date": "2013-06-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735410c06685415d50ea87a012",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025410c06685415d50ea87a012",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515410c06685415d50ea87a012",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 191491,
+      "explicit": false,
+      "popularity": 48,
+      "uri": "spotify:track:49DmTlbizOa1VTQRqVAuWJ",
+      "external_url": "https://open.spotify.com/track/49DmTlbizOa1VTQRqVAuWJ",
+      "added_at": "2023-07-10T09:38:41Z"
+    },
+    {
+      "id": "0wOSxBLbwNWJ4V58WKGyvM",
+      "name": "Afterglow",
+      "artists": [
+        {
+          "id": "5PbpKlxQE0Ktl5lcNABoFf",
+          "name": "Car Seat Headrest",
+          "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "album": {
+        "id": "4cARAECW98cS10AGV2CH8Z",
+        "name": "Nervous Young Man",
+        "release_date": "2013-08-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737bba8ad3e4f9b7bc5213b20f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027bba8ad3e4f9b7bc5213b20f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517bba8ad3e4f9b7bc5213b20f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 304000,
+      "explicit": false,
+      "popularity": 35,
+      "uri": "spotify:track:0wOSxBLbwNWJ4V58WKGyvM",
+      "external_url": "https://open.spotify.com/track/0wOSxBLbwNWJ4V58WKGyvM",
+      "added_at": "2023-07-18T10:29:18Z"
+    },
+    {
+      "id": "65j65yDSE06CNKAPjsHoJt",
+      "name": "Was It Something I Said",
+      "artists": [
+        {
+          "id": "191tnItkCke3YcHpUxDOD9",
+          "name": "MyKey",
+          "uri": "spotify:artist:191tnItkCke3YcHpUxDOD9"
+        }
+      ],
+      "album": {
+        "id": "6MIBfXSkuo1F9fiNVCBsZH",
+        "name": "Was It Something I Said",
+        "release_date": "2019-07-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c8ea65dc350c890d880f8452",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c8ea65dc350c890d880f8452",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c8ea65dc350c890d880f8452",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 220588,
+      "explicit": false,
+      "popularity": 56,
+      "uri": "spotify:track:65j65yDSE06CNKAPjsHoJt",
+      "external_url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt",
+      "added_at": "2024-06-14T19:47:32Z"
+    }
+  ]
+}

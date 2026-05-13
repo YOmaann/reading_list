@@ -1,0 +1,613 @@
+{
+  "id": "0BUAqYrZVVZM0vFJi0VVDl",
+  "name": "Playlist",
+  "description": "last 2024 of",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:0BUAqYrZVVZM0vFJi0VVDl",
+  "external_url": "https://open.spotify.com/playlist/0BUAqYrZVVZM0vFJi0VVDl",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8470dd77820ba4a15ccdc7ddf1",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 15,
+  "tracks": [
+    {
+      "id": "7dzLUp8fcIhaFYHrTSp3AO",
+      "name": "Winter",
+      "artists": [
+        {
+          "id": "46CitWgnWrvF9t70C2p1Me",
+          "name": "Daughter",
+          "uri": "spotify:artist:46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "album": {
+        "id": "74ShfU6i2GfPyqwdc5uGl7",
+        "name": "If You Leave",
+        "release_date": "2013-03-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f9e7f5cc42ac959998ca90ee",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f9e7f5cc42ac959998ca90ee",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f9e7f5cc42ac959998ca90ee",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 283400,
+      "explicit": false,
+      "popularity": 39,
+      "uri": "spotify:track:7dzLUp8fcIhaFYHrTSp3AO",
+      "external_url": "https://open.spotify.com/track/7dzLUp8fcIhaFYHrTSp3AO",
+      "added_at": "2024-11-28T22:25:13Z"
+    },
+    {
+      "id": "5Llgqw2pQm2JEdi67VuayP",
+      "name": "Ginkgo",
+      "artists": [
+        {
+          "id": "4KEHIUSoWCcqrk8AddTE1O",
+          "name": "Panchiko",
+          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "album": {
+        "id": "7jnqB6h2Ctvm2dpT91oyRR",
+        "name": "Ginkgo",
+        "release_date": "2024-11-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730c0237fa94991042279fb253",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020c0237fa94991042279fb253",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510c0237fa94991042279fb253",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 157394,
+      "explicit": false,
+      "popularity": 49,
+      "uri": "spotify:track:5Llgqw2pQm2JEdi67VuayP",
+      "external_url": "https://open.spotify.com/track/5Llgqw2pQm2JEdi67VuayP",
+      "added_at": "2024-11-28T22:26:02Z"
+    },
+    {
+      "id": "34vJ0gGRXqvLXMTgPROhNs",
+      "name": "In Love",
+      "artists": [
+        {
+          "id": "6lcwlkAjBPSKnFBZjjZFJs",
+          "name": "Alex G",
+          "uri": "spotify:artist:6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "album": {
+        "id": "0aABjw7BY2iRsK4ZdkwSjF",
+        "name": "Beach Music",
+        "release_date": "2015-10-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738ecb5d6abdd79fbe5a07ede5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028ecb5d6abdd79fbe5a07ede5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518ecb5d6abdd79fbe5a07ede5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 210623,
+      "explicit": false,
+      "popularity": 43,
+      "uri": "spotify:track:34vJ0gGRXqvLXMTgPROhNs",
+      "external_url": "https://open.spotify.com/track/34vJ0gGRXqvLXMTgPROhNs",
+      "added_at": "2024-11-28T22:26:22Z"
+    },
+    {
+      "id": "2G17L0gok8L6vQa0Z7ffP1",
+      "name": "Waving Flags",
+      "artists": [
+        {
+          "id": "5zhn89Em2jWUUWdpcLO3YL",
+          "name": "Sea Power",
+          "uri": "spotify:artist:5zhn89Em2jWUUWdpcLO3YL"
+        }
+      ],
+      "album": {
+        "id": "0VsOTxk7nEMwbldChFGR2t",
+        "name": "Do You Like Rock Music",
+        "release_date": "2008-01-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733efed0f334aff99be3923e53",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023efed0f334aff99be3923e53",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513efed0f334aff99be3923e53",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 247573,
+      "explicit": false,
+      "popularity": 33,
+      "uri": "spotify:track:2G17L0gok8L6vQa0Z7ffP1",
+      "external_url": "https://open.spotify.com/track/2G17L0gok8L6vQa0Z7ffP1",
+      "added_at": "2024-11-28T22:27:05Z"
+    },
+    {
+      "id": "6oWXWkwHKREYlBNuBCitFP",
+      "name": "Teenage Blue",
+      "artists": [
+        {
+          "id": "7JPPLV24jlpVoHz5dHN6pR",
+          "name": "Dreamgirl",
+          "uri": "spotify:artist:7JPPLV24jlpVoHz5dHN6pR"
+        }
+      ],
+      "album": {
+        "id": "6KiGqzmBh6yV7QOwFjA1sk",
+        "name": "Illuminaughty",
+        "release_date": "2015-02-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b25c40c873df70e28499c495",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b25c40c873df70e28499c495",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b25c40c873df70e28499c495",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 234968,
+      "explicit": false,
+      "popularity": 65,
+      "uri": "spotify:track:6oWXWkwHKREYlBNuBCitFP",
+      "external_url": "https://open.spotify.com/track/6oWXWkwHKREYlBNuBCitFP",
+      "added_at": "2024-11-28T22:27:21Z"
+    },
+    {
+      "id": "4WlGgwoZdNI96WPwsW6Nz5",
+      "name": "Biblical Love",
+      "artists": [
+        {
+          "id": "0sYlth2PW1zWJMEU2vCukz",
+          "name": "Flower Face",
+          "uri": "spotify:artist:0sYlth2PW1zWJMEU2vCukz"
+        }
+      ],
+      "album": {
+        "id": "3ctSCjMyiG82FJIdXHnSQo",
+        "name": "Girl Prometheus",
+        "release_date": "2024-11-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c5b92bdd6fc41711b0de9e8b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c5b92bdd6fc41711b0de9e8b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c5b92bdd6fc41711b0de9e8b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 226860,
+      "explicit": true,
+      "popularity": 48,
+      "uri": "spotify:track:4WlGgwoZdNI96WPwsW6Nz5",
+      "external_url": "https://open.spotify.com/track/4WlGgwoZdNI96WPwsW6Nz5",
+      "added_at": "2024-11-28T22:27:44Z"
+    },
+    {
+      "id": "05rdEDLqUfJWdkrlksEQT6",
+      "name": "Theme from Jerome (Forgotten Words)",
+      "artists": [
+        {
+          "id": "3LVPGE5jPPwtbGslx07YR0",
+          "name": "Kishi Bashi",
+          "uri": "spotify:artist:3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "album": {
+        "id": "7efrHmcFVWTB733vfDt9ey",
+        "name": "Omoiyari",
+        "release_date": "2019-05-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739dc6bffe616765aafd2c05ff",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029dc6bffe616765aafd2c05ff",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519dc6bffe616765aafd2c05ff",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 259053,
+      "explicit": false,
+      "popularity": 26,
+      "uri": "spotify:track:05rdEDLqUfJWdkrlksEQT6",
+      "external_url": "https://open.spotify.com/track/05rdEDLqUfJWdkrlksEQT6",
+      "added_at": "2024-12-04T15:44:49Z"
+    },
+    {
+      "id": "452nTMj51Dt5P1sSn9bZoN",
+      "name": "Phantom Liberty",
+      "artists": [
+        {
+          "id": "6EB8VE9f7Ut6NOgviN6gDW",
+          "name": "Dawid Podsiadło",
+          "uri": "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "id": "27VhXJzIph9c75cBh1e8XM",
+          "name": "P.T. Adamczyk",
+          "uri": "spotify:artist:27VhXJzIph9c75cBh1e8XM"
+        }
+      ],
+      "album": {
+        "id": "7jftaFo6Mi99agSz6ciRYu",
+        "name": "Lata Dwudzieste z kawałkiem",
+        "release_date": "2024-05-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27343428497e712f542615c0980",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0243428497e712f542615c0980",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485143428497e712f542615c0980",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 348573,
+      "explicit": false,
+      "popularity": 57,
+      "uri": "spotify:track:452nTMj51Dt5P1sSn9bZoN",
+      "external_url": "https://open.spotify.com/track/452nTMj51Dt5P1sSn9bZoN",
+      "added_at": "2024-12-07T17:38:15Z"
+    },
+    {
+      "id": "5CtFsq9BSDpBgMU6MeQ8ZS",
+      "name": "This Is Why I Need You",
+      "artists": [
+        {
+          "id": "5tZhefLixacZsUcEDx9wCL",
+          "name": "Jesse Ruben",
+          "uri": "spotify:artist:5tZhefLixacZsUcEDx9wCL"
+        }
+      ],
+      "album": {
+        "id": "02ylG5zJWJUGOihDRqHFfy",
+        "name": "This Is Why I Need You",
+        "release_date": "2015",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a0e41dfbde5e5d5d71cfce90",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a0e41dfbde5e5d5d71cfce90",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a0e41dfbde5e5d5d71cfce90",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 224253,
+      "explicit": false,
+      "popularity": 31,
+      "uri": "spotify:track:5CtFsq9BSDpBgMU6MeQ8ZS",
+      "external_url": "https://open.spotify.com/track/5CtFsq9BSDpBgMU6MeQ8ZS",
+      "added_at": "2024-12-13T21:22:44Z"
+    },
+    {
+      "id": "4mAwxhMBANouZbcrgvgxeY",
+      "name": "Friction",
+      "artists": [
+        {
+          "id": "581C5Qwl87TskfBEzuoisu",
+          "name": "Cafuné",
+          "uri": "spotify:artist:581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "album": {
+        "id": "21hwUxfv0npvuLokCOHEZW",
+        "name": "Tek It/Friction",
+        "release_date": "2019",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a9f6f2381c57045314b1e6a7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a9f6f2381c57045314b1e6a7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a9f6f2381c57045314b1e6a7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 187303,
+      "explicit": false,
+      "popularity": 59,
+      "uri": "spotify:track:4mAwxhMBANouZbcrgvgxeY",
+      "external_url": "https://open.spotify.com/track/4mAwxhMBANouZbcrgvgxeY",
+      "added_at": "2024-12-22T10:56:21Z"
+    },
+    {
+      "id": "4Qmm1kIX3RO1DKdsYQbLK0",
+      "name": "Crooked Teeth",
+      "artists": [
+        {
+          "id": "0YrtvWJMgSdVrk3SfNjTbx",
+          "name": "Death Cab for Cutie",
+          "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "album": {
+        "id": "4guW5WPxFzHrXg04FPC9v9",
+        "name": "Plans",
+        "release_date": "2005-08-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273977f49e4a7170bdd03fb429b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02977f49e4a7170bdd03fb429b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851977f49e4a7170bdd03fb429b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 203733,
+      "explicit": false,
+      "popularity": 51,
+      "uri": "spotify:track:4Qmm1kIX3RO1DKdsYQbLK0",
+      "external_url": "https://open.spotify.com/track/4Qmm1kIX3RO1DKdsYQbLK0",
+      "added_at": "2025-01-11T11:38:22Z"
+    },
+    {
+      "id": "3cUxncrTWSA9lhlQbuIwUY",
+      "name": "Stuck on the puzzle",
+      "artists": [
+        {
+          "id": "1ctkBmvz80MGyi72Ix055S",
+          "name": "Alex Turner",
+          "uri": "spotify:artist:1ctkBmvz80MGyi72Ix055S"
+        }
+      ],
+      "album": {
+        "id": "3OqRGywivnQ0IeClUeUa4n",
+        "name": "Submarine - Original Songs From The Film By Alex Turner",
+        "release_date": "2011-03-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273672951d44a35cb08092f2c1f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02672951d44a35cb08092f2c1f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851672951d44a35cb08092f2c1f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 211053,
+      "explicit": false,
+      "popularity": 65,
+      "uri": "spotify:track:3cUxncrTWSA9lhlQbuIwUY",
+      "external_url": "https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY",
+      "added_at": "2025-01-19T03:38:16Z"
+    },
+    {
+      "id": "58SUbSjtnenNKD14jA6cgw",
+      "name": "Sea of Dreams",
+      "artists": [
+        {
+          "id": "5zb7wVUx1vTXLB6HX26EnX",
+          "name": "Oberhofer",
+          "uri": "spotify:artist:5zb7wVUx1vTXLB6HX26EnX"
+        }
+      ],
+      "album": {
+        "id": "3eD7aePlxB1PV2Cprb6p5T",
+        "name": "Chronovision",
+        "release_date": "2015-10-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733b6288c212c8364fd81cbeb8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023b6288c212c8364fd81cbeb8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513b6288c212c8364fd81cbeb8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 283003,
+      "explicit": false,
+      "popularity": 40,
+      "uri": "spotify:track:58SUbSjtnenNKD14jA6cgw",
+      "external_url": "https://open.spotify.com/track/58SUbSjtnenNKD14jA6cgw",
+      "added_at": "2025-02-04T21:58:24Z"
+    },
+    {
+      "id": "53rYNxof2dWXRnH0bqKiQ2",
+      "name": "Knife Edge",
+      "artists": [
+        {
+          "id": "4CvTDPKA6W06DRfBnZKrau",
+          "name": "Thom Yorke",
+          "uri": "spotify:artist:4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "album": {
+        "id": "2DpwYA58Qs00nRl59i4eiL",
+        "name": "Confidenza (Original Soundtrack)",
+        "release_date": "2024-04-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ffa0de7e056956a9e8995a7e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ffa0de7e056956a9e8995a7e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ffa0de7e056956a9e8995a7e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 199870,
+      "explicit": false,
+      "popularity": 33,
+      "uri": "spotify:track:53rYNxof2dWXRnH0bqKiQ2",
+      "external_url": "https://open.spotify.com/track/53rYNxof2dWXRnH0bqKiQ2",
+      "added_at": "2025-05-03T23:21:33Z"
+    },
+    {
+      "id": "4RGWHfQeJftd5XrP8JUgFj",
+      "name": "Metamodernity",
+      "artists": [
+        {
+          "id": "6ft7JnxMyZhp7N52qzHymY",
+          "name": "Vansire",
+          "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "album": {
+        "id": "1lgZZELIZZwafQJDycr47q",
+        "name": "Metamodernity",
+        "release_date": "2019-06-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27334a91a2fad5a628c55811518",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0234a91a2fad5a628c55811518",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485134a91a2fad5a628c55811518",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 162663,
+      "explicit": false,
+      "popularity": 66,
+      "uri": "spotify:track:4RGWHfQeJftd5XrP8JUgFj",
+      "external_url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj",
+      "added_at": "2025-05-16T08:42:29Z"
+    }
+  ]
+}

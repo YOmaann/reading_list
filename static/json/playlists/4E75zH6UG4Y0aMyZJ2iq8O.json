@@ -1,0 +1,565 @@
+{
+  "id": "4E75zH6UG4Y0aMyZJ2iq8O",
+  "name": "noukadubi",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:4E75zH6UG4Y0aMyZJ2iq8O",
+  "external_url": "https://open.spotify.com/playlist/4E75zH6UG4Y0aMyZJ2iq8O",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84af27565f5a95c215634237b9",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 13,
+  "tracks": [
+    {
+      "id": "5zCnGtCl5Ac5zlFHXaZmhy",
+      "name": "Sajni (From \"Laapataa Ladies\")",
+      "artists": [
+        {
+          "id": "3PpjqSKBer3obW6lDflOBx",
+          "name": "Ram Sampath",
+          "uri": "spotify:artist:3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "id": "7vCsTTACb2iT4fvBMnwp5w",
+          "name": "Prashant Pandey",
+          "uri": "spotify:artist:7vCsTTACb2iT4fvBMnwp5w"
+        }
+      ],
+      "album": {
+        "id": "3I3kZyHUtEA9Y59rJkxtk6",
+        "name": "Sajni (From \"Laapataa Ladies\")",
+        "release_date": "2024-02-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d5f4378b1ffc9119fdc7306d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d5f4378b1ffc9119fdc7306d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d5f4378b1ffc9119fdc7306d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 170044,
+      "explicit": false,
+      "popularity": 77,
+      "uri": "spotify:track:5zCnGtCl5Ac5zlFHXaZmhy",
+      "external_url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy",
+      "added_at": "2024-05-31T19:17:39Z"
+    },
+    {
+      "id": "2vXc1iWg4SWsAsJdvcMvDM",
+      "name": "Ekta Chhele",
+      "artists": [
+        {
+          "id": "2MmRblqR7CRKDkdKVJiS6w",
+          "name": "Sahana",
+          "uri": "spotify:artist:2MmRblqR7CRKDkdKVJiS6w"
+        }
+      ],
+      "album": {
+        "id": "6keyXJtQHZOqPwmUlhaW60",
+        "name": "Jhalmuri, Vol. 1",
+        "release_date": "2017-02-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb06514fd25a959d1efdce62",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb06514fd25a959d1efdce62",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bb06514fd25a959d1efdce62",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 217013,
+      "explicit": false,
+      "popularity": 32,
+      "uri": "spotify:track:2vXc1iWg4SWsAsJdvcMvDM",
+      "external_url": "https://open.spotify.com/track/2vXc1iWg4SWsAsJdvcMvDM",
+      "added_at": "2024-05-31T19:18:00Z"
+    },
+    {
+      "id": "2LXtyj95dK56ENS1QLt4IB",
+      "name": "Beach Baby",
+      "artists": [
+        {
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+          "name": "Bon Iver",
+          "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "album": {
+        "id": "6G2VFrsyr7jAiUYklrdKob",
+        "name": "Blood Bank",
+        "release_date": "2009-01-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27333a839e8b2cf1512f3badabb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0233a839e8b2cf1512f3badabb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485133a839e8b2cf1512f3badabb",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 160093,
+      "explicit": false,
+      "popularity": 71,
+      "uri": "spotify:track:2LXtyj95dK56ENS1QLt4IB",
+      "external_url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB",
+      "added_at": "2024-05-31T19:26:28Z"
+    },
+    {
+      "id": "6JibP7bGw9YacLTAuIZZZC",
+      "name": "Marbles",
+      "artists": [
+        {
+          "id": "0pFUQn1X45qbmryuF6caQj",
+          "name": "Whale In The Pond",
+          "uri": "spotify:artist:0pFUQn1X45qbmryuF6caQj"
+        }
+      ],
+      "album": {
+        "id": "7EiShgvtRSqlxIpL6lrKrn",
+        "name": "Marbles",
+        "release_date": "2017-06-30",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732aa1ee30f668195d9102360a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022aa1ee30f668195d9102360a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512aa1ee30f668195d9102360a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 248181,
+      "explicit": false,
+      "popularity": 6,
+      "uri": "spotify:track:6JibP7bGw9YacLTAuIZZZC",
+      "external_url": "https://open.spotify.com/track/6JibP7bGw9YacLTAuIZZZC",
+      "added_at": "2024-05-31T19:27:15Z"
+    },
+    {
+      "id": "18qVucr6e4ZFeoXAbIiKTC",
+      "name": "Tohfa",
+      "artists": [
+        {
+          "id": "6i50rQJbETLRREwFn3plcw",
+          "name": "Lifafa",
+          "uri": "spotify:artist:6i50rQJbETLRREwFn3plcw"
+        },
+        {
+          "id": "5yYR29jWlDrKpnG7fApk7V",
+          "name": "Karan Singh",
+          "uri": "spotify:artist:5yYR29jWlDrKpnG7fApk7V"
+        },
+        {
+          "id": "6HPQL29s9LBKYjVLUuswm4",
+          "name": "Rohit Gupta",
+          "uri": "spotify:artist:6HPQL29s9LBKYjVLUuswm4"
+        },
+        {
+          "id": "1AekZ8puJfRnfXsM4ybgHy",
+          "name": "Pankaj Sakha",
+          "uri": "spotify:artist:1AekZ8puJfRnfXsM4ybgHy"
+        }
+      ],
+      "album": {
+        "id": "6tPJ7JglUuUGgYbMT1udm3",
+        "name": "Ghar: Sounds Of Raw Mango",
+        "release_date": "2020-04-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a984128a3cb19da4957c59b6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a984128a3cb19da4957c59b6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a984128a3cb19da4957c59b6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 180689,
+      "explicit": false,
+      "popularity": 34,
+      "uri": "spotify:track:18qVucr6e4ZFeoXAbIiKTC",
+      "external_url": "https://open.spotify.com/track/18qVucr6e4ZFeoXAbIiKTC",
+      "added_at": "2024-05-31T19:32:32Z"
+    },
+    {
+      "id": "0h0gWburhWxIhV9h7kyX3l",
+      "name": "Jogi",
+      "artists": [
+        {
+          "id": "740SYcL7Hl2TatDM2wYV8V",
+          "name": "Swastik The Band",
+          "uri": "spotify:artist:740SYcL7Hl2TatDM2wYV8V"
+        }
+      ],
+      "album": {
+        "id": "07iHCQyQ69gc8c13fdmqhh",
+        "name": "Avasa",
+        "release_date": "2018-08-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734d703b2fb1b9bbd0e51df374",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024d703b2fb1b9bbd0e51df374",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514d703b2fb1b9bbd0e51df374",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 376854,
+      "explicit": false,
+      "popularity": 43,
+      "uri": "spotify:track:0h0gWburhWxIhV9h7kyX3l",
+      "external_url": "https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l",
+      "added_at": "2024-06-14T18:52:41Z"
+    },
+    {
+      "id": "1Ukxccao1BlWrPhYkcXbwZ",
+      "name": "From The Start",
+      "artists": [
+        {
+          "id": "7gW0r5CkdEUMm42w9XpyZO",
+          "name": "Laufey",
+          "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "album": {
+        "id": "1BOZNMzXTIkz8nUfGCxfpe",
+        "name": "From The Start",
+        "release_date": "2023-05-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27310ee65ae464018c19c8e8ab4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0210ee65ae464018c19c8e8ab4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485110ee65ae464018c19c8e8ab4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 169573,
+      "explicit": false,
+      "popularity": 74,
+      "uri": "spotify:track:1Ukxccao1BlWrPhYkcXbwZ",
+      "external_url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ",
+      "added_at": "2024-06-14T19:08:51Z"
+    },
+    {
+      "id": "4TrpEvP6f4c3fkPFJNjDvq",
+      "name": "Sorry I Was Sorry",
+      "artists": [
+        {
+          "id": "7tuwjSE2q4zeBdNObeO7LB",
+          "name": "Adult Mom",
+          "uri": "spotify:artist:7tuwjSE2q4zeBdNObeO7LB"
+        }
+      ],
+      "album": {
+        "id": "2IPC81zP19fwie5xgfzMOf",
+        "name": "Momentary Lapse of Happily",
+        "release_date": "2015-07-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27347c66c1be0c10bdd1d78dd0a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0247c66c1be0c10bdd1d78dd0a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485147c66c1be0c10bdd1d78dd0a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 141952,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:4TrpEvP6f4c3fkPFJNjDvq",
+      "external_url": "https://open.spotify.com/track/4TrpEvP6f4c3fkPFJNjDvq",
+      "added_at": "2024-06-21T10:10:59Z"
+    },
+    {
+      "id": "3hobiW5AYC7GHNsjxVHwaC",
+      "name": "2441139 - Bela Bose",
+      "artists": [
+        {
+          "id": "61br0oUa0Tzmw9SjeuzEMK",
+          "name": "Anjan Dutt",
+          "uri": "spotify:artist:61br0oUa0Tzmw9SjeuzEMK"
+        },
+        {
+          "id": "5EwWVwJIMtJyeypwevImDz",
+          "name": "Neel Dutt",
+          "uri": "spotify:artist:5EwWVwJIMtJyeypwevImDz"
+        },
+        {
+          "id": "7A4xL9OMvaimZ8S5geUye1",
+          "name": "Sovan Mukherjee",
+          "uri": "spotify:artist:7A4xL9OMvaimZ8S5geUye1"
+        }
+      ],
+      "album": {
+        "id": "7JWBi3ssymUm4GK2yMiEAP",
+        "name": "Anjan Dutt",
+        "release_date": "1994-09-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273da537ea1f838985c50610ec5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02da537ea1f838985c50610ec5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851da537ea1f838985c50610ec5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 311040,
+      "explicit": false,
+      "popularity": 49,
+      "uri": "spotify:track:3hobiW5AYC7GHNsjxVHwaC",
+      "external_url": "https://open.spotify.com/track/3hobiW5AYC7GHNsjxVHwaC",
+      "added_at": "2024-06-30T11:35:14Z"
+    },
+    {
+      "id": "5UDkwnyn6pTFwDr1CaL4gh",
+      "name": "Ami Chini Go Chini Tomare",
+      "artists": [
+        {
+          "id": "0GF4shudTAFv8ak9eWdd4Y",
+          "name": "Kishore Kumar",
+          "uri": "spotify:artist:0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "album": {
+        "id": "1dyoRWRhGPOA3nDh3RJssW",
+        "name": "Charulata",
+        "release_date": "1964-12-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731a77236fa98a917c5b9d7b82",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021a77236fa98a917c5b9d7b82",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511a77236fa98a917c5b9d7b82",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 147786,
+      "explicit": false,
+      "popularity": 27,
+      "uri": "spotify:track:5UDkwnyn6pTFwDr1CaL4gh",
+      "external_url": "https://open.spotify.com/track/5UDkwnyn6pTFwDr1CaL4gh",
+      "added_at": "2024-06-30T13:06:35Z"
+    },
+    {
+      "id": "7Mh9SmQjCN6xr6PHgZeFQE",
+      "name": "Cigarette",
+      "artists": [
+        {
+          "id": "61br0oUa0Tzmw9SjeuzEMK",
+          "name": "Anjan Dutt",
+          "uri": "spotify:artist:61br0oUa0Tzmw9SjeuzEMK"
+        }
+      ],
+      "album": {
+        "id": "56ssf7UXYQNEQZCuwLgGH4",
+        "name": "Aami Ashbo Phirey (Original Motion Picture Soundtrack)",
+        "release_date": "2018-02-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c77f3b1eeeec0cf5a6391c09",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c77f3b1eeeec0cf5a6391c09",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c77f3b1eeeec0cf5a6391c09",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 288000,
+      "explicit": false,
+      "popularity": 38,
+      "uri": "spotify:track:7Mh9SmQjCN6xr6PHgZeFQE",
+      "external_url": "https://open.spotify.com/track/7Mh9SmQjCN6xr6PHgZeFQE",
+      "added_at": "2024-06-30T13:09:53Z"
+    },
+    {
+      "id": "7LIfhKC5WX3mxJO9vEDi4V",
+      "name": "Koi toh miley ga",
+      "artists": [
+        {
+          "id": "6dArdZ3NhrB1sbyo2s5poV",
+          "name": "The Tamaashbeens",
+          "uri": "spotify:artist:6dArdZ3NhrB1sbyo2s5poV"
+        }
+      ],
+      "album": {
+        "id": "5iOPjhZb6eWh3I6SpwfbJ4",
+        "name": "Singles",
+        "release_date": "2021-05-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27363f253af35eee6721a0584e8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0263f253af35eee6721a0584e8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485163f253af35eee6721a0584e8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 215040,
+      "explicit": false,
+      "popularity": 19,
+      "uri": "spotify:track:7LIfhKC5WX3mxJO9vEDi4V",
+      "external_url": "https://open.spotify.com/track/7LIfhKC5WX3mxJO9vEDi4V",
+      "added_at": "2024-06-30T17:18:33Z"
+    },
+    {
+      "id": "3QaPy1KgI7nu9FJEQUgn6h",
+      "name": "WILDFLOWER",
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "album": {
+        "id": "7aJuG4TFXa2hmE4z1yxc3n",
+        "name": "HIT ME HARD AND SOFT",
+        "release_date": "2024-05-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485171d62ea7ea8a5be92d3c1f62",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 261466,
+      "explicit": false,
+      "popularity": 93,
+      "uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h",
+      "external_url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h",
+      "added_at": "2024-07-07T10:04:01Z"
+    }
+  ]
+}

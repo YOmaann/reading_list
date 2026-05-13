@@ -1,0 +1,491 @@
+{
+  "id": "3HOT6xzPcXr4M5Uzwl7ndo",
+  "name": "emacs os",
+  "description": "with love ~emacspaglu",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:3HOT6xzPcXr4M5Uzwl7ndo",
+  "external_url": "https://open.spotify.com/playlist/3HOT6xzPcXr4M5Uzwl7ndo",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8465d3958ec865229f1b782d84",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 12,
+  "tracks": [
+    {
+      "id": "7taZrsaJLDOgnFbHI1eobA",
+      "name": "忘掉所有烦心事(Forget About All These Things)",
+      "artists": [
+        {
+          "id": "3E8hU2azxBuXCSETWgsA3T",
+          "name": "白色海岸The White Coast",
+          "uri": "spotify:artist:3E8hU2azxBuXCSETWgsA3T"
+        }
+      ],
+      "album": {
+        "id": "73Kb5KNyqpUzIi2JEB4OWQ",
+        "name": "白色海岸",
+        "release_date": "2022-05-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5cd1ba8e746bd1b5d580156",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5cd1ba8e746bd1b5d580156",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5cd1ba8e746bd1b5d580156",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 186407,
+      "explicit": false,
+      "popularity": 33,
+      "uri": "spotify:track:7taZrsaJLDOgnFbHI1eobA",
+      "external_url": "https://open.spotify.com/track/7taZrsaJLDOgnFbHI1eobA",
+      "added_at": "2025-03-13T04:47:44Z"
+    },
+    {
+      "id": "1hl5uXn7IiwMQrmSdKASAp",
+      "name": "Franny",
+      "artists": [
+        {
+          "id": "3Z2Dm42h0UjCNlalml4DE8",
+          "name": "Mad Planets",
+          "uri": "spotify:artist:3Z2Dm42h0UjCNlalml4DE8"
+        }
+      ],
+      "album": {
+        "id": "2NjDbraAaxJaXkyWDKaLvJ",
+        "name": "Music Makes Me Think of You: A Collection",
+        "release_date": "1999-05-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273231e8e25d47a43883b1b5188",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02231e8e25d47a43883b1b5188",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851231e8e25d47a43883b1b5188",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 250357,
+      "explicit": false,
+      "popularity": 37,
+      "uri": "spotify:track:1hl5uXn7IiwMQrmSdKASAp",
+      "external_url": "https://open.spotify.com/track/1hl5uXn7IiwMQrmSdKASAp",
+      "added_at": "2025-03-13T04:48:40Z"
+    },
+    {
+      "id": "0ZA5dXmuCJxqitbAwRJVke",
+      "name": "My Dahlia - Ignoffo Sessions / 2012 Mix",
+      "artists": [
+        {
+          "id": "40Yq4vzPs9VNUrIBG5Jr2i",
+          "name": "The Smashing Pumpkins",
+          "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "album": {
+        "id": "7glwer1Pzyns4h32fHbl53",
+        "name": "Pisces Iscariot (Deluxe)",
+        "release_date": "1994",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27361c64749ffd8f6728d55332b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0261c64749ffd8f6728d55332b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485161c64749ffd8f6728d55332b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 226626,
+      "explicit": false,
+      "popularity": 40,
+      "uri": "spotify:track:0ZA5dXmuCJxqitbAwRJVke",
+      "external_url": "https://open.spotify.com/track/0ZA5dXmuCJxqitbAwRJVke",
+      "added_at": "2025-03-13T04:51:37Z"
+    },
+    {
+      "id": "035f73BihYMm4Hupu7HYV5",
+      "name": "Myrtle Leaf",
+      "artists": [
+        {
+          "id": "2pAWfrd7WFF3XhVt9GooDL",
+          "name": "MF DOOM",
+          "uri": "spotify:artist:2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "album": {
+        "id": "1AJtMVPbKTiw7OHOa9oVCx",
+        "name": "Metal Fingers Presents: Special Herbs Vol. 5 & 6",
+        "release_date": "2004-03-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273810322d575e5a2ea235671f9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02810322d575e5a2ea235671f9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851810322d575e5a2ea235671f9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 222426,
+      "explicit": false,
+      "popularity": 32,
+      "uri": "spotify:track:035f73BihYMm4Hupu7HYV5",
+      "external_url": "https://open.spotify.com/track/035f73BihYMm4Hupu7HYV5",
+      "added_at": "2025-03-13T04:52:22Z"
+    },
+    {
+      "id": "0hoiu4phiHzoJwhl5kutX3",
+      "name": "Dreaming With You",
+      "artists": [
+        {
+          "id": "4IlxI05VmVDx8ShdgKEnLK",
+          "name": "The Chairs",
+          "uri": "spotify:artist:4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "album": {
+        "id": "3PnXCpHaHzGVm3viOLUKPO",
+        "name": "Lemonade",
+        "release_date": "2019-06-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d601c5d833eb8f262d324b91",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d601c5d833eb8f262d324b91",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d601c5d833eb8f262d324b91",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 230327,
+      "explicit": false,
+      "popularity": 39,
+      "uri": "spotify:track:0hoiu4phiHzoJwhl5kutX3",
+      "external_url": "https://open.spotify.com/track/0hoiu4phiHzoJwhl5kutX3",
+      "added_at": "2025-03-13T04:54:01Z"
+    },
+    {
+      "id": "3aFJctVi2FnorUvLMahZ3d",
+      "name": "Life is a Dream",
+      "artists": [
+        {
+          "id": "0JnhdXEQfVjoY1OgwTExwO",
+          "name": "MUNYA",
+          "uri": "spotify:artist:0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "album": {
+        "id": "68SvNn3ZiomWkxVeeBANvP",
+        "name": "Voyage to Mars",
+        "release_date": "2021-11-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27365763cce3c904c3c3f881a21",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0265763cce3c904c3c3f881a21",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485165763cce3c904c3c3f881a21",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 258487,
+      "explicit": false,
+      "popularity": 35,
+      "uri": "spotify:track:3aFJctVi2FnorUvLMahZ3d",
+      "external_url": "https://open.spotify.com/track/3aFJctVi2FnorUvLMahZ3d",
+      "added_at": "2025-03-13T04:54:28Z"
+    },
+    {
+      "id": "2MgPF1qyXZ7BAEEnItdIiv",
+      "name": "Julie",
+      "artists": [
+        {
+          "id": "0neVDcSdi4GMgFduUudWve",
+          "name": "The Fur.​",
+          "uri": "spotify:artist:0neVDcSdi4GMgFduUudWve"
+        }
+      ],
+      "album": {
+        "id": "2TB1J2Q397wIpztQvyH5D1",
+        "name": "Serene Reminder",
+        "release_date": "2020-12-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273444543aca31cb9ce96c5a8a6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02444543aca31cb9ce96c5a8a6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851444543aca31cb9ce96c5a8a6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 208642,
+      "explicit": false,
+      "popularity": 39,
+      "uri": "spotify:track:2MgPF1qyXZ7BAEEnItdIiv",
+      "external_url": "https://open.spotify.com/track/2MgPF1qyXZ7BAEEnItdIiv",
+      "added_at": "2025-03-13T15:03:35Z"
+    },
+    {
+      "id": "1DfH1V5Uuav1g1gNBIzPk2",
+      "name": "Twin Shadows",
+      "artists": [
+        {
+          "id": "3Y3bK9UlgDtqEfIwFUCLH0",
+          "name": "Racoma",
+          "uri": "spotify:artist:3Y3bK9UlgDtqEfIwFUCLH0"
+        }
+      ],
+      "album": {
+        "id": "7DO5cC2XLNYtB1TYce0DZQ",
+        "name": "In Vine",
+        "release_date": "2024-11-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384f01ebb2c4843e47bb7b3c7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284f01ebb2c4843e47bb7b3c7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184f01ebb2c4843e47bb7b3c7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 189386,
+      "explicit": false,
+      "popularity": 38,
+      "uri": "spotify:track:1DfH1V5Uuav1g1gNBIzPk2",
+      "external_url": "https://open.spotify.com/track/1DfH1V5Uuav1g1gNBIzPk2",
+      "added_at": "2025-03-17T21:09:24Z"
+    },
+    {
+      "id": "73M2Vb5MfZh8iGKudkMtlw",
+      "name": "Always Like This",
+      "artists": [
+        {
+          "id": "3pTE9iaJTkWns3mxpNQlJV",
+          "name": "Bombay Bicycle Club",
+          "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "album": {
+        "id": "4X0bhkSBOfcnOPyfG5Ef6a",
+        "name": "I Had The Blues But I Shook Them Loose",
+        "release_date": "2009-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb076ef98d5f02467a3be611",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb076ef98d5f02467a3be611",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bb076ef98d5f02467a3be611",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 245640,
+      "explicit": false,
+      "popularity": 59,
+      "uri": "spotify:track:73M2Vb5MfZh8iGKudkMtlw",
+      "external_url": "https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw",
+      "added_at": "2025-03-18T17:18:23Z"
+    },
+    {
+      "id": "0tujIJ2MrHhY1F6vlETYQX",
+      "name": "My Funny Valentine",
+      "artists": [
+        {
+          "id": "12j6dJrPXanCBwY599pZxf",
+          "name": "Matt Maltese",
+          "uri": "spotify:artist:12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "album": {
+        "id": "2BUNp4ySKJCk6l523t7X5f",
+        "name": "My Funny Valentine",
+        "release_date": "2024-12-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27305e49ba63b03159d1e0226b2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0205e49ba63b03159d1e0226b2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485105e49ba63b03159d1e0226b2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 180334,
+      "explicit": false,
+      "popularity": 40,
+      "uri": "spotify:track:0tujIJ2MrHhY1F6vlETYQX",
+      "external_url": "https://open.spotify.com/track/0tujIJ2MrHhY1F6vlETYQX",
+      "added_at": "2025-03-22T21:33:34Z"
+    },
+    {
+      "id": "7KDhMY1s1E2jwm4reeStXL",
+      "name": "The End of the World",
+      "artists": [
+        {
+          "id": "61VZakASLH5PweMQzF7R8r",
+          "name": "The Macarons Project",
+          "uri": "spotify:artist:61VZakASLH5PweMQzF7R8r"
+        }
+      ],
+      "album": {
+        "id": "67zhnLbw7N1GdDOzoN7IlG",
+        "name": "The End of the World",
+        "release_date": "2022-05-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27306b716ea2914737d75d67ea0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0206b716ea2914737d75d67ea0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485106b716ea2914737d75d67ea0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 211792,
+      "explicit": false,
+      "popularity": 35,
+      "uri": "spotify:track:7KDhMY1s1E2jwm4reeStXL",
+      "external_url": "https://open.spotify.com/track/7KDhMY1s1E2jwm4reeStXL",
+      "added_at": "2025-03-22T21:35:30Z"
+    },
+    {
+      "id": "30Lj5KKGd8IUEK0s5N3ccN",
+      "name": "Zorba the Greek: Zorba's Dance",
+      "artists": [
+        {
+          "id": "58EvYFzDGAQOmBpIOxujnj",
+          "name": "Mikis Theodorakis",
+          "uri": "spotify:artist:58EvYFzDGAQOmBpIOxujnj"
+        }
+      ],
+      "album": {
+        "id": "4f3vHxmllsuPIuhScr1WAR",
+        "name": "Zorba the Greek (Remastered)",
+        "release_date": "2012-01-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27326c8272571dfb1019c4b4442",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0226c8272571dfb1019c4b4442",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485126c8272571dfb1019c4b4442",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 251653,
+      "explicit": false,
+      "popularity": 46,
+      "uri": "spotify:track:30Lj5KKGd8IUEK0s5N3ccN",
+      "external_url": "https://open.spotify.com/track/30Lj5KKGd8IUEK0s5N3ccN",
+      "added_at": "2025-03-22T22:18:15Z"
+    }
+  ]
+}

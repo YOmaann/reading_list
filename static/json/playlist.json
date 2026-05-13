@@ -1,0 +1,493 @@
+{
+  "count": 61,
+  "playlists": [
+    {
+      "id": "7xkVcFIgBOf2GyQAfXqomE",
+      "name": "Not The Same Anymore",
+      "owner": "luckyfur",
+      "track_count": 16,
+      "file": "playlists/7xkVcFIgBOf2GyQAfXqomE.json",
+      "uri": "spotify:playlist:7xkVcFIgBOf2GyQAfXqomE"
+    },
+    {
+      "id": "6nrDy3M4W5n7XtRrPY2bMG",
+      "name": "Stop Waiting",
+      "owner": "luckyfur",
+      "track_count": 6,
+      "file": "playlists/6nrDy3M4W5n7XtRrPY2bMG.json",
+      "uri": "spotify:playlist:6nrDy3M4W5n7XtRrPY2bMG"
+    },
+    {
+      "id": "4LrUXuj4djiTWxIbmK87jH",
+      "name": "animal kingdom",
+      "owner": "luckyfur",
+      "track_count": 8,
+      "file": "playlists/4LrUXuj4djiTWxIbmK87jH.json",
+      "uri": "spotify:playlist:4LrUXuj4djiTWxIbmK87jH"
+    },
+    {
+      "id": "1v3PWX3LKDdG8xxrZNtJi9",
+      "name": "nu",
+      "owner": "luckyfur",
+      "track_count": 7,
+      "file": "playlists/1v3PWX3LKDdG8xxrZNtJi9.json",
+      "uri": "spotify:playlist:1v3PWX3LKDdG8xxrZNtJi9"
+    },
+    {
+      "id": "02llKZhNmeQOXI0Eess9Cc",
+      "name": "recap 25",
+      "owner": "luckyfur",
+      "track_count": 13,
+      "file": "playlists/02llKZhNmeQOXI0Eess9Cc.json",
+      "uri": "spotify:playlist:02llKZhNmeQOXI0Eess9Cc"
+    },
+    {
+      "id": "6hqpMaWuQySl37xaZKh3PU",
+      "name": "grateful 4",
+      "owner": "luckyfur",
+      "track_count": 9,
+      "file": "playlists/6hqpMaWuQySl37xaZKh3PU.json",
+      "uri": "spotify:playlist:6hqpMaWuQySl37xaZKh3PU"
+    },
+    {
+      "id": "55lqKQmekPuCrLt8YG9r6d",
+      "name": "december 25",
+      "owner": "luckyfur",
+      "track_count": 25,
+      "file": "playlists/55lqKQmekPuCrLt8YG9r6d.json",
+      "uri": "spotify:playlist:55lqKQmekPuCrLt8YG9r6d"
+    },
+    {
+      "id": "1EmKqxCwRVQcXUPdoy01e2",
+      "name": "metamorphosis ",
+      "owner": "luckyfur",
+      "track_count": 18,
+      "file": "playlists/1EmKqxCwRVQcXUPdoy01e2.json",
+      "uri": "spotify:playlist:1EmKqxCwRVQcXUPdoy01e2"
+    },
+    {
+      "id": "7lyAOGKAcUZNhVUlZN1IbN",
+      "name": "actually ",
+      "owner": "luckyfur",
+      "track_count": 14,
+      "file": "playlists/7lyAOGKAcUZNhVUlZN1IbN.json",
+      "uri": "spotify:playlist:7lyAOGKAcUZNhVUlZN1IbN"
+    },
+    {
+      "id": "571TI9oxZPDueS7uScHN16",
+      "name": "grateful 3",
+      "owner": "luckyfur",
+      "track_count": 16,
+      "file": "playlists/571TI9oxZPDueS7uScHN16.json",
+      "uri": "spotify:playlist:571TI9oxZPDueS7uScHN16"
+    },
+    {
+      "id": "3e7wUoZBrSTltbInuz6TDU",
+      "name": "no fit",
+      "owner": "luckyfur",
+      "track_count": 13,
+      "file": "playlists/3e7wUoZBrSTltbInuz6TDU.json",
+      "uri": "spotify:playlist:3e7wUoZBrSTltbInuz6TDU"
+    },
+    {
+      "id": "287rT3bK6oTlGqzt2JB43K",
+      "name": "more grateful",
+      "owner": "luckyfur",
+      "track_count": 28,
+      "file": "playlists/287rT3bK6oTlGqzt2JB43K.json",
+      "uri": "spotify:playlist:287rT3bK6oTlGqzt2JB43K"
+    },
+    {
+      "id": "7t7TaeN9jzJ2kkgPYlG04F",
+      "name": "express",
+      "owner": "luckyfur",
+      "track_count": 16,
+      "file": "playlists/7t7TaeN9jzJ2kkgPYlG04F.json",
+      "uri": "spotify:playlist:7t7TaeN9jzJ2kkgPYlG04F"
+    },
+    {
+      "id": "3HOT6xzPcXr4M5Uzwl7ndo",
+      "name": "emacs os",
+      "owner": "luckyfur",
+      "track_count": 12,
+      "file": "playlists/3HOT6xzPcXr4M5Uzwl7ndo.json",
+      "uri": "spotify:playlist:3HOT6xzPcXr4M5Uzwl7ndo"
+    },
+    {
+      "id": "1Wq87S4YcHlbboagiMnpY2",
+      "name": "february",
+      "owner": "luckyfur",
+      "track_count": 10,
+      "file": "playlists/1Wq87S4YcHlbboagiMnpY2.json",
+      "uri": "spotify:playlist:1Wq87S4YcHlbboagiMnpY2"
+    },
+    {
+      "id": "4yyt6AYL6L915hP3NhIHuD",
+      "name": "loss function",
+      "owner": "luckyfur",
+      "track_count": 13,
+      "file": "playlists/4yyt6AYL6L915hP3NhIHuD.json",
+      "uri": "spotify:playlist:4yyt6AYL6L915hP3NhIHuD"
+    },
+    {
+      "id": "0BUAqYrZVVZM0vFJi0VVDl",
+      "name": "Playlist",
+      "owner": "luckyfur",
+      "track_count": 15,
+      "file": "playlists/0BUAqYrZVVZM0vFJi0VVDl.json",
+      "uri": "spotify:playlist:0BUAqYrZVVZM0vFJi0VVDl"
+    },
+    {
+      "id": "0BUAqYrZVVZM0vFJi0VVDl",
+      "name": "Playlist",
+      "owner": "luckyfur",
+      "track_count": 15,
+      "file": "playlists/0BUAqYrZVVZM0vFJi0VVDl.json",
+      "uri": "spotify:playlist:0BUAqYrZVVZM0vFJi0VVDl"
+    },
+    {
+      "id": "3fA64N6qY5wPiGqIGiCgXU",
+      "name": "adolescent november",
+      "owner": "luckyfur",
+      "track_count": 13,
+      "file": "playlists/3fA64N6qY5wPiGqIGiCgXU.json",
+      "uri": "spotify:playlist:3fA64N6qY5wPiGqIGiCgXU"
+    },
+    {
+      "id": "5t8eEP4zAKO30nfHp0yRhT",
+      "name": "prepubescent november",
+      "owner": "luckyfur",
+      "track_count": 15,
+      "file": "playlists/5t8eEP4zAKO30nfHp0yRhT.json",
+      "uri": "spotify:playlist:5t8eEP4zAKO30nfHp0yRhT"
+    },
+    {
+      "id": "5eQ9dc3cPK5FAfLjfMopS7",
+      "name": "pudding cherry 🍮🍒",
+      "owner": "luckyfur",
+      "track_count": 11,
+      "file": "playlists/5eQ9dc3cPK5FAfLjfMopS7.json",
+      "uri": "spotify:playlist:5eQ9dc3cPK5FAfLjfMopS7"
+    },
+    {
+      "id": "6qwrrF9XT5y8aT3kBN8M32",
+      "name": "chennai sleep clinic",
+      "owner": "luckyfur",
+      "track_count": 10,
+      "file": "playlists/6qwrrF9XT5y8aT3kBN8M32.json",
+      "uri": "spotify:playlist:6qwrrF9XT5y8aT3kBN8M32"
+    },
+    {
+      "id": "4dcnh2hfjbzwHDtsouowNo",
+      "name": "fooling sets",
+      "owner": "luckyfur",
+      "track_count": 7,
+      "file": "playlists/4dcnh2hfjbzwHDtsouowNo.json",
+      "uri": "spotify:playlist:4dcnh2hfjbzwHDtsouowNo"
+    },
+    {
+      "id": "1hrqzYe5rYlbkntYTGsshd",
+      "name": "தீதும் நன்றும் பிறர் தர வாரா",
+      "owner": "luckyfur",
+      "track_count": 22,
+      "file": "playlists/1hrqzYe5rYlbkntYTGsshd.json",
+      "uri": "spotify:playlist:1hrqzYe5rYlbkntYTGsshd"
+    },
+    {
+      "id": "08tX2sVpsOG1AK5Gbzbsm3",
+      "name": "omori like",
+      "owner": "luckyfur",
+      "track_count": 8,
+      "file": "playlists/08tX2sVpsOG1AK5Gbzbsm3.json",
+      "uri": "spotify:playlist:08tX2sVpsOG1AK5Gbzbsm3"
+    },
+    {
+      "id": "6LkJXldBFy7WWdexGl01zZ",
+      "name": "i fw this heavy",
+      "owner": "luckyfur",
+      "track_count": 151,
+      "file": "playlists/6LkJXldBFy7WWdexGl01zZ.json",
+      "uri": "spotify:playlist:6LkJXldBFy7WWdexGl01zZ"
+    },
+    {
+      "id": "59K0e3bwFhrTdqU2ggDA06",
+      "name": "cogito ergo sum",
+      "owner": "luckyfur",
+      "track_count": 8,
+      "file": "playlists/59K0e3bwFhrTdqU2ggDA06.json",
+      "uri": "spotify:playlist:59K0e3bwFhrTdqU2ggDA06"
+    },
+    {
+      "id": "0PulZkHU41ZeOOhWVqT3vx",
+      "name": "skibidi.sh",
+      "owner": "luckyfur",
+      "track_count": 10,
+      "file": "playlists/0PulZkHU41ZeOOhWVqT3vx.json",
+      "uri": "spotify:playlist:0PulZkHU41ZeOOhWVqT3vx"
+    },
+    {
+      "id": "4E75zH6UG4Y0aMyZJ2iq8O",
+      "name": "noukadubi",
+      "owner": "luckyfur",
+      "track_count": 13,
+      "file": "playlists/4E75zH6UG4Y0aMyZJ2iq8O.json",
+      "uri": "spotify:playlist:4E75zH6UG4Y0aMyZJ2iq8O"
+    },
+    {
+      "id": "6J0oFyn2QzntcYNCafzeP3",
+      "name": "failed at math(s)",
+      "owner": "luckyfur",
+      "track_count": 18,
+      "file": "playlists/6J0oFyn2QzntcYNCafzeP3.json",
+      "uri": "spotify:playlist:6J0oFyn2QzntcYNCafzeP3"
+    },
+    {
+      "id": "3sJAWbTqXoVHfSj7QSD8l4",
+      "name": "cooler",
+      "owner": "luckyfur",
+      "track_count": 14,
+      "file": "playlists/3sJAWbTqXoVHfSj7QSD8l4.json",
+      "uri": "spotify:playlist:3sJAWbTqXoVHfSj7QSD8l4"
+    },
+    {
+      "id": "3HqsS4Qp7qWn2sREQYkALf",
+      "name": "my revachol",
+      "owner": "luckyfur",
+      "track_count": 12,
+      "file": "playlists/3HqsS4Qp7qWn2sREQYkALf.json",
+      "uri": "spotify:playlist:3HqsS4Qp7qWn2sREQYkALf"
+    },
+    {
+      "id": "53Jul6csWGQUsEOmStwuqC",
+      "name": "grateful",
+      "owner": "luckyfur",
+      "track_count": 19,
+      "file": "playlists/53Jul6csWGQUsEOmStwuqC.json",
+      "uri": "spotify:playlist:53Jul6csWGQUsEOmStwuqC"
+    },
+    {
+      "id": "1IJzP6bTIGJlXMjqcJ6E8r",
+      "name": "awwtism is a spectrum",
+      "owner": "luckyfur",
+      "track_count": 13,
+      "file": "playlists/1IJzP6bTIGJlXMjqcJ6E8r.json",
+      "uri": "spotify:playlist:1IJzP6bTIGJlXMjqcJ6E8r"
+    },
+    {
+      "id": "7zaPzyX3J8rAf8SHYibXWR",
+      "name": "moisturizer",
+      "owner": "luckyfur",
+      "track_count": 25,
+      "file": "playlists/7zaPzyX3J8rAf8SHYibXWR.json",
+      "uri": "spotify:playlist:7zaPzyX3J8rAf8SHYibXWR"
+    },
+    {
+      "id": "4cIgA5VwESzBfMH30EhpnA",
+      "name": "comfort cat",
+      "owner": "luckyfur",
+      "track_count": 46,
+      "file": "playlists/4cIgA5VwESzBfMH30EhpnA.json",
+      "uri": "spotify:playlist:4cIgA5VwESzBfMH30EhpnA"
+    },
+    {
+      "id": "4uim86x7Dve0buaaaG1kko",
+      "name": "baali",
+      "owner": "luckyfur",
+      "track_count": 17,
+      "file": "playlists/4uim86x7Dve0buaaaG1kko.json",
+      "uri": "spotify:playlist:4uim86x7Dve0buaaaG1kko"
+    },
+    {
+      "id": "5HqPq6sNDIc6TyGLP11TuG",
+      "name": "back to the old house",
+      "owner": "luckyfur",
+      "track_count": 24,
+      "file": "playlists/5HqPq6sNDIc6TyGLP11TuG.json",
+      "uri": "spotify:playlist:5HqPq6sNDIc6TyGLP11TuG"
+    },
+    {
+      "id": "5RbVaQsjALhZBs7S3twGwD",
+      "name": "sleep trigger",
+      "owner": "luckyfur",
+      "track_count": 33,
+      "file": "playlists/5RbVaQsjALhZBs7S3twGwD.json",
+      "uri": "spotify:playlist:5RbVaQsjALhZBs7S3twGwD"
+    },
+    {
+      "id": "6PBZeyEGgVNsZWpoWghOR6",
+      "name": "feeling Jean-Baptiste Clamence",
+      "owner": "luckyfur",
+      "track_count": 51,
+      "file": "playlists/6PBZeyEGgVNsZWpoWghOR6.json",
+      "uri": "spotify:playlist:6PBZeyEGgVNsZWpoWghOR6"
+    },
+    {
+      "id": "1xMo5uqnebBe86Wz5SNYGG",
+      "name": "brittle bones",
+      "owner": "luckyfur",
+      "track_count": 36,
+      "file": "playlists/1xMo5uqnebBe86Wz5SNYGG.json",
+      "uri": "spotify:playlist:1xMo5uqnebBe86Wz5SNYGG"
+    },
+    {
+      "id": "0LHRw3c5BZmL1m9v48dEzJ",
+      "name": "ok computer (on steroids)",
+      "owner": "luckyfur",
+      "track_count": 35,
+      "file": "playlists/0LHRw3c5BZmL1m9v48dEzJ.json",
+      "uri": "spotify:playlist:0LHRw3c5BZmL1m9v48dEzJ"
+    },
+    {
+      "id": "4QM2BYHM3ICt20Jvtz4c7g",
+      "name": "no longer human",
+      "owner": "luckyfur",
+      "track_count": 17,
+      "file": "playlists/4QM2BYHM3ICt20Jvtz4c7g.json",
+      "uri": "spotify:playlist:4QM2BYHM3ICt20Jvtz4c7g"
+    },
+    {
+      "id": "4LsyONRwbcrF0YYH0grB4f",
+      "name": "thus spoke z",
+      "owner": "luckyfur",
+      "track_count": 20,
+      "file": "playlists/4LsyONRwbcrF0YYH0grB4f.json",
+      "uri": "spotify:playlist:4LsyONRwbcrF0YYH0grB4f"
+    },
+    {
+      "id": "50GWRW14d3WQ23erKK2e1Y",
+      "name": "good days",
+      "owner": "luckyfur",
+      "track_count": 36,
+      "file": "playlists/50GWRW14d3WQ23erKK2e1Y.json",
+      "uri": "spotify:playlist:50GWRW14d3WQ23erKK2e1Y"
+    },
+    {
+      "id": "0Rd8DJ7aMJE59wyMJljKeV",
+      "name": "net meds parcel",
+      "owner": "luckyfur",
+      "track_count": 32,
+      "file": "playlists/0Rd8DJ7aMJE59wyMJljKeV.json",
+      "uri": "spotify:playlist:0Rd8DJ7aMJE59wyMJljKeV"
+    },
+    {
+      "id": "4Y9thALzP9GdZkr8AuR1DM",
+      "name": "real",
+      "owner": "luckyfur",
+      "track_count": 57,
+      "file": "playlists/4Y9thALzP9GdZkr8AuR1DM.json",
+      "uri": "spotify:playlist:4Y9thALzP9GdZkr8AuR1DM"
+    },
+    {
+      "id": "4PB3uIZdSVstHCbEC6SB2R",
+      "name": "for lovers like",
+      "owner": "luckyfur",
+      "track_count": 21,
+      "file": "playlists/4PB3uIZdSVstHCbEC6SB2R.json",
+      "uri": "spotify:playlist:4PB3uIZdSVstHCbEC6SB2R"
+    },
+    {
+      "id": "34a3vXJ1iQQ5ve2pasec3m",
+      "name": "drugged poets society",
+      "owner": "luckyfur",
+      "track_count": 31,
+      "file": "playlists/34a3vXJ1iQQ5ve2pasec3m.json",
+      "uri": "spotify:playlist:34a3vXJ1iQQ5ve2pasec3m"
+    },
+    {
+      "id": "1TKsZfJNlvAooK21qJSBb5",
+      "name": "drunk poets society",
+      "owner": "luckyfur",
+      "track_count": 24,
+      "file": "playlists/1TKsZfJNlvAooK21qJSBb5.json",
+      "uri": "spotify:playlist:1TKsZfJNlvAooK21qJSBb5"
+    },
+    {
+      "id": "0cHyP3EdYZQEMMNkDXi1pA",
+      "name": "injured songbird",
+      "owner": "luckyfur",
+      "track_count": 70,
+      "file": "playlists/0cHyP3EdYZQEMMNkDXi1pA.json",
+      "uri": "spotify:playlist:0cHyP3EdYZQEMMNkDXi1pA"
+    },
+    {
+      "id": "04NyKktUKAbNCtaCENz9Eu",
+      "name": "life hai hota hai",
+      "owner": "luckyfur",
+      "track_count": 148,
+      "file": "playlists/04NyKktUKAbNCtaCENz9Eu.json",
+      "uri": "spotify:playlist:04NyKktUKAbNCtaCENz9Eu"
+    },
+    {
+      "id": "0hhIJgb2rKomiN8ssFCgw0",
+      "name": "this lip balm smells so nice",
+      "owner": "luckyfur",
+      "track_count": 37,
+      "file": "playlists/0hhIJgb2rKomiN8ssFCgw0.json",
+      "uri": "spotify:playlist:0hhIJgb2rKomiN8ssFCgw0"
+    },
+    {
+      "id": "0GHuhGTDCb5g156FRP5sHU",
+      "name": "leaves",
+      "owner": "luckyfur",
+      "track_count": 78,
+      "file": "playlists/0GHuhGTDCb5g156FRP5sHU.json",
+      "uri": "spotify:playlist:0GHuhGTDCb5g156FRP5sHU"
+    },
+    {
+      "id": "7GrvGPknm2CMO0BKCqZL9c",
+      "name": "barfi",
+      "owner": "luckyfur",
+      "track_count": 37,
+      "file": "playlists/7GrvGPknm2CMO0BKCqZL9c.json",
+      "uri": "spotify:playlist:7GrvGPknm2CMO0BKCqZL9c"
+    },
+    {
+      "id": "23aZHlqlFBVM1OlYZzRo7d",
+      "name": "town",
+      "owner": "luckyfur",
+      "track_count": 9,
+      "file": "playlists/23aZHlqlFBVM1OlYZzRo7d.json",
+      "uri": "spotify:playlist:23aZHlqlFBVM1OlYZzRo7d"
+    },
+    {
+      "id": "6Bq2xWX5nTrS84gzI1FkSm",
+      "name": "summer, rain and snow",
+      "owner": "luckyfur",
+      "track_count": 23,
+      "file": "playlists/6Bq2xWX5nTrS84gzI1FkSm.json",
+      "uri": "spotify:playlist:6Bq2xWX5nTrS84gzI1FkSm"
+    },
+    {
+      "id": "5ukUbOmTFFYH2lWc9xyItx",
+      "name": "billu’s Pet Playlist ",
+      "owner": "luckyfur",
+      "track_count": 31,
+      "file": "playlists/5ukUbOmTFFYH2lWc9xyItx.json",
+      "uri": "spotify:playlist:5ukUbOmTFFYH2lWc9xyItx"
+    },
+    {
+      "id": "2l8JMmueHqtpcG8qcHZ2c8",
+      "name": "reverie",
+      "owner": "luckyfur",
+      "track_count": 208,
+      "file": "playlists/2l8JMmueHqtpcG8qcHZ2c8.json",
+      "uri": "spotify:playlist:2l8JMmueHqtpcG8qcHZ2c8"
+    },
+    {
+      "id": "7bXNR5QlxxnVmTB51fP4HO",
+      "name": "one to nine",
+      "owner": "luckyfur",
+      "track_count": 9,
+      "file": "playlists/7bXNR5QlxxnVmTB51fP4HO.json",
+      "uri": "spotify:playlist:7bXNR5QlxxnVmTB51fP4HO"
+    },
+    {
+      "id": "42tgu98gEG6L8Eh8OK0sPn",
+      "name": "My Shazam Tracks",
+      "owner": "luckyfur",
+      "track_count": 7,
+      "file": "playlists/42tgu98gEG6L8Eh8OK0sPn.json",
+      "uri": "spotify:playlist:42tgu98gEG6L8Eh8OK0sPn"
+    }
+  ]
+}

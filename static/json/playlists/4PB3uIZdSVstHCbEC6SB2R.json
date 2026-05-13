@@ -1,0 +1,862 @@
+{
+  "id": "4PB3uIZdSVstHCbEC6SB2R",
+  "name": "for lovers like",
+  "description": "“There is nothing more truly artistic than to love people.” ~",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:4PB3uIZdSVstHCbEC6SB2R",
+  "external_url": "https://open.spotify.com/playlist/4PB3uIZdSVstHCbEC6SB2R",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84463c6577d2a1e4d3d1841a00",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 21,
+  "tracks": [
+    {
+      "id": "3vyCWrAIl3VGUHa9dM1Sy2",
+      "name": "Van Gogh",
+      "artists": [
+        {
+          "id": "2rT3EQUN0gsGe8Xb8XKIjo",
+          "name": "Virginio Aiello",
+          "uri": "spotify:artist:2rT3EQUN0gsGe8Xb8XKIjo"
+        },
+        {
+          "id": "1nQM2bBniIAQO7hBtIM9a5",
+          "name": "On Piano",
+          "uri": "spotify:artist:1nQM2bBniIAQO7hBtIM9a5"
+        }
+      ],
+      "album": {
+        "id": "3GJDlHTrkAHoYF7bqtGWpS",
+        "name": "Van Gogh",
+        "release_date": "2021-02-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736ed739140eab2398d3f611ea",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026ed739140eab2398d3f611ea",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516ed739140eab2398d3f611ea",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 183083,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:3vyCWrAIl3VGUHa9dM1Sy2",
+      "external_url": "https://open.spotify.com/track/3vyCWrAIl3VGUHa9dM1Sy2",
+      "added_at": "2023-03-22T20:28:39Z"
+    },
+    {
+      "id": "77zsHdb523rUQnOYUSG3qb",
+      "name": "Behind The Moon Shadow",
+      "artists": [
+        {
+          "id": "0rFHElzeddB9ymDjgpBENX",
+          "name": "Lamp",
+          "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "album": {
+        "id": "0gwS2D9sukMLXNvleEnYr2",
+        "name": "For Lovers",
+        "release_date": "2004-02-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27358ebd661a51fcf2968db3ea1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0258ebd661a51fcf2968db3ea1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485158ebd661a51fcf2968db3ea1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 309720,
+      "explicit": false,
+      "popularity": 53,
+      "uri": "spotify:track:77zsHdb523rUQnOYUSG3qb",
+      "external_url": "https://open.spotify.com/track/77zsHdb523rUQnOYUSG3qb",
+      "added_at": "2023-03-23T20:05:09Z"
+    },
+    {
+      "id": "1c08kIBXEd9v746RcxuOJ7",
+      "name": "Menou",
+      "artists": [
+        {
+          "id": "7HyY7hachlO53AjpM7CTOv",
+          "name": "NUUAMM",
+          "uri": "spotify:artist:7HyY7hachlO53AjpM7CTOv"
+        },
+        {
+          "id": "44cV1YrDmWKCT3nYNf9KXc",
+          "name": "MahiToThePeople",
+          "uri": "spotify:artist:44cV1YrDmWKCT3nYNf9KXc"
+        },
+        {
+          "id": "6ignRjbPmLvKdtMLj9a5Xs",
+          "name": "Ichiko Aoba",
+          "uri": "spotify:artist:6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "album": {
+        "id": "7u2xjrnKjxjr9y6wx8MPTZ",
+        "name": "w / ave",
+        "release_date": "2017-06-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c72ca4ed26b22e03d6fc9eef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c72ca4ed26b22e03d6fc9eef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c72ca4ed26b22e03d6fc9eef",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 382319,
+      "explicit": false,
+      "popularity": 36,
+      "uri": "spotify:track:1c08kIBXEd9v746RcxuOJ7",
+      "external_url": "https://open.spotify.com/track/1c08kIBXEd9v746RcxuOJ7",
+      "added_at": "2023-03-22T20:16:13Z"
+    },
+    {
+      "id": "4J8TjFf1LOJicQPawTpD9B",
+      "name": "På Floden",
+      "artists": [
+        {
+          "id": "1srUxd7Sj9tebPN1O8wEi8",
+          "name": "Tenniscoats",
+          "uri": "spotify:artist:1srUxd7Sj9tebPN1O8wEi8"
+        }
+      ],
+      "album": {
+        "id": "76zu0erh8G7BlxfaNAA8DR",
+        "name": "Papa's Ear",
+        "release_date": "2012-01-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273121e2ba8df4b7959251b6d0f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02121e2ba8df4b7959251b6d0f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851121e2ba8df4b7959251b6d0f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 207186,
+      "explicit": false,
+      "popularity": 4,
+      "uri": "spotify:track:4J8TjFf1LOJicQPawTpD9B",
+      "external_url": "https://open.spotify.com/track/4J8TjFf1LOJicQPawTpD9B",
+      "added_at": "2023-03-22T20:16:22Z"
+    },
+    {
+      "id": "40oxt995AdrZ7O4RtVWMIT",
+      "name": "oyasumi",
+      "artists": [
+        {
+          "id": "4SJnBnYoln2LxMHJm4tLYB",
+          "name": "mamerico",
+          "uri": "spotify:artist:4SJnBnYoln2LxMHJm4tLYB"
+        }
+      ],
+      "album": {
+        "id": "3sZ6050nOv8IHvc6TXh9Ys",
+        "name": "minuscule",
+        "release_date": "2011-09-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734d745b815f08b14b5bc3c68a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024d745b815f08b14b5bc3c68a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514d745b815f08b14b5bc3c68a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 226720,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:40oxt995AdrZ7O4RtVWMIT",
+      "external_url": "https://open.spotify.com/track/40oxt995AdrZ7O4RtVWMIT",
+      "added_at": "2023-03-22T20:16:31Z"
+    },
+    {
+      "id": "4d5xElICS5mwftzBP8xSke",
+      "name": "I Need You",
+      "artists": [
+        {
+          "id": "66DA1SaRhtBFQo4dQ8eF3e",
+          "name": "Castle Theater",
+          "uri": "spotify:artist:66DA1SaRhtBFQo4dQ8eF3e"
+        }
+      ],
+      "album": {
+        "id": "5okWvqy2CDhNo7uLmFZPuE",
+        "name": "Characters",
+        "release_date": "2021-08-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734a750032788c6d98d28bfb08",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024a750032788c6d98d28bfb08",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514a750032788c6d98d28bfb08",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 217161,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:4d5xElICS5mwftzBP8xSke",
+      "external_url": "https://open.spotify.com/track/4d5xElICS5mwftzBP8xSke",
+      "added_at": "2023-03-22T20:16:46Z"
+    },
+    {
+      "id": "3V0NxWbbUTa3BUAnchm11i",
+      "name": "bouquet",
+      "artists": [
+        {
+          "id": "6ignRjbPmLvKdtMLj9a5Xs",
+          "name": "Ichiko Aoba",
+          "uri": "spotify:artist:6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "album": {
+        "id": "36K2oQtq6W4yhYoynuo4Zb",
+        "name": "amuletum bouquet",
+        "release_date": "2020-01-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27302a63bc1cc416f22d1b46464",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0202a63bc1cc416f22d1b46464",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485102a63bc1cc416f22d1b46464",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 256361,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:3V0NxWbbUTa3BUAnchm11i",
+      "external_url": "https://open.spotify.com/track/3V0NxWbbUTa3BUAnchm11i",
+      "added_at": "2023-03-22T20:17:14Z"
+    },
+    {
+      "id": "19doORzyzOFARW6I0Fydc8",
+      "name": "Landscape With a Fairy",
+      "artists": [
+        {
+          "id": "4ze7HHThfzYo15SuunBKhd",
+          "name": "aspidistrafly",
+          "uri": "spotify:artist:4ze7HHThfzYo15SuunBKhd"
+        }
+      ],
+      "album": {
+        "id": "7DqDOGXV5dAfYi85wrHkXN",
+        "name": "A Little Fable",
+        "release_date": "2011-12-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731aafe21b76ddd6f18a861af8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021aafe21b76ddd6f18a861af8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511aafe21b76ddd6f18a861af8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 265253,
+      "explicit": false,
+      "popularity": 57,
+      "uri": "spotify:track:19doORzyzOFARW6I0Fydc8",
+      "external_url": "https://open.spotify.com/track/19doORzyzOFARW6I0Fydc8",
+      "added_at": "2023-03-22T20:17:21Z"
+    },
+    {
+      "id": "2u0vK4Gf1IaEdcI7MtRWP5",
+      "name": "dragon eyes",
+      "artists": [
+        {
+          "id": "4aKWmkWAKviFlyvHYPTNQY",
+          "name": "Adrianne Lenker",
+          "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "album": {
+        "id": "2Qt8Z1LB3Fsrf6nhBNsvUJ",
+        "name": "songs",
+        "release_date": "2020-10-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738ebe185fc4824bc6e568b511",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028ebe185fc4824bc6e568b511",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518ebe185fc4824bc6e568b511",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 206433,
+      "explicit": false,
+      "popularity": 59,
+      "uri": "spotify:track:2u0vK4Gf1IaEdcI7MtRWP5",
+      "external_url": "https://open.spotify.com/track/2u0vK4Gf1IaEdcI7MtRWP5",
+      "added_at": "2023-03-22T20:17:29Z"
+    },
+    {
+      "id": "1PYVWMwBocquvlCpYzwwxA",
+      "name": "Color Me Blue",
+      "artists": [
+        {
+          "id": "3cQWVFVI26yJH3HBVr25bR",
+          "name": "Akane",
+          "uri": "spotify:artist:3cQWVFVI26yJH3HBVr25bR"
+        }
+      ],
+      "album": {
+        "id": "1OKTvmPzUpW1j3elbz89EF",
+        "name": "Color Me Blue",
+        "release_date": "2020-08-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cc11691132c0bf83675f4ed1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cc11691132c0bf83675f4ed1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cc11691132c0bf83675f4ed1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 190635,
+      "explicit": false,
+      "popularity": 55,
+      "uri": "spotify:track:1PYVWMwBocquvlCpYzwwxA",
+      "external_url": "https://open.spotify.com/track/1PYVWMwBocquvlCpYzwwxA",
+      "added_at": "2023-03-22T20:17:50Z"
+    },
+    {
+      "id": "1yNylaCqr4SbSUcgvStBGJ",
+      "name": "Just Like Chet",
+      "artists": [
+        {
+          "id": "7gW0r5CkdEUMm42w9XpyZO",
+          "name": "Laufey",
+          "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "album": {
+        "id": "0Ydm84ftyiWRGOIFkdl30L",
+        "name": "Everything I Know About Love",
+        "release_date": "2022-08-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0248341e864d4b4881f56f01b4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485148341e864d4b4881f56f01b4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 216453,
+      "explicit": false,
+      "popularity": 57,
+      "uri": "spotify:track:1yNylaCqr4SbSUcgvStBGJ",
+      "external_url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ",
+      "added_at": "2023-03-22T20:18:02Z"
+    },
+    {
+      "id": "2ch4KLYvi9ZGq2pNyEsMom",
+      "name": "time machine",
+      "artists": [
+        {
+          "id": "2pZ83NwGQGiWxC3qJSTPBE",
+          "name": "mj apanay",
+          "uri": "spotify:artist:2pZ83NwGQGiWxC3qJSTPBE"
+        },
+        {
+          "id": "6DkSlaCu5TQbPnWESiyrUC",
+          "name": "aren park",
+          "uri": "spotify:artist:6DkSlaCu5TQbPnWESiyrUC"
+        }
+      ],
+      "album": {
+        "id": "3PPCKsTsWBDWUqlw3aMspm",
+        "name": "seen 11:23 pm",
+        "release_date": "2019-06-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733fc8ec32d0a5979e2675c66c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023fc8ec32d0a5979e2675c66c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513fc8ec32d0a5979e2675c66c",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 225933,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:2ch4KLYvi9ZGq2pNyEsMom",
+      "external_url": "https://open.spotify.com/track/2ch4KLYvi9ZGq2pNyEsMom",
+      "added_at": "2023-03-22T20:18:11Z"
+    },
+    {
+      "id": "1MXOWbSCEjoGwivtIMnlBV",
+      "name": "Constellations",
+      "artists": [
+        {
+          "id": "5AyEXCtu3xnnsTGCo4RVZh",
+          "name": "Duster",
+          "uri": "spotify:artist:5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "album": {
+        "id": "2S3289mypNw2zP0OpFexMb",
+        "name": "Stratosphere",
+        "release_date": "1998-02-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732241587c8ce3d9051f4d4f74",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022241587c8ce3d9051f4d4f74",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512241587c8ce3d9051f4d4f74",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 223200,
+      "explicit": false,
+      "popularity": 65,
+      "uri": "spotify:track:1MXOWbSCEjoGwivtIMnlBV",
+      "external_url": "https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV",
+      "added_at": "2023-03-22T20:26:50Z"
+    },
+    {
+      "id": "1YipM5JY0CiS6sn4q75tw1",
+      "name": "うんざりですよ",
+      "artists": [
+        {
+          "id": "2YUe21UG1hJsuhy9E3bzxp",
+          "name": "YeYe",
+          "uri": "spotify:artist:2YUe21UG1hJsuhy9E3bzxp"
+        }
+      ],
+      "album": {
+        "id": "7fY1NPzp3PDb860gRAVQ0G",
+        "name": "MOTTAINAI",
+        "release_date": "2017-11-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739a176420fbd51cff4dccca94",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029a176420fbd51cff4dccca94",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519a176420fbd51cff4dccca94",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 237000,
+      "explicit": false,
+      "popularity": 37,
+      "uri": "spotify:track:1YipM5JY0CiS6sn4q75tw1",
+      "external_url": "https://open.spotify.com/track/1YipM5JY0CiS6sn4q75tw1",
+      "added_at": "2023-03-22T20:28:07Z"
+    },
+    {
+      "id": "5hGzYOXKT3YxJu2qcDTc44",
+      "name": "Lover / / Over the Moon",
+      "artists": [
+        {
+          "id": "03uMw43UVu9MsQCcHVSGjX",
+          "name": "Alice Phoebe Lou",
+          "uri": "spotify:artist:03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "album": {
+        "id": "17bMGqdO2UxbHHgiE9mX6X",
+        "name": "Glow",
+        "release_date": "2021-03-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732b5477a1f7b6ccb184b1cd3d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022b5477a1f7b6ccb184b1cd3d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512b5477a1f7b6ccb184b1cd3d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 207048,
+      "explicit": false,
+      "popularity": 7,
+      "uri": "spotify:track:5hGzYOXKT3YxJu2qcDTc44",
+      "external_url": "https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44",
+      "added_at": "2023-03-23T20:03:27Z"
+    },
+    {
+      "id": "2UxxDidNYPuTLiMNKBHMiK",
+      "name": "January",
+      "artists": [
+        {
+          "id": "4ftctxasGrW5Ud5Pbw6kWq",
+          "name": "Loving",
+          "uri": "spotify:artist:4ftctxasGrW5Ud5Pbw6kWq"
+        }
+      ],
+      "album": {
+        "id": "6v3mBUMjarq34pFwlXUKrl",
+        "name": "If I Am Only My Thoughts",
+        "release_date": "2020-01-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c97cb02efffc9195e085c965",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c97cb02efffc9195e085c965",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c97cb02efffc9195e085c965",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 114211,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:2UxxDidNYPuTLiMNKBHMiK",
+      "external_url": "https://open.spotify.com/track/2UxxDidNYPuTLiMNKBHMiK",
+      "added_at": "2023-03-22T20:50:58Z"
+    },
+    {
+      "id": "6BGNjTZ8zp9MlsIydBa7A9",
+      "name": "For Lovers",
+      "artists": [
+        {
+          "id": "0rFHElzeddB9ymDjgpBENX",
+          "name": "Lamp",
+          "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "album": {
+        "id": "0gwS2D9sukMLXNvleEnYr2",
+        "name": "For Lovers",
+        "release_date": "2004-02-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27358ebd661a51fcf2968db3ea1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0258ebd661a51fcf2968db3ea1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485158ebd661a51fcf2968db3ea1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 75053,
+      "explicit": false,
+      "popularity": 61,
+      "uri": "spotify:track:6BGNjTZ8zp9MlsIydBa7A9",
+      "external_url": "https://open.spotify.com/track/6BGNjTZ8zp9MlsIydBa7A9",
+      "added_at": "2023-03-22T20:15:52Z"
+    },
+    {
+      "id": "4FQUePAIytrm4bxKeFuwjv",
+      "name": "Let There Be Light Again",
+      "artists": [
+        {
+          "id": "7BqRcZsHYYQeqMAOp7e532",
+          "name": "落日飛車 Sunset Rollercoaster",
+          "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "album": {
+        "id": "1UcajfOXAXhRJ0h7XTaLzb",
+        "name": "Let There Be Light Again",
+        "release_date": "2021-09-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e393b34c3dfb03bc05dfa562",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e393b34c3dfb03bc05dfa562",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e393b34c3dfb03bc05dfa562",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 227293,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:4FQUePAIytrm4bxKeFuwjv",
+      "external_url": "https://open.spotify.com/track/4FQUePAIytrm4bxKeFuwjv",
+      "added_at": "2023-04-22T18:28:54Z"
+    },
+    {
+      "id": "0JuJ0M9ZaKDwXms3rUh1Hk",
+      "name": "Love in the Time of Socialism",
+      "artists": [
+        {
+          "id": "2jAzx88tHo3KNYauXANisl",
+          "name": "Yellow House",
+          "uri": "spotify:artist:2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "album": {
+        "id": "06YsuIiMmeV7GzKNTxNy59",
+        "name": "A Carnival of Fears",
+        "release_date": "2017-04-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273238d9d43908b01587500d8cf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02238d9d43908b01587500d8cf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851238d9d43908b01587500d8cf",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 251184,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:0JuJ0M9ZaKDwXms3rUh1Hk",
+      "external_url": "https://open.spotify.com/track/0JuJ0M9ZaKDwXms3rUh1Hk",
+      "added_at": "2023-07-15T20:15:02Z"
+    },
+    {
+      "id": "6HwFsywW6lLyFwpRN7gU18",
+      "name": "Starry Starry Night",
+      "artists": [
+        {
+          "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+          "name": "Lianne La Havas",
+          "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "album": {
+        "id": "1WEtKR9qwm52WGTkwpbMo4",
+        "name": "Loving Vincent (Original Motion Picture Soundtrack)",
+        "release_date": "2017-09-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27357f09fbba88211f2689f7ca8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0257f09fbba88211f2689f7ca8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485157f09fbba88211f2689f7ca8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 283504,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:6HwFsywW6lLyFwpRN7gU18",
+      "external_url": "https://open.spotify.com/track/6HwFsywW6lLyFwpRN7gU18",
+      "added_at": "2023-07-15T20:21:40Z"
+    },
+    {
+      "id": "2A9AWrOuAwNagpR0BKENkH",
+      "name": "Rough Days",
+      "artists": [
+        {
+          "id": "3BTY807ipaaT6QHW1tHTt0",
+          "name": "RJ Pasin",
+          "uri": "spotify:artist:3BTY807ipaaT6QHW1tHTt0"
+        }
+      ],
+      "album": {
+        "id": "7llPOLUJeJuLoyzBDVFfzd",
+        "name": "Rough Days",
+        "release_date": "2023-08-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27396fdb98944ecb1298b6c6f08",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0296fdb98944ecb1298b6c6f08",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485196fdb98944ecb1298b6c6f08",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 72727,
+      "explicit": false,
+      "popularity": 49,
+      "uri": "spotify:track:2A9AWrOuAwNagpR0BKENkH",
+      "external_url": "https://open.spotify.com/track/2A9AWrOuAwNagpR0BKENkH",
+      "added_at": "2024-10-15T21:31:42Z"
+    }
+  ]
+}

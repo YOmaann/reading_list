@@ -1,0 +1,1306 @@
+{
+  "id": "0Rd8DJ7aMJE59wyMJljKeV",
+  "name": "net meds parcel",
+  "description": "real tablets over reel tablets",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:0Rd8DJ7aMJE59wyMJljKeV",
+  "external_url": "https://open.spotify.com/playlist/0Rd8DJ7aMJE59wyMJljKeV",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f106abd308107d9a54b2dfd6",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 32,
+  "tracks": [
+    {
+      "id": "1ecC431Go8RX6mPsby6FVg",
+      "name": "Addicted",
+      "artists": [
+        {
+          "id": "2DQkr7ZMTqNrlz5HcXZeI7",
+          "name": "Vin Jay",
+          "uri": "spotify:artist:2DQkr7ZMTqNrlz5HcXZeI7"
+        }
+      ],
+      "album": {
+        "id": "1R0Ro87G9ftmB7AdXLUvbb",
+        "name": "Addicted",
+        "release_date": "2019-09-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732e82564e2e7f3b1597b294a7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022e82564e2e7f3b1597b294a7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512e82564e2e7f3b1597b294a7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 256727,
+      "explicit": true,
+      "popularity": 26,
+      "uri": "spotify:track:1ecC431Go8RX6mPsby6FVg",
+      "external_url": "https://open.spotify.com/track/1ecC431Go8RX6mPsby6FVg",
+      "added_at": "2023-04-11T20:05:06Z"
+    },
+    {
+      "id": "4at3d5QWnlibMVN75ECDrp",
+      "name": "Pretty Little Fears (feat. J. Cole)",
+      "artists": [
+        {
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "album": {
+        "id": "3fc97ZWLIMc1xawhxbKrh2",
+        "name": "East Atlanta Love Letter",
+        "release_date": "2018-09-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e1530b42603367fdb2208d88",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e1530b42603367fdb2208d88",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e1530b42603367fdb2208d88",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 240341,
+      "explicit": true,
+      "popularity": 71,
+      "uri": "spotify:track:4at3d5QWnlibMVN75ECDrp",
+      "external_url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp",
+      "added_at": "2023-03-25T17:20:48Z"
+    },
+    {
+      "id": "6eT7xZZlB2mwyzJ2sUKG6w",
+      "name": "White Iverson",
+      "artists": [
+        {
+          "id": "246dkjvS1zLTtiykXe5h60",
+          "name": "Post Malone",
+          "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "album": {
+        "id": "5s0rmjP8XOPhP6HhqOhuyC",
+        "name": "Stoney (Deluxe)",
+        "release_date": "2016-12-09",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0255404f712deb84d0650a4b41",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 256532,
+      "explicit": true,
+      "popularity": 82,
+      "uri": "spotify:track:6eT7xZZlB2mwyzJ2sUKG6w",
+      "external_url": "https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w",
+      "added_at": "2023-03-25T17:21:09Z"
+    },
+    {
+      "id": "5bJ1DrEM4hNCafcDd1oxHx",
+      "name": "Self Care",
+      "artists": [
+        {
+          "id": "4LLpKhyESsyAXpc4laK94U",
+          "name": "Mac Miller",
+          "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "album": {
+        "id": "5wtE5aLX5r7jOosmPhJhhk",
+        "name": "Swimming",
+        "release_date": "2018-08-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851175c577a61aa13d4fb4b6534",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 345133,
+      "explicit": true,
+      "popularity": 77,
+      "uri": "spotify:track:5bJ1DrEM4hNCafcDd1oxHx",
+      "external_url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx",
+      "added_at": "2023-03-25T17:21:19Z"
+    },
+    {
+      "id": "6BU1RZexmvJcBjgagVVt3M",
+      "name": "Count Me Out",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "album": {
+        "id": "79ONNoS4M9tfIA1mYLBYVX",
+        "name": "Mr. Morale & The Big Steppers",
+        "release_date": "2022-05-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022e02117d76426a08ac7c174f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512e02117d76426a08ac7c174f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 283642,
+      "explicit": true,
+      "popularity": 77,
+      "uri": "spotify:track:6BU1RZexmvJcBjgagVVt3M",
+      "external_url": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M",
+      "added_at": "2023-03-25T17:21:34Z"
+    },
+    {
+      "id": "350l5Tkctw6RMcIdl7MlaS",
+      "name": "scars",
+      "artists": [
+        {
+          "id": "5SXuuuRpukkTvsLuUknva1",
+          "name": "Baby Keem",
+          "uri": "spotify:artist:5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "album": {
+        "id": "3r46DPIQeBQbjvjjV5mXGg",
+        "name": "The Melodic Blue",
+        "release_date": "2021-09-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27335a8a0c8b82b525679eceda6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0235a8a0c8b82b525679eceda6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485135a8a0c8b82b525679eceda6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 266010,
+      "explicit": true,
+      "popularity": 58,
+      "uri": "spotify:track:350l5Tkctw6RMcIdl7MlaS",
+      "external_url": "https://open.spotify.com/track/350l5Tkctw6RMcIdl7MlaS",
+      "added_at": "2023-03-25T17:21:51Z"
+    },
+    {
+      "id": "6Nle9hKrkL1wQpwNfEkxjh",
+      "name": "Chanel",
+      "artists": [
+        {
+          "id": "2h93pZq0e7k5yf4dywlkpM",
+          "name": "Frank Ocean",
+          "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "album": {
+        "id": "6OGzmhzHcjf0uN9j7dYvZH",
+        "name": "Chanel",
+        "release_date": "2017-03-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a0b780c23fc3c19bd412b234",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a0b780c23fc3c19bd412b234",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a0b780c23fc3c19bd412b234",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 210285,
+      "explicit": true,
+      "popularity": 79,
+      "uri": "spotify:track:6Nle9hKrkL1wQpwNfEkxjh",
+      "external_url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh",
+      "added_at": "2023-03-25T17:22:04Z"
+    },
+    {
+      "id": "5mCPDVBb16L4XQwDdbRUpz",
+      "name": "Passionfruit",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "album": {
+        "id": "1lXY618HWkwYKJWBRYR4MK",
+        "name": "More Life",
+        "release_date": "2017-03-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 298940,
+      "explicit": true,
+      "popularity": 89,
+      "uri": "spotify:track:5mCPDVBb16L4XQwDdbRUpz",
+      "external_url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz",
+      "added_at": "2023-03-25T17:22:11Z"
+    },
+    {
+      "id": "6MOst484piqXpzPPRRe8i5",
+      "name": "vice city",
+      "artists": [
+        {
+          "id": "15UsOTVnJzReFVN1VCnxy4",
+          "name": "XXXTENTACION",
+          "uri": "spotify:artist:15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "album": {
+        "id": "23Q7W5jYwmLuOhu9ZeGdTd",
+        "name": "vice city",
+        "release_date": "2022-01-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27376d75805b961da10f02a97c3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0276d75805b961da10f02a97c3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485176d75805b961da10f02a97c3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 220708,
+      "explicit": true,
+      "popularity": 70,
+      "uri": "spotify:track:6MOst484piqXpzPPRRe8i5",
+      "external_url": "https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5",
+      "added_at": "2023-03-25T17:22:20Z"
+    },
+    {
+      "id": "5Eljs00YiRbWgvMeZfO6ey",
+      "name": "Procrastination Broke",
+      "artists": [
+        {
+          "id": "5ozbc0UJUu0RyBu68bE5iB",
+          "name": "J Coul",
+          "uri": "spotify:artist:5ozbc0UJUu0RyBu68bE5iB"
+        }
+      ],
+      "album": {
+        "id": "0OrtHEEHDIMPeqJLFwOoq4",
+        "name": "Procrastination Broke",
+        "release_date": "2023-01-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731fdff67c1ecb47cb36aba832",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021fdff67c1ecb47cb36aba832",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511fdff67c1ecb47cb36aba832",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 147215,
+      "explicit": true,
+      "popularity": 0,
+      "uri": "spotify:track:5Eljs00YiRbWgvMeZfO6ey",
+      "external_url": "https://open.spotify.com/track/5Eljs00YiRbWgvMeZfO6ey",
+      "added_at": "2023-03-25T17:28:06Z"
+    },
+    {
+      "id": "2qOm7ukLyHUXWyR4ZWLwxA",
+      "name": "It Was A Good Day",
+      "artists": [
+        {
+          "id": "3Mcii5XWf6E0lrY3Uky4cA",
+          "name": "Ice Cube",
+          "uri": "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "album": {
+        "id": "71HM1CMYWeZzws8pyiEn46",
+        "name": "The Predator",
+        "release_date": "1992-11-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273994c319841a923465d62e271",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02994c319841a923465d62e271",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851994c319841a923465d62e271",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 260000,
+      "explicit": true,
+      "popularity": 82,
+      "uri": "spotify:track:2qOm7ukLyHUXWyR4ZWLwxA",
+      "external_url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA",
+      "added_at": "2023-03-25T17:30:59Z"
+    },
+    {
+      "id": "10yBOZi6cIDeJOlb7Pbz1J",
+      "name": "Write This Down",
+      "artists": [
+        {
+          "id": "7rdiGVXL2fFyONexHzfKFS",
+          "name": "SoulChef",
+          "uri": "spotify:artist:7rdiGVXL2fFyONexHzfKFS"
+        },
+        {
+          "id": "4nipPsPUFYWKelREvCedZX",
+          "name": "Nieve",
+          "uri": "spotify:artist:4nipPsPUFYWKelREvCedZX"
+        }
+      ],
+      "album": {
+        "id": "3ptoHHpyEFkJAmQFKJCSu5",
+        "name": "Escapism",
+        "release_date": "2010-11-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ed7bac99c87807185ebb0aef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ed7bac99c87807185ebb0aef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ed7bac99c87807185ebb0aef",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 189426,
+      "explicit": false,
+      "popularity": 1,
+      "uri": "spotify:track:10yBOZi6cIDeJOlb7Pbz1J",
+      "external_url": "https://open.spotify.com/track/10yBOZi6cIDeJOlb7Pbz1J",
+      "added_at": "2023-03-25T17:35:17Z"
+    },
+    {
+      "id": "12cZWGf5ZgLcKubEW9mx5q",
+      "name": "HOPE",
+      "artists": [
+        {
+          "id": "6fOMl44jA4Sp5b9PpYCkzz",
+          "name": "NF",
+          "uri": "spotify:artist:6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "album": {
+        "id": "3VYKlqWS3zOv1jli94RFKW",
+        "name": "HOPE",
+        "release_date": "2023-02-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a76c4e0bace73e8f9afa4e3a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a76c4e0bace73e8f9afa4e3a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a76c4e0bace73e8f9afa4e3a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 264473,
+      "explicit": false,
+      "popularity": 68,
+      "uri": "spotify:track:12cZWGf5ZgLcKubEW9mx5q",
+      "external_url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q",
+      "added_at": "2023-03-29T20:32:58Z"
+    },
+    {
+      "id": "1udwFobQ1JoOdWPQrp2b6u",
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "artists": [
+        {
+          "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+          "name": "JID",
+          "uri": "spotify:artist:6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "id": "3IJ21966TwNZI24MwZHMu4",
+          "name": "Baby Tate",
+          "uri": "spotify:artist:3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "album": {
+        "id": "4rJDCELWL0fjdmN9Gn4f4g",
+        "name": "The Forever Story (Extended Version)",
+        "release_date": "2022-10-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cae6e44dcc84e2035c3ad092",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cae6e44dcc84e2035c3ad092",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cae6e44dcc84e2035c3ad092",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 229938,
+      "explicit": true,
+      "popularity": 78,
+      "uri": "spotify:track:1udwFobQ1JoOdWPQrp2b6u",
+      "external_url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u",
+      "added_at": "2023-04-01T09:51:30Z"
+    },
+    {
+      "id": "3lWCa9e0KhDghboM5L9C6d",
+      "name": "Soul Food",
+      "artists": [
+        {
+          "id": "4xRYI6VqpkE3UwrDrAZL8L",
+          "name": "Logic",
+          "uri": "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "album": {
+        "id": "1Mk7Lei0Ra3hawezqmad5V",
+        "name": "Under Pressure (Deluxe)",
+        "release_date": "2014-10-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a4c35326f6fe6676c10e31ac",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a4c35326f6fe6676c10e31ac",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a4c35326f6fe6676c10e31ac",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 292933,
+      "explicit": true,
+      "popularity": 52,
+      "uri": "spotify:track:3lWCa9e0KhDghboM5L9C6d",
+      "external_url": "https://open.spotify.com/track/3lWCa9e0KhDghboM5L9C6d",
+      "added_at": "2023-04-03T14:16:09Z"
+    },
+    {
+      "id": "4gT3mNJA8lnlkYFqGZ8IA2",
+      "name": "Small Worlds",
+      "artists": [
+        {
+          "id": "4LLpKhyESsyAXpc4laK94U",
+          "name": "Mac Miller",
+          "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "album": {
+        "id": "5wtE5aLX5r7jOosmPhJhhk",
+        "name": "Swimming",
+        "release_date": "2018-08-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851175c577a61aa13d4fb4b6534",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 271733,
+      "explicit": true,
+      "popularity": 78,
+      "uri": "spotify:track:4gT3mNJA8lnlkYFqGZ8IA2",
+      "external_url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2",
+      "added_at": "2023-04-08T09:45:43Z"
+    },
+    {
+      "id": "7v3rmoy5jcn4h5UqwQyCM3",
+      "name": "Ginseng Strip 2002",
+      "artists": [
+        {
+          "id": "67lytN32YpUxiSeWlKfHJ3",
+          "name": "Yung Lean",
+          "uri": "spotify:artist:67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "album": {
+        "id": "3xG021y87AUy0wWIlWvGw4",
+        "name": "Lavender",
+        "release_date": "2013-08-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273581915272a4ffd12551c0202",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02581915272a4ffd12551c0202",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851581915272a4ffd12551c0202",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 153999,
+      "explicit": true,
+      "popularity": 77,
+      "uri": "spotify:track:7v3rmoy5jcn4h5UqwQyCM3",
+      "external_url": "https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3",
+      "added_at": "2023-04-11T19:36:36Z"
+    },
+    {
+      "id": "6IZvVAP7VPPnsGX6bvgkqg",
+      "name": "PRIDE.",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "album": {
+        "id": "4eLPsYPBmXABThSJ821sqY",
+        "name": "DAMN.",
+        "release_date": "2017-04-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518b52c6b9bc4e43d873869699",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 275253,
+      "explicit": true,
+      "popularity": 82,
+      "uri": "spotify:track:6IZvVAP7VPPnsGX6bvgkqg",
+      "external_url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg",
+      "added_at": "2023-04-11T20:15:19Z"
+    },
+    {
+      "id": "1q8DwZtQen5fvyB7cKbShC",
+      "name": "Walkin",
+      "artists": [
+        {
+          "id": "6fxyWrfmjcbj5d12gXeiNV",
+          "name": "Denzel Curry",
+          "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "album": {
+        "id": "7KtyUeiJidoZO0ybxBXw0Q",
+        "name": "Melt My Eyez See Your Future",
+        "release_date": "2022-03-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735b924aa009b61b6b9d831eec",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025b924aa009b61b6b9d831eec",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515b924aa009b61b6b9d831eec",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 280000,
+      "explicit": true,
+      "popularity": 67,
+      "uri": "spotify:track:1q8DwZtQen5fvyB7cKbShC",
+      "external_url": "https://open.spotify.com/track/1q8DwZtQen5fvyB7cKbShC",
+      "added_at": "2023-04-11T20:29:29Z"
+    },
+    {
+      "id": "5Gt9bxniM1SxN61yRzRhXL",
+      "name": "United In Grief",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "album": {
+        "id": "79ONNoS4M9tfIA1mYLBYVX",
+        "name": "Mr. Morale & The Big Steppers",
+        "release_date": "2022-05-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022e02117d76426a08ac7c174f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512e02117d76426a08ac7c174f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 255377,
+      "explicit": true,
+      "popularity": 76,
+      "uri": "spotify:track:5Gt9bxniM1SxN61yRzRhXL",
+      "external_url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL",
+      "added_at": "2023-04-11T20:33:45Z"
+    },
+    {
+      "id": "6plT7nFGiXKSBP9HFSI4ef",
+      "name": "Chum",
+      "artists": [
+        {
+          "id": "3A5tHz1SfngyOZM2gItYKu",
+          "name": "Earl Sweatshirt",
+          "uri": "spotify:artist:3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "album": {
+        "id": "5vRfIDOPJHy3W2wHWbzLlE",
+        "name": "Doris",
+        "release_date": "2013-08-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27346f9bf1154c7205b0e8b1667",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0246f9bf1154c7205b0e8b1667",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485146f9bf1154c7205b0e8b1667",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 243773,
+      "explicit": true,
+      "popularity": 58,
+      "uri": "spotify:track:6plT7nFGiXKSBP9HFSI4ef",
+      "external_url": "https://open.spotify.com/track/6plT7nFGiXKSBP9HFSI4ef",
+      "added_at": "2023-04-11T20:54:44Z"
+    },
+    {
+      "id": "2Y4p21c7GPbB8RuhQjzmUh",
+      "name": "Redpill VII",
+      "artists": [
+        {
+          "id": "4xRYI6VqpkE3UwrDrAZL8L",
+          "name": "Logic",
+          "uri": "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "album": {
+        "id": "7KcBjQ5f47uYAmvWCbB2FX",
+        "name": "College Park",
+        "release_date": "2023-02-24",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739c48f9e97a7bd97d1dd54e01",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029c48f9e97a7bd97d1dd54e01",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519c48f9e97a7bd97d1dd54e01",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 252890,
+      "explicit": true,
+      "popularity": 39,
+      "uri": "spotify:track:2Y4p21c7GPbB8RuhQjzmUh",
+      "external_url": "https://open.spotify.com/track/2Y4p21c7GPbB8RuhQjzmUh",
+      "added_at": "2023-04-11T22:18:08Z"
+    },
+    {
+      "id": "6DCZcSspjsKoFjzjrWoCdn",
+      "name": "God's Plan",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "album": {
+        "id": "1ATL5GLyefJaxhQzSPVrLX",
+        "name": "Scorpion",
+        "release_date": "2018-06-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 198973,
+      "explicit": true,
+      "popularity": 87,
+      "uri": "spotify:track:6DCZcSspjsKoFjzjrWoCdn",
+      "external_url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn",
+      "added_at": "2023-04-20T09:15:25Z"
+    },
+    {
+      "id": "7vgTNTaEz3CsBZ1N4YQalM",
+      "name": "Ghost Town",
+      "artists": [
+        {
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "id": "2HPaUgqeutzr3jx5a9WyDV",
+          "name": "PARTYNEXTDOOR",
+          "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "album": {
+        "id": "2Ek1q2haOnxVqhvVKqMvJe",
+        "name": "ye",
+        "release_date": "2018-06-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020cd942c1a864afa4e92d04f2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510cd942c1a864afa4e92d04f2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 271386,
+      "explicit": true,
+      "popularity": 82,
+      "uri": "spotify:track:7vgTNTaEz3CsBZ1N4YQalM",
+      "external_url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
+      "added_at": "2023-04-20T09:19:27Z"
+    },
+    {
+      "id": "5tZmLjU4vhPlJb12IweZuB",
+      "name": "Ambition (feat. Meek Mill & Rick Ross)",
+      "artists": [
+        {
+          "id": "67nwj3Y5sZQLl72VNUHEYE",
+          "name": "Wale",
+          "uri": "spotify:artist:67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "id": "20sxb77xiYeusSH8cVdatc",
+          "name": "Meek Mill",
+          "uri": "spotify:artist:20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "album": {
+        "id": "0jCVC8ndYYOooEY2YTO1l6",
+        "name": "Ambition",
+        "release_date": "2011-10-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273121fae55bc38102df4448b89",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02121fae55bc38102df4448b89",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851121fae55bc38102df4448b89",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 302546,
+      "explicit": true,
+      "popularity": 62,
+      "uri": "spotify:track:5tZmLjU4vhPlJb12IweZuB",
+      "external_url": "https://open.spotify.com/track/5tZmLjU4vhPlJb12IweZuB",
+      "added_at": "2023-05-16T18:45:00Z"
+    },
+    {
+      "id": "4q6oNFTjZmJqkIgPdp8iR1",
+      "name": "Lord Willin'",
+      "artists": [
+        {
+          "id": "4xRYI6VqpkE3UwrDrAZL8L",
+          "name": "Logic",
+          "uri": "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "album": {
+        "id": "5dOpbgAmJeyoakKQ0QLWkR",
+        "name": "The Incredible True Story",
+        "release_date": "2015-11-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f0f7649257d4b99460929ced",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f0f7649257d4b99460929ced",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f0f7649257d4b99460929ced",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 208666,
+      "explicit": true,
+      "popularity": 52,
+      "uri": "spotify:track:4q6oNFTjZmJqkIgPdp8iR1",
+      "external_url": "https://open.spotify.com/track/4q6oNFTjZmJqkIgPdp8iR1",
+      "added_at": "2023-05-19T06:41:14Z"
+    },
+    {
+      "id": "6Ox1rvlwEpB49drasQm6RF",
+      "name": "Star Shopping",
+      "artists": [
+        {
+          "id": "2kCcBybjl3SAtIcwdWpUe3",
+          "name": "Lil Peep",
+          "uri": "spotify:artist:2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "album": {
+        "id": "48dH5WaD1L379zPQt6LMDD",
+        "name": "Star Shopping",
+        "release_date": "2015",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736404fdef267b14d7a548f182",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026404fdef267b14d7a548f182",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516404fdef267b14d7a548f182",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 142000,
+      "explicit": true,
+      "popularity": 3,
+      "uri": "spotify:track:6Ox1rvlwEpB49drasQm6RF",
+      "external_url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF",
+      "added_at": "2023-05-20T21:53:23Z"
+    },
+    {
+      "id": "0Ns3nvzgfC6Yh3j5apV66n",
+      "name": "Soundtrack 2 My Life",
+      "artists": [
+        {
+          "id": "0fA0VVWsXO9YnASrzqfmYu",
+          "name": "Kid Cudi",
+          "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "album": {
+        "id": "6oPPKtAwNNlkW4wwHfQDfM",
+        "name": "Man On The Moon: The End Of Day (Int'l Version)",
+        "release_date": "2009-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273713f297a7bdc1d48971062b2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02713f297a7bdc1d48971062b2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851713f297a7bdc1d48971062b2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 235626,
+      "explicit": true,
+      "popularity": 60,
+      "uri": "spotify:track:0Ns3nvzgfC6Yh3j5apV66n",
+      "external_url": "https://open.spotify.com/track/0Ns3nvzgfC6Yh3j5apV66n",
+      "added_at": "2023-07-24T18:03:30Z"
+    },
+    {
+      "id": "432hUIl3ISDeytYW5XBQ5h",
+      "name": "Wolves",
+      "artists": [
+        {
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "album": {
+        "id": "7gsWAHLeT0w7es6FofOXk1",
+        "name": "The Life Of Pablo",
+        "release_date": "2016-06-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022a7db835b912dc5014bd37f4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512a7db835b912dc5014bd37f4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 301586,
+      "explicit": true,
+      "popularity": 69,
+      "uri": "spotify:track:432hUIl3ISDeytYW5XBQ5h",
+      "external_url": "https://open.spotify.com/track/432hUIl3ISDeytYW5XBQ5h",
+      "added_at": "2023-07-24T18:04:37Z"
+    },
+    {
+      "id": "4vdxTRuWFFn0G41DYRFETY",
+      "name": "My E30",
+      "artists": [
+        {
+          "id": "6NWYXffSb8A9tXyM3Y8mbZ",
+          "name": "Trade Voorhees",
+          "uri": "spotify:artist:6NWYXffSb8A9tXyM3Y8mbZ"
+        }
+      ],
+      "album": {
+        "id": "4acn3GF2G0lNFkFzJeL0SW",
+        "name": "Saturday 7",
+        "release_date": "2019-09-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d4f711bb2dfeaa1441fa8a83",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d4f711bb2dfeaa1441fa8a83",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d4f711bb2dfeaa1441fa8a83",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 321506,
+      "explicit": true,
+      "popularity": 0,
+      "uri": "spotify:track:4vdxTRuWFFn0G41DYRFETY",
+      "external_url": "https://open.spotify.com/track/4vdxTRuWFFn0G41DYRFETY",
+      "added_at": "2023-08-07T15:34:51Z"
+    },
+    {
+      "id": "7qiypv06pBa83MasHTPtAQ",
+      "name": "Begging You",
+      "artists": [
+        {
+          "id": "6rpTmAVssi39dK1wX5ncZT",
+          "name": "Logic",
+          "uri": "spotify:artist:6rpTmAVssi39dK1wX5ncZT"
+        }
+      ],
+      "album": {
+        "id": "5VNP2nAx3q9B6CkHDz67XN",
+        "name": "Listen",
+        "release_date": "2007",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733d6ef83f31a032523a102233",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023d6ef83f31a032523a102233",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513d6ef83f31a032523a102233",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 224966,
+      "explicit": false,
+      "popularity": 37,
+      "uri": "spotify:track:7qiypv06pBa83MasHTPtAQ",
+      "external_url": "https://open.spotify.com/track/7qiypv06pBa83MasHTPtAQ",
+      "added_at": "2023-08-07T15:37:36Z"
+    },
+    {
+      "id": "27LesyIHfMY8mUZt7bv4KP",
+      "name": "Dreams and Nightmares",
+      "artists": [
+        {
+          "id": "20sxb77xiYeusSH8cVdatc",
+          "name": "Meek Mill",
+          "uri": "spotify:artist:20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "album": {
+        "id": "0Ckf7JkYnpD084soz5mftm",
+        "name": "Dreams and Nightmares",
+        "release_date": "2012-10-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736906201da993c0945e506f8f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026906201da993c0945e506f8f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516906201da993c0945e506f8f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 232213,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:27LesyIHfMY8mUZt7bv4KP",
+      "external_url": "https://open.spotify.com/track/27LesyIHfMY8mUZt7bv4KP",
+      "added_at": "2024-05-13T20:03:33Z"
+    }
+  ]
+}

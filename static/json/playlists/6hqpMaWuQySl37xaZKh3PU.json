@@ -1,0 +1,379 @@
+{
+  "id": "6hqpMaWuQySl37xaZKh3PU",
+  "name": "grateful 4",
+  "description": "the goal is to experience ",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:6hqpMaWuQySl37xaZKh3PU",
+  "external_url": "https://open.spotify.com/playlist/6hqpMaWuQySl37xaZKh3PU",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847ff4a7ab3df76b6da83c4adc",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 9,
+  "tracks": [
+    {
+      "id": "4m8ttWM8IKXyhpv89E867J",
+      "name": "Cherry Blossom Girl",
+      "artists": [
+        {
+          "id": "1P6U1dCeHxPui5pIrGmndZ",
+          "name": "Air",
+          "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "album": {
+        "id": "0hQOqvZv1nQvPiBjzyn363",
+        "name": "Talkie Walkie",
+        "release_date": "2004-01-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736400fab74f28e90759ac8815",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026400fab74f28e90759ac8815",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516400fab74f28e90759ac8815",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 219760,
+      "explicit": false,
+      "popularity": 65,
+      "uri": "spotify:track:4m8ttWM8IKXyhpv89E867J",
+      "external_url": "https://open.spotify.com/track/4m8ttWM8IKXyhpv89E867J",
+      "added_at": "2026-01-03T20:14:07Z"
+    },
+    {
+      "id": "2d9KBVxb6bUfVCjjv1JAVe",
+      "name": "The Big Ship - 2004 Remaster",
+      "artists": [
+        {
+          "id": "7MSUfLeTdDEoZiJPDSBXgi",
+          "name": "Brian Eno",
+          "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "album": {
+        "id": "6uoeezh45SYEb8lcT8gDTY",
+        "name": "Another Green World (2004 Remaster)",
+        "release_date": "1975-09-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384d9788915697efd5cbf56f4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284d9788915697efd5cbf56f4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184d9788915697efd5cbf56f4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 181933,
+      "explicit": false,
+      "popularity": 53,
+      "uri": "spotify:track:2d9KBVxb6bUfVCjjv1JAVe",
+      "external_url": "https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe",
+      "added_at": "2026-01-03T20:13:16Z"
+    },
+    {
+      "id": "5L2STOBiS00u7q4aLtRjKK",
+      "name": "Nowhere Near",
+      "artists": [
+        {
+          "id": "5hAhrnb0Ch4ODwWu4tsbpi",
+          "name": "Yo La Tengo",
+          "uri": "spotify:artist:5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "album": {
+        "id": "7a4l81UqmFYs13351IyOSc",
+        "name": "Painful",
+        "release_date": "1993-10-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27331c149250e5caa2fe5483ab5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0231c149250e5caa2fe5483ab5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485131c149250e5caa2fe5483ab5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 363973,
+      "explicit": false,
+      "popularity": 51,
+      "uri": "spotify:track:5L2STOBiS00u7q4aLtRjKK",
+      "external_url": "https://open.spotify.com/track/5L2STOBiS00u7q4aLtRjKK",
+      "added_at": "2026-01-03T20:18:40Z"
+    },
+    {
+      "id": "67Hna13dNDkZvBpTXRIaOJ",
+      "name": "Teardrop",
+      "artists": [
+        {
+          "id": "6FXMGgJwohJLUSr5nVlf9X",
+          "name": "Massive Attack",
+          "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "id": "791Z3924aa619hZ3xsOJEx",
+          "name": "Elizabeth Fraser",
+          "uri": "spotify:artist:791Z3924aa619hZ3xsOJEx"
+        }
+      ],
+      "album": {
+        "id": "49MNmJhZQewjt06rpwp6QR",
+        "name": "Mezzanine",
+        "release_date": "1998-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732fcb0a3c7a66e516b11cd26e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022fcb0a3c7a66e516b11cd26e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512fcb0a3c7a66e516b11cd26e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 330773,
+      "explicit": false,
+      "popularity": 77,
+      "uri": "spotify:track:67Hna13dNDkZvBpTXRIaOJ",
+      "external_url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ",
+      "added_at": "2026-01-03T20:21:39Z"
+    },
+    {
+      "id": "07eGxuz8bL6QMsRqEe1Adu",
+      "name": "Svefn-g-englar",
+      "artists": [
+        {
+          "id": "6UUrUCIZtQeOf8tC0WuzRy",
+          "name": "Sigur Rós",
+          "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "album": {
+        "id": "1DMMv1Kmoli3Y9fVEZDUVC",
+        "name": "Ágætis byrjun",
+        "release_date": "1999-06-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737d5c9fa537845b71c4eb3b5e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027d5c9fa537845b71c4eb3b5e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517d5c9fa537845b71c4eb3b5e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 606850,
+      "explicit": false,
+      "popularity": 60,
+      "uri": "spotify:track:07eGxuz8bL6QMsRqEe1Adu",
+      "external_url": "https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu",
+      "added_at": "2026-01-03T20:23:34Z"
+    },
+    {
+      "id": "14EMkYvQQ3E7gI8MFc9bFd",
+      "name": "Venus",
+      "artists": [
+        {
+          "id": "1P6U1dCeHxPui5pIrGmndZ",
+          "name": "Air",
+          "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "album": {
+        "id": "0hQOqvZv1nQvPiBjzyn363",
+        "name": "Talkie Walkie",
+        "release_date": "2004-01-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736400fab74f28e90759ac8815",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026400fab74f28e90759ac8815",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516400fab74f28e90759ac8815",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 244560,
+      "explicit": false,
+      "popularity": 49,
+      "uri": "spotify:track:14EMkYvQQ3E7gI8MFc9bFd",
+      "external_url": "https://open.spotify.com/track/14EMkYvQQ3E7gI8MFc9bFd",
+      "added_at": "2026-01-16T04:43:31Z"
+    },
+    {
+      "id": "2P5tq6IKBKjlFSZ6FZlZk6",
+      "name": "Make Way For The Sun",
+      "artists": [
+        {
+          "id": "6BxU8WANw4zXnBceJykdKX",
+          "name": "O & The Mo",
+          "uri": "spotify:artist:6BxU8WANw4zXnBceJykdKX"
+        }
+      ],
+      "album": {
+        "id": "7CAfzXeR5jTdPAx5UCP8Di",
+        "name": "Make Way For The Sun",
+        "release_date": "2025-01-30",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734afd3a523d478064a539a7c0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024afd3a523d478064a539a7c0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514afd3a523d478064a539a7c0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 192464,
+      "explicit": false,
+      "popularity": 62,
+      "uri": "spotify:track:2P5tq6IKBKjlFSZ6FZlZk6",
+      "external_url": "https://open.spotify.com/track/2P5tq6IKBKjlFSZ6FZlZk6",
+      "added_at": "2026-01-18T09:47:53Z"
+    },
+    {
+      "id": "6fNhZRFEkBfgW39W3wKARJ",
+      "name": "Pompeii",
+      "artists": [
+        {
+          "id": "7EQ0qTo7fWT7DPxmxtSYEc",
+          "name": "Bastille",
+          "uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "album": {
+        "id": "1jUoeAbO2HCADZ1uiyLYIo",
+        "name": "Bad Blood",
+        "release_date": "2013-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b89cf022db28fa31376e0ed8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b89cf022db28fa31376e0ed8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b89cf022db28fa31376e0ed8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 214147,
+      "explicit": false,
+      "popularity": 79,
+      "uri": "spotify:track:6fNhZRFEkBfgW39W3wKARJ",
+      "external_url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ",
+      "added_at": "2026-01-18T12:48:34Z"
+    },
+    {
+      "id": "4U45aEWtQhrm8A5mxPaFZ7",
+      "name": "Vienna",
+      "artists": [
+        {
+          "id": "6zFYqv1mOsgBRQbae3JJ9e",
+          "name": "Billy Joel",
+          "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "album": {
+        "id": "1Mhn9VosyjtWn4dMPFlna6",
+        "name": "The Stranger (Legacy Edition)",
+        "release_date": "1977",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026ce61113662ecf693b605ee5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516ce61113662ecf693b605ee5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 214240,
+      "explicit": false,
+      "popularity": 85,
+      "uri": "spotify:track:4U45aEWtQhrm8A5mxPaFZ7",
+      "external_url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7",
+      "added_at": "2026-03-07T12:10:25Z"
+    }
+  ]
+}

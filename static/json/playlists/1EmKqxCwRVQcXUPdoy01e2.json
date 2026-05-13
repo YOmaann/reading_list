@@ -1,0 +1,730 @@
+{
+  "id": "1EmKqxCwRVQcXUPdoy01e2",
+  "name": "metamorphosis ",
+  "description": "the rise of nonchalance is the death of passion",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:1EmKqxCwRVQcXUPdoy01e2",
+  "external_url": "https://open.spotify.com/playlist/1EmKqxCwRVQcXUPdoy01e2",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84429799acc4ed24ba04e24bf5",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 18,
+  "tracks": [
+    {
+      "id": "3KcQqEAlR5pitZscAkcnHJ",
+      "name": "I'm a Bug Now",
+      "artists": [
+        {
+          "id": "74cT8MAv0JwkUku9MKJtZj",
+          "name": "Thomas Flynn",
+          "uri": "spotify:artist:74cT8MAv0JwkUku9MKJtZj"
+        }
+      ],
+      "album": {
+        "id": "2jZKDqW0ccwJsJHQUeuIN6",
+        "name": "Fun Bug Songs (Hell)",
+        "release_date": "2023-12-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d59e7647847b29fd320b37db",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d59e7647847b29fd320b37db",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d59e7647847b29fd320b37db",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 153141,
+      "explicit": false,
+      "popularity": 44,
+      "uri": "spotify:track:3KcQqEAlR5pitZscAkcnHJ",
+      "external_url": "https://open.spotify.com/track/3KcQqEAlR5pitZscAkcnHJ",
+      "added_at": "2025-10-12T15:12:51Z"
+    },
+    {
+      "id": "5xPFWA9a9cwnlywB7yPvxp",
+      "name": "･－･･ ･ － ･･ － －－･ －－－",
+      "artists": [
+        {
+          "id": "0EUOiLsLpv9g7H9YCzUnBS",
+          "name": "･ ･－･ ･－ ･･･ ･ －･･",
+          "uri": "spotify:artist:0EUOiLsLpv9g7H9YCzUnBS"
+        }
+      ],
+      "album": {
+        "id": "17Whk4TOI2NxOTVcrIklQn",
+        "name": "Erased Tapes 20･･－－－0",
+        "release_date": "2021-08-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273700d8622557dc8fc7837feb4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02700d8622557dc8fc7837feb4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851700d8622557dc8fc7837feb4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 434721,
+      "explicit": false,
+      "popularity": 50,
+      "uri": "spotify:track:5xPFWA9a9cwnlywB7yPvxp",
+      "external_url": "https://open.spotify.com/track/5xPFWA9a9cwnlywB7yPvxp",
+      "added_at": "2025-10-12T15:13:40Z"
+    },
+    {
+      "id": "03W2WiY9OSnUI4F9dy9L60",
+      "name": "Watermelon",
+      "artists": [
+        {
+          "id": "0W8oOa4Oc65CDjiVjdZihf",
+          "name": "John + Jane Q. Public",
+          "uri": "spotify:artist:0W8oOa4Oc65CDjiVjdZihf"
+        }
+      ],
+      "album": {
+        "id": "27V04EIO90mLb00XnNlKHd",
+        "name": "Dinner in America Soundtrack",
+        "release_date": "2022-05-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27336b1b73f91b8b3a5d8243473",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0236b1b73f91b8b3a5d8243473",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485136b1b73f91b8b3a5d8243473",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 110110,
+      "explicit": true,
+      "popularity": 75,
+      "uri": "spotify:track:03W2WiY9OSnUI4F9dy9L60",
+      "external_url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60",
+      "added_at": "2025-10-12T18:18:27Z"
+    },
+    {
+      "id": "51VmHIxMTtiGIyjcxEvAtQ",
+      "name": "little spider",
+      "artists": [
+        {
+          "id": "3wfxadqnYdgo7M31acbDVK",
+          "name": "Anatole Muster",
+          "uri": "spotify:artist:3wfxadqnYdgo7M31acbDVK"
+        }
+      ],
+      "album": {
+        "id": "6FvUrURnN7EXNESjyBH5lD",
+        "name": "little spider",
+        "release_date": "2025-07-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273afdb39c8294fca4116acdd15",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02afdb39c8294fca4116acdd15",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851afdb39c8294fca4116acdd15",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 102000,
+      "explicit": false,
+      "popularity": 20,
+      "uri": "spotify:track:51VmHIxMTtiGIyjcxEvAtQ",
+      "external_url": "https://open.spotify.com/track/51VmHIxMTtiGIyjcxEvAtQ",
+      "added_at": "2025-10-14T05:33:24Z"
+    },
+    {
+      "id": "2SsY5k7UWFqgye3PUMG3Oq",
+      "name": "The Subway",
+      "artists": [
+        {
+          "id": "7GlBOeep6PqTfFi59PTUUN",
+          "name": "Chappell Roan",
+          "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "album": {
+        "id": "7GlwcUYHB99l7k13I2Hira",
+        "name": "The Subway",
+        "release_date": "2025-08-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730b96f8824100aab118792442",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020b96f8824100aab118792442",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510b96f8824100aab118792442",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 252276,
+      "explicit": true,
+      "popularity": 81,
+      "uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq",
+      "external_url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq",
+      "added_at": "2025-10-15T18:30:27Z"
+    },
+    {
+      "id": "4hGc42qyzkBMoHGddyX565",
+      "name": "Andrew in Drag",
+      "artists": [
+        {
+          "id": "6RWjTQqILL7a1tQ0VapyLK",
+          "name": "The Magnetic Fields",
+          "uri": "spotify:artist:6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "album": {
+        "id": "0CfSd8lAcnddr939k6hle1",
+        "name": "Love at the Bottom of the Sea",
+        "release_date": "2012-03-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b7bd93936365223705b00484",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b7bd93936365223705b00484",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b7bd93936365223705b00484",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 132573,
+      "explicit": false,
+      "popularity": 72,
+      "uri": "spotify:track:4hGc42qyzkBMoHGddyX565",
+      "external_url": "https://open.spotify.com/track/4hGc42qyzkBMoHGddyX565",
+      "added_at": "2025-10-15T19:01:25Z"
+    },
+    {
+      "id": "0QW0KPBXXv67haGjbtkRRB",
+      "name": "Image",
+      "artists": [
+        {
+          "id": "1oPRcJUkloHaRLYx0olBLJ",
+          "name": "Magdalena Bay",
+          "uri": "spotify:artist:1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "album": {
+        "id": "4HTy9WFTYooRjE9giTmzAF",
+        "name": "Imaginal Disk",
+        "release_date": "2024-08-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735a2ff617de4e51a9a214b56a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025a2ff617de4e51a9a214b56a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515a2ff617de4e51a9a214b56a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 212866,
+      "explicit": false,
+      "popularity": 13,
+      "uri": "spotify:track:0QW0KPBXXv67haGjbtkRRB",
+      "external_url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB",
+      "added_at": "2025-10-17T13:41:36Z"
+    },
+    {
+      "id": "1g9GiiPPaL7KcDHlDzu7lT",
+      "name": "Au Pays du Cocaine",
+      "artists": [
+        {
+          "id": "0WCo84qtCKfbyIf1lqQWB4",
+          "name": "Geese",
+          "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "album": {
+        "id": "0eeXb23yMW6EaIgm63xxPC",
+        "name": "Getting Killed",
+        "release_date": "2025-09-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 210945,
+      "explicit": false,
+      "popularity": 71,
+      "uri": "spotify:track:1g9GiiPPaL7KcDHlDzu7lT",
+      "external_url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT",
+      "added_at": "2025-10-19T21:49:29Z"
+    },
+    {
+      "id": "6HJszgJO19tAKff7X40ggp",
+      "name": "Reality Surf",
+      "artists": [
+        {
+          "id": "2xvtxDNInKDV4AvGmjw6d1",
+          "name": "Bladee",
+          "uri": "spotify:artist:2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "album": {
+        "id": "38grabLpTHYySHEyG0TyUN",
+        "name": "333",
+        "release_date": "2020-07-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d754d2ef29e3f7dcd73caa3b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d754d2ef29e3f7dcd73caa3b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 123586,
+      "explicit": false,
+      "popularity": 58,
+      "uri": "spotify:track:6HJszgJO19tAKff7X40ggp",
+      "external_url": "https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp",
+      "added_at": "2025-10-21T21:55:00Z"
+    },
+    {
+      "id": "6ziZOtSbJ13tlxXmY1rCKr",
+      "name": "Seasons In The Sun - 2023 Remaster",
+      "artists": [
+        {
+          "id": "6Hd3xhv1sj3rlojjvGLkGR",
+          "name": "Black Box Recorder",
+          "uri": "spotify:artist:6Hd3xhv1sj3rlojjvGLkGR"
+        }
+      ],
+      "album": {
+        "id": "0Gguoe8P0n0DgptjqDn3FV",
+        "name": "England Made Me [25th Anniversary Edition]",
+        "release_date": "2023-11-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736f54d54cc1c88b05cfd587e4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026f54d54cc1c88b05cfd587e4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516f54d54cc1c88b05cfd587e4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 160602,
+      "explicit": false,
+      "popularity": 71,
+      "uri": "spotify:track:6ziZOtSbJ13tlxXmY1rCKr",
+      "external_url": "https://open.spotify.com/track/6ziZOtSbJ13tlxXmY1rCKr",
+      "added_at": "2025-10-29T16:02:11Z"
+    },
+    {
+      "id": "2j5AyPkjugfvw0HWrK1Wvr",
+      "name": "Switch",
+      "artists": [
+        {
+          "id": "4GoD5FJCgC0lbzde7ly44M",
+          "name": "Biig Piig",
+          "uri": "spotify:artist:4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "album": {
+        "id": "0izNh5tYrA859V9FzAEgvI",
+        "name": "Switch",
+        "release_date": "2020-03-31",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273659be1b124a67bb53c89e7c6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02659be1b124a67bb53c89e7c6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851659be1b124a67bb53c89e7c6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 141502,
+      "explicit": false,
+      "popularity": 48,
+      "uri": "spotify:track:2j5AyPkjugfvw0HWrK1Wvr",
+      "external_url": "https://open.spotify.com/track/2j5AyPkjugfvw0HWrK1Wvr",
+      "added_at": "2025-11-04T13:27:57Z"
+    },
+    {
+      "id": "7gHLUnqivM9ArDog4Uutal",
+      "name": "Spirit Of Your Friend",
+      "artists": [
+        {
+          "id": "0LVrQUinPUBFvVD5pLqmWY",
+          "name": "Doves",
+          "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "album": {
+        "id": "5cqV9CEPnwaUhAF8DZPphk",
+        "name": "Spirit Of Your Friend",
+        "release_date": "2025-10-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e55e133db294d1375029da0d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e55e133db294d1375029da0d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e55e133db294d1375029da0d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 219441,
+      "explicit": false,
+      "popularity": 28,
+      "uri": "spotify:track:7gHLUnqivM9ArDog4Uutal",
+      "external_url": "https://open.spotify.com/track/7gHLUnqivM9ArDog4Uutal",
+      "added_at": "2025-11-13T23:00:03Z"
+    },
+    {
+      "id": "5iRhXmdfV03kDNEB3FRb8e",
+      "name": "Change the Times",
+      "artists": [
+        {
+          "id": "2NNwTJN1lpxq4k3m03HxeA",
+          "name": "Visit Neptune",
+          "uri": "spotify:artist:2NNwTJN1lpxq4k3m03HxeA"
+        }
+      ],
+      "album": {
+        "id": "6fgrycSDkoEYlCaEctUTDF",
+        "name": "Change the Times",
+        "release_date": "2022-03-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27394008c5e38ddc6aef94923dc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0294008c5e38ddc6aef94923dc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485194008c5e38ddc6aef94923dc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 180000,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:5iRhXmdfV03kDNEB3FRb8e",
+      "external_url": "https://open.spotify.com/track/5iRhXmdfV03kDNEB3FRb8e",
+      "added_at": "2025-11-16T18:27:05Z"
+    },
+    {
+      "id": "7Bj4wIqRzM6vx278EFYoBh",
+      "name": "Child Psychology",
+      "artists": [
+        {
+          "id": "6Hd3xhv1sj3rlojjvGLkGR",
+          "name": "Black Box Recorder",
+          "uri": "spotify:artist:6Hd3xhv1sj3rlojjvGLkGR"
+        }
+      ],
+      "album": {
+        "id": "1PVtgkCZPW8AVll0gKsHDS",
+        "name": "England Made Me",
+        "release_date": "1998-07-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27368e8d2ccea9adb0dcdc0e08e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0268e8d2ccea9adb0dcdc0e08e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485168e8d2ccea9adb0dcdc0e08e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 248266,
+      "explicit": false,
+      "popularity": 69,
+      "uri": "spotify:track:7Bj4wIqRzM6vx278EFYoBh",
+      "external_url": "https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh",
+      "added_at": "2025-12-11T11:33:47Z"
+    },
+    {
+      "id": "719aK5iQfj2tQInOlCdYtm",
+      "name": "Almost Was Good Enough",
+      "artists": [
+        {
+          "id": "3uQ5cxFHxXddqPL58egs1z",
+          "name": "Songs: Ohia",
+          "uri": "spotify:artist:3uQ5cxFHxXddqPL58egs1z"
+        },
+        {
+          "id": "4tBNwdhdWAXGzzaPTp9dRE",
+          "name": "Jason Molina",
+          "uri": "spotify:artist:4tBNwdhdWAXGzzaPTp9dRE"
+        }
+      ],
+      "album": {
+        "id": "5MqGZZtQ36zsETrTK2uy04",
+        "name": "Magnolia Electric Co. (Deluxe Edition)",
+        "release_date": "2003-03-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27389b54a2385458cbe68bc35c6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0289b54a2385458cbe68bc35c6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485189b54a2385458cbe68bc35c6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 268253,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:719aK5iQfj2tQInOlCdYtm",
+      "external_url": "https://open.spotify.com/track/719aK5iQfj2tQInOlCdYtm",
+      "added_at": "2025-12-12T19:45:47Z"
+    },
+    {
+      "id": "3YIcae7kfKRTJkvPMktAqJ",
+      "name": "through - Remastered",
+      "artists": [
+        {
+          "id": "47mrO8UvhD1Qt6iAIy4fCO",
+          "name": "800 cherries",
+          "uri": "spotify:artist:47mrO8UvhD1Qt6iAIy4fCO"
+        }
+      ],
+      "album": {
+        "id": "4sgGSXkrfKwigJLt6Hfied",
+        "name": "romantico (2022 Remaster)",
+        "release_date": "1998-11-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27367ec35b49e51fe6e528b8e05",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0267ec35b49e51fe6e528b8e05",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485167ec35b49e51fe6e528b8e05",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 347626,
+      "explicit": false,
+      "popularity": 66,
+      "uri": "spotify:track:3YIcae7kfKRTJkvPMktAqJ",
+      "external_url": "https://open.spotify.com/track/3YIcae7kfKRTJkvPMktAqJ",
+      "added_at": "2026-01-03T05:21:49Z"
+    },
+    {
+      "id": "48X4D1FYOShPz2VF3YdfCF",
+      "name": "House Of Cards",
+      "artists": [
+        {
+          "id": "4Z8W4fKeB5YxbusRsdQVPb",
+          "name": "Radiohead",
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "album": {
+        "id": "5vkqYmiPBYLaalcmjujWxK",
+        "name": "In Rainbows",
+        "release_date": "2007-12-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851de3c04b5fc750b68899b20a9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 328293,
+      "explicit": false,
+      "popularity": 70,
+      "uri": "spotify:track:48X4D1FYOShPz2VF3YdfCF",
+      "external_url": "https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF",
+      "added_at": "2026-01-06T00:56:16Z"
+    },
+    {
+      "id": "7qFLFQOYcytDd4hejiREzk",
+      "name": "Pines",
+      "artists": [
+        {
+          "id": "3zmfs9cQwzJl575W1ZYXeT",
+          "name": "Men I Trust",
+          "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "album": {
+        "id": "4W4gNYa4tt3t8V6FmONWEK",
+        "name": "Oncle Jazz",
+        "release_date": "2019-09-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273080a103172ab636cd50df7f0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02080a103172ab636cd50df7f0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851080a103172ab636cd50df7f0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 222089,
+      "explicit": false,
+      "popularity": 55,
+      "uri": "spotify:track:7qFLFQOYcytDd4hejiREzk",
+      "external_url": "https://open.spotify.com/track/7qFLFQOYcytDd4hejiREzk",
+      "added_at": "2026-01-13T18:14:02Z"
+    }
+  ]
+}

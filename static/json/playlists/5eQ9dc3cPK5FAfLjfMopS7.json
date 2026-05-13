@@ -1,0 +1,452 @@
+{
+  "id": "5eQ9dc3cPK5FAfLjfMopS7",
+  "name": "pudding cherry 🍮🍒",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:5eQ9dc3cPK5FAfLjfMopS7",
+  "external_url": "https://open.spotify.com/playlist/5eQ9dc3cPK5FAfLjfMopS7",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843b4b3d04e9d35693d01da586",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 11,
+  "tracks": [
+    {
+      "id": "6nNuWzPSGPZxgvQSNj9PfQ",
+      "name": "Country",
+      "artists": [
+        {
+          "id": "3Y3bK9UlgDtqEfIwFUCLH0",
+          "name": "Racoma",
+          "uri": "spotify:artist:3Y3bK9UlgDtqEfIwFUCLH0"
+        }
+      ],
+      "album": {
+        "id": "2Eu5h7H0yoFDNWud9QftS4",
+        "name": "Racoma",
+        "release_date": "2018-03-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733c577cb3b210d1a019c26442",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023c577cb3b210d1a019c26442",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513c577cb3b210d1a019c26442",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 187538,
+      "explicit": false,
+      "popularity": 55,
+      "uri": "spotify:track:6nNuWzPSGPZxgvQSNj9PfQ",
+      "external_url": "https://open.spotify.com/track/6nNuWzPSGPZxgvQSNj9PfQ",
+      "added_at": "2024-11-01T20:00:35Z"
+    },
+    {
+      "id": "2muShsusjxQTjqB8P6J7KZ",
+      "name": "Live at the Swamp",
+      "artists": [
+        {
+          "id": "6fC2AcsQtd9h4BWELbbire",
+          "name": "Peach Pit",
+          "uri": "spotify:artist:6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "album": {
+        "id": "3Vk0be2qEuqARxrC6U5ZV3",
+        "name": "You and Your Friends",
+        "release_date": "2020-04-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27335c3de6175656a6abf864ce5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0235c3de6175656a6abf864ce5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485135c3de6175656a6abf864ce5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 194266,
+      "explicit": false,
+      "popularity": 41,
+      "uri": "spotify:track:2muShsusjxQTjqB8P6J7KZ",
+      "external_url": "https://open.spotify.com/track/2muShsusjxQTjqB8P6J7KZ",
+      "added_at": "2024-11-01T20:00:53Z"
+    },
+    {
+      "id": "38ADDGw0JhgRo8qz1y2MzE",
+      "name": "East Coast",
+      "artists": [
+        {
+          "id": "5qmwKbAkhpdKIU6f1KUV7r",
+          "name": "alex g online",
+          "uri": "spotify:artist:5qmwKbAkhpdKIU6f1KUV7r"
+        }
+      ],
+      "album": {
+        "id": "1RLXfZ20XM1vUeDtf7hgeW",
+        "name": "East Coast",
+        "release_date": "2024-05-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d39acbbbe50ad0fdea0ee1fe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d39acbbbe50ad0fdea0ee1fe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d39acbbbe50ad0fdea0ee1fe",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 151118,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:38ADDGw0JhgRo8qz1y2MzE",
+      "external_url": "https://open.spotify.com/track/38ADDGw0JhgRo8qz1y2MzE",
+      "added_at": "2024-11-01T20:01:40Z"
+    },
+    {
+      "id": "1eHHb0B6g4Rdsl3C4z1qge",
+      "name": "Good Company",
+      "artists": [
+        {
+          "id": "2ic4xySjQ39N7DJ0HZemeG",
+          "name": "Bronze Radio Return",
+          "uri": "spotify:artist:2ic4xySjQ39N7DJ0HZemeG"
+        }
+      ],
+      "album": {
+        "id": "4SK3yLBBavfPvlNMowPr33",
+        "name": "Light Me Up",
+        "release_date": "2015-10-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273eda5aca32e11412c1e740911",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02eda5aca32e11412c1e740911",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851eda5aca32e11412c1e740911",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 226466,
+      "explicit": false,
+      "popularity": 50,
+      "uri": "spotify:track:1eHHb0B6g4Rdsl3C4z1qge",
+      "external_url": "https://open.spotify.com/track/1eHHb0B6g4Rdsl3C4z1qge",
+      "added_at": "2024-11-01T20:02:01Z"
+    },
+    {
+      "id": "6NoEG5usxzcTuF6GWoFUDT",
+      "name": "Red Earth & Pouring Rain",
+      "artists": [
+        {
+          "id": "0nJaMZM8paoA5HEUTUXPqi",
+          "name": "Bear's Den",
+          "uri": "spotify:artist:0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "album": {
+        "id": "6EV2s0Rex4FCdLD7muw7Pt",
+        "name": "Red Earth & Pouring Rain",
+        "release_date": "2016-07-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273feb1f77b3c6eddef5d5eb9c6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02feb1f77b3c6eddef5d5eb9c6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851feb1f77b3c6eddef5d5eb9c6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 292075,
+      "explicit": false,
+      "popularity": 49,
+      "uri": "spotify:track:6NoEG5usxzcTuF6GWoFUDT",
+      "external_url": "https://open.spotify.com/track/6NoEG5usxzcTuF6GWoFUDT",
+      "added_at": "2024-11-01T20:02:36Z"
+    },
+    {
+      "id": "0wGkSw4X8NGZrJG24KmHGJ",
+      "name": "I Won't",
+      "artists": [
+        {
+          "id": "2Udd2jgFaz8tXG1w3PyMtN",
+          "name": "Dekker",
+          "uri": "spotify:artist:2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "album": {
+        "id": "7q8YXz7fBjSgE13ZsJEB8I",
+        "name": "Future Ghosts",
+        "release_date": "2024-03-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27331b123223d1ce0708f37f328",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0231b123223d1ce0708f37f328",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485131b123223d1ce0708f37f328",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 198001,
+      "explicit": false,
+      "popularity": 13,
+      "uri": "spotify:track:0wGkSw4X8NGZrJG24KmHGJ",
+      "external_url": "https://open.spotify.com/track/0wGkSw4X8NGZrJG24KmHGJ",
+      "added_at": "2024-11-01T20:03:01Z"
+    },
+    {
+      "id": "3SsGrCb1eaSpGhRDqPaTln",
+      "name": "Snowbank Blues",
+      "artists": [
+        {
+          "id": "6p2HnfM955TI1bX34dkLnI",
+          "name": "The Backseat Lovers",
+          "uri": "spotify:artist:6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "album": {
+        "id": "2Gb2plO2TkNRIgoCuJGm7C",
+        "name": "Waiting to Spill",
+        "release_date": "2022-10-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27371bdd42995c7b1ee2951ca5d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0271bdd42995c7b1ee2951ca5d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485171bdd42995c7b1ee2951ca5d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 197746,
+      "explicit": false,
+      "popularity": 64,
+      "uri": "spotify:track:3SsGrCb1eaSpGhRDqPaTln",
+      "external_url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln",
+      "added_at": "2024-11-01T20:06:52Z"
+    },
+    {
+      "id": "4FQUePAIytrm4bxKeFuwjv",
+      "name": "Let There Be Light Again",
+      "artists": [
+        {
+          "id": "7BqRcZsHYYQeqMAOp7e532",
+          "name": "落日飛車 Sunset Rollercoaster",
+          "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "album": {
+        "id": "1UcajfOXAXhRJ0h7XTaLzb",
+        "name": "Let There Be Light Again",
+        "release_date": "2021-09-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e393b34c3dfb03bc05dfa562",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e393b34c3dfb03bc05dfa562",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e393b34c3dfb03bc05dfa562",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 227293,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:4FQUePAIytrm4bxKeFuwjv",
+      "external_url": "https://open.spotify.com/track/4FQUePAIytrm4bxKeFuwjv",
+      "added_at": "2024-11-01T20:24:36Z"
+    },
+    {
+      "id": "1tZcw7GtIqviL32bzaKdSo",
+      "name": "(Nice Dream)",
+      "artists": [
+        {
+          "id": "4Z8W4fKeB5YxbusRsdQVPb",
+          "name": "Radiohead",
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "album": {
+        "id": "35UJLpClj5EDrhpNIi4DFg",
+        "name": "The Bends",
+        "release_date": "1995-03-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519293c743fa542094336c5e12",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 233226,
+      "explicit": false,
+      "popularity": 70,
+      "uri": "spotify:track:1tZcw7GtIqviL32bzaKdSo",
+      "external_url": "https://open.spotify.com/track/1tZcw7GtIqviL32bzaKdSo",
+      "added_at": "2024-11-01T20:24:51Z"
+    },
+    {
+      "id": "3YsdzICwd73j0iZZB3l4z9",
+      "name": "October Moon",
+      "artists": [
+        {
+          "id": "4qU7IJSReZnsLy5907Mtau",
+          "name": "Richy Mitch & The Coal Miners",
+          "uri": "spotify:artist:4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "album": {
+        "id": "330v2AkPhkpww8XyWcllyp",
+        "name": "October Moon",
+        "release_date": "2024-10-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ac7d70f29178fbb555be9889",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ac7d70f29178fbb555be9889",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ac7d70f29178fbb555be9889",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 246624,
+      "explicit": false,
+      "popularity": 38,
+      "uri": "spotify:track:3YsdzICwd73j0iZZB3l4z9",
+      "external_url": "https://open.spotify.com/track/3YsdzICwd73j0iZZB3l4z9",
+      "added_at": "2024-11-02T01:14:59Z"
+    },
+    {
+      "id": "69ZC6imDJimCUdVq0Kqeue",
+      "name": "Space Child - 2007 Remaster",
+      "artists": [
+        {
+          "id": "2Omy3P5hFZym7FKum1JA1s",
+          "name": "UFO",
+          "uri": "spotify:artist:2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "album": {
+        "id": "0t7jKe5qt4N57sUWX33Zew",
+        "name": "Phenomenon (2007 Remaster)",
+        "release_date": "1974-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731aebacc79b33347a31c79afe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021aebacc79b33347a31c79afe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511aebacc79b33347a31c79afe",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 241533,
+      "explicit": false,
+      "popularity": 57,
+      "uri": "spotify:track:69ZC6imDJimCUdVq0Kqeue",
+      "external_url": "https://open.spotify.com/track/69ZC6imDJimCUdVq0Kqeue",
+      "added_at": "2025-01-17T17:39:49Z"
+    }
+  ]
+}

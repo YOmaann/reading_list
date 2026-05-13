@@ -1,0 +1,652 @@
+{
+  "id": "571TI9oxZPDueS7uScHN16",
+  "name": "grateful 3",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:571TI9oxZPDueS7uScHN16",
+  "external_url": "https://open.spotify.com/playlist/571TI9oxZPDueS7uScHN16",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e2d6ac7b664970a754bb745b",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 16,
+  "tracks": [
+    {
+      "id": "3F821OqRN1oGQg8FKC0S5U",
+      "name": "Kveikur",
+      "artists": [
+        {
+          "id": "6UUrUCIZtQeOf8tC0WuzRy",
+          "name": "Sigur Rós",
+          "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "album": {
+        "id": "1rRNqn4MTZfh393GzGvBtY",
+        "name": "Kveikur",
+        "release_date": "2013-06-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d2388c226e1ab495973435ab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d2388c226e1ab495973435ab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d2388c226e1ab495973435ab",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 355346,
+      "explicit": false,
+      "popularity": 28,
+      "uri": "spotify:track:3F821OqRN1oGQg8FKC0S5U",
+      "external_url": "https://open.spotify.com/track/3F821OqRN1oGQg8FKC0S5U",
+      "added_at": "2025-07-29T20:02:54Z"
+    },
+    {
+      "id": "2gNuTPdRONt6JYwGhr3l2m",
+      "name": "True Adventures",
+      "artists": [
+        {
+          "id": "5zhn89Em2jWUUWdpcLO3YL",
+          "name": "Sea Power",
+          "uri": "spotify:artist:5zhn89Em2jWUUWdpcLO3YL"
+        }
+      ],
+      "album": {
+        "id": "1UZbow8UvON2vhfiPLZF5X",
+        "name": "Open Season",
+        "release_date": "2005-04-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e42806d340556127d4b2e4c4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e42806d340556127d4b2e4c4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e42806d340556127d4b2e4c4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 472600,
+      "explicit": false,
+      "popularity": 13,
+      "uri": "spotify:track:2gNuTPdRONt6JYwGhr3l2m",
+      "external_url": "https://open.spotify.com/track/2gNuTPdRONt6JYwGhr3l2m",
+      "added_at": "2025-07-29T20:03:03Z"
+    },
+    {
+      "id": "4Ht9xI2tDxnK58KmiJuE5d",
+      "name": "Hound of Winter",
+      "artists": [
+        {
+          "id": "34UhPkLbtFKRq3nmfFgejG",
+          "name": "Mogwai",
+          "uri": "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "album": {
+        "id": "5zztAWTuiO72FsgIObAR1E",
+        "name": "Earth Division",
+        "release_date": "2011-09-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738871f641f244ee3b95f2a99b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028871f641f244ee3b95f2a99b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518871f641f244ee3b95f2a99b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 234080,
+      "explicit": false,
+      "popularity": 8,
+      "uri": "spotify:track:4Ht9xI2tDxnK58KmiJuE5d",
+      "external_url": "https://open.spotify.com/track/4Ht9xI2tDxnK58KmiJuE5d",
+      "added_at": "2025-07-29T20:04:23Z"
+    },
+    {
+      "id": "0N3H8hAe6Lfu2iGSxGVdGQ",
+      "name": "Piano Fire",
+      "artists": [
+        {
+          "id": "64tVHZVSAZhDEiOJxnb6hE",
+          "name": "Sparklehorse",
+          "uri": "spotify:artist:64tVHZVSAZhDEiOJxnb6hE"
+        },
+        {
+          "id": "12VaqyEhgwDRuFfEqbnrpz",
+          "name": "PJ Harvey",
+          "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "album": {
+        "id": "6iP3HGmoRXFUrKiml2QVkz",
+        "name": "It's A Wonderful Life",
+        "release_date": "2001-08-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273249e18bd7db232c8384924ce",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02249e18bd7db232c8384924ce",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851249e18bd7db232c8384924ce",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 163733,
+      "explicit": false,
+      "popularity": 53,
+      "uri": "spotify:track:0N3H8hAe6Lfu2iGSxGVdGQ",
+      "external_url": "https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ",
+      "added_at": "2025-07-29T20:07:33Z"
+    },
+    {
+      "id": "19Qi2Cymjh7HDQESDrDBzs",
+      "name": "Autumn Sweater",
+      "artists": [
+        {
+          "id": "5hAhrnb0Ch4ODwWu4tsbpi",
+          "name": "Yo La Tengo",
+          "uri": "spotify:artist:5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "album": {
+        "id": "3V18DIKvRuwdxc2LE4wuac",
+        "name": "I Can Hear The Heart Beating As One",
+        "release_date": "1997-04-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273df717b85d7277f9bcf91ef62",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02df717b85d7277f9bcf91ef62",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851df717b85d7277f9bcf91ef62",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 318373,
+      "explicit": false,
+      "popularity": 54,
+      "uri": "spotify:track:19Qi2Cymjh7HDQESDrDBzs",
+      "external_url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs",
+      "added_at": "2025-07-29T20:09:17Z"
+    },
+    {
+      "id": "2EPuv7zyLpFqReJoYrIFzm",
+      "name": "Jupiter",
+      "artists": [
+        {
+          "id": "2sSGPbdZJkaSE2AbcGOACx",
+          "name": "The Marías",
+          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "album": {
+        "id": "3U7jdirSqKYriJCSIucl10",
+        "name": "Jupiter",
+        "release_date": "2020-03-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27343b856d202c62ba161edc1b7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0243b856d202c62ba161edc1b7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485143b856d202c62ba161edc1b7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 191888,
+      "explicit": false,
+      "popularity": 63,
+      "uri": "spotify:track:2EPuv7zyLpFqReJoYrIFzm",
+      "external_url": "https://open.spotify.com/track/2EPuv7zyLpFqReJoYrIFzm",
+      "added_at": "2025-07-29T20:57:17Z"
+    },
+    {
+      "id": "55QRjEvjWZf2w7LplPhIIN",
+      "name": "Sarah",
+      "artists": [
+        {
+          "id": "4jSYHcSo85heWskYvAULio",
+          "name": "Mojave 3",
+          "uri": "spotify:artist:4jSYHcSo85heWskYvAULio"
+        }
+      ],
+      "album": {
+        "id": "3fjeFLyo8FY1Appkw4Mrvy",
+        "name": "Ask Me Tomorrow",
+        "release_date": "1995-10-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27331a6ae11374a335350825aad",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0231a6ae11374a335350825aad",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485131a6ae11374a335350825aad",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 224200,
+      "explicit": false,
+      "popularity": 43,
+      "uri": "spotify:track:55QRjEvjWZf2w7LplPhIIN",
+      "external_url": "https://open.spotify.com/track/55QRjEvjWZf2w7LplPhIIN",
+      "added_at": "2025-07-30T05:48:31Z"
+    },
+    {
+      "id": "5bCHdS1G42HA5OpEMXtrp9",
+      "name": "Shaayad",
+      "artists": [
+        {
+          "id": "6AnOY77z51J14nEUVsFKTy",
+          "name": "Taba Chake",
+          "uri": "spotify:artist:6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "album": {
+        "id": "5Y7esCvRwUxwEKFEJ6EUdU",
+        "name": "Bombay Dreams",
+        "release_date": "2019-04-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f166688d878f2ad15fd9dd2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020f166688d878f2ad15fd9dd2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510f166688d878f2ad15fd9dd2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 208000,
+      "explicit": false,
+      "popularity": 46,
+      "uri": "spotify:track:5bCHdS1G42HA5OpEMXtrp9",
+      "external_url": "https://open.spotify.com/track/5bCHdS1G42HA5OpEMXtrp9",
+      "added_at": "2025-07-30T06:21:46Z"
+    },
+    {
+      "id": "5MLBottNJ4s4yL6t9sIryD",
+      "name": "Sunflower",
+      "artists": [
+        {
+          "id": "0wz0jO9anccPzH04N7FLBH",
+          "name": "Low",
+          "uri": "spotify:artist:0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "album": {
+        "id": "3YWmAFuOtr9YIDdqJ2Gius",
+        "name": "Things We Lost in the Fire",
+        "release_date": "2001-01-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b55352581f8eeade34f70f6b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b55352581f8eeade34f70f6b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b55352581f8eeade34f70f6b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 279066,
+      "explicit": false,
+      "popularity": 38,
+      "uri": "spotify:track:5MLBottNJ4s4yL6t9sIryD",
+      "external_url": "https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD",
+      "added_at": "2025-07-31T11:02:45Z"
+    },
+    {
+      "id": "6fPan2saHdFaIHuTSatORv",
+      "name": "L’AMOUR DE MA VIE",
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "album": {
+        "id": "7aJuG4TFXa2hmE4z1yxc3n",
+        "name": "HIT ME HARD AND SOFT",
+        "release_date": "2024-05-17",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485171d62ea7ea8a5be92d3c1f62",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 333986,
+      "explicit": false,
+      "popularity": 82,
+      "uri": "spotify:track:6fPan2saHdFaIHuTSatORv",
+      "external_url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv",
+      "added_at": "2025-08-01T12:35:28Z"
+    },
+    {
+      "id": "2zco38BnUzODIa6duYk8On",
+      "name": "India Rubber",
+      "artists": [
+        {
+          "id": "4Z8W4fKeB5YxbusRsdQVPb",
+          "name": "Radiohead",
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "album": {
+        "id": "1Kv1QDrvDeGs2t2sR64pjN",
+        "name": "Fake Plastic Trees",
+        "release_date": "1995-05-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273af4774256c2c61bc7dfe788d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02af4774256c2c61bc7dfe788d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851af4774256c2c61bc7dfe788d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 206320,
+      "explicit": false,
+      "popularity": 67,
+      "uri": "spotify:track:2zco38BnUzODIa6duYk8On",
+      "external_url": "https://open.spotify.com/track/2zco38BnUzODIa6duYk8On",
+      "added_at": "2025-08-13T06:05:05Z"
+    },
+    {
+      "id": "6kOHjAOLz9IvUiRGf72Kec",
+      "name": "Sober to Death",
+      "artists": [
+        {
+          "id": "5PbpKlxQE0Ktl5lcNABoFf",
+          "name": "Car Seat Headrest",
+          "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "album": {
+        "id": "6gDtROOIYa6OQxwhDNkDRM",
+        "name": "Twin Fantasy",
+        "release_date": "2018-02-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736e56a2355e849c1cb25e4e76",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026e56a2355e849c1cb25e4e76",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516e56a2355e849c1cb25e4e76",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 304427,
+      "explicit": false,
+      "popularity": 66,
+      "uri": "spotify:track:6kOHjAOLz9IvUiRGf72Kec",
+      "external_url": "https://open.spotify.com/track/6kOHjAOLz9IvUiRGf72Kec",
+      "added_at": "2025-08-16T20:46:40Z"
+    },
+    {
+      "id": "6bSelvtBlyTIngNfvi0oEa",
+      "name": "OLÉGA",
+      "artists": [
+        {
+          "id": "4EePV5BljRSXJnYww4d5Qa",
+          "name": "Deluxe",
+          "uri": "spotify:artist:4EePV5BljRSXJnYww4d5Qa"
+        }
+      ],
+      "album": {
+        "id": "2Ci4023CawB21aMgLRvGU9",
+        "name": "ÇA FAIT PLAISIR",
+        "release_date": "2025-04-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27368e3fd5e09612346493d9ff1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0268e3fd5e09612346493d9ff1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485168e3fd5e09612346493d9ff1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 236157,
+      "explicit": false,
+      "popularity": 35,
+      "uri": "spotify:track:6bSelvtBlyTIngNfvi0oEa",
+      "external_url": "https://open.spotify.com/track/6bSelvtBlyTIngNfvi0oEa",
+      "added_at": "2025-08-18T12:51:55Z"
+    },
+    {
+      "id": "6Uks8ZMSlASX7aygehQesZ",
+      "name": "Jacked Up",
+      "artists": [
+        {
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "album": {
+        "id": "6StNTJJ7Yq3Hf121kLvPBz",
+        "name": "Weezer (White Album)",
+        "release_date": "2016-04-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273962ce52e166e5e1dd7c2f4a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02962ce52e166e5e1dd7c2f4a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851962ce52e166e5e1dd7c2f4a3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 173506,
+      "explicit": false,
+      "popularity": 41,
+      "uri": "spotify:track:6Uks8ZMSlASX7aygehQesZ",
+      "external_url": "https://open.spotify.com/track/6Uks8ZMSlASX7aygehQesZ",
+      "added_at": "2025-08-22T19:18:27Z"
+    },
+    {
+      "id": "0WZZJ0mDKIkLfL0710ssZt",
+      "name": "Neighborhood #1 (Tunnels)",
+      "artists": [
+        {
+          "id": "3kjuyTCjPG1WMFCiyc5IuB",
+          "name": "Arcade Fire",
+          "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "album": {
+        "id": "6ZB8qaR9JNuS0Q0bG1nbcH",
+        "name": "Funeral",
+        "release_date": "2004-06-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737870762a58313ad6f981d664",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027870762a58313ad6f981d664",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517870762a58313ad6f981d664",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 288333,
+      "explicit": false,
+      "popularity": 56,
+      "uri": "spotify:track:0WZZJ0mDKIkLfL0710ssZt",
+      "external_url": "https://open.spotify.com/track/0WZZJ0mDKIkLfL0710ssZt",
+      "added_at": "2025-08-25T11:03:00Z"
+    },
+    {
+      "id": "1m8BbvwAnub1GHOTRiglRx",
+      "name": "So You Wanna Be A Superhero",
+      "artists": [
+        {
+          "id": "5VnYwYnG7QmpzQtxyubIwh",
+          "name": "Carissa's Wierd",
+          "uri": "spotify:artist:5VnYwYnG7QmpzQtxyubIwh"
+        }
+      ],
+      "album": {
+        "id": "0DUYAw29meoZyNTJIbXKkf",
+        "name": "Songs About Leaving",
+        "release_date": "2010-10-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273070e35eaeb9961a45be1b802",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02070e35eaeb9961a45be1b802",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851070e35eaeb9961a45be1b802",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 219000,
+      "explicit": false,
+      "popularity": 10,
+      "uri": "spotify:track:1m8BbvwAnub1GHOTRiglRx",
+      "external_url": "https://open.spotify.com/track/1m8BbvwAnub1GHOTRiglRx",
+      "added_at": "2025-08-25T14:23:58Z"
+    }
+  ]
+}

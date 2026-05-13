@@ -1,0 +1,350 @@
+{
+  "id": "4LrUXuj4djiTWxIbmK87jH",
+  "name": "animal kingdom",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:4LrUXuj4djiTWxIbmK87jH",
+  "external_url": "https://open.spotify.com/playlist/4LrUXuj4djiTWxIbmK87jH",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84fb8ae3c534b6ff1e473f898c",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 8,
+  "tracks": [
+    {
+      "id": "7qOBKhD1a54OvLvVee2tGf",
+      "name": "Cobra",
+      "artists": [
+        {
+          "id": "0WCo84qtCKfbyIf1lqQWB4",
+          "name": "Geese",
+          "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "album": {
+        "id": "0eeXb23yMW6EaIgm63xxPC",
+        "name": "Getting Killed",
+        "release_date": "2025-09-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 185152,
+      "explicit": false,
+      "popularity": 70,
+      "uri": "spotify:track:7qOBKhD1a54OvLvVee2tGf",
+      "external_url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf",
+      "added_at": "2026-03-15T21:22:28Z"
+    },
+    {
+      "id": "2NW037bP6iLJfeBYynIh1w",
+      "name": "Got the World at Your Fangs",
+      "artists": [
+        {
+          "id": "3ME5MgDqwM6G3UDLmwjftA",
+          "name": "Frog",
+          "uri": "spotify:artist:3ME5MgDqwM6G3UDLmwjftA"
+        }
+      ],
+      "album": {
+        "id": "2O8N7PKDWJ9jmYaMV7CAqH",
+        "name": "Count Bateman",
+        "release_date": "2019-08-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273845dde73f986ecca4187bf0e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02845dde73f986ecca4187bf0e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851845dde73f986ecca4187bf0e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 217024,
+      "explicit": true,
+      "popularity": 44,
+      "uri": "spotify:track:2NW037bP6iLJfeBYynIh1w",
+      "external_url": "https://open.spotify.com/track/2NW037bP6iLJfeBYynIh1w",
+      "added_at": "2026-03-15T21:22:34Z"
+    },
+    {
+      "id": "5g7rJvWYVrloJZwKiShqlS",
+      "name": "Dirty Paws",
+      "artists": [
+        {
+          "id": "4dwdTW1Lfiq0cM8nBAqIIz",
+          "name": "Of Monsters and Men",
+          "uri": "spotify:artist:4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "album": {
+        "id": "4p9dVvZDaZliSjTCbFRhJy",
+        "name": "My Head Is An Animal",
+        "release_date": "2012-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cb3f67e8026e2e493a1e8262",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cb3f67e8026e2e493a1e8262",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 278373,
+      "explicit": false,
+      "popularity": 73,
+      "uri": "spotify:track:5g7rJvWYVrloJZwKiShqlS",
+      "external_url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS",
+      "added_at": "2026-03-15T21:26:47Z"
+    },
+    {
+      "id": "2lwwrWVKdf3LR9lbbhnr6R",
+      "name": "Float On",
+      "artists": [
+        {
+          "id": "1yAwtBaoHLEDWAnWR87hBT",
+          "name": "Modest Mouse",
+          "uri": "spotify:artist:1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "album": {
+        "id": "0TGTGuc2vXv6ZECoAf52N0",
+        "name": "Good News For People Who Love Bad News",
+        "release_date": "2004-04-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cc68329bfbf34037df965dc1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cc68329bfbf34037df965dc1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cc68329bfbf34037df965dc1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 208466,
+      "explicit": false,
+      "popularity": 78,
+      "uri": "spotify:track:2lwwrWVKdf3LR9lbbhnr6R",
+      "external_url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R",
+      "added_at": "2026-03-15T21:27:47Z"
+    },
+    {
+      "id": "1H7gMYGykdtwZOV6s1N0by",
+      "name": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
+      "artists": [
+        {
+          "id": "3WrFJ7ztbogyGnTHbHJFl2",
+          "name": "The Beatles",
+          "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "album": {
+        "id": "50o7kf2wLwVmOTVYJOTplm",
+        "name": "Rubber Soul (Remastered 2009)",
+        "release_date": "1965-12-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ed801e58a9ababdea6ac7ce4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ed801e58a9ababdea6ac7ce4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 124693,
+      "explicit": false,
+      "popularity": 71,
+      "uri": "spotify:track:1H7gMYGykdtwZOV6s1N0by",
+      "external_url": "https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by",
+      "added_at": "2026-03-15T21:28:40Z"
+    },
+    {
+      "id": "3Ck96jIZdVzpWbbZ6mojsE",
+      "name": "Mykonos",
+      "artists": [
+        {
+          "id": "4EVpmkEwrLYEg6jIsiPMIb",
+          "name": "Fleet Foxes",
+          "uri": "spotify:artist:4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "album": {
+        "id": "3vz6xBtlgVdLTRgK1CiPcF",
+        "name": "Sun Giant",
+        "release_date": "2008-02-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734a8854d880d67850e1c7b98c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024a8854d880d67850e1c7b98c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514a8854d880d67850e1c7b98c",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 275306,
+      "explicit": false,
+      "popularity": 68,
+      "uri": "spotify:track:3Ck96jIZdVzpWbbZ6mojsE",
+      "external_url": "https://open.spotify.com/track/3Ck96jIZdVzpWbbZ6mojsE",
+      "added_at": "2026-03-15T21:29:14Z"
+    },
+    {
+      "id": "5Wmek5wAmAcuEcjHa0YOzg",
+      "name": "The Sweet Prince (feat. Ajay Prasanna, Johnny Marr and Anoushka Shankar)",
+      "artists": [
+        {
+          "id": "3AA28KZvwAUcZuOKwyblJQ",
+          "name": "Gorillaz",
+          "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "id": "0UcnzmNyNnUpA3RJNoUQ3H",
+          "name": "Ajay Prasanna",
+          "uri": "spotify:artist:0UcnzmNyNnUpA3RJNoUQ3H"
+        },
+        {
+          "id": "2bA2YuQk2ID3PWNXUhQrWS",
+          "name": "Johnny Marr",
+          "uri": "spotify:artist:2bA2YuQk2ID3PWNXUhQrWS"
+        },
+        {
+          "id": "6MTByljF8u5omBltY2VKPU",
+          "name": "Anoushka Shankar",
+          "uri": "spotify:artist:6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "album": {
+        "id": "1RvJmGd47lKS4XMXs9j8hD",
+        "name": "The Mountain",
+        "release_date": "2026-02-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273eeb01b41f48210d032d1b6a4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02eeb01b41f48210d032d1b6a4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851eeb01b41f48210d032d1b6a4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 273769,
+      "explicit": false,
+      "popularity": 61,
+      "uri": "spotify:track:5Wmek5wAmAcuEcjHa0YOzg",
+      "external_url": "https://open.spotify.com/track/5Wmek5wAmAcuEcjHa0YOzg",
+      "added_at": "2026-03-15T21:30:32Z"
+    },
+    {
+      "id": "0Jspxf6aQbVmZo0o6TSm00",
+      "name": "Snow on The Bluff",
+      "artists": [
+        {
+          "id": "4mvJqW3HQswIu7RmvcAQUy",
+          "name": "Evening Elephants",
+          "uri": "spotify:artist:4mvJqW3HQswIu7RmvcAQUy"
+        }
+      ],
+      "album": {
+        "id": "1v9e2OX4Hq5p5OGtXnKH05",
+        "name": "Carefree, very",
+        "release_date": "2025-06-27",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27398ce35daebed9cb37d1886f8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0298ce35daebed9cb37d1886f8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485198ce35daebed9cb37d1886f8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 186070,
+      "explicit": false,
+      "popularity": 73,
+      "uri": "spotify:track:0Jspxf6aQbVmZo0o6TSm00",
+      "external_url": "https://open.spotify.com/track/0Jspxf6aQbVmZo0o6TSm00",
+      "added_at": "2026-03-21T14:23:23Z"
+    }
+  ]
+}

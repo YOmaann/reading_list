@@ -1,0 +1,277 @@
+{
+  "id": "6nrDy3M4W5n7XtRrPY2bMG",
+  "name": "Stop Waiting",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:6nrDy3M4W5n7XtRrPY2bMG",
+  "external_url": "https://open.spotify.com/playlist/6nrDy3M4W5n7XtRrPY2bMG",
+  "cover_art": [
+    {
+      "url": "https://mosaic.scdn.co/640/ab67616d00001e02af4f16213c0e941f0a56d70aab67616d00001e02e0cd9495603ed7f6b4867494ab67616d00001e02e2b3ff2e0b0b8aa122b12410ab67616d00001e02f00e7eae8e4ed688e17fc118",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "url": "https://mosaic.scdn.co/300/ab67616d00001e02af4f16213c0e941f0a56d70aab67616d00001e02e0cd9495603ed7f6b4867494ab67616d00001e02e2b3ff2e0b0b8aa122b12410ab67616d00001e02f00e7eae8e4ed688e17fc118",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "url": "https://mosaic.scdn.co/60/ab67616d00001e02af4f16213c0e941f0a56d70aab67616d00001e02e0cd9495603ed7f6b4867494ab67616d00001e02e2b3ff2e0b0b8aa122b12410ab67616d00001e02f00e7eae8e4ed688e17fc118",
+      "width": 60,
+      "height": 60
+    }
+  ],
+  "track_count": 6,
+  "tracks": [
+    {
+      "id": "5ZP8LfM7TezqoxF9yp6VzX",
+      "name": "Stop Waiting",
+      "artists": [
+        {
+          "id": "1QAJqy2dA3ihHBFIHRphZj",
+          "name": "Cigarettes After Sex",
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "album": {
+        "id": "1altYQrIlTUBxLKPEkVxgh",
+        "name": "Bubblegum",
+        "release_date": "2023-07-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f00e7eae8e4ed688e17fc118",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f00e7eae8e4ed688e17fc118",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f00e7eae8e4ed688e17fc118",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 362973,
+      "explicit": false,
+      "popularity": 72,
+      "uri": "spotify:track:5ZP8LfM7TezqoxF9yp6VzX",
+      "external_url": "https://open.spotify.com/track/5ZP8LfM7TezqoxF9yp6VzX",
+      "added_at": "2026-03-16T14:46:29Z"
+    },
+    {
+      "id": "4x1GdXKB8XraZmN5oHzas9",
+      "name": "Waiting",
+      "artists": [
+        {
+          "id": "6w9HvCLYiBHxp7YcN7zCvF",
+          "name": "Begum",
+          "uri": "spotify:artist:6w9HvCLYiBHxp7YcN7zCvF"
+        }
+      ],
+      "album": {
+        "id": "0eQXEoGZmxjZVH8p551NJn",
+        "name": "Bagh",
+        "release_date": "2014-08-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273af4f16213c0e941f0a56d70a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02af4f16213c0e941f0a56d70a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851af4f16213c0e941f0a56d70a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 180223,
+      "explicit": false,
+      "popularity": 5,
+      "uri": "spotify:track:4x1GdXKB8XraZmN5oHzas9",
+      "external_url": "https://open.spotify.com/track/4x1GdXKB8XraZmN5oHzas9",
+      "added_at": "2026-03-16T14:46:48Z"
+    },
+    {
+      "id": "0qWoOHqTirzo59FQ9eoECH",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        {
+          "id": "35l9BRT7MXmM8bv2WDQiyB",
+          "name": "beabadoobee",
+          "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "id": "2sSGPbdZJkaSE2AbcGOACx",
+          "name": "The Marías",
+          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "album": {
+        "id": "4cC1e65OnA1NdyiuvdnwSt",
+        "name": "All I Did Was Dream of You (feat. The Marías)",
+        "release_date": "2026-03-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e0cd9495603ed7f6b4867494",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e0cd9495603ed7f6b4867494",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 223788,
+      "explicit": false,
+      "popularity": 80,
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "external_url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH",
+      "added_at": "2026-03-17T17:37:57Z"
+    },
+    {
+      "id": "5dNDBm3dVxo2Zemw9SC1TR",
+      "name": "Heavy Heads",
+      "artists": [
+        {
+          "id": "3c2nSvBJwDuvmxFBKlc854",
+          "name": "Orca",
+          "uri": "spotify:artist:3c2nSvBJwDuvmxFBKlc854"
+        }
+      ],
+      "album": {
+        "id": "53oI2Smb1pZKWACrwf7ixf",
+        "name": "Heavy Heads",
+        "release_date": "2026-01-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e2b3ff2e0b0b8aa122b12410",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e2b3ff2e0b0b8aa122b12410",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e2b3ff2e0b0b8aa122b12410",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 211764,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:5dNDBm3dVxo2Zemw9SC1TR",
+      "external_url": "https://open.spotify.com/track/5dNDBm3dVxo2Zemw9SC1TR",
+      "added_at": "2026-03-20T12:16:20Z"
+    },
+    {
+      "id": "3SeDS5sSoWnwAZvVgkdKzf",
+      "name": "Better in the Dark",
+      "artists": [
+        {
+          "id": "5Bw9kFNhy019e4IBCJZlzw",
+          "name": "Jordana",
+          "uri": "spotify:artist:5Bw9kFNhy019e4IBCJZlzw"
+        },
+        {
+          "id": "0Y6dVaC9DZtPNH4591M42W",
+          "name": "TV Girl",
+          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "album": {
+        "id": "60EzsIzS77S9MWHT0Tm37s",
+        "name": "Summer's Over",
+        "release_date": "2021-10-13",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ebf1802f3aedc62b8f6339d3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ebf1802f3aedc62b8f6339d3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ebf1802f3aedc62b8f6339d3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 155500,
+      "explicit": false,
+      "popularity": 82,
+      "uri": "spotify:track:3SeDS5sSoWnwAZvVgkdKzf",
+      "external_url": "https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf",
+      "added_at": "2026-03-20T13:02:32Z"
+    },
+    {
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "artists": [
+        {
+          "id": "5mHUmlJWkcoOk1NbjfrXWz",
+          "name": "Temper City",
+          "uri": "spotify:artist:5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "album": {
+        "id": "7Cdqksm4yTfiq0EfKPa86M",
+        "name": "Self Aware",
+        "release_date": "2026-02-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d6c26d2ae723f7ab553d64cc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d6c26d2ae723f7ab553d64cc",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 180740,
+      "explicit": false,
+      "popularity": 92,
+      "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+      "external_url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+      "added_at": "2026-03-21T06:39:04Z"
+    }
+  ]
+}

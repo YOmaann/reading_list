@@ -1,0 +1,584 @@
+{
+  "id": "3sJAWbTqXoVHfSj7QSD8l4",
+  "name": "cooler",
+  "description": "",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:3sJAWbTqXoVHfSj7QSD8l4",
+  "external_url": "https://open.spotify.com/playlist/3sJAWbTqXoVHfSj7QSD8l4",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8477c055505893e49e4c2bb9ab",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 14,
+  "tracks": [
+    {
+      "id": "0BkWtEXXzkDMadmURIQhRp",
+      "name": "The Beginning",
+      "artists": [
+        {
+          "id": "4MrQDA45Gd0llLrwFUzimG",
+          "name": "Flawed Mangoes",
+          "uri": "spotify:artist:4MrQDA45Gd0llLrwFUzimG"
+        }
+      ],
+      "album": {
+        "id": "69hrTeO4BjTu7669zPqsEv",
+        "name": "The Beginning/Birdsong",
+        "release_date": "2023-09-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273200329f4c86a839029d39d34",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02200329f4c86a839029d39d34",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851200329f4c86a839029d39d34",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 175384,
+      "explicit": false,
+      "popularity": 55,
+      "uri": "spotify:track:0BkWtEXXzkDMadmURIQhRp",
+      "external_url": "https://open.spotify.com/track/0BkWtEXXzkDMadmURIQhRp",
+      "added_at": "2024-05-05T18:57:03Z"
+    },
+    {
+      "id": "0ytvsZOerGzUWfHXVT2Sgy",
+      "name": "Eternal Youth",
+      "artists": [
+        {
+          "id": "4CWpoyuE7e9NvBkUSTmJfq",
+          "name": "RŮDE",
+          "uri": "spotify:artist:4CWpoyuE7e9NvBkUSTmJfq"
+        }
+      ],
+      "album": {
+        "id": "6STwjBCu3CTEViSxJChKlV",
+        "name": "Eternal Youth",
+        "release_date": "2017-08-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273097f3d06dd8726a91f526e21",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02097f3d06dd8726a91f526e21",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851097f3d06dd8726a91f526e21",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 205766,
+      "explicit": false,
+      "popularity": 63,
+      "uri": "spotify:track:0ytvsZOerGzUWfHXVT2Sgy",
+      "external_url": "https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy",
+      "added_at": "2024-05-05T18:57:23Z"
+    },
+    {
+      "id": "4EDj8GXOlI45vG4SOfswK3",
+      "name": "Headache",
+      "artists": [
+        {
+          "id": "31uyAcnY0kjjKKIQZMKX4i",
+          "name": "Grouper",
+          "uri": "spotify:artist:31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "album": {
+        "id": "5e5MtmjBRnh3eI5g5C0Tyv",
+        "name": "Paradise Valley",
+        "release_date": "2016-12-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cf2b573520259b8f068dc210",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cf2b573520259b8f068dc210",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cf2b573520259b8f068dc210",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 304460,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:4EDj8GXOlI45vG4SOfswK3",
+      "external_url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3",
+      "added_at": "2024-05-05T19:10:18Z"
+    },
+    {
+      "id": "37Unx14mB8QnCx0bDjtCM8",
+      "name": "i miss you",
+      "artists": [
+        {
+          "id": "1v7B6ZWa7QRQS3knn3Jvf4",
+          "name": "Ichika Nito",
+          "uri": "spotify:artist:1v7B6ZWa7QRQS3knn3Jvf4"
+        }
+      ],
+      "album": {
+        "id": "4iAAZgLQNfLmyJxjNR3P2u",
+        "name": "i miss you",
+        "release_date": "2019-07-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27375f35bf293f00889a7f59041",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0275f35bf293f00889a7f59041",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485175f35bf293f00889a7f59041",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 116791,
+      "explicit": false,
+      "popularity": 46,
+      "uri": "spotify:track:37Unx14mB8QnCx0bDjtCM8",
+      "external_url": "https://open.spotify.com/track/37Unx14mB8QnCx0bDjtCM8",
+      "added_at": "2024-05-05T19:11:29Z"
+    },
+    {
+      "id": "7dF8hsVoSdDWT6GlJZpBPm",
+      "name": "today is a gift",
+      "artists": [
+        {
+          "id": "4owATw6JCMuUxeWdh3eiyg",
+          "name": "Beowülf",
+          "uri": "spotify:artist:4owATw6JCMuUxeWdh3eiyg"
+        }
+      ],
+      "album": {
+        "id": "2EcHfSYVuBq7M8RwzJWsUa",
+        "name": "today is a gift",
+        "release_date": "2018-01-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27316a74fbbbf98bfb7334946f5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0216a74fbbbf98bfb7334946f5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485116a74fbbbf98bfb7334946f5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 155141,
+      "explicit": false,
+      "popularity": 43,
+      "uri": "spotify:track:7dF8hsVoSdDWT6GlJZpBPm",
+      "external_url": "https://open.spotify.com/track/7dF8hsVoSdDWT6GlJZpBPm",
+      "added_at": "2024-05-05T19:12:47Z"
+    },
+    {
+      "id": "4zzxSXdXK4gLEOyGpPpb9v",
+      "name": "green to blue",
+      "artists": [
+        {
+          "id": "5OE8eZn0x45cNNc8GCpvmC",
+          "name": "daniel.mp3",
+          "uri": "spotify:artist:5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "album": {
+        "id": "7z42veG3zikTkobdHGvgwt",
+        "name": "Backroom",
+        "release_date": "2022-06-29",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27383ae32caa4aa4ae1e4dac7ed",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0283ae32caa4aa4ae1e4dac7ed",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485183ae32caa4aa4ae1e4dac7ed",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 189515,
+      "explicit": false,
+      "popularity": 69,
+      "uri": "spotify:track:4zzxSXdXK4gLEOyGpPpb9v",
+      "external_url": "https://open.spotify.com/track/4zzxSXdXK4gLEOyGpPpb9v",
+      "added_at": "2024-05-05T19:17:26Z"
+    },
+    {
+      "id": "0Db8f7uikjXxH3qHe0UKoW",
+      "name": "Comfort Chain",
+      "artists": [
+        {
+          "id": "3ctnkEZGtVBTxS7IMin8nC",
+          "name": "Instupendo",
+          "uri": "spotify:artist:3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "album": {
+        "id": "01qVg4PWWaeremZOHDVRS1",
+        "name": "Comfort Chain",
+        "release_date": "2017-01-20",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734a41ed550aa0d6566e43b3f2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024a41ed550aa0d6566e43b3f2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514a41ed550aa0d6566e43b3f2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 184363,
+      "explicit": false,
+      "popularity": 75,
+      "uri": "spotify:track:0Db8f7uikjXxH3qHe0UKoW",
+      "external_url": "https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW",
+      "added_at": "2024-05-05T19:17:55Z"
+    },
+    {
+      "id": "0wNOZ8FmGnnNH1YGEWjzLK",
+      "name": "(forever?????????)",
+      "artists": [
+        {
+          "id": "4gHs8pWsgZpndQZKs6QVRH",
+          "name": "glass beach",
+          "uri": "spotify:artist:4gHs8pWsgZpndQZKs6QVRH"
+        }
+      ],
+      "album": {
+        "id": "5GOoswCqZQiq9gbjSHkzMq",
+        "name": "the first glass beach album",
+        "release_date": "2019-05-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273713370162839b17d761da70e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02713370162839b17d761da70e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851713370162839b17d761da70e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 108000,
+      "explicit": false,
+      "popularity": 56,
+      "uri": "spotify:track:0wNOZ8FmGnnNH1YGEWjzLK",
+      "external_url": "https://open.spotify.com/track/0wNOZ8FmGnnNH1YGEWjzLK",
+      "added_at": "2024-05-05T19:18:41Z"
+    },
+    {
+      "id": "1OJxI8lIWRqBvouJxW1nzN",
+      "name": "Subwoofer Lullaby",
+      "artists": [
+        {
+          "id": "4uFZsG1vXrPcvnZ4iSQyrx",
+          "name": "C418",
+          "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "album": {
+        "id": "3Gt7rOjcZQoHCfnKl5AkK7",
+        "name": "Minecraft - Volume Alpha",
+        "release_date": "2011-03-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02aaeb5c9fb6131977995b7f0e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851aaeb5c9fb6131977995b7f0e",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 208562,
+      "explicit": false,
+      "popularity": 34,
+      "uri": "spotify:track:1OJxI8lIWRqBvouJxW1nzN",
+      "external_url": "https://open.spotify.com/track/1OJxI8lIWRqBvouJxW1nzN",
+      "added_at": "2024-05-05T19:19:19Z"
+    },
+    {
+      "id": "1jDMi92a9zNQuPD3uPMkla",
+      "name": "Fallen Down",
+      "artists": [
+        {
+          "id": "57DlMWmbVIf2ssJ8QBpBau",
+          "name": "Toby Fox",
+          "uri": "spotify:artist:57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "album": {
+        "id": "2M2Ae2SvZe3fmzUtlVOV5Z",
+        "name": "UNDERTALE Soundtrack",
+        "release_date": "2015-09-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27324edb22d068eb245a924b7f2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0224edb22d068eb245a924b7f2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485124edb22d068eb245a924b7f2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 57818,
+      "explicit": false,
+      "popularity": 68,
+      "uri": "spotify:track:1jDMi92a9zNQuPD3uPMkla",
+      "external_url": "https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla",
+      "added_at": "2024-05-05T19:19:38Z"
+    },
+    {
+      "id": "6m9nww1dgb0BhrGBnSbyDv",
+      "name": "Jonny's Odyssey",
+      "artists": [
+        {
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "name": "Mac DeMarco",
+          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "album": {
+        "id": "2sij95QgjmgrhNv33achzn",
+        "name": "Salad Days",
+        "release_date": "2014-04-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ec6e9c13eeed14eedbd5f7c9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ec6e9c13eeed14eedbd5f7c9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ec6e9c13eeed14eedbd5f7c9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 158139,
+      "explicit": false,
+      "popularity": 50,
+      "uri": "spotify:track:6m9nww1dgb0BhrGBnSbyDv",
+      "external_url": "https://open.spotify.com/track/6m9nww1dgb0BhrGBnSbyDv",
+      "added_at": "2024-05-07T07:31:16Z"
+    },
+    {
+      "id": "1PQW0obqVPcc4RveCG1VAh",
+      "name": "Instrument of Surrender",
+      "artists": [
+        {
+          "id": "5zhn89Em2jWUUWdpcLO3YL",
+          "name": "Sea Power",
+          "uri": "spotify:artist:5zhn89Em2jWUUWdpcLO3YL"
+        }
+      ],
+      "album": {
+        "id": "5IhBwGYrQotmDvfLcdIj8R",
+        "name": "Disco Elysium",
+        "release_date": "2020-06-21",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27362ee8d315dabd024eedf1a82",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0262ee8d315dabd024eedf1a82",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485162ee8d315dabd024eedf1a82",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 325053,
+      "explicit": false,
+      "popularity": 48,
+      "uri": "spotify:track:1PQW0obqVPcc4RveCG1VAh",
+      "external_url": "https://open.spotify.com/track/1PQW0obqVPcc4RveCG1VAh",
+      "added_at": "2024-05-10T15:56:21Z"
+    },
+    {
+      "id": "1iGvVFhPPVh1Lq3Rbd1Lsp",
+      "name": "Pain and Possibility",
+      "artists": [
+        {
+          "id": "5LrXI2SwrD9P30B6CqOjNV",
+          "name": "Marcus D",
+          "uri": "spotify:artist:5LrXI2SwrD9P30B6CqOjNV"
+        }
+      ],
+      "album": {
+        "id": "01d1r4ukhWN38K2M2NCk7N",
+        "name": "Melancholy Hopeful",
+        "release_date": "2012-06-06",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27303fc5ac455e021c31cffdb2a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0203fc5ac455e021c31cffdb2a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485103fc5ac455e021c31cffdb2a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 185333,
+      "explicit": false,
+      "popularity": 34,
+      "uri": "spotify:track:1iGvVFhPPVh1Lq3Rbd1Lsp",
+      "external_url": "https://open.spotify.com/track/1iGvVFhPPVh1Lq3Rbd1Lsp",
+      "added_at": "2024-05-10T21:16:26Z"
+    },
+    {
+      "id": "0FCvjVSRke0fwYlAQZq1FZ",
+      "name": "The Anthem - Jam Version",
+      "artists": [
+        {
+          "id": "44oppmBJH5NLyqhmEBKTgf",
+          "name": "Johnathan Hulett",
+          "uri": "spotify:artist:44oppmBJH5NLyqhmEBKTgf"
+        },
+        {
+          "id": "7iwFKyHRpYmU83BBnkT7QX",
+          "name": "Jack Siegel",
+          "uri": "spotify:artist:7iwFKyHRpYmU83BBnkT7QX"
+        },
+        {
+          "id": "7F5lTlN1kFpnLW0xArzgDt",
+          "name": "Nick Lamb",
+          "uri": "spotify:artist:7F5lTlN1kFpnLW0xArzgDt"
+        },
+        {
+          "id": "6vClP5mTsjikAKPmVgzYfF",
+          "name": "Emery Mesich",
+          "uri": "spotify:artist:6vClP5mTsjikAKPmVgzYfF"
+        }
+      ],
+      "album": {
+        "id": "1KuMHfLDFAID3hqRvabCW9",
+        "name": "The Anthem (Jam Version)",
+        "release_date": "2024-03-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731d3aa29e79b2eafdb8a7a5bb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021d3aa29e79b2eafdb8a7a5bb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511d3aa29e79b2eafdb8a7a5bb",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 445500,
+      "explicit": false,
+      "popularity": 12,
+      "uri": "spotify:track:0FCvjVSRke0fwYlAQZq1FZ",
+      "external_url": "https://open.spotify.com/track/0FCvjVSRke0fwYlAQZq1FZ",
+      "added_at": "2024-11-05T20:48:16Z"
+    }
+  ]
+}

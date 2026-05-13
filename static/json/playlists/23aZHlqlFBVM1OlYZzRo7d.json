@@ -1,0 +1,389 @@
+{
+  "id": "23aZHlqlFBVM1OlYZzRo7d",
+  "name": "town",
+  "description": "a miserable man",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:23aZHlqlFBVM1OlYZzRo7d",
+  "external_url": "https://open.spotify.com/playlist/23aZHlqlFBVM1OlYZzRo7d",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8492cb9c365e72b40d1d8a9b0b",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 9,
+  "tracks": [
+    {
+      "id": "6gPPoRYJwCsoB2VVdPJfmo",
+      "name": "Miserable Man",
+      "artists": [
+        {
+          "id": "33NVpKoXjItPwUJTMZIOiY",
+          "name": "David Kushner",
+          "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "album": {
+        "id": "2l8bIF7dlr0xNkFJnQXUE4",
+        "name": "Miserable Man",
+        "release_date": "2022-01-07",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733098c022f4ffe7065e033451",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023098c022f4ffe7065e033451",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513098c022f4ffe7065e033451",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 232991,
+      "explicit": false,
+      "popularity": 1,
+      "uri": "spotify:track:6gPPoRYJwCsoB2VVdPJfmo",
+      "external_url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo",
+      "added_at": "2022-07-17T18:21:35Z"
+    },
+    {
+      "id": "0TzeZppPwhEhySYaNRulr9",
+      "name": "please",
+      "artists": [
+        {
+          "id": "5JMLG56F1X5mFmWNmS0iAp",
+          "name": "Chelsea Cutler",
+          "uri": "spotify:artist:5JMLG56F1X5mFmWNmS0iAp"
+        },
+        {
+          "id": "3gIRvgZssIb9aiirIg0nI3",
+          "name": "Jeremy Zucker",
+          "uri": "spotify:artist:3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "album": {
+        "id": "16mjtcKPxpQ4ajFHmJ0hJC",
+        "name": "brent",
+        "release_date": "2019-05-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d841ad4d4aa791514d7e9758",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d841ad4d4aa791514d7e9758",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d841ad4d4aa791514d7e9758",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 219066,
+      "explicit": false,
+      "popularity": 51,
+      "uri": "spotify:track:0TzeZppPwhEhySYaNRulr9",
+      "external_url": "https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9",
+      "added_at": "2022-07-17T18:23:49Z"
+    },
+    {
+      "id": "6xGruZOHLs39ZbVccQTuPZ",
+      "name": "Glimpse of Us",
+      "artists": [
+        {
+          "id": "3MZsBdqDrRTJihTHQrO6Dq",
+          "name": "Joji",
+          "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "album": {
+        "id": "6ZZvx0aefZV3LKa053fn71",
+        "name": "Glimpse of Us",
+        "release_date": "2022-06-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27308596cc28b9f5b00bfe08ae7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0208596cc28b9f5b00bfe08ae7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485108596cc28b9f5b00bfe08ae7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 233456,
+      "explicit": false,
+      "popularity": 8,
+      "uri": "spotify:track:6xGruZOHLs39ZbVccQTuPZ",
+      "external_url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ",
+      "added_at": "2022-07-17T18:42:24Z"
+    },
+    {
+      "id": "7eJMfftS33KTjuF7lTsMCx",
+      "name": "death bed (coffee for your head)",
+      "artists": [
+        {
+          "id": "6bmlMHgSheBauioMgKv2tn",
+          "name": "Powfu",
+          "uri": "spotify:artist:6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "id": "35l9BRT7MXmM8bv2WDQiyB",
+          "name": "beabadoobee",
+          "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "album": {
+        "id": "2p9gK2BcdrloHNJwarc9gc",
+        "name": "death bed (coffee for your head)",
+        "release_date": "2020-02-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bf01fd0986a195d485922167",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bf01fd0986a195d485922167",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 173333,
+      "explicit": false,
+      "popularity": 82,
+      "uri": "spotify:track:7eJMfftS33KTjuF7lTsMCx",
+      "external_url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx",
+      "added_at": "2022-07-17T18:24:21Z"
+    },
+    {
+      "id": "3AqPL1n1wKc5DVFFnYuJhp",
+      "name": "To Build A Home",
+      "artists": [
+        {
+          "id": "32ogthv0BdaSMPml02X9YB",
+          "name": "The Cinematic Orchestra",
+          "uri": "spotify:artist:32ogthv0BdaSMPml02X9YB"
+        },
+        {
+          "id": "7bPs6jf983f0bjRAt1yxDM",
+          "name": "Patrick Watson",
+          "uri": "spotify:artist:7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "album": {
+        "id": "5VrMypyjjBGzObGwnEHIJO",
+        "name": "Ma Fleur",
+        "release_date": "2007-06-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c78b3b999b220fae18483091",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c78b3b999b220fae18483091",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c78b3b999b220fae18483091",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 370666,
+      "explicit": false,
+      "popularity": 68,
+      "uri": "spotify:track:3AqPL1n1wKc5DVFFnYuJhp",
+      "external_url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp",
+      "added_at": "2022-07-17T18:31:30Z"
+    },
+    {
+      "id": "5UVBumEwdUnzvqxrXOYLFA",
+      "name": "17",
+      "artists": [
+        {
+          "id": "1Z2KInfSmPOzAIYyiaXeti",
+          "name": "Youth Lagoon",
+          "uri": "spotify:artist:1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "album": {
+        "id": "7jG32gfkuo10qarPgmWC7q",
+        "name": "The Year of Hibernation",
+        "release_date": "2011",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733ef1207895b314d646f6a3b7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023ef1207895b314d646f6a3b7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513ef1207895b314d646f6a3b7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 236000,
+      "explicit": false,
+      "popularity": 51,
+      "uri": "spotify:track:5UVBumEwdUnzvqxrXOYLFA",
+      "external_url": "https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA",
+      "added_at": "2022-07-18T16:02:58Z"
+    },
+    {
+      "id": "3Mmt4wAMtWRmObAxbejpPe",
+      "name": "Sleep Thru Ur Alarms",
+      "artists": [
+        {
+          "id": "6v6tycmzJDLrgOXTj7mbT9",
+          "name": "Lontalius",
+          "uri": "spotify:artist:6v6tycmzJDLrgOXTj7mbT9"
+        }
+      ],
+      "album": {
+        "id": "78RlalVILUrWdkRSHiNT2z",
+        "name": "Surrender (2014 - 2017)",
+        "release_date": "2019-04-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a02d47ad3c5c53a9c7e9e081",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a02d47ad3c5c53a9c7e9e081",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a02d47ad3c5c53a9c7e9e081",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 112863,
+      "explicit": false,
+      "popularity": 63,
+      "uri": "spotify:track:3Mmt4wAMtWRmObAxbejpPe",
+      "external_url": "https://open.spotify.com/track/3Mmt4wAMtWRmObAxbejpPe",
+      "added_at": "2022-07-19T18:01:11Z"
+    },
+    {
+      "id": "7znAjItIP7xKKhyFzF5W1B",
+      "name": "Big Jet Plane",
+      "artists": [
+        {
+          "id": "4tvKz56Tr39bkhcQUTO0Xr",
+          "name": "Angus & Julia Stone",
+          "uri": "spotify:artist:4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "album": {
+        "id": "0Q9wQEB1q2C8uHMQhCMtGZ",
+        "name": "Down The Way",
+        "release_date": "2010-03-12",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27372fe2d2befdc1990b43c9aa6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0272fe2d2befdc1990b43c9aa6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485172fe2d2befdc1990b43c9aa6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 239146,
+      "explicit": false,
+      "popularity": 65,
+      "uri": "spotify:track:7znAjItIP7xKKhyFzF5W1B",
+      "external_url": "https://open.spotify.com/track/7znAjItIP7xKKhyFzF5W1B",
+      "added_at": "2023-04-17T08:48:06Z"
+    },
+    {
+      "id": "3VgPWlg0q4OaYRkuSFD6Yd",
+      "name": "Isle Of Strawberries",
+      "artists": [
+        {
+          "id": "44DUgsrbRUlhwfLyj4ySUB",
+          "name": "Edwin Raphael",
+          "uri": "spotify:artist:44DUgsrbRUlhwfLyj4ySUB"
+        }
+      ],
+      "album": {
+        "id": "2a3SSXkv6PfXWhg0qw9qGk",
+        "name": "Will You Think of Me Later?",
+        "release_date": "2019-03-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733d35141b8b3c426a5222f435",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023d35141b8b3c426a5222f435",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513d35141b8b3c426a5222f435",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 215708,
+      "explicit": false,
+      "popularity": 44,
+      "uri": "spotify:track:3VgPWlg0q4OaYRkuSFD6Yd",
+      "external_url": "https://open.spotify.com/track/3VgPWlg0q4OaYRkuSFD6Yd",
+      "added_at": "2024-06-14T18:50:18Z"
+    }
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "id": "7zaPzyX3J8rAf8SHYibXWR",
+  "name": "moisturizer",
+  "description": "for the skincare dealer.",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:7zaPzyX3J8rAf8SHYibXWR",
+  "external_url": "https://open.spotify.com/playlist/7zaPzyX3J8rAf8SHYibXWR",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da842d4a04bed1e88431e0cda25d",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 25,
+  "tracks": [
+    {
+      "id": "1drUAdX3NY4dTieuxdedLY",
+      "name": "Smother",
+      "artists": [
+        {
+          "id": "46CitWgnWrvF9t70C2p1Me",
+          "name": "Daughter",
+          "uri": "spotify:artist:46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "album": {
+        "id": "2Y3kTeMHY7GZAvyNwV1jIH",
+        "name": "If You Leave",
+        "release_date": "2013-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731d96f55437c3a790fd92dab1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021d96f55437c3a790fd92dab1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511d96f55437c3a790fd92dab1",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 240560,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:1drUAdX3NY4dTieuxdedLY",
+      "external_url": "https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY",
+      "added_at": "2023-04-02T11:23:44Z"
+    },
+    {
+      "id": "7ldIYiFIvxPyTiy0iO9UqV",
+      "name": "Featherstone",
+      "artists": [
+        {
+          "id": "79hrYiudVcFyyxyJW0ipTy",
+          "name": "The Paper Kites",
+          "uri": "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "album": {
+        "id": "4TBDgyNsiHYu9xTbasFCE9",
+        "name": "Woodland",
+        "release_date": "2011-07-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fca109d13885d2d798779eef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fca109d13885d2d798779eef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fca109d13885d2d798779eef",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 229626,
+      "explicit": false,
+      "popularity": 51,
+      "uri": "spotify:track:7ldIYiFIvxPyTiy0iO9UqV",
+      "external_url": "https://open.spotify.com/track/7ldIYiFIvxPyTiy0iO9UqV",
+      "added_at": "2023-04-02T11:26:53Z"
+    },
+    {
+      "id": "5PzWVmfzu7rePAuFkxPQf0",
+      "name": "Repeat Until Death",
+      "artists": [
+        {
+          "id": "0rZp7G3gIH6WkyeXbrZnGi",
+          "name": "Novo Amor",
+          "uri": "spotify:artist:0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "album": {
+        "id": "0tWckYjFI6ioZptLr42J3p",
+        "name": "Birthplace",
+        "release_date": "2018-10-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bb7f4860ea8f7f6515756252",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bb7f4860ea8f7f6515756252",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bb7f4860ea8f7f6515756252",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 234080,
+      "explicit": false,
+      "popularity": 70,
+      "uri": "spotify:track:5PzWVmfzu7rePAuFkxPQf0",
+      "external_url": "https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0",
+      "added_at": "2023-04-02T11:27:02Z"
+    },
+    {
+      "id": "4Sfa7hdVkqlM8UW5LsSY3F",
+      "name": "Take a Walk",
+      "artists": [
+        {
+          "id": "7gjAu1qr5C2grXeQFFOGeh",
+          "name": "Passion Pit",
+          "uri": "spotify:artist:7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "album": {
+        "id": "14JU5SskmcyckE5I8PY6lv",
+        "name": "Gossamer",
+        "release_date": "2012-07-23",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ad4c64d56570e6137b02fa54",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ad4c64d56570e6137b02fa54",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ad4c64d56570e6137b02fa54",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 264546,
+      "explicit": false,
+      "popularity": 67,
+      "uri": "spotify:track:4Sfa7hdVkqlM8UW5LsSY3F",
+      "external_url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F",
+      "added_at": "2023-04-02T11:27:36Z"
+    },
+    {
+      "id": "5TS0F9gBrIzEzNCNm0wPwO",
+      "name": "A Brighter Love",
+      "artists": [
+        {
+          "id": "5WId4o5jdGVhptNU0uqKxu",
+          "name": "St. Lucia",
+          "uri": "spotify:artist:5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "album": {
+        "id": "2NzkWKb1zBZdl0ljcp3PtA",
+        "name": "A Brighter Love / Paradise Is Waiting",
+        "release_date": "2018-06-22",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734fe397311c1ecbaf105b5eb6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024fe397311c1ecbaf105b5eb6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514fe397311c1ecbaf105b5eb6",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 332653,
+      "explicit": false,
+      "popularity": 22,
+      "uri": "spotify:track:5TS0F9gBrIzEzNCNm0wPwO",
+      "external_url": "https://open.spotify.com/track/5TS0F9gBrIzEzNCNm0wPwO",
+      "added_at": "2023-04-02T11:27:44Z"
+    },
+    {
+      "id": "4iVVU8DyQvOVsKafv3KWIF",
+      "name": "Leave a Light On",
+      "artists": [
+        {
+          "id": "7z2avKuuiMAT4XZJFv8Rvh",
+          "name": "Tom Walker",
+          "uri": "spotify:artist:7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "album": {
+        "id": "3Qa0qW4ged1J4HGeLXbFsC",
+        "name": "What a Time To Be Alive",
+        "release_date": "2019-03-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cc75e30610b0d39cd02cfaae",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cc75e30610b0d39cd02cfaae",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cc75e30610b0d39cd02cfaae",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 185863,
+      "explicit": false,
+      "popularity": 70,
+      "uri": "spotify:track:4iVVU8DyQvOVsKafv3KWIF",
+      "external_url": "https://open.spotify.com/track/4iVVU8DyQvOVsKafv3KWIF",
+      "added_at": "2023-04-02T11:27:48Z"
+    },
+    {
+      "id": "2liSlNexNAwuix9JhmF8KZ",
+      "name": "Shuffle",
+      "artists": [
+        {
+          "id": "3pTE9iaJTkWns3mxpNQlJV",
+          "name": "Bombay Bicycle Club",
+          "uri": "spotify:artist:3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "album": {
+        "id": "1tdkgJofTb9Q8NNC8Gfuxh",
+        "name": "A Different Kind Of Fix",
+        "release_date": "2011-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d8071ae1874a7cdd592b3e6c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d8071ae1874a7cdd592b3e6c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d8071ae1874a7cdd592b3e6c",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 235293,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:2liSlNexNAwuix9JhmF8KZ",
+      "external_url": "https://open.spotify.com/track/2liSlNexNAwuix9JhmF8KZ",
+      "added_at": "2023-04-02T11:28:03Z"
+    },
+    {
+      "id": "4Qegqm597Rw1PfaV43WkLy",
+      "name": "Nothing Arrived",
+      "artists": [
+        {
+          "id": "2m1l9MLSslzup4vvokKgvQ",
+          "name": "Villagers",
+          "uri": "spotify:artist:2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "album": {
+        "id": "4lZBE5uyS5BGnJOJc88s95",
+        "name": "{Awayland}",
+        "release_date": "2013-01-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273436d803fa5f2c9504b9780a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02436d803fa5f2c9504b9780a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851436d803fa5f2c9504b9780a3",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 223935,
+      "explicit": false,
+      "popularity": 45,
+      "uri": "spotify:track:4Qegqm597Rw1PfaV43WkLy",
+      "external_url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy",
+      "added_at": "2023-04-02T11:28:09Z"
+    },
+    {
+      "id": "0boS4e6uXwp3zAvz1mLxZS",
+      "name": "Run Boy Run",
+      "artists": [
+        {
+          "id": "44TGR1CzjKBxSHsSEy7bi9",
+          "name": "Woodkid",
+          "uri": "spotify:artist:44TGR1CzjKBxSHsSEy7bi9"
+        }
+      ],
+      "album": {
+        "id": "7oRzNo0PkoRJlvI9Eocyf2",
+        "name": "The Golden Age",
+        "release_date": "2013-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273216fa486e2c3e899cacfe6bf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02216fa486e2c3e899cacfe6bf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851216fa486e2c3e899cacfe6bf",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 213266,
+      "explicit": false,
+      "popularity": 76,
+      "uri": "spotify:track:0boS4e6uXwp3zAvz1mLxZS",
+      "external_url": "https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS",
+      "added_at": "2023-04-02T11:28:15Z"
+    },
+    {
+      "id": "01qIefOW1UdSDS1mHoSZ3x",
+      "name": "Slacks",
+      "artists": [
+        {
+          "id": "1n3X60xWCyL1zytSiKeu4D",
+          "name": "St. South",
+          "uri": "spotify:artist:1n3X60xWCyL1zytSiKeu4D"
+        }
+      ],
+      "album": {
+        "id": "7dj1YwKeoOGrhvgQU87qWh",
+        "name": "Slacks",
+        "release_date": "2014-08-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27313a9ef2d626bbf6716b84c03",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0213a9ef2d626bbf6716b84c03",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485113a9ef2d626bbf6716b84c03",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 206634,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:01qIefOW1UdSDS1mHoSZ3x",
+      "external_url": "https://open.spotify.com/track/01qIefOW1UdSDS1mHoSZ3x",
+      "added_at": "2023-04-02T11:28:31Z"
+    },
+    {
+      "id": "4dSi4VGaDAeknj8E5Q30ZP",
+      "name": "Hymnal",
+      "artists": [
+        {
+          "id": "4WQXRya5np83C21wifjNp9",
+          "name": "In The Valley Below",
+          "uri": "spotify:artist:4WQXRya5np83C21wifjNp9"
+        }
+      ],
+      "album": {
+        "id": "4ViGmclVTvJiBYMvPFeXbZ",
+        "name": "The Belt",
+        "release_date": "2014-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d6d43a45746154bf87fd682b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d6d43a45746154bf87fd682b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d6d43a45746154bf87fd682b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 266853,
+      "explicit": false,
+      "popularity": 30,
+      "uri": "spotify:track:4dSi4VGaDAeknj8E5Q30ZP",
+      "external_url": "https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP",
+      "added_at": "2023-04-02T11:28:35Z"
+    },
+    {
+      "id": "7EkMIQ2PzEzwQroLl6dUvw",
+      "name": "crash",
+      "artists": [
+        {
+          "id": "1t20wYnTiAT0Bs7H1hv9Wt",
+          "name": "EDEN",
+          "uri": "spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt"
+        }
+      ],
+      "album": {
+        "id": "2Dbm63Nwx511E4HclnQto6",
+        "name": "vertigo",
+        "release_date": "2018-01-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273da09e2843f974e8fdf807d27",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02da09e2843f974e8fdf807d27",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851da09e2843f974e8fdf807d27",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 232412,
+      "explicit": true,
+      "popularity": 56,
+      "uri": "spotify:track:7EkMIQ2PzEzwQroLl6dUvw",
+      "external_url": "https://open.spotify.com/track/7EkMIQ2PzEzwQroLl6dUvw",
+      "added_at": "2023-04-02T11:28:53Z"
+    },
+    {
+      "id": "0Sq3wdy9bjXBAnkc0SO2A4",
+      "name": "Byegone",
+      "artists": [
+        {
+          "id": "6gAtOqhriLzOzb3Qqmg5kO",
+          "name": "Volcano Choir",
+          "uri": "spotify:artist:6gAtOqhriLzOzb3Qqmg5kO"
+        }
+      ],
+      "album": {
+        "id": "69qFYmNxf9i1kc26Cip5sZ",
+        "name": "Repave",
+        "release_date": "2013-09-03",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732042af06357dd5ab2220e33f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022042af06357dd5ab2220e33f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512042af06357dd5ab2220e33f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 262533,
+      "explicit": false,
+      "popularity": 52,
+      "uri": "spotify:track:0Sq3wdy9bjXBAnkc0SO2A4",
+      "external_url": "https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4",
+      "added_at": "2023-04-02T11:29:45Z"
+    },
+    {
+      "id": "08cXy6KUizaAelYXtcew3w",
+      "name": "1957",
+      "artists": [
+        {
+          "id": "5euJsEvfrlfhYDorMR40OF",
+          "name": "Milo Greene",
+          "uri": "spotify:artist:5euJsEvfrlfhYDorMR40OF"
+        }
+      ],
+      "album": {
+        "id": "15wQEsBsbl14I4m1yEuR8w",
+        "name": "Milo Greene",
+        "release_date": "2012-07-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c28532a3cfe74f77d064815d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c28532a3cfe74f77d064815d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c28532a3cfe74f77d064815d",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 204213,
+      "explicit": false,
+      "popularity": 59,
+      "uri": "spotify:track:08cXy6KUizaAelYXtcew3w",
+      "external_url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w",
+      "added_at": "2023-04-02T11:31:02Z"
+    },
+    {
+      "id": "3AsfuEnwyMTHS7mbzcRUdV",
+      "name": "You",
+      "artists": [
+        {
+          "id": "6GFfu1alUSrL7qazImC160",
+          "name": "Keaton Henson",
+          "uri": "spotify:artist:6GFfu1alUSrL7qazImC160"
+        }
+      ],
+      "album": {
+        "id": "37eQYrftQXIUiWZqc94BHX",
+        "name": "Birthdays",
+        "release_date": "2013-02-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731a59a50c054ce2f9fa9628d8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021a59a50c054ce2f9fa9628d8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511a59a50c054ce2f9fa9628d8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 282680,
+      "explicit": false,
+      "popularity": 46,
+      "uri": "spotify:track:3AsfuEnwyMTHS7mbzcRUdV",
+      "external_url": "https://open.spotify.com/track/3AsfuEnwyMTHS7mbzcRUdV",
+      "added_at": "2023-04-02T11:32:06Z"
+    },
+    {
+      "id": "66MXa8qDIQRtwuxuNtjNCu",
+      "name": "Hello My Old Heart",
+      "artists": [
+        {
+          "id": "3Fe3pszR2t4TOBVz41B1WR",
+          "name": "The Oh Hellos",
+          "uri": "spotify:artist:3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "album": {
+        "id": "4W1OKkOGiLJdfOCz4JQp1W",
+        "name": "The Oh Hellos EP",
+        "release_date": "2011-12-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27383331b8e10a50f92924ef5d7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0283331b8e10a50f92924ef5d7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485183331b8e10a50f92924ef5d7",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 256006,
+      "explicit": false,
+      "popularity": 59,
+      "uri": "spotify:track:66MXa8qDIQRtwuxuNtjNCu",
+      "external_url": "https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu",
+      "added_at": "2023-04-02T11:33:48Z"
+    },
+    {
+      "id": "26X9sBKoalJBEPQ4CqZzPU",
+      "name": "When You Break",
+      "artists": [
+        {
+          "id": "0nJaMZM8paoA5HEUTUXPqi",
+          "name": "Bear's Den",
+          "uri": "spotify:artist:0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "album": {
+        "id": "4baa1BQ5dRO8Bsvjnt3FwH",
+        "name": "Agape",
+        "release_date": "2013-03-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273eb439a494c1789c9a19d7f91",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02eb439a494c1789c9a19d7f91",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851eb439a494c1789c9a19d7f91",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 285677,
+      "explicit": true,
+      "popularity": 0,
+      "uri": "spotify:track:26X9sBKoalJBEPQ4CqZzPU",
+      "external_url": "https://open.spotify.com/track/26X9sBKoalJBEPQ4CqZzPU",
+      "added_at": "2023-04-02T11:35:24Z"
+    },
+    {
+      "id": "3xGmbotxgSltJ5qHX7aZfe",
+      "name": "I Of The Storm",
+      "artists": [
+        {
+          "id": "4dwdTW1Lfiq0cM8nBAqIIz",
+          "name": "Of Monsters and Men",
+          "uri": "spotify:artist:4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "album": {
+        "id": "2mD97VgxTRfwB8F5tvkwrL",
+        "name": "Beneath The Skin",
+        "release_date": "2015-06-05",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bfac187296a90fcb0a5f97c0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bfac187296a90fcb0a5f97c0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bfac187296a90fcb0a5f97c0",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 276466,
+      "explicit": false,
+      "popularity": 53,
+      "uri": "spotify:track:3xGmbotxgSltJ5qHX7aZfe",
+      "external_url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe",
+      "added_at": "2023-04-02T11:38:13Z"
+    },
+    {
+      "id": "56tNMp3B93TFDbWRg92qZS",
+      "name": "Hide & Seek",
+      "artists": [
+        {
+          "id": "0MmnmsAuQKRFpo6vJElcaU",
+          "name": "Amber Run",
+          "uri": "spotify:artist:0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "album": {
+        "id": "1f9OnWfmuBiKkPHbc2H5un",
+        "name": "Spark EP",
+        "release_date": "2014-04-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732ebf8a9bd8996849f65cdf6f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022ebf8a9bd8996849f65cdf6f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512ebf8a9bd8996849f65cdf6f",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 281906,
+      "explicit": false,
+      "popularity": 40,
+      "uri": "spotify:track:56tNMp3B93TFDbWRg92qZS",
+      "external_url": "https://open.spotify.com/track/56tNMp3B93TFDbWRg92qZS",
+      "added_at": "2023-04-02T11:43:48Z"
+    },
+    {
+      "id": "6y6jbcPG4Yn3Du4moXaenr",
+      "name": "idfc",
+      "artists": [
+        {
+          "id": "2cFrymmkijnjDg9SS92EPM",
+          "name": "blackbear",
+          "uri": "spotify:artist:2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "album": {
+        "id": "1TkwzY3l4LqAfrQwBAx45Q",
+        "name": "deadroses",
+        "release_date": "2015-02-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739bd9040e92f79ffb58eb9dbd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029bd9040e92f79ffb58eb9dbd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519bd9040e92f79ffb58eb9dbd",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 245172,
+      "explicit": true,
+      "popularity": 75,
+      "uri": "spotify:track:6y6jbcPG4Yn3Du4moXaenr",
+      "external_url": "https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr",
+      "added_at": "2023-04-02T20:24:09Z"
+    },
+    {
+      "id": "75muTXu3cskvXC3IxZ9DLA",
+      "name": "When It's All Over",
+      "artists": [
+        {
+          "id": "25IZcQsNwnvgeBiTEjBNI4",
+          "name": "RAIGN",
+          "uri": "spotify:artist:25IZcQsNwnvgeBiTEjBNI4"
+        }
+      ],
+      "album": {
+        "id": "78mRXaD8LPP6faK9kWA5pd",
+        "name": "When It's All Over - Single",
+        "release_date": "2016-04-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a9939e518cf50078567222e4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a9939e518cf50078567222e4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a9939e518cf50078567222e4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 226615,
+      "explicit": false,
+      "popularity": 53,
+      "uri": "spotify:track:75muTXu3cskvXC3IxZ9DLA",
+      "external_url": "https://open.spotify.com/track/75muTXu3cskvXC3IxZ9DLA",
+      "added_at": "2023-04-03T08:24:14Z"
+    },
+    {
+      "id": "2nMeu6UenVvwUktBCpLMK9",
+      "name": "Young And Beautiful",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "id": "1D92WOHWUI2AGQCCdplcXL",
+        "name": "Young And Beautiful",
+        "release_date": "2013-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d7fb3e4c63020039d1cff6b2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d7fb3e4c63020039d1cff6b2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 236053,
+      "explicit": false,
+      "popularity": 89,
+      "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
+      "external_url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9",
+      "added_at": "2023-04-03T08:27:49Z"
+    },
+    {
+      "id": "77KnJc8o5G1eKVwX5ywMeZ",
+      "name": "Mind Over Matter (Reprise)",
+      "artists": [
+        {
+          "id": "4j56EQDQu5XnL7R3E9iFJT",
+          "name": "Young the Giant",
+          "uri": "spotify:artist:4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "album": {
+        "id": "2Xp4fbuZF8UNC3b774j7zE",
+        "name": "Mirrorball / Mind Over Matter (Reprise)",
+        "release_date": "2015-04-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731f66d9c6790a9a1a2418ec57",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021f66d9c6790a9a1a2418ec57",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511f66d9c6790a9a1a2418ec57",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 230866,
+      "explicit": false,
+      "popularity": 76,
+      "uri": "spotify:track:77KnJc8o5G1eKVwX5ywMeZ",
+      "external_url": "https://open.spotify.com/track/77KnJc8o5G1eKVwX5ywMeZ",
+      "added_at": "2023-04-06T16:17:35Z"
+    },
+    {
+      "id": "22TntnVO3lQNDR5nsvxGRs",
+      "name": "Achilles Come Down",
+      "artists": [
+        {
+          "id": "142YBUGmLWCJigFLzgguf8",
+          "name": "Gang of Youths",
+          "uri": "spotify:artist:142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "album": {
+        "id": "0leVOEw8L2TnAfLGwkFnab",
+        "name": "Go Farther In Lightness",
+        "release_date": "2017-08-18",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a2329c84c1421041f06a7ad5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a2329c84c1421041f06a7ad5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a2329c84c1421041f06a7ad5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 422146,
+      "explicit": true,
+      "popularity": 67,
+      "uri": "spotify:track:22TntnVO3lQNDR5nsvxGRs",
+      "external_url": "https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs",
+      "added_at": "2023-04-24T15:54:05Z"
+    },
+    {
+      "id": "3SPVZJzf1Hs30rB6yXVf2y",
+      "name": "Mountain Sound",
+      "artists": [
+        {
+          "id": "4dwdTW1Lfiq0cM8nBAqIIz",
+          "name": "Of Monsters and Men",
+          "uri": "spotify:artist:4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "album": {
+        "id": "4p9dVvZDaZliSjTCbFRhJy",
+        "name": "My Head Is An Animal",
+        "release_date": "2012-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cb3f67e8026e2e493a1e8262",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cb3f67e8026e2e493a1e8262",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 211453,
+      "explicit": false,
+      "popularity": 67,
+      "uri": "spotify:track:3SPVZJzf1Hs30rB6yXVf2y",
+      "external_url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y",
+      "added_at": "2026-02-05T03:14:39Z"
+    }
+  ]
+}

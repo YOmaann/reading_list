@@ -1,0 +1,764 @@
+{
+  "id": "53Jul6csWGQUsEOmStwuqC",
+  "name": "grateful",
+  "description": "for everything",
+  "owner": {
+    "id": "ocuh198im8h5fw81ntovs9xme",
+    "display_name": "luckyfur"
+  },
+  "public": true,
+  "collaborative": false,
+  "uri": "spotify:playlist:53Jul6csWGQUsEOmStwuqC",
+  "external_url": "https://open.spotify.com/playlist/53Jul6csWGQUsEOmStwuqC",
+  "cover_art": [
+    {
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ad2d9f69639de413dc5f6a67",
+      "width": null,
+      "height": null
+    }
+  ],
+  "track_count": 19,
+  "tracks": [
+    {
+      "id": "6kZqCqD1r08sJAQ1TjuEpM",
+      "name": "Never Meant",
+      "artists": [
+        {
+          "id": "5FwydyGVcsQllnM4xM6jw4",
+          "name": "American Football",
+          "uri": "spotify:artist:5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "album": {
+        "id": "70OkRXiiwdTCtZ9YiPBzPp",
+        "name": "American Football",
+        "release_date": "1999-09-14",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731e734783a00588087331a0b4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021e734783a00588087331a0b4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511e734783a00588087331a0b4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 268333,
+      "explicit": false,
+      "popularity": 66,
+      "uri": "spotify:track:6kZqCqD1r08sJAQ1TjuEpM",
+      "external_url": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM",
+      "added_at": "2024-01-12T07:22:23Z"
+    },
+    {
+      "id": "3R0vgiaA0WYkqqQiD0jgBZ",
+      "name": "dragon ball z budokai tenkaichi 4",
+      "artists": [
+        {
+          "id": "2As5mhLZq1gVOdBPrZ0TUA",
+          "name": "Camping In Alaska",
+          "uri": "spotify:artist:2As5mhLZq1gVOdBPrZ0TUA"
+        }
+      ],
+      "album": {
+        "id": "01ctEaCoSQA4wOohKLKZYD",
+        "name": "please be nice",
+        "release_date": "2013-09-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f9c0dfd6181fb77ee9095bb8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f9c0dfd6181fb77ee9095bb8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f9c0dfd6181fb77ee9095bb8",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 196044,
+      "explicit": true,
+      "popularity": 0,
+      "uri": "spotify:track:3R0vgiaA0WYkqqQiD0jgBZ",
+      "external_url": "https://open.spotify.com/track/3R0vgiaA0WYkqqQiD0jgBZ",
+      "added_at": "2024-01-12T07:22:46Z"
+    },
+    {
+      "id": "4fnFayX7jwbv9L1RFzXWMO",
+      "name": "Sleep Patterns",
+      "artists": [
+        {
+          "id": "0OqkI7nRio2urzFPN5pIQS",
+          "name": "Merchant Ships",
+          "uri": "spotify:artist:0OqkI7nRio2urzFPN5pIQS"
+        }
+      ],
+      "album": {
+        "id": "5dGvCrryQg3iGYd8pIXUCZ",
+        "name": "For Cameron",
+        "release_date": "2010-07-08",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef4fe17b5e9991194d28be2a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef4fe17b5e9991194d28be2a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ef4fe17b5e9991194d28be2a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 197275,
+      "explicit": false,
+      "popularity": 0,
+      "uri": "spotify:track:4fnFayX7jwbv9L1RFzXWMO",
+      "external_url": "https://open.spotify.com/track/4fnFayX7jwbv9L1RFzXWMO",
+      "added_at": "2024-01-12T07:23:01Z"
+    },
+    {
+      "id": "3kQfBtkQqgN1fAMfhks8TU",
+      "name": "Need 2",
+      "artists": [
+        {
+          "id": "2gbT6GPXMis0OAkZbEQCYB",
+          "name": "Pinegrove",
+          "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "album": {
+        "id": "7zlf5gmgcFBUSLZpVsh9EE",
+        "name": "Everything So Far",
+        "release_date": "2015-10-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734e48dddf8b7fa7f224015588",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024e48dddf8b7fa7f224015588",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514e48dddf8b7fa7f224015588",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 191796,
+      "explicit": false,
+      "popularity": 9,
+      "uri": "spotify:track:3kQfBtkQqgN1fAMfhks8TU",
+      "external_url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU",
+      "added_at": "2024-01-12T07:26:48Z"
+    },
+    {
+      "id": "6BrMEbPSSj55nQhkgf6DnE",
+      "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
+      "artists": [
+        {
+          "id": "3yY2gUcIsjMr8hjo51PoJ8",
+          "name": "The Smiths",
+          "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "album": {
+        "id": "1j57Q5ntVi7crpibb0h4sv",
+        "name": "Hatful of Hollow",
+        "release_date": "1984",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02786b44c75ebf915866523f5b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851786b44c75ebf915866523f5b",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 112706,
+      "explicit": false,
+      "popularity": 79,
+      "uri": "spotify:track:6BrMEbPSSj55nQhkgf6DnE",
+      "external_url": "https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE",
+      "added_at": "2024-01-12T07:53:04Z"
+    },
+    {
+      "id": "2QhURnm7mQDxBb5jWkbDug",
+      "name": "Don't Panic",
+      "artists": [
+        {
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "album": {
+        "id": "6ZG5lRT77aJ3btmArcykra",
+        "name": "Parachutes",
+        "release_date": "2000-07-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519164bafe9aaa168d93f4816a",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 136866,
+      "explicit": false,
+      "popularity": 70,
+      "uri": "spotify:track:2QhURnm7mQDxBb5jWkbDug",
+      "external_url": "https://open.spotify.com/track/2QhURnm7mQDxBb5jWkbDug",
+      "added_at": "2024-01-16T20:11:00Z"
+    },
+    {
+      "id": "42T2QQv3xgBlpQxaSP7lnK",
+      "name": "One Last Breath",
+      "artists": [
+        {
+          "id": "43sZBwHjahUvgbx1WNIkIz",
+          "name": "Creed",
+          "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "album": {
+        "id": "2ENlJXygQX6en4iziijet6",
+        "name": "Weathered",
+        "release_date": "2001-01-01",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a32f2ae4dade83e0d7a294f4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a32f2ae4dade83e0d7a294f4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a32f2ae4dade83e0d7a294f4",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 238240,
+      "explicit": false,
+      "popularity": 85,
+      "uri": "spotify:track:42T2QQv3xgBlpQxaSP7lnK",
+      "external_url": "https://open.spotify.com/track/42T2QQv3xgBlpQxaSP7lnK",
+      "added_at": "2024-01-17T23:24:28Z"
+    },
+    {
+      "id": "5GRarkYarOgejsLCxLprQD",
+      "name": "Slipping Through My Fingers",
+      "artists": [
+        {
+          "id": "2D4FOOOtWycb3Aw9nY5n3c",
+          "name": "Declan McKenna",
+          "uri": "spotify:artist:2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "album": {
+        "id": "0koTZdaOlOsITAVODhjAAp",
+        "name": "Slipping Through My Fingers",
+        "release_date": "2023-12-15",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733c8d171d9b4954a7614bebcf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023c8d171d9b4954a7614bebcf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513c8d171d9b4954a7614bebcf",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 263500,
+      "explicit": false,
+      "popularity": 61,
+      "uri": "spotify:track:5GRarkYarOgejsLCxLprQD",
+      "external_url": "https://open.spotify.com/track/5GRarkYarOgejsLCxLprQD",
+      "added_at": "2024-01-18T14:49:20Z"
+    },
+    {
+      "id": "3IznIgmXtrUaoPWpQTy5jB",
+      "name": "Not Allowed",
+      "artists": [
+        {
+          "id": "0Y6dVaC9DZtPNH4591M42W",
+          "name": "TV Girl",
+          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "album": {
+        "id": "4oL7pMxnb04uuRI7ReXmuh",
+        "name": "Who Really Cares",
+        "release_date": "2016-02-25",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0232f5fec7a879ed6ef28f0dfd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485132f5fec7a879ed6ef28f0dfd",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 167864,
+      "explicit": true,
+      "popularity": 85,
+      "uri": "spotify:track:3IznIgmXtrUaoPWpQTy5jB",
+      "external_url": "https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB",
+      "added_at": "2024-01-19T07:03:28Z"
+    },
+    {
+      "id": "0hpDqky5jV8MQqdvMWFv7K",
+      "name": "Snow Globes",
+      "artists": [
+        {
+          "id": "3PP6ghmOlDl2jaKaH0avUN",
+          "name": "Black Country, New Road",
+          "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "album": {
+        "id": "21xp7NdU1ajmO1CX0w2Egd",
+        "name": "Ants From Up There",
+        "release_date": "2022-02-04",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f4b994c518581bf62157c38",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020f4b994c518581bf62157c38",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 553213,
+      "explicit": false,
+      "popularity": 50,
+      "uri": "spotify:track:0hpDqky5jV8MQqdvMWFv7K",
+      "external_url": "https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K",
+      "added_at": "2024-01-20T19:29:18Z"
+    },
+    {
+      "id": "4wajJ1o7jWIg62YqpkHC7S",
+      "name": "Weird Fishes / Arpeggi",
+      "artists": [
+        {
+          "id": "4Z8W4fKeB5YxbusRsdQVPb",
+          "name": "Radiohead",
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "album": {
+        "id": "5vkqYmiPBYLaalcmjujWxK",
+        "name": "In Rainbows",
+        "release_date": "2007-12-28",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851de3c04b5fc750b68899b20a9",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 318186,
+      "explicit": false,
+      "popularity": 79,
+      "uri": "spotify:track:4wajJ1o7jWIg62YqpkHC7S",
+      "external_url": "https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S",
+      "added_at": "2024-01-23T20:20:37Z"
+    },
+    {
+      "id": "69LQk9kc8Cx4gUofPDnQ0H",
+      "name": "You'll Be in the Air",
+      "artists": [
+        {
+          "id": "7Ht57YadlBXcFJDK3plmhO",
+          "name": "The Microphones",
+          "uri": "spotify:artist:7Ht57YadlBXcFJDK3plmhO"
+        }
+      ],
+      "album": {
+        "id": "6QYoRO2sXThCORAifrP4Bl",
+        "name": "The Glow, Pt. 2",
+        "release_date": "2001-09-11",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27300c91ccec6800014b8513717",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0200c91ccec6800014b8513717",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485100c91ccec6800014b8513717",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 161560,
+      "explicit": false,
+      "popularity": 40,
+      "uri": "spotify:track:69LQk9kc8Cx4gUofPDnQ0H",
+      "external_url": "https://open.spotify.com/track/69LQk9kc8Cx4gUofPDnQ0H",
+      "added_at": "2024-01-28T18:43:24Z"
+    },
+    {
+      "id": "40UlFC0dIxv7lAEJaPZLnm",
+      "name": "Alone in Kyoto",
+      "artists": [
+        {
+          "id": "1P6U1dCeHxPui5pIrGmndZ",
+          "name": "Air",
+          "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "album": {
+        "id": "0hQOqvZv1nQvPiBjzyn363",
+        "name": "Talkie Walkie",
+        "release_date": "2004-01-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736400fab74f28e90759ac8815",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026400fab74f28e90759ac8815",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516400fab74f28e90759ac8815",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 291000,
+      "explicit": false,
+      "popularity": 60,
+      "uri": "spotify:track:40UlFC0dIxv7lAEJaPZLnm",
+      "external_url": "https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm",
+      "added_at": "2024-02-14T19:07:06Z"
+    },
+    {
+      "id": "56NkIxSZZiMpFP5ZNSxtnT",
+      "name": "Someday",
+      "artists": [
+        {
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "album": {
+        "id": "2yNaksHgeMQM9Quse463b5",
+        "name": "Is This It",
+        "release_date": "2001-07-30",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a388a3f20d1bf2123249cc79",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a388a3f20d1bf2123249cc79",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 183573,
+      "explicit": false,
+      "popularity": 75,
+      "uri": "spotify:track:56NkIxSZZiMpFP5ZNSxtnT",
+      "external_url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT",
+      "added_at": "2024-04-16T19:08:38Z"
+    },
+    {
+      "id": "7jJH5jAOUvR0FxkbYBmAQA",
+      "name": "Creature Fear",
+      "artists": [
+        {
+          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+          "name": "Bon Iver",
+          "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "album": {
+        "id": "7EJ0OT5ZqybXxcYRa6mccM",
+        "name": "For Emma, Forever Ago",
+        "release_date": "2008-02-19",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bf7c317a63c4f128b8823406",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bf7c317a63c4f128b8823406",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bf7c317a63c4f128b8823406",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 186120,
+      "explicit": false,
+      "popularity": 54,
+      "uri": "spotify:track:7jJH5jAOUvR0FxkbYBmAQA",
+      "external_url": "https://open.spotify.com/track/7jJH5jAOUvR0FxkbYBmAQA",
+      "added_at": "2024-05-08T21:05:20Z"
+    },
+    {
+      "id": "24oox3jCx9x4DN7sv5iUqN",
+      "name": "The Sink",
+      "artists": [
+        {
+          "id": "6YWqJQS9TETSb8LgZONUzI",
+          "name": "hey, nothing",
+          "uri": "spotify:artist:6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "album": {
+        "id": "5fELY0oQIgmdJcCldA81yo",
+        "name": "The Sink",
+        "release_date": "2024-04-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c737ab5ed99526d006a8fb43",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c737ab5ed99526d006a8fb43",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c737ab5ed99526d006a8fb43",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 181802,
+      "explicit": true,
+      "popularity": 0,
+      "uri": "spotify:track:24oox3jCx9x4DN7sv5iUqN",
+      "external_url": "https://open.spotify.com/track/24oox3jCx9x4DN7sv5iUqN",
+      "added_at": "2024-10-15T22:48:51Z"
+    },
+    {
+      "id": "6gJql3ABMd6iHVnr2ptWJg",
+      "name": "I Saw Water",
+      "artists": [
+        {
+          "id": "0tLaqkKW7K6tc3QF9SM0M8",
+          "name": "Tigers Jaw",
+          "uri": "spotify:artist:0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "album": {
+        "id": "431AISQsFUi33lirU9vNI5",
+        "name": "Tigers Jaw",
+        "release_date": "2008-09-10",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737fa27627513898e457d8f9b5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027fa27627513898e457d8f9b5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517fa27627513898e457d8f9b5",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 256839,
+      "explicit": false,
+      "popularity": 53,
+      "uri": "spotify:track:6gJql3ABMd6iHVnr2ptWJg",
+      "external_url": "https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg",
+      "added_at": "2025-04-12T19:58:22Z"
+    },
+    {
+      "id": "3HpjxQmZxThhDqk0ex9W6j",
+      "name": "Side by Side",
+      "artists": [
+        {
+          "id": "02V9xHLkyNSvfSbJka7HhX",
+          "name": "Jacklen Ro",
+          "uri": "spotify:artist:02V9xHLkyNSvfSbJka7HhX"
+        }
+      ],
+      "album": {
+        "id": "0Flk6B4XLCxviaNVfsTZwO",
+        "name": "Sunshine, I'm Counting on You!",
+        "release_date": "2022-11-16",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27350dd4518e18a98c6d036c7fd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0250dd4518e18a98c6d036c7fd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485150dd4518e18a98c6d036c7fd",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 200789,
+      "explicit": false,
+      "popularity": 58,
+      "uri": "spotify:track:3HpjxQmZxThhDqk0ex9W6j",
+      "external_url": "https://open.spotify.com/track/3HpjxQmZxThhDqk0ex9W6j",
+      "added_at": "2025-06-12T20:14:36Z"
+    },
+    {
+      "id": "7remWdQdxAjzfY269DlFgy",
+      "name": "Almost Fantasy",
+      "artists": [
+        {
+          "id": "04GCjO1r1hPelibCUq9S8H",
+          "name": "Fog Lake",
+          "uri": "spotify:artist:04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "album": {
+        "id": "0KWbothKxemyExjc5PdoMK",
+        "name": "Almost Fantasy",
+        "release_date": "2018-02-26",
+        "cover_art": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27329cc658085067faf365e87f2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0229cc658085067faf365e87f2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485129cc658085067faf365e87f2",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      },
+      "duration_ms": 132060,
+      "explicit": false,
+      "popularity": 56,
+      "uri": "spotify:track:7remWdQdxAjzfY269DlFgy",
+      "external_url": "https://open.spotify.com/track/7remWdQdxAjzfY269DlFgy",
+      "added_at": "2025-06-25T13:36:18Z"
+    }
+  ]
+}
