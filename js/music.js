@@ -1,5 +1,5 @@
 function slideIfOverflow(el, text) {
-  const PX_PER_SEC = 50;
+  const PX_PER_SEC = 17;
   const check = () => {
     el.classList.remove("is-overflow");
     el.textContent = text;

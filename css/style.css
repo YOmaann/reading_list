@@ -1,5 +1,6 @@
 :root {
   --progress-bar-color: #4caf50;
+  --marquee-duration: 6s;
 }
 body {
   min-height: 100vh;
@@ -99,7 +100,7 @@ body {
 #music-playlist > span.is-overflow,
 #music-title > span.is-overflow,
 #music-artist > span.is-overflow {
-  animation: marquee var(--marquee-duration, 12s) linear infinite;
+  animation: marquee var(--marquee-duration, 6s) linear infinite;
 }
 
 #music-playlist > span.is-overflow > i,
@@ -498,6 +499,7 @@ p {
   body {
     align-items: flex-start;
     background-attachment: scroll;
+    background: linear-gradient(160deg, #0a0a0a 0%, #14241b 55%, #0a0a0a 100%);
   }
 
   .container {
@@ -541,9 +543,18 @@ p {
     display: none;
   }
 
-  .terminal-menu a:hover,
   .terminal-menu a:target {
     background-color: rgba(76, 175, 80, 0.2);
+  }
+
+  @media (hover: hover) {
+    .terminal-menu a:hover {
+      background-color: rgba(76, 175, 80, 0.2);
+    }
+  }
+
+  .terminal-menu a:active {
+    background-color: rgba(76, 175, 80, 0.35);
   }
 
   .list {
@@ -555,6 +566,7 @@ p {
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     gap: 16px;
+    margin-bottom: 2.8em;
   }
 
   blockquote {
@@ -650,14 +662,36 @@ p {
     grid-row: 2;
     margin-bottom: 0;
   }
+  .bg-toggle {
+    display: none;
+  }\
 }
 
 @media (max-width: 400px) {
+  body {
+    background: linear-gradient(160deg, #0a0a0a 0%, #14241b 55%, #0a0a0a 100%);
+  }
+  .bg-toggle {
+    display: none;
+  }
   .list.is-art {
     grid-template-columns: 1fr;
   }
 
   .art-tile img {
     height: 200px;
+  }
+  .list {
+    margin-bottom: 2em;;
+  }
+}
+
+.window {
+  transition:
+    scale 0.3s ease 0.1s,
+    opacity 0.3s ease 0.1s;
+  @starting-style {
+    scale: 0.5;
+    opacity: 0;
   }
 }
