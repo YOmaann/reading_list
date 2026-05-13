@@ -61,5 +61,19 @@
     "author": "Gabriel García Márquez",
     "year": 1967,
     "quote": "It's enough for me to be sure that you and I exist at this moment."
+  },
+  {
+    "id": 10,
+    "title": "Metamorphosis",
+    "author": "Franz Kafka",
+    "year": 1915,
+    "quote": "I cannot make you understand. I cannot make anyone understand what is happening inside me. I cannot even explain it to myself."
+  },
+  {
+    "id": 11,
+    "title": "The trial",
+    "author": "Franz Kafka",
+    "year": 1925,
+    "quote": "It's only because of their stupidity that they're able to be so sure of themselves."
   }
 ]
