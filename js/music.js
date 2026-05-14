@@ -72,19 +72,42 @@ window.addEventListener("load", async () => {
     }
   }
 
+  function preloadImage(url) {
+    return new Promise((resolve, reject) => {
+      const img = new Image();
+      img.onload = () => resolve(url);
+      img.onerror = reject;
+      img.src = url;
+    });
+  }
+
   function loadTrack(index) {
     currentIndex = ((index % tracks.length) + tracks.length) % tracks.length;
+    const myIndex = currentIndex;
     const track = tracks[currentIndex];
 
     setSlidingText(title, track.name);
     setSlidingText(artist, track.artists.map((a) => a.name).join(", "));
-    image.style.backgroundImage = `url(${track.album.cover_art[0].url})`;
 
     progressFill.style.animation = "none";
     void progressFill.offsetWidth;
     progressFill.style.animation = "";
     progressFill.style.animationDuration = `${track.duration_ms / 1000}s`;
     progressFill.style.animationPlayState = isPlaying ? "running" : "paused";
+
+    const coverUrl = track.album.cover_art[0].url;
+    preloadImage(coverUrl)
+      .then(() => {
+        if (currentIndex === myIndex) {
+          image.style.backgroundImage = `url(${coverUrl})`;
+        }
+      })
+      .catch(() => {});
+
+    const nextIdx = (currentIndex + 1) % tracks.length;
+    const prevIdx = (currentIndex - 1 + tracks.length) % tracks.length;
+    preloadImage(tracks[nextIdx].album.cover_art[0].url).catch(() => {});
+    preloadImage(tracks[prevIdx].album.cover_art[0].url).catch(() => {});
   }
 
   playBtn.addEventListener("click", () => {

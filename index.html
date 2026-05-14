@@ -15,6 +15,17 @@
     <script src="js/music.js"></script>
   </head>
   <body>
+    <div class="loading-screen" id="loading-screen">
+      <div class="spinner"></div>
+      <div class="message">
+        <span>B</span><span>o</span><span>o</span><span>t</span><span>l</span
+        ><span>i</span><span>c</span><span>k</span><span>i</span><span>n</span
+        ><span>g</span>
+      </div>
+      <div class="loader-bar">
+        <div class="loader-bar-fill"></div>
+      </div>
+    </div>
     <button
       id="bg-toggle"
       class="bg-toggle"
@@ -73,5 +84,21 @@
         </div>
       </div>
     </div>
+    <script>
+      window.addEventListener("load", async () => {
+        await new Promise((r) => setTimeout(r, 500));
+        await Promise.all(
+          [...document.images].map((img) =>
+            img.complete
+              ? null
+              : new Promise((res) => {
+                  img.addEventListener("load", res, { once: true });
+                  img.addEventListener("error", res, { once: true });
+                }),
+          ),
+        );
+        document.getElementById("loading-screen")?.classList.add("hidden");
+      });
+    </script>
   </body>
 </html>
