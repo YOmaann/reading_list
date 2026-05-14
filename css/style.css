@@ -791,3 +791,7 @@ p {
     opacity: 0;
   }
 }
+
+.window.pre-show {
+  display: none;
+}

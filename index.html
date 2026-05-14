@@ -34,7 +34,7 @@
     >
       toggle
     </button>
-    <div class="container window">
+    <div class="container window pre-show">
       <div class="window-controls" aria-hidden="true">
         <span class="dot dot-close"></span>
         <span class="dot dot-min"></span>
@@ -59,7 +59,7 @@
       <div id="book-list" class="list"></div>
     </div>
 
-    <div class="music-player window">
+    <div class="music-player window pre-show">
       <div class="music-player-header">
         <h3>Music Recommendations</h3>
         <h4>
@@ -98,6 +98,9 @@
           ),
         );
         document.getElementById("loading-screen")?.classList.add("hidden");
+        document
+          .querySelectorAll(".window.pre-show")
+          .forEach((el) => el.classList.remove("pre-show"));
       });
     </script>
   </body>
