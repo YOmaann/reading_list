@@ -18,10 +18,17 @@ function slideIfOverflow(el, text) {
     }
   };
   const run = () => requestAnimationFrame(check);
-  if (document.fonts && document.fonts.ready) {
-    document.fonts.ready.then(run);
+  const schedule = () => {
+    if (document.fonts && document.fonts.ready) {
+      document.fonts.ready.then(run);
+    } else {
+      run();
+    }
+  };
+  if (document.querySelector(".window.pre-show")) {
+    window.addEventListener("windows-shown", schedule, { once: true });
   } else {
-    run();
+    schedule();
   }
 }
 

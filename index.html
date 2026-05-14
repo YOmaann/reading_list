@@ -101,6 +101,7 @@
         document
           .querySelectorAll(".window.pre-show")
           .forEach((el) => el.classList.remove("pre-show"));
+        window.dispatchEvent(new Event("windows-shown"));
       });
     </script>
   </body>

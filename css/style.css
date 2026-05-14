@@ -784,8 +784,8 @@ p {
 
 .window {
   transition:
-    scale 0.3s ease 0.6s,
-    opacity 0.3s ease 0.6s;
+    scale 0.3s ease 0.3s,
+    opacity 0.3s ease 0.3s;
   @starting-style {
     scale: 0.5;
     opacity: 0;
