@@ -68,15 +68,8 @@ window.addEventListener("load", async () => {
   let isPlaying = false;
 
   function updatePlayButton() {
-    if (isPlaying) {
-      playBtn.textContent = "⏸";
-      playBtn.setAttribute("aria-label", "Pause");
-      playBtn.classList.add("playing");
-    } else {
-      playBtn.textContent = "▶";
-      playBtn.setAttribute("aria-label", "Play");
-      playBtn.classList.remove("playing");
-    }
+    playBtn.classList.toggle("playing", isPlaying);
+    playBtn.setAttribute("aria-label", isPlaying ? "Pause" : "Play");
   }
 
   function preloadImage(url) {

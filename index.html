@@ -78,12 +78,21 @@
           <div id="music-progress-filled"></div>
         </div>
         <div id="music-controls">
-          <button id="prev-btn" aria-label="Previous">⏮</button>
-          <button id="play-btn" aria-label="Play">▶</button>
-          <button id="next-btn" aria-label="Next">⏭</button>
+          <button id="prev-btn" aria-label="Previous"></button>
+          <button id="play-btn" aria-label="Play"></button>
+          <button id="next-btn" aria-label="Next"></button>
         </div>
       </div>
     </div>
+
+    <div class="window-gui window">
+      <div class="window-controls-gui" aria-hidden="true">
+        <span class="dot dot-close"></span>
+        <span class="title">Untitled</span>
+      </div>
+      <div class="content"></div>
+    </div>
+
     <script>
       window.addEventListener("load", async () => {
         await new Promise((r) => setTimeout(r, 500));

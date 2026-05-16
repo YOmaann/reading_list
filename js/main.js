@@ -31,7 +31,20 @@ function init() {
   );
   list.addEventListener("scroll", onListScroll, { passive: true });
   initBgToggle();
+  initWindowClose();
   render();
+}
+
+function initWindowClose() {
+  const gui = document.querySelector(".window-gui");
+  if (!gui) return;
+  gui.querySelector(".window-controls-gui .dot-close")?.addEventListener(
+    "click",
+    () => {
+      gui.querySelector(".content").innerHTML = "";
+      gui.classList.remove("is-open");
+    },
+  );
 }
 
 let scrollTicking = false;
@@ -46,7 +59,33 @@ function onListScroll() {
   });
 }
 
+// window manager for links section, art tiles, and book cards for now
+function toggleWindow(e) {
+  e.preventDefault();
+  const link = e.currentTarget;
+  if (!link) return;
+  const url = link.getAttribute("href");
+  const gui = document.querySelector(".window-gui");
+  if (!gui) return;
+  const titleContent = link.getAttribute("window-title");
+  const title = gui.querySelector(".title");
+  if (title) {
+    title.textContent = titleContent ? titleContent : "Untitled";
+  }
+  const content = gui.querySelector(".content");
+  if (!content) return;
+  const isImage = /\.(jpe?g|png|gif|webp|svg|bmp|avif)$/i.test(url);
+  content.innerHTML = isImage
+    ? `<img src="${url}" alt="" class="window-image" />`
+    : `<iframe src="${url}" frameborder="0" class="window-iframe"></iframe>`;
+  gui.classList.add("is-open");
+  //   const win = window.open(url, "_blank", "noopener");
+  //   if (win) win.focus();
+}
+
 function linkHTML(i) {
+  if (i.window == true)
+    return `<span><a href="${i.url}" target="_blank" rel="noopener" class="window-link" onclick = "toggleWindow(event)" window-title="${i.windowTitle}">${i.name}</a></span>`;
   return `<span><a href="${i.url}" target="_blank" rel="noopener">${i.name}</a></span>`;
 }
 
@@ -82,8 +121,16 @@ function bookcardHTML(i) {
   `;
 }
 
+function updateActiveNav() {
+  const hash = location.hash;
+  document.querySelectorAll(".terminal-menu a").forEach((a) => {
+    a.classList.toggle("is-active", `#${a.id}` === hash);
+  });
+}
+
 async function render() {
   if (progressFill) progressFill.style.width = "0%";
+  updateActiveNav();
   const url = SOURCES[location.hash];
 
   if (!url) {
