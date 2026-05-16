@@ -38,5 +38,9 @@
     "url": "./static/photos/pari_bookmark.jpeg",
     "window": true,
     "windowTitle": "pretty bookmarks from Pari"
+  },
+  {
+    "name": "this book is on my actual reading list :)",
+    "url": "https://en.wikipedia.org/wiki/The_Algorithmic_Beauty_of_Plants"
   }
 ]
