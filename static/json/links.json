@@ -35,7 +35,7 @@
   },
   {
     "name": "pretty bookmarks",
-    "url": "/static/photos/pari_bookmark.png",
+    "url": "./static/photos/pari_bookmark.png",
     "window": true,
     "windowTitle": "pretty bookmarks from Pari"
   }
