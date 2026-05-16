@@ -4,6 +4,16 @@ const SOURCES = {
   "#art": "static/json/art.json",
 };
 
+const IMAGE_URL_RE = /\.(jpe?g|png|gif|webp|svg|bmp|avif)$/i;
+const preloadedImages = new Map();
+
+function preloadImage(url) {
+  if (preloadedImages.has(url)) return;
+  const img = new Image();
+  img.src = url;
+  preloadedImages.set(url, img);
+}
+
 let list;
 let progressFill;
 
@@ -74,7 +84,7 @@ function toggleWindow(e) {
   }
   const content = gui.querySelector(".content");
   if (!content) return;
-  const isImage = /\.(jpe?g|png|gif|webp|svg|bmp|avif)$/i.test(url);
+  const isImage = IMAGE_URL_RE.test(url);
   content.innerHTML = isImage
     ? `<img src="${url}" alt="" class="window-image" />`
     : `<iframe src="${url}" frameborder="0" class="window-iframe"></iframe>`;
@@ -152,6 +162,12 @@ async function render() {
     list.innerHTML =
       items.map(renderItem).join("") +
       `<p class="end-smile">~ that's all :) ~</p>`;
+
+    if (location.hash === "#links") {
+      for (const i of items) {
+        if (i.window === true && IMAGE_URL_RE.test(i.url)) preloadImage(i.url);
+      }
+    }
   } catch (err) {
     list.innerHTML = `<p>Error loading: ${err.message}</p>`;
   }
