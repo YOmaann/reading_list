@@ -31,6 +31,12 @@
     "name": "book recommendations from someone cool i met during my time in chennai",
     "url": "./static/photos/ronald_books.jpeg",
     "window": true,
-    "windowTitle": "Book Recommendations by Ronald"
+    "windowTitle": "book recommendations from Ronald"
+  },
+  {
+    "name": "pretty bookmarks",
+    "url": "/static/photos/pari_bookmark.png",
+    "window": true,
+    "windowTitle": "pretty bookmarks from Pari"
   }
 ]
