@@ -13,6 +13,8 @@ const preloadedImages = new Map();
 function preloadImage(url) {
   if (preloadedImages.has(url)) return;
   const img = new Image();
+  img.decoding = "async";
+  img.fetchPriority = "low";
   img.src = url;
   preloadedImages.set(url, img);
 }
@@ -37,7 +39,7 @@ function initBgToggle() {
   });
 }
 
-async function init() {
+function init() {
   list = document.getElementById("book-list");
   progressFill = document.querySelector(
     "#scroll-progress .progress-bar-filled",
@@ -46,13 +48,15 @@ async function init() {
   initBgToggle();
   initWindowClose();
 
-  const descs = await fetch("static/json/descriptions.json");
-  if (descs.ok) {
-    const data = await descs.json();
-    Object.assign(descriptions, data);
-  }
-
+  loadDescriptions();
   render();
+}
+
+async function loadDescriptions() {
+  const res = await fetch("static/json/descriptions.json");
+  if (!res.ok) return;
+  Object.assign(descriptions, await res.json());
+  if (descriptions[location.hash]) render();
 }
 
 function initWindowClose() {
@@ -114,7 +118,7 @@ function linkHTML(i) {
 function artHTML(i) {
   return `
     <figure class="art-tile">
-      <img src="${encodeURI(i.url)}" alt="${i.name}" />
+      <img src="${encodeURI(i.url)}" alt="${i.name}" loading="lazy" decoding="async" />
       <figcaption>${i.name}</figcaption>
     </figure>
   `;
@@ -131,7 +135,7 @@ function audioHTML(i) {
     : [];
   const terminalMedia = `<div class="terminal-media-${align}">
         <div class="terminal-avatorholder">
-        <img src="${i.url}" alt="${i.name}" />
+        <img src="${i.url}" alt="${i.name}" loading="lazy" decoding="async" />
         </div>
         </div>`;
   return `
