@@ -47,9 +47,27 @@ function init() {
   list.addEventListener("scroll", onListScroll, { passive: true });
   initBgToggle();
   initWindowClose();
+  initNavToggle();
 
   loadDescriptions();
   render();
+}
+
+function initNavToggle() {
+  const nav = document.querySelector(".terminal-menu");
+  const toggle = nav?.querySelector(".nav-toggle");
+  if (!nav || !toggle) return;
+  const setOpen = (open) => {
+    nav.classList.toggle("is-open", open);
+    toggle.setAttribute("aria-expanded", String(open));
+    toggle.textContent = open ? "menu ✕" : "menu ⋯";
+  };
+  toggle.addEventListener("click", () =>
+    setOpen(!nav.classList.contains("is-open")),
+  );
+  nav.querySelectorAll("a").forEach((a) =>
+    a.addEventListener("click", () => setOpen(false)),
+  );
 }
 
 async function loadDescriptions() {

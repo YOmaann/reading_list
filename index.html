@@ -10,6 +10,18 @@
       href="static/loading%20screen.png"
       fetchpriority="high"
     />
+    <link
+      rel="preload"
+      as="image"
+      href="static/background.webp"
+      media="(min-width: 769px)"
+    />
+    <link
+      rel="preload"
+      as="image"
+      href="static/background_mobile.jpeg"
+      media="(max-width: 768px)"
+    />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
 
     <link
@@ -53,6 +65,14 @@
         <p>a labour of love, not a reading list.</p>
       </div>
       <nav class="terminal-menu">
+        <button
+          class="nav-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-label="Toggle menu"
+        >
+          menu ⋯
+        </button>
         <ul>
           <li><a href="#links" id="links">#links</a></li>
           <li><a href="#present" id="present">#books</a></li>
