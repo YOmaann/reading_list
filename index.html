@@ -102,9 +102,13 @@
 
     <script>
       window.addEventListener("load", async () => {
-        await new Promise((r) => setTimeout(r, 500));
-        await Promise.all(
-          [...document.images].map((img) =>
+        const VISIBLE_COUNT = 10;
+        const MAX_WAIT_MS = 3000;
+
+        await new Promise((r) => setTimeout(r, 150));
+
+        const waitForImages = Promise.all(
+          [...document.images].slice(0, VISIBLE_COUNT).map((img) =>
             img.complete
               ? null
               : new Promise((res) => {
@@ -113,6 +117,9 @@
                 }),
           ),
         );
+        const timeout = new Promise((r) => setTimeout(r, MAX_WAIT_MS));
+        await Promise.race([waitForImages, timeout]);
+
         document.getElementById("loading-screen")?.classList.add("hidden");
         document
           .querySelectorAll(".window.pre-show")
