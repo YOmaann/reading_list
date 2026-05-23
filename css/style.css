@@ -1162,12 +1162,14 @@ p {
 }
 
 .window {
-  transition:
-    scale 0.3s ease 0.3s,
-    opacity 0.5s ease;
-  @starting-style {
-    scale: 0.5;
+  animation: window-entry 0.3s ease 0.3s backwards;
+  transition: opacity 0.3s ease;
+}
+
+@keyframes window-entry {
+  from {
     opacity: 0;
+    scale: 0.5;
   }
 }
 
