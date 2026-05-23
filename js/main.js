@@ -195,7 +195,7 @@ function bookcardHTML(i) {
 function updateActiveNav() {
   const hash = location.hash;
   document.querySelectorAll(".terminal-menu a").forEach((a) => {
-    a.classList.toggle("is-active", `#${a.id}` === hash);
+    a.classList.toggle("is-active", a.getAttribute("href") === hash);
   });
 }
 

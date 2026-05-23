@@ -619,6 +619,10 @@ body.bg-annotated::before {
   opacity: 0.5;
 }
 
+body.bg-annotated .window {
+  opacity: 0.6;
+}
+
 .bg-toggle {
   position: fixed;
   top: 12px;
@@ -648,7 +652,10 @@ body.bg-annotated::before {
   padding: 2em;
   padding-top: 3em !important;
   border-radius: 6px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow:
+    0 0 0 1px rgba(76, 175, 80, 0.4),
+    0 0 30px rgba(76, 175, 80, 0.15),
+    0 18px 40px rgba(0, 0, 0, 0.5);
   color: green;
   width: 100%;
   max-width: 800px;
@@ -779,7 +786,7 @@ blockquote::after {
 
 .list {
   text-align: left;
-  height: 40vh;
+  height: 42vh;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
@@ -1157,7 +1164,7 @@ p {
 .window {
   transition:
     scale 0.3s ease 0.3s,
-    opacity 0.3s ease 0.3s;
+    opacity 0.5s ease;
   @starting-style {
     scale: 0.5;
     opacity: 0;
