@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "M-Audio M-track Solo",
+    "url": "./static/photos/maudio.jpeg",
+    "description": "i use this to link my guitar to Rocksmith. i use RS-ASIO as the audio driver. here are the links to the configuration files.",
+    "links": [
+      {
+        "name": "rocksmith.ini",
+        "url": "./static/misc/config/Rocksmith.ini",
+        "window": true,
+        "windowTitle": "rocksmith.ini"
+      },
+      {
+        "name": "RS-ASIO.ini",
+        "url": "./static/misc/config/RS_ASIO.ini",
+        "window": true,
+        "windowTitle": "RS-ASIO.ini"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Vintage 360 Coaster",
+    "url": "./static/photos/vintage-coaster.jpeg",
+    "description": "took hazra for a spin to buy this guitar."
+  },
+  {
+    "id": 3,
+    "name": "Kasper Amp GA-15 (Alleged)",
+    "url": "./static/photos/amp.jpeg",
+    "description": "the amp i have at home. the box said Kasper, the shopkeeper said chinese."
+  },
+  {
+    "id": 4,
+    "name": "Yamaha Pacifica",
+    "url": "./static/photos/yamaha.jpeg",
+    "description": "my second electric guitar."
+  },
+  {
+    "id": 5,
+    "name": "my first uke",
+    "url": "./static/photos/uke.jpeg",
+    "description": "the first song i learnt to play on uke was alag aasman.",
+    "links": [
+      {
+        "name": "a pin board of the song i learnt to play on uke (non-exhaustive) [ARCHIVE]",
+        "url": "https://pin.it/2e2VzC0zP",
+        "window": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "launchpad web :) [Bonus]",
+    "url": "./static/photos/launchpad.png",
+    "description": "a web app to simulate a launchpad i made in 2018. only supports _wegfdaxc_ keys right now. fork it and add your own bindings.",
+    "bonus": true,
+    "links": [
+      {
+        "name": "go to site",
+        "url": "https://yomaann.github.io/launchpad-web/",
+        "window": false
+      }
+    ]
+  }
+]

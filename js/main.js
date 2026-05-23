@@ -2,7 +2,10 @@ const SOURCES = {
   "#links": "static/json/links.json",
   "#present": "static/json/books.json",
   "#art": "static/json/art.json",
+  "#audio": "static/json/guitar.json",
 };
+
+const descriptions = {};
 
 const IMAGE_URL_RE = /\.(jpe?g|png|gif|webp|svg|bmp|avif)$/i;
 const preloadedImages = new Map();
@@ -34,7 +37,7 @@ function initBgToggle() {
   });
 }
 
-function init() {
+async function init() {
   list = document.getElementById("book-list");
   progressFill = document.querySelector(
     "#scroll-progress .progress-bar-filled",
@@ -42,19 +45,25 @@ function init() {
   list.addEventListener("scroll", onListScroll, { passive: true });
   initBgToggle();
   initWindowClose();
+
+  const descs = await fetch("static/json/descriptions.json");
+  if (descs.ok) {
+    const data = await descs.json();
+    Object.assign(descriptions, data);
+  }
+
   render();
 }
 
 function initWindowClose() {
   const gui = document.querySelector(".window-gui");
   if (!gui) return;
-  gui.querySelector(".window-controls-gui .dot-close")?.addEventListener(
-    "click",
-    () => {
+  gui
+    .querySelector(".window-controls-gui .dot-close")
+    ?.addEventListener("click", () => {
       gui.querySelector(".content").innerHTML = "";
       gui.classList.remove("is-open");
-    },
-  );
+    });
 }
 
 let scrollTicking = false;
@@ -69,6 +78,9 @@ function onListScroll() {
   });
 }
 
+function descriptionHTML(desc) {
+  return `<div class="window-description"><p>${desc}</p></div>`;
+}
 // window manager for links section, art tiles, and book cards for now
 function toggleWindow(e) {
   e.preventDefault();
@@ -108,6 +120,33 @@ function artHTML(i) {
   `;
 }
 
+function audioHTML(i) {
+  const align = i.id % 2 ? "left" : "right";
+  const links = i.links
+    ? i.links.map((l) => {
+        if (l.window == true)
+          return `<a href="${l.url}" target="_blank" rel="noopener" class="window-link" onclick = "toggleWindow(event)" window-title="${l.windowTitle}">${l.name}</a>`;
+        return `<a href="${l.url}" target="_blank" rel="noopener">${l.name}</a>`;
+      })
+    : [];
+  const terminalMedia = `<div class="terminal-media-${align}">
+        <div class="terminal-avatorholder">
+        <img src="${i.url}" alt="${i.name}" />
+        </div>
+        </div>`;
+  return `
+    <div class="terminal-media">
+        ${align === "left" ? terminalMedia : ""}
+        <div class="terminal-media-body">
+            <div class="terminal-media-heading${i.bonus ? " is-bonus" : ""}">${i.name}</div>
+            <div class="terminal-media-content">${i.description}</div>
+            <div class="terminal-media-links">${links.join(" | ")}</div>
+        </div>
+        ${align === "right" ? terminalMedia : ""}
+    </div>
+  `;
+}
+
 function bookcardHTML(i) {
   const body = [
     i.author && `by ${i.author}`,
@@ -142,7 +181,6 @@ async function render() {
   if (progressFill) progressFill.style.width = "0%";
   updateActiveNav();
   const url = SOURCES[location.hash];
-
   if (!url) {
     list.innerHTML = "<p>Pick a section above.</p>";
     return;
@@ -157,9 +195,14 @@ async function render() {
         ? linkHTML
         : location.hash === "#art"
           ? artHTML
-          : bookcardHTML;
+          : location.hash == "#present"
+            ? bookcardHTML
+            : audioHTML;
     list.classList.toggle("is-art", location.hash === "#art");
+
+    const description = descriptions[location.hash];
     list.innerHTML =
+      (description ? descriptionHTML(description) : "") +
       items.map(renderItem).join("") +
       `<p class="end-smile">~ that's all :) ~</p>`;
 

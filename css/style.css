@@ -75,6 +75,12 @@ body {
   user-select: none;
 }
 
+.window-description {
+  font-family: "VT323", monospace;
+  font-size: 1.4em;
+  text-align: left;
+  margin: 0 20px 0 20px;
+}
 .window-controls-gui .title {
   flex: 1 1 auto;
   min-width: 0;
@@ -175,10 +181,9 @@ body {
     top: 0;
     left: 0;
     width: 100vw;
-    height: 100vh;
-    height: 100svh;
+    height: 100dvh;
     max-width: 100vw;
-    max-height: 100svh;
+    max-height: 100dvh;
     transform: none;
     transform-origin: center center;
     border: 0;
@@ -834,7 +839,8 @@ blockquote::after {
   flex-direction: initial;
 }
 
-.list.is-art .end-smile {
+.list.is-art .end-smile,
+.list.is-art .window-description {
   grid-column: 1 / -1;
 }
 
@@ -869,6 +875,13 @@ blockquote::after {
   font-size: 0.9em;
 }
 
+.terminal-avatorholder > img {
+  width: 10em;
+  height: 10em;
+  /* border-radius: 50%; */
+  object-fit: contain;
+}
+
 p {
   --font-color: #a09d9d;
 }
@@ -876,8 +889,15 @@ p {
 @media (max-width: 768px) {
   body {
     align-items: flex-start;
-    background-attachment: scroll;
-    background: linear-gradient(160deg, #0a0a0a 0%, #14241b 55%, #0a0a0a 100%);
+    background:
+      linear-gradient(
+        160deg,
+        rgba(10, 10, 10, 0.9),
+        rgba(20, 36, 27, 0.7) 55%,
+        rgba(10, 10, 10, 0.9)
+      ),
+      url("../static/background_mobile.jpeg") no-repeat center center fixed;
+    background-size: cover;
   }
 
   .container {
@@ -921,7 +941,7 @@ p {
     display: none;
   }
 
-  .terminal-menu a:target {
+  .terminal-menu a.is-active {
     background-color: rgba(76, 175, 80, 0.2);
   }
 
@@ -1063,9 +1083,6 @@ p {
 }
 
 @media (max-width: 400px) {
-  body {
-    background: linear-gradient(160deg, #0a0a0a 0%, #14241b 55%, #0a0a0a 100%);
-  }
   .bg-toggle {
     display: none;
   }
@@ -1094,3 +1111,18 @@ p {
 .window.pre-show {
   display: none;
 }
+
+.terminal-media {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.terminal-media-heading.is-bonus {
+  color: gold;
+}
+
+/* .terminal-media > * {
+  width: 45%;
+  height: auto;
+} */
