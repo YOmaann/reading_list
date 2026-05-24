@@ -1,0 +1,84 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=VT323&display=swap"
+    />
+    <link rel="stylesheet" href="../../../css/style.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="../../../css/music.css" />
+    <title>kagome</title>
+  </head>
+  <body>
+    <pre id="ascii" aria-label="ASCII art of Kagome"></pre>
+    <div class="music-player-container">
+      <audio>
+        <source src="./audio/guitar.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </audio>
+      <div class="music-player">
+        <div class="music-description">
+          <div class="music-description-track">
+            <p>pls forgive me i played this song in 2020.</p>
+          </div>
+        </div>
+        <div class="music-player-body">
+          <div id="music-info">
+            <h3 id="music-title"></h3>
+            <p id="music-artist"></p>
+          </div>
+          <div id="music-progress">
+            <div id="music-progress-filled"></div>
+          </div>
+          <div id="music-controls">
+            <button id="play-btn" aria-label="Play"></button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      fetch("./ascii/kagome.txt")
+        .then((r) => r.text())
+        .then((t) => {
+          document.getElementById("ascii").textContent = t;
+        });
+
+      (() => {
+        const audio = document.querySelector("audio");
+        const playBtn = document.getElementById("play-btn");
+        const title = document.getElementById("music-title");
+        const artist = document.getElementById("music-artist");
+        const progress = document.getElementById("music-progress");
+        const fill = document.getElementById("music-progress-filled");
+
+        title.textContent = "futari no kimochi";
+        artist.textContent = "inuyasha ost";
+
+        fill.style.animation = "none";
+
+        playBtn.addEventListener("click", () => {
+          if (audio.paused) audio.play();
+          else audio.pause();
+        });
+
+        audio.addEventListener("play", () => playBtn.classList.add("playing"));
+        audio.addEventListener("pause", () =>
+          playBtn.classList.remove("playing"),
+        );
+
+        audio.addEventListener("timeupdate", () => {
+          const pct = audio.duration ? audio.currentTime / audio.duration : 0;
+          fill.style.transform = `scaleX(${pct})`;
+        });
+
+        progress.addEventListener("click", (e) => {
+          if (!audio.duration) return;
+          const rect = progress.getBoundingClientRect();
+          const ratio = (e.clientX - rect.left) / rect.width;
+          audio.currentTime = ratio * audio.duration;
+        });
+      })();
+    </script>
+  </body>
+</html>

@@ -370,6 +370,12 @@ body {
   overflow: hidden;
 }
 
+.music-player.is-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
 .music-player-header {
   margin-bottom: 8px;
   align-self: stretch;

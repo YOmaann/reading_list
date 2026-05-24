@@ -39,6 +39,21 @@
   },
   {
     "id": 5,
+    "name": "unlabelled guitar",
+    "url": "./static/photos/guitar.jpeg",
+    "description": "i have a fuckass guitar too. listen to me playing 'Futari no kimochi' from Inuyasha.",
+    "links": [
+      {
+        "name": "[jumpscare alert]",
+        "url": "./static/windows/inuyasha/index.html",
+        "window": true,
+        "windowTitle": "futari no kimochi",
+        "hidePlayer": true
+      }
+    ]
+  },
+  {
+    "id": 6,
     "name": "my first uke",
     "url": "./static/photos/uke.jpeg",
     "description": "the first song i learnt to play on uke was alag aasman.",
@@ -51,7 +66,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "launchpad web :) [Bonus]",
     "url": "./static/photos/launchpad.png",
     "description": "a web app to simulate a launchpad i made in 2018. only supports _wegfdaxc_ keys right now. fork it and add your own bindings.",

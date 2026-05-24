@@ -65,9 +65,9 @@ function initNavToggle() {
   toggle.addEventListener("click", () =>
     setOpen(!nav.classList.contains("is-open")),
   );
-  nav.querySelectorAll("a").forEach((a) =>
-    a.addEventListener("click", () => setOpen(false)),
-  );
+  nav
+    .querySelectorAll("a")
+    .forEach((a) => a.addEventListener("click", () => setOpen(false)));
 }
 
 async function loadDescriptions() {
@@ -79,12 +79,14 @@ async function loadDescriptions() {
 
 function initWindowClose() {
   const gui = document.querySelector(".window-gui");
+  const musicPlayer = document.querySelector(".music-player");
   if (!gui) return;
   gui
     .querySelector(".window-controls-gui .dot-close")
     ?.addEventListener("click", () => {
       gui.querySelector(".content").innerHTML = "";
       gui.classList.remove("is-open");
+      if (musicPlayer) musicPlayer.classList.remove("is-hidden");
     });
 }
 
@@ -108,11 +110,17 @@ function toggleWindow(e) {
   e.preventDefault();
   const link = e.currentTarget;
   if (!link) return;
+  const hideMusic = link.getAttribute("hidemusic") === "true";
   const url = link.getAttribute("href");
   const gui = document.querySelector(".window-gui");
   if (!gui) return;
   const titleContent = link.getAttribute("window-title");
   const title = gui.querySelector(".title");
+
+  if (hideMusic) {
+    const musicPlayer = document.querySelector(".music-player");
+    musicPlayer?.classList.add("is-hidden");
+  }
   if (title) {
     title.textContent = titleContent ? titleContent : "Untitled";
   }
@@ -146,8 +154,10 @@ function audioHTML(i) {
   const align = i.id % 2 ? "left" : "right";
   const links = i.links
     ? i.links.map((l) => {
-        if (l.window == true)
-          return `<a href="${l.url}" target="_blank" rel="noopener" class="window-link" onclick = "toggleWindow(event)" window-title="${l.windowTitle}">${l.name}</a>`;
+        if (l.window == true) {
+          const hideMusic = l.hidePlayer || false;
+          return `<a href="${l.url}" target="_blank" rel="noopener" class="window-link" onclick = "toggleWindow(event)" window-title="${l.windowTitle}" hideMusic=${hideMusic}>${l.name}</a>`;
+        }
         return `<a href="${l.url}" target="_blank" rel="noopener">${l.name}</a>`;
       })
     : [];
