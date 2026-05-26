@@ -127,8 +127,13 @@ function toggleWindow(e) {
   const link = e.currentTarget;
   if (!link) return;
   const hideMusic = link.getAttribute("hidemusic") === "true";
+  const download = link.getAttribute("download") === "true";
   const url = link.getAttribute("href");
   const gui = document.querySelector(".window-gui");
+  const downloadBtn = gui?.querySelector(".dot-download");
+  if (downloadBtn) {
+    downloadBtn.style.display = download ? "inline-block" : "none";
+  }
   if (!gui) return;
   const titleContent = link.getAttribute("window-title");
   const title = gui.querySelector(".title");
@@ -172,7 +177,8 @@ function audioHTML(i) {
     ? i.links.map((l) => {
         if (l.window == true) {
           const hideMusic = l.hidePlayer || false;
-          return `<a href="${l.url}" target="_blank" rel="noopener" class="window-link" onclick = "toggleWindow(event)" window-title="${l.windowTitle}" hideMusic=${hideMusic}>${l.name}</a>`;
+          const download = l.download || false;
+          return `<a href="${l.url}" target="_blank" rel="noopener" class="window-link" onclick = "toggleWindow(event)" window-title="${l.windowTitle}" hideMusic=${hideMusic} download=${download} >${l.name}</a>`;
         }
         return `<a href="${l.url}" target="_blank" rel="noopener">${l.name}</a>`;
       })
