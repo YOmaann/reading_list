@@ -138,6 +138,10 @@ body {
 .window-controls-gui .dot-min::after {
   content: "–";
 }
+
+.window-controls-gui .dot-download::after {
+  content: "⤓";
+}
 .window-controls-gui .dot-max::after {
   content: "";
   width: 8px;
@@ -702,6 +706,9 @@ body.bg-annotated .window {
 
 .dot-close {
   background: #ff5f57;
+}
+.dot-download {
+  background: #ffbd2e;
 }
 .dot-min {
   background: #febc2e;

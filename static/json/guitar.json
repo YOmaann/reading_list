@@ -9,13 +9,15 @@
         "name": "rocksmith.ini",
         "url": "./static/misc/config/Rocksmith.ini",
         "window": true,
-        "windowTitle": "rocksmith.ini"
+        "windowTitle": "rocksmith.ini",
+        "download": true
       },
       {
         "name": "RS-ASIO.ini",
         "url": "./static/misc/config/RS_ASIO.ini",
         "window": true,
-        "windowTitle": "RS-ASIO.ini"
+        "windowTitle": "RS-ASIO.ini",
+        "download": true
       }
     ]
   },

@@ -47,6 +47,7 @@ function init() {
   list.addEventListener("scroll", onListScroll, { passive: true });
   initBgToggle();
   initWindowClose();
+  initWindowDOwnload();
   initNavToggle();
 
   loadDescriptions();
@@ -87,6 +88,21 @@ function initWindowClose() {
       gui.querySelector(".content").innerHTML = "";
       gui.classList.remove("is-open");
       if (musicPlayer) musicPlayer.classList.remove("is-hidden");
+    });
+}
+
+function initWindowDOwnload() {
+  const gui = document.querySelector(".window-gui");
+  if (!gui) return;
+
+  gui
+    .querySelector(".window-controls-gui .dot-download")
+    ?.addEventListener("click", () => {
+      const iframe = gui.querySelector(".window-iframe");
+      if (!iframe) return;
+      const url = iframe.getAttribute("src");
+      if (!url) return;
+      window.open(url, "_blank", "noopener");
     });
 }
 
