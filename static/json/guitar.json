@@ -69,6 +69,12 @@
   },
   {
     "id": 7,
+    "name": "uke2",
+    "url": "./static/photos/uke2.jpeg",
+    "description": "a uke."
+  },
+  {
+    "id": 8,
     "name": "launchpad web :) [Bonus]",
     "url": "./static/photos/launchpad.png",
     "description": "a web app to simulate a launchpad i made in 2018. only supports _wegfdaxc_ keys right now. fork it and add your own bindings.",
