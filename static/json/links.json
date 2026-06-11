@@ -60,5 +60,9 @@
     "url": "./static/photos/soumil_home_server.jpeg",
     "window": true,
     "windowTitle": "soumil's vlan architecture"
+  },
+  {
+    "name": "my masters thesis",
+    "url": "https://github.com/YOmaann/IC3/"
   }
 ]
