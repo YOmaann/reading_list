@@ -64,5 +64,11 @@
   {
     "name": "my masters thesis",
     "url": "https://github.com/YOmaann/IC3/"
+  },
+  {
+    "name": "a month in japan",
+    "url": "./static/windows/blog-japan/index.html",
+    "window": true,
+    "windowTitle": "formally verifying japan"
   }
 ]

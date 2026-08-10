@@ -1,0 +1,781 @@
+/* ==========================================================================
+   fakura.css — 桜 — a Japanese-style blog template
+   Washi paper, sumi ink, mincho typography.
+   Pure CSS, no webfonts, no external requests.
+   ========================================================================== */
+
+:root {
+  /* Paper & ink — a pale, airy palette. shironeri is a near-white with the
+     faintest warmth, so the page reads as paper rather than screen-white. */
+  --washi: #fdfcf9; /* shironeri — near-white paper */
+  --washi-deep: #f4f1ea; /* shaded paper, used for fills */
+  --sumi: #33302b; /* ink, softened off-black */
+  --sumi-light: #5f584f; /* diluted ink, secondary text */
+  --usuzumi: #9a9288; /* usuzumi — pale ink, metadata */
+
+  /* Accent pigments, kept light and desaturated to suit the pale ground */
+  --sakura: #e0a0ae; /* cherry blossom */
+  --shu: #d4705c; /* soft vermillion, the seal red */
+  --ai: #6a8caf; /* pale indigo, used for links */
+  --matcha: #a3b083; /* soft green */
+
+  --rule: #e8e3d9; /* hairline borders */
+  --code-bg: #f5f2eb;
+
+  /* Type ------------------------------------------------------------------
+     Mincho (serif) carries the body — this is what long-form JP writing
+     looks like in print. Gothic (sans) is reserved for UI furniture. */
+  --mincho: "Hiragino Mincho ProN", "Yu Mincho", YuMincho, "Noto Serif JP",
+    "Source Han Serif JP", "MS PMincho", "Songti SC", serif;
+  --gothic: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans", "Yu Gothic", YuGothic, "Noto Sans JP", Meiryo, sans-serif;
+
+  --measure: 42rem; /* reading column */
+}
+
+/* Always light — paper has no dark mode. This also keeps scrollbars and form
+   controls light for readers whose OS is set to dark. */
+:root {
+  color-scheme: light;
+}
+
+/* --------------------------------------------------------------------------
+   Core
+   -------------------------------------------------------------------------- */
+
+body {
+  font-family: var(--mincho);
+  background-color: var(--washi);
+  color: var(--sumi);
+  margin: 0;
+  padding: 5rem 1.5rem 8rem;
+
+  /* palt tightens Japanese punctuation; the tracking opens the line up */
+  font-feature-settings: "palt" 1;
+  -webkit-font-smoothing: antialiased;
+  text-align: left;
+
+  /* Faint washi fibre — two offset dot grids, no image needed */
+  background-image: radial-gradient(
+      circle at 1px 1px,
+      rgba(140, 120, 85, 0.035) 1px,
+      transparent 0
+    ),
+    radial-gradient(
+      circle at 5px 7px,
+      rgba(140, 120, 85, 0.022) 1px,
+      transparent 0
+    );
+  background-size: 13px 13px, 21px 19px;
+}
+
+main,
+.blog-container {
+  max-width: var(--measure);
+  margin: 0 auto;
+}
+
+/* --------------------------------------------------------------------------
+   Headings — 見出し
+   Mincho, restrained weight. Japanese type gets its authority from spacing,
+   not from bolding, so we lean on airspace and hairlines instead.
+   -------------------------------------------------------------------------- */
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--mincho);
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--sumi);
+  margin: 3.5em 0 1em;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 0 0 0.4em;
+  letter-spacing: 0.08em;
+  text-align: center;
+}
+
+/* 桜 — a blossom rule beneath the title */
+h1::after {
+  content: "❀";
+  display: block;
+  margin: 0.7em auto 0;
+  font-size: 0.85rem;
+  color: var(--sakura);
+  letter-spacing: 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding-left: 0.75em;
+  border-left: 3px solid var(--shu); /* the vertical tick of a JP section head */
+}
+
+h3 {
+  font-size: 1.15rem;
+  color: var(--sumi-light);
+}
+
+h4 {
+  font-size: 1rem;
+  color: var(--usuzumi);
+  letter-spacing: 0.1em;
+}
+
+/* --------------------------------------------------------------------------
+   Body text — 本文
+   Wide leading is the single most important rule for mixed JP/EN text.
+   -------------------------------------------------------------------------- */
+
+p {
+  font-size: 1.0625rem;
+  line-height: 2.1;
+  letter-spacing: 0.05em;
+  margin: 0 0 2rem;
+  text-align: justify;
+  word-break: normal;
+  overflow-wrap: anywhere;
+  line-break: strict; /* keeps 、。 off line starts */
+}
+
+/* Traditional one-character indent for continuing paragraphs */
+p + p {
+  text-indent: 1em;
+}
+
+strong,
+b {
+  font-weight: 600;
+  /* 傍点 — the JP emphasis convention: dots above, not bold */
+  text-emphasis: filled dot var(--shu);
+  -webkit-text-emphasis: filled dot var(--shu);
+  text-emphasis-position: over right;
+  -webkit-text-emphasis-position: over right;
+}
+
+em,
+i {
+  font-style: normal;
+  color: var(--shu);
+}
+
+/* --------------------------------------------------------------------------
+   Links —
+   -------------------------------------------------------------------------- */
+
+a {
+  color: var(--ai);
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--ai) 35%, transparent);
+  padding-bottom: 0.1em;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+a:hover {
+  color: var(--sakura);
+  border-bottom-color: var(--sakura);
+}
+
+/* --------------------------------------------------------------------------
+   Ruby — ふりがな
+   <ruby>桜<rt>さくら</rt></ruby>
+   -------------------------------------------------------------------------- */
+
+ruby {
+  ruby-align: center;
+}
+
+rt {
+  font-family: var(--gothic);
+  font-size: 0.5em;
+  color: var(--usuzumi);
+  letter-spacing: 0.02em;
+  font-weight: 400;
+}
+
+/* --------------------------------------------------------------------------
+   Metadata — 日付・タグ
+   -------------------------------------------------------------------------- */
+
+small,
+time,
+.meta {
+  display: block;
+  font-family: var(--gothic);
+  color: var(--usuzumi);
+  font-size: 0.8rem;
+  letter-spacing: 0.18em;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.tag {
+  display: inline-block;
+  font-family: var(--gothic);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  color: var(--sumi-light);
+  background: var(--washi-deep);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 0.25em 0.7em;
+  margin: 0 0.3em 0.4em 0;
+}
+
+/* --------------------------------------------------------------------------
+   Quotes — 引用
+   Framed with 「 」, the way a JP page actually marks quoted speech.
+   -------------------------------------------------------------------------- */
+
+blockquote {
+  position: relative;
+  margin: 3rem 0;
+  padding: 0.5rem 2rem;
+  color: var(--sumi-light);
+  font-style: normal;
+}
+
+blockquote::before,
+blockquote::after {
+  position: absolute;
+  font-size: 1.6rem;
+  color: var(--sakura);
+  line-height: 1;
+}
+
+blockquote::before {
+  content: "「";
+  top: 0;
+  left: 0;
+}
+
+blockquote::after {
+  content: "」";
+  bottom: 0;
+  right: 0;
+}
+
+blockquote p {
+  margin-bottom: 0.8rem;
+  text-indent: 0;
+}
+
+/* Attribution under a blockquote — <cite>the barista</cite> */
+blockquote cite {
+  display: block;
+  margin-top: 0.8rem;
+  font-family: var(--gothic);
+  font-style: normal;
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  color: var(--usuzumi);
+}
+
+blockquote cite::before {
+  content: "— ";
+}
+
+/* --------------------------------------------------------------------------
+   Dialogue
+   An exchange between speakers. Each <p> is one spoken line, quoted
+   automatically; an optional .speaker labels who is talking.
+
+     <div class="dialogue">
+       <p><span class="speaker">her</span>where are you from?</p>
+       <p><span class="speaker">me</span>india.</p>
+     </div>
+
+   Swap the quote glyphs below to 「 」 if you want the Japanese brackets.
+   -------------------------------------------------------------------------- */
+
+.dialogue {
+  margin: 2.75rem 0;
+  padding-left: 1.3rem;
+  border-left: 1px solid var(--rule);
+}
+
+.dialogue p {
+  margin: 0 0 1rem;
+  text-indent: 0;
+  text-align: left;
+  line-height: 1.95;
+  color: var(--sumi-light);
+}
+
+.dialogue p:last-child {
+  margin-bottom: 0;
+}
+
+.dialogue p::before {
+  content: "\201C"; /* “ */
+  color: var(--sakura);
+}
+
+.dialogue p::after {
+  content: "\201D"; /* ” */
+  color: var(--sakura);
+}
+
+.speaker {
+  display: block;
+  font-family: var(--gothic);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  color: var(--usuzumi);
+  margin-bottom: 0.15em;
+}
+
+/* Marks your own lines so the exchange is easy to follow at a glance */
+.dialogue p.self {
+  color: var(--sumi);
+}
+
+/* --------------------------------------------------------------------------
+   Dividers — 区切り
+   -------------------------------------------------------------------------- */
+
+hr {
+  border: 0;
+  margin: 4.5rem auto;
+  text-align: center;
+  overflow: visible;
+}
+
+hr::after {
+  content: "❁　❁　❁";
+  display: block;
+  color: var(--sakura);
+  font-size: 0.7rem;
+  letter-spacing: 0.4em;
+  opacity: 0.75;
+}
+
+/* --------------------------------------------------------------------------
+   Lists — 箇条書き
+   -------------------------------------------------------------------------- */
+
+ul,
+ol {
+  padding-left: 1.4em;
+  margin: 0 0 2rem;
+  line-height: 2.1;
+  letter-spacing: 0.05em;
+}
+
+li {
+  margin-bottom: 0.6em;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul li {
+  padding-left: 1.4em;
+  position: relative;
+}
+
+ul li::before {
+  content: "・";
+  position: absolute;
+  left: 0;
+  color: var(--sakura);
+}
+
+/* --------------------------------------------------------------------------
+   Media — 写真
+   -------------------------------------------------------------------------- */
+
+img {
+  display: block;
+  margin: 3rem auto;
+
+  /* Photos sit inset from the text column and are capped in height, so a
+     portrait phone shot reads as an illustration rather than eating a whole
+     screen. Width and height stay auto to preserve the intrinsic ratio. */
+  width: auto;
+  height: auto;
+  max-width: 68%;
+  max-height: 46vh;
+
+  border-radius: 1px; /* sharp corners read as print, not app UI */
+  box-shadow: 0 1px 0 var(--rule);
+}
+
+/* Per-image override: full reading-column width */
+.large {
+  max-width: 100%;
+  max-height: 80vh;
+}
+
+/* Break out of the reading column for a landscape hero */
+.wide {
+  max-width: min(72rem, 100vw - 3rem);
+  max-height: none;
+  width: 100%;
+  margin-left: calc(50% - min(36rem, 50vw - 1.5rem));
+  margin-right: auto;
+  position: relative;
+  left: 0;
+  transform: translateX(0);
+}
+
+/* Small inline image that sits in the text flow */
+.inline-img {
+  display: inline-block;
+  vertical-align: middle;
+  max-height: 1.6em;
+  margin: 0 0.2em;
+  box-shadow: none;
+}
+
+figure {
+  margin: 3rem 0;
+}
+
+figure img {
+  margin: 0 auto;
+}
+
+/* --------------------------------------------------------------------------
+   Photo rows — 並び
+   Two or more images side by side. Children share the width evenly and the
+   per-image size caps are lifted, since the row itself does the constraining.
+
+     <div class="photo-row">
+       <figure>…</figure>
+       <figure>…</figure>
+     </div>
+
+   Add .crop to force a single flush baseline when the photos have different
+   aspect ratios (they get cropped to fill, not squashed).
+   -------------------------------------------------------------------------- */
+
+.photo-row {
+  display: flex;
+  gap: 0.9rem;
+  align-items: flex-start;
+  margin: 3rem 0;
+}
+
+.photo-row > * {
+  flex: 1 1 0;
+  min-width: 0; /* lets flex children actually shrink below intrinsic width */
+  margin: 0;
+}
+
+.photo-row img {
+  width: 100%;
+  max-width: 100%;
+  max-height: none;
+  margin: 0;
+}
+
+.photo-row figcaption {
+  margin-top: 0.6rem;
+  font-size: 0.72rem;
+}
+
+/* Equal-height variant — crops rather than letterboxes */
+.photo-row.crop img {
+  height: 17rem;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Give one image more room than its neighbour */
+.photo-row .wider {
+  flex-grow: 1.7;
+}
+
+@media (max-width: 640px) {
+  .photo-row {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .photo-row.crop img {
+    height: auto;
+  }
+}
+
+figcaption {
+  font-family: var(--gothic);
+  font-size: 0.78rem;
+  color: var(--usuzumi);
+  letter-spacing: 0.1em;
+  text-align: center;
+  margin-top: 0.9rem;
+  line-height: 1.7;
+}
+
+/* --------------------------------------------------------------------------
+   Code —
+   Gothic here: monospace + mincho never sits well together.
+   -------------------------------------------------------------------------- */
+
+pre {
+  background: var(--code-bg);
+  padding: 1.3rem 1.4rem;
+  border-radius: 2px;
+  overflow-x: auto;
+  font-size: 0.86rem;
+  line-height: 1.75;
+  border: 1px solid var(--rule);
+  letter-spacing: 0;
+  margin: 2.5rem 0;
+}
+
+code {
+  font-family: "SF Mono", Menlo, Consolas, "Noto Sans Mono CJK JP", monospace;
+  font-size: 0.88em;
+  background: var(--code-bg);
+  padding: 0.15em 0.4em;
+  border-radius: 2px;
+  letter-spacing: 0;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Tables — 表
+   -------------------------------------------------------------------------- */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--gothic);
+  font-size: 0.9rem;
+  margin: 2.5rem 0;
+}
+
+th,
+td {
+  padding: 0.7em 0.8em;
+  border-bottom: 1px solid var(--rule);
+  text-align: left;
+}
+
+th {
+  font-weight: 600;
+  color: var(--sumi-light);
+  letter-spacing: 0.1em;
+  border-bottom: 2px solid var(--sumi-light);
+}
+
+/* --------------------------------------------------------------------------
+   Optional utilities
+   -------------------------------------------------------------------------- */
+
+/* 縦書き — vertical writing, right to left. Wrap a section in .tategaki. */
+.tategaki {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  height: 30rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  line-height: 2;
+  letter-spacing: 0.08em;
+  margin: 3rem 0;
+  padding: 1rem 0;
+}
+
+.tategaki p {
+  text-align: start;
+  margin: 0 0 0 2rem;
+  text-indent: 1em;
+}
+
+/* 落款 — the red seal, bottom-right sign-off */
+.hanko {
+  display: block;
+  width: 3rem;
+  height: 3rem;
+  margin: 4rem 0 0 auto;
+  border: 2px solid var(--shu);
+  border-radius: 3px;
+  color: var(--shu);
+  font-family: var(--mincho);
+  font-size: 0.95rem;
+  line-height: 1.15;
+  letter-spacing: 0;
+  text-align: center;
+  padding: 0.35rem;
+  box-sizing: border-box;
+  writing-mode: vertical-rl;
+  opacity: 0.85;
+}
+
+/* Lead paragraph — 前書き */
+.lead {
+  font-size: 1.15rem;
+  line-height: 2;
+  color: var(--sumi-light);
+  text-indent: 0;
+  text-align: center;
+}
+
+/* --------------------------------------------------------------------------
+   Series index — 目次
+   The episode list on index.html. Rows are hairline-separated, with the
+   episode number set in mincho as a kicker.
+   -------------------------------------------------------------------------- */
+
+.kicker {
+  text-align: center;
+  color: var(--shu);
+  font-size: 0.9rem;
+  letter-spacing: 0.35em;
+  text-indent: 0;
+  margin: 0 0 0.6rem;
+}
+
+.episodes {
+  list-style: none;
+  padding: 0;
+  margin: 3.5rem 0 0;
+  border-top: 1px solid var(--rule);
+}
+
+.episodes li {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.episodes li::before {
+  content: none; /* the generic ・ bullet would fight the row layout */
+}
+
+.episodes a {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: baseline;
+  gap: 1.1rem;
+  padding: 1.4rem 0.4rem;
+  border-bottom: 0;
+  color: var(--sumi);
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.episodes a:hover {
+  background: var(--washi-deep);
+  color: var(--sumi);
+}
+
+.episodes a:hover .ep-title {
+  color: var(--sakura);
+}
+
+.ep-no {
+  color: var(--shu);
+  font-size: 0.85rem;
+  letter-spacing: 0.2em;
+}
+
+.ep-title {
+  font-size: 1.1rem;
+  letter-spacing: 0.05em;
+  transition: color 0.2s ease;
+}
+
+.ep-date {
+  font-family: var(--gothic);
+  font-size: 0.75rem;
+  color: var(--usuzumi);
+  letter-spacing: 0.12em;
+  white-space: nowrap;
+}
+
+@media (max-width: 640px) {
+  .episodes a {
+    grid-template-columns: auto 1fr;
+    gap: 0.3rem 0.9rem;
+  }
+  .ep-date {
+    grid-column: 2;
+  }
+}
+
+/* Back / next links at the foot of an episode */
+.episode-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--rule);
+  font-family: var(--gothic);
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+}
+
+.episode-nav .next {
+  margin-left: auto;
+}
+
+/* --------------------------------------------------------------------------
+   Sign-off — 了
+   Every page closes on a blossom, echoing the rule under the title.
+   Swap the glyph for ":)" if you'd rather sign off that way.
+   -------------------------------------------------------------------------- */
+
+body::after {
+  content: "❀";
+  display: block;
+  margin: 5rem auto 0;
+  font-size: 1rem;
+  color: var(--sakura);
+  text-align: center;
+  letter-spacing: 0;
+  opacity: 0.8;
+}
+
+/* --------------------------------------------------------------------------
+   Footer —
+   -------------------------------------------------------------------------- */
+
+footer {
+  max-width: var(--measure);
+  margin: 6rem auto 0;
+  padding-top: 2rem;
+  border-top: 1px solid var(--rule);
+  font-family: var(--gothic);
+  font-size: 0.78rem;
+  letter-spacing: 0.15em;
+  color: var(--usuzumi);
+  text-align: center;
+}
+
+/* --------------------------------------------------------------------------
+   Small screens
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 640px) {
+  body {
+    padding: 3rem 1.25rem 5rem;
+  }
+  h1 {
+    font-size: 1.6rem;
+  }
+  h2 {
+    font-size: 1.25rem;
+  }
+  p {
+    font-size: 1rem;
+    line-height: 2;
+    text-align: left;
+  }
+  img {
+    max-width: 88%;
+    max-height: 56vh;
+  }
+}
