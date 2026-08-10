@@ -82,5 +82,75 @@
     "author": "Haruki Murakami",
     "year": 1987,
     "quote": "If you only read the books that everyone else is reading, you can only think what everyone else is thinking."
+  },
+  {
+    "id": 13,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "quote": "Do anything rather than marry without affection."
+  },
+  {
+    "id": 14,
+    "title": "A man called Ove",
+    "author": "Fredrick Backman",
+    "year": 2013,
+    "quote": "Men are what they are because of what they do. Not what they say."
+  },
+  {
+    "id": 15,
+    "title": "Behold the dreamers",
+    "author": "Imbolo Mbue",
+    "year": 2016,
+    "quote": "Different things are important to different people."
+  },
+  {
+    "id": 16,
+    "title": "The Bourne Identity",
+    "author": "Robert Ludlum",
+    "year": 1980,
+    "quote": "There will come a moment when you think you can make it, and you will try."
+  },
+  {
+    "id": 17,
+    "title": "Eleven Minutes",
+    "author": "Paulo Coelho",
+    "year": 2003,
+    "quote": "Now that she had nothing to lose, she was free."
+  },
+  {
+    "id": 18,
+    "title": "The Buried Giant",
+    "author": "Kazuo Ishiguro",
+    "year": 2015,
+    "quote": "What kind of god is it sir, wishes wrong to go forgotten and unpunished ?"
+  },
+  {
+    "id": 19,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkein",
+    "year": 1937,
+    "quote": "Far over the misty mountain..."
+  },
+  {
+    "id": 20,
+    "title": "The fellowship of the Ring",
+    "author": "J.R.R. Tolkein",
+    "year": 1954,
+    "quote": "For even the very wise cannot see all ends."
+  },
+  {
+    "id": 21,
+    "title": "The Two Towers",
+    "author": "J.R.R. Tolkein",
+    "year": 1954,
+    "quote": "What can men do against such reckless hate ?"
+  },
+  {
+    "id": 22,
+    "title": "The Return of the King",
+    "author": "J.R.R. Tolkein",
+    "year": 1937,
+    "quote": "Far over the misty mountain..."
   }
 ]
